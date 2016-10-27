@@ -143,8 +143,28 @@ for(i in 1:nrow(links)){
 
 compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),weight.dist=T,default.dist=3)
 
+#interactive
 render.d3movie(nd,launchBrowser=T, 
                displaylabels = T, label=nd %v% "vertex.names",
+               vertex.col="black",edge.col="darkgray",label.cex=.6,
                vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#333333",
                vertex.tooltip = paste("<b>Name:</b>", (nd %v% "step") , "<br>","<b>Content:</b>", (nd %v% "content")),
                edge.tooltip = paste("<b>Link:</b>", (nd %e% "set") ))
+
+#static slices
+timePrism(nd,at=c(10,20,30),
+          displaylabels=TRUE,planes = TRUE,
+          label.cex=0.5)
+
+#timeline
+proximity.timeline(nd,default.dist=6,mode='sammon',labels.at=17,vertex.cex=4)
+
+#stats
+library(tsna)
+plot( tEdgeFormation(nd) )
+plot( tSnaStats(nd,'gtrans') )
+
+#paths
+path<-tPath(nd,v = 13,graph.step.time=1)
+
+plotPaths(nd,path,label.cex=0.5)
