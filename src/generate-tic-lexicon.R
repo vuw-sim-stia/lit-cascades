@@ -113,37 +113,38 @@ colnames(nodes) <- c('node_id','tags','dpub')
 colnames(links) <- c('source','target','tag')
 colnames(roots) <- c('root_node_id','tag')
 
-library(igraph)
-colnames(links) <- c("id1","id2","label")
-g <- graph.data.frame(links,directed=TRUE)
-
 library(networkDynamic)
 library(ndtv)
 nd <- as.networkDynamic(network.initialize(0))
 set.network.attribute(nd,"vertex.pid","vertex.names")
 for(i in 1:nrow(links)){
+  #add.edge(net,links[i,1],links[i,2])
   fromN <- get.vertex.id(nd,unlist(links[i,1]))
   if(is.na(fromN)){
+    #add.vertices.active(nd,nv=1,vertex.pid=c(unlist(links[i,1])),onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[i,2]))))
     add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,1])))
     fromN <- get.vertex.id(nd,unlist(links[i,1]))
-    set.vertex.attribute(nd,'content',unlist(nodes[unlist(links[i,1]),2]),v=c(fromN))
+    set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),2]),v=c(fromN))
+    set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),1]),v=c(fromN))
     activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(fromN))
   }
   
   toN <- get.vertex.id(nd,unlist(links[i,2]))
   if(is.na(toN)){
+    #add.vertices.active(nd,nv=1,vertex.pid=c(unlist(links[i,2])),onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[i,2]))))
     add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,2])))
     toN <- get.vertex.id(nd,unlist(links[i,2]))
-    set.vertex.attribute(nd,'content',unlist(nodes[unlist(links[i,2]),2]),v=c(toN))
+    set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),2]),v=c(toN))
+    set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),1]),v=c(toN))
     activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(toN))
   }
-  add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[,3])))
+  add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])))
 }
 
-compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'))
+compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),weight.dist=T,default.dist=3)
 
 render.d3movie(nd,launchBrowser=T, 
                displaylabels = T, label=nd %v% "vertex.names",
-               vertex.cex = function(slice){ degree(slice)/2.5 }, vertex.border="#333333",
-               vertex.tooltip = paste("<b>Name:</b>", (nd %v% "vertex.names") , "<br>","<b>Content:</b>", (nd %v% "content")),
+               vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#333333",
+               vertex.tooltip = paste("<b>Name:</b>", (nd %v% "step") , "<br>","<b>Content:</b>", (nd %v% "content")),
                edge.tooltip = paste("<b>Link:</b>", (nd %e% "set") ))
