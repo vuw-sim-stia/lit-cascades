@@ -5,6 +5,10 @@ library(RTextTools)
 library(NLP)
 library(visNetwork)
 library(digest)
+library(entropy)
+library(scatterplot3d)
+library(RColorBrewer)
+library(tidyr)
 
 options(scipen = 999)
 degree.distribution <- function (graph, cumulative = FALSE, ...) 
@@ -181,3 +185,179 @@ path<-tPath(nd,v = 13,graph.step.time=1)
 plotPaths(nd,path,label.cex=0.5)
 
 
+# more analyses
+
+
+library(igraph)
+colnames(links) <- c("id1","id2","label")
+g <- graph.data.frame(links,directed=TRUE)
+
+V(g)$frame.color <- "white"
+V(g)$color <- "orange"
+
+qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
+col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+
+colrs<-sample(col_vector, 14)
+#E(g)$color <- colrs[as.numeric(E(g)$label)]
+E(g)$width <- 0.1
+lay <- layout_on_grid(g)
+lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+pdf(paste("/Users/mlr/Documents/gutenberg_grid_net.pdf",sep=''))
+plot(g,rescale=F,vertex.size=5,vertex.label.cex=0.2,edge.label.cex=0.2,layout=lay,edge.arrow.size=0.1)
+dev.off()
+
+#lay <- layout_with_dh(g)
+#lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+minC <- rep(-Inf, vcount(g))
+maxC <- rep(Inf, vcount(g))
+minC[1] <- maxC[1] <- 0
+co <- layout_with_fr(g, minx=minC, maxx=maxC,
+                     miny=minC, maxy=maxC)
+
+pdf(paste("/Users/mlr/Documents/gutenberg_dh_net.pdf",sep=''))
+#plot(g,rescale=F,vertex.size=5,vertex.label.cex=0.6,edge.label.cex=0.2,layout=lay,edge.arrow.size=0.1)
+plot(g, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+dev.off()
+
+degd <- degree.distribution(g)
+jpeg(paste("/Users/mlr/Documents/gutenberg_degree_distri.jpg",sep=''))
+plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
+dev.off()
+wtc <- cluster_walktrap(g)
+gstat <- c(diameter(g),min(degree.distribution(g)),max(degree.distribution(g)),mean(degree.distribution(g)),edge_density(g),modularity(wtc))
+
+tri <- mean(as.numeric(substr(matrix(triangles(g), nrow=3), nchar(matrix(triangles(g), nrow=3))-1+1, nchar(matrix(triangles(g), nrow=3)))))
+nods <- mean(as.numeric(substr(V(g)$name, nchar(V(g)$name)-1+1, nchar(V(g)$name))))
+
+detach("package:igraph", unload=TRUE)
+
+nodes <- as.data.frame(nodes,stringsAsFactors=F)
+nodes$id <- as.numeric(nodes$id)
+
+colnames(nodes) <- c('id','title','label')
+links <- as.data.frame(links)
+colnames(links) <- c('from','to','title')
+network <-visNetwork(nodes, links, width="100%", height="1000px", main="Great Expectations") %>% #visHierarchicalLayout(direction = "LR",sortMethod="directed") %>%
+  visOptions(highlightNearest = TRUE, 
+             selectedBy = "title")
+visSave(network, file = "/Users/mlr/Documents/gutenberg-network.html")
+
+jpeg(paste("/Users/mlr/Documents/gutenberg_triangles_nodes.jpg",sep=''))
+triangles <- cbind(tri,nods)
+colnames(triangles)<-c('triangles','all nodes')
+midpoints <- barplot(triangles, xlab="Mean unit value of node id")
+text(midpoints, 2, labels=triangles)
+dev.off()
+
+jpeg(paste("/Users/mlr/Documents/gutenberg_links_source_nrow.jpg",sep=''))
+plot(links[,2],c(1:nrow(links)),pch=".")
+dev.off()
+
+#jpeg(paste("/Users/mlr/Documents/gutenberg_links_source_target.jpg",sep=''))
+#plot(links[,2],links[,1],pch=".")
+#dev.off()
+
+jpeg(paste("/Users/mlr/Documents/gutenberg_links_targets.jpg",sep=''))
+#plot(unlist(links[,2]),factor(unlist(links[,3])),pch=".")
+plot(count(unlist(links[,2]))$freq,type='l')
+#for(ab in 1:20){
+#  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
+#  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
+#}
+dev.off()
+write.csv(cbind(unlist(links[,2]),links[,3]),file=paste('/Users/mlr/Documents/gutenberg_targets.txt',sep=''))
+
+jpeg(paste("/Users/mlr/Documents/gutenberg_links_sources.jpg",sep=''))
+#plot(unlist(links[,1]),factor(unlist(links[,3])),pch=".")
+plot(count(unlist(links[,1]))$freq,type='l')
+#for(ab in 1:20){
+#  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
+#  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
+#}
+dev.off()
+write.csv(cbind(unlist(links[,1]),links[,3]),file=paste('/Users/mlr/Documents/gutenberg_sources.txt',sep=''))
+
+agg <- as.numeric(links[,2]) - as.numeric(links[,1])
+plot(c(1:length(agg)),agg,pch='.')
+hist(agg)
+
+casc <- c()
+inter <- c()
+ent <- c()
+wien <- c()
+colnames(links) <- c('source','target','tag')
+#DT <- data.table(links)
+#DT[, interactions:=paste(tag,collapse=", "), by=list(source, target)]
+#elinks <- unique(cbind(as.data.frame.matrix(DT)$source,as.data.frame.matrix(DT)$target,as.data.frame.matrix(DT)$interactions))
+
+coordinates <- c()
+spec <- list()
+div=1
+
+for(z in 1:nrow(nodes)){
+  #entropy
+  if(z==1){
+    ent <- rbind(ent,c(0,1,0,1))
+  }
+  if(length(links[which(links[,2]==nodes[z,1]),3])>0){
+    print(nodes[z,1])
+    inter <- rbind(inter,paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '))
+    nextI <- digest(paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '),algo="md5")
+    if(length(spec)==0){
+      coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),0,0))
+      spec[[nextI]] <- c(0,0)
+    }
+    else{
+      if(is.null(spec[[nextI]])){
+        spec[[nextI]] <- c(0,div)
+        coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
+        div <- div+1
+      }else{
+        spec[[nextI]] <- c(spec[[nextI]][1]+1,spec[[nextI]][2])
+        coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],spec[[nextI]][2]))
+      }
+    }
+    
+    interact <- list()
+    for(v in 1:nrow(inter)){
+      interactions <- strsplit(unlist(inter[v,1]),', ')
+      for( m in 1:length(interactions)){
+        if(is.null(interact[[interactions[[1]][m]]])) interact[[interactions[[1]][m]]] <- 1
+        else interact[[interactions[[1]][m]]] <- interact[[interactions[[1]][m]]] + 1
+      }
+    }
+    df <- data.frame(unlist(interact))
+    tmp<-df[,1]/colSums(df)
+    df$loga<-log(tmp)
+    df$piloga<-tmp*log(tmp)
+    if(is.nan((-1*(colSums(df)[3]))/log(nrow(df)))){
+      ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),1,-1*(colSums(df)[3]),1))
+    } else{
+      ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),(-1*(colSums(df)[3]))/log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
+    }
+  }
+  colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
+  #if(tail(ent[,1],1)>0) print(tail(ent[,1],1))
+}
+colnames(coordinates) <- c("t","specificity","diversity")
+jpeg(paste("/Users/mlr/Documents/gutenberg_coordinates.jpg",sep=''))
+scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
+dev.off()
+
+#write.csv(wien,file=paste('/home/mlr/temp_stats_',databases[p],'_wiener.txt',sep=''))
+write.csv(ent,file=paste('/Users/mlr/Documents/gutenberg_entropy.txt',sep=''))
+jpeg(paste("/Users/mlr/Documents/gutenberg_entropy.jpg",sep=''))
+plot(ent[,1],type="l")
+#for(ab in 1:20){
+#  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
+#  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
+#}
+dev.off()
+jpeg(paste("/Users/mlr/Documents/gutenberg_evenness.jpg",sep=''))
+plot(ent[,2],type="l")
+#for(ab in 1:20){
+#  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
+#  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
+#}
+dev.off()
