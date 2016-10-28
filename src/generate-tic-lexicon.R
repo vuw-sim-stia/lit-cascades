@@ -23,7 +23,8 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   res
 }
 
-fileName <- '../resources/greatexpectations.txt'
+#fileName <- '../resources/greatexpectations.txt'
+fileName <- '../resources/davidcopperfield.txt'
 sourceText <- readChar(fileName, file.info(fileName)$size)
 
 # removing special chars and CHAPTER headings
@@ -38,7 +39,8 @@ groupA <- rep(seq(ceiling(length(full_text)/1000)), each=1000)[1:length(full_tex
 words300A <- split(full_text, groupA)
 
 #character list
-tmp <- readLines("/Users/mlr/Downloads/GE_chars.txt")
+#tmp <- readLines("../resources/greatexpectations_chars.txt")
+tmp <- readLines("../resources/davidcopperfield_chars.txt")
 charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
 chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
 tmp <- c()

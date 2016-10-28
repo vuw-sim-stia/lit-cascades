@@ -1,0 +1,103 @@
+AdamsDC: Adams
+CaptBaileyDC: Captain Bailey
+BarkisDC: Mr. Barkis, Mr. and Mrs. Barkis
+MrChestleDC: Mr. Chestle
+MrChillipDC: Mr. Chillip
+MrsChillipDC: Mrs. Chillip
+ClickettDC: Clickett
+ClaraCoppDC: my mother, Clara
+DavCoppIDC: my father, DCI
+DavCoppDC: David, Copperfield, Davy, Brooks of Sheffield, Daisy, Trot, Trotwood, Doady
+[If David had been a girl or had a sister, she would have been named: Betsey Trotwood Copperfield (BTC)]
+DoraDC: Dora 
+MrCreakleDC: Mr. Creakle
+MrsCreakleDC: Mrs. Creakle, Mrs. and Miss Creakle
+MissCreakleDC: Miss Creakle
+SophyCrewlerDC: Sophy
+RevCrewlerDC: Reverend Horace
+MrsCrewlerDC: Mrs. Crewler
+CarolineCrewlerDC: Caroline, the Beauty
+LouisaCrewlerDC: Louisa
+LucyCrewlerDC: Lucy
+MargaretCrewlerDC: Margaret
+SarahCrewlerDC: Sarah
+MrsCruppDC: Crupp
+RosaDartleDC: Rosa, Dartle
+DempleDC: Demple
+MrDickDC: Mr. Dick, Richard Babley
+MrDollobyDC: Mr. Dolloby
+LittleEmlyDC: Em’ly, Emily
+MarthaDC: Martha
+MrsFibbitsonDC: Fibbitson
+GraingerDC: Grainger
+MrGrayperDC: Mr. Grayper, Mr. and Mrs. Grayper
+MrsGrayperDC: Mrs. Grayper
+GregoryDC: Gregory
+MrGulpidgeDC: Mr. Gulpidge, Mr. and Mrs. Gulpidge
+MrsGulpidgeDC: Mrs. Gulpidge
+GummidgeDC: Mrs. Gummidge, mawther
+MrGummidgeDC: Mr. Gummidge, the old one
+MrsHeepDC: Mrs. Heep
+UriahDC: Uriah, Ury, Mr. Heep
+CaptHopkinsDC: Captain Hopkins
+JanetDC: Janet
+JipDC: Jip
+JonesDC: Jones
+MrJoramDC: Mr. Joram, Mr. and Mrs. Joram
+MinnieJoramDC: Minnie, Mrs. Joram 
+MrJorkinsDC: Mr. Jorkins
+MrsKidgerburyDC: Mrs. Kidgerbury
+MissKittDC: Kitt
+MissLarkinsDC: Miss Larkins
+MrLarkinsDC: Mr. Larkins
+LittimerDC: Littimer
+JackMaldonDC: Jack, Mr. Maldon
+MarkhamDC: Markham
+MrsMarklehamDC: Mrs. Markleham, Old Soldier
+MealyPotatoesDC: Mealy
+MrMellDC: Mr. Mell
+MrsMellDC: Mrs. Mell
+MrMicawberDC: Mr. Micawber, Wilkins Micawber, Mr. and Mrs. Micawber
+MrsMicawberDC: Mrs. Micawber, Emma
+MasterMicawberDC: Master Micawber, Master and Miss Micawber
+MissMicawberDC: Miss Micawber
+JuliaMillsDC: Julia, Miss Mills
+MrMillsDC: Mr. Mills
+LadyMithersDC: Lady Mithers
+MithersDC: Mithers himself
+MissMowcherDC: Miss Mowcher
+MrMurdstoneDC: Edward, Mr. Murdstone
+JaneMurdstoneDC: Jane, Miss Murdstone
+NettingallDC: Nettingall
+MrOmerDC: Mr. Omer
+MaryAnneDC: Mary Anne, Paragon
+MrPassnidgeDC: Passnidge
+ClaraPeggottyDC: Peggotty, Clara Peggotty, Mrs. Barkis
+DanielPeggottyDC: Daniel, Dan’l
+HamPeggottyDC: Ham
+CharleyPyegraveDC: Charley
+MrQuinionDC: Quinion
+MrSharpDC: Mr. Sharp
+MissShepherdDC: Miss Shepherd
+ClarissaSpenlowDC: Clarissa, the Misses Spenlow, aunts
+LaviniaSpenlowDC: Lavinia, the Misses Spenlow, aunts
+MrSpenlowDC: Mr. Spenlow, Francis
+MrHSpikerDC: Mr. Henry Spiker, the Henry Spikers
+MrsHSpikerDC: Mrs. Henry Spiker, the Henry Spikers, Hamlet’s aunt
+SteerforthDC: James
+MrsSteerforthDC: Mrs. Steerforth
+AnnieStrongDC: Annie, Mrs. Strong
+DrStrongDC: the doctor, Doctor and Mrs. Strong, Doctor Strong, the old doctor
+MrTiffeyDC: Tiffey
+TippDC: Tipp
+TopsawyerDC: Topsawyer
+TommyTraddlesDC: Traddles, Tom
+MissBetseyTrotwoodDC: Betsey, my aunt
+TungayDC: Tungay
+MickWalkerDC: Mick Walker
+MrWaterbrookDC: Mr. Waterbrook
+MrsWaterbrookDC: Mrs. Waterbrook
+AgnesDC: Agnes
+MrWickfieldDC: Mr. Wickfield
+WilliamDC: William
+YawlerDC: Yawler
