@@ -34,7 +34,7 @@ processedText <- gsub("Chapter.+", "", processedText,perl=T)
 processedText <- gsub("\\r\\n", " ", processedText)
 
 full_text <- strsplit(processedText, "\\s+")[[1]]
-groupA <- rep(seq(ceiling(length(full_text)/300)), each=300)[1:length(full_text)]
+groupA <- rep(seq(ceiling(length(full_text)/1000)), each=1000)[1:length(full_text)]
 words300A <- split(full_text, groupA)
 
 #character list
@@ -49,7 +49,11 @@ for(i in 1:length(chars)){
     tmp <- rbind(tmp,c(nextChar,allNames[j]))
   }
 }
-chars <- tmp
+chars <- data.frame(tmp,stringsAsFactors = F)
+colnames(chars)<-c('id','name')
+chars$len <- nchar(chars$name)
+chars$len<-as.numeric(chars$len)
+chars <- chars[ order(-chars[,3]), ]
 
 matches <- list()
 for(j in 1:length(words300A)){
@@ -57,6 +61,8 @@ for(j in 1:length(words300A)){
   for(k in 1:nrow(chars)){
     needle <- chars[k,2]
     matched <- unlist(gregexpr(needle, paste(unlist(words300A[j]),collapse=' ')))
+    nWords <- sapply(gregexpr("\\W+", needle), length) + 1
+    words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
     if(matched != -1){
       for(l in 1:length(matched)){
         if(is.null(slicematch[[as.character(matched[l])]])){
@@ -92,20 +98,20 @@ roots <- c()
 
 last_node <- list()
 
-for(i in 1:nrow(charDS)){
-  tags <- unlist(strsplit(as.character(charDS[i,2]), split=", "))
-  nodes <- rbind(nodes, c(charDS[i,1],as.character(charDS[i,2]),charDS[i,1]))
+for(p in charDS$i){
+  tags <- unlist(strsplit(as.character(charDS[which(charDS[,1]==p),2]), split=", "))
+  nodes <- rbind(nodes, c(charDS[which(charDS[,1]==p),1],as.character(charDS[which(charDS[,1]==p),2]),charDS[which(charDS[,1]==p),1]))
   
   for(j in 1:length(tags)){
     cur_tag <- tags[j]
     if(!is.null(unlist(last_node[cur_tag]))){ #link back to last posts with this tag
       source_node <- last_node[cur_tag]
-      target_node <- i
+      target_node <- p
       links <- rbind(links, c(source_node,target_node,cur_tag))
     } else {
-      roots <- rbind(roots, c(i,cur_tag))
+      roots <- rbind(roots, c(p,cur_tag))
     }
-    last_node[cur_tag] <- i
+    last_node[cur_tag] <- p
   }
   
 }
@@ -146,13 +152,13 @@ compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward
 #interactive
 render.d3movie(nd,launchBrowser=T, 
                displaylabels = T, label=nd %v% "vertex.names",
-               vertex.col="black",edge.col="darkgray",label.cex=.6,
-               vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#333333",
+               vertex.col="white",edge.col="darkgray",label.cex=.6,
+               vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
                vertex.tooltip = paste("<b>Name:</b>", (nd %v% "step") , "<br>","<b>Content:</b>", (nd %v% "content")),
                edge.tooltip = paste("<b>Link:</b>", (nd %e% "set") ))
 
 #static slices
-timePrism(nd,at=c(10,20,30),
+timePrism(nd,at=c(10,50,100),
           displaylabels=TRUE,planes = TRUE,
           label.cex=0.5)
 
@@ -162,9 +168,14 @@ proximity.timeline(nd,default.dist=6,mode='sammon',labels.at=17,vertex.cex=4)
 #stats
 library(tsna)
 plot( tEdgeFormation(nd) )
-plot( tSnaStats(nd,'gtrans') )
+plot( tSnaStats(nd,'gtrans'),main='Transitivity' )
+plot( tSnaStats(nd,'gden') ,main='Density')
+plot( tSnaStats(nd,'hierarchy') ,main='Hierarchy')
+#plot( tSnaStats(nd,'betweenness') ,main='Betweenness')
+#plot( tSnaStats(nd,'closeness') ,main='Closeness')
 
 #paths
 path<-tPath(nd,v = 13,graph.step.time=1)
-
 plotPaths(nd,path,label.cex=0.5)
+
+
