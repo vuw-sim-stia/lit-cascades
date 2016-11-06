@@ -35,12 +35,14 @@ sourceText <- readChar(fileName, file.info(fileName)$size)
 
 processedText <- gsub("CHAPTER.+?(?=\\r\\n)", "", sourceText,perl=T)
 processedText <- gsub("Chapter.+", "", processedText,perl=T)
+processedText <- gsub("CHAPTER [0-9]+\\.", "", processedText,perl=T)
 
 processedText <- gsub("\\r\\n", " ", processedText)
 
 full_text <- strsplit(processedText, "\\s+")[[1]]
 groupA <- rep(seq(ceiling(length(full_text)/1000)), each=1000)[1:length(full_text)]
 words300A <- split(full_text, groupA)
+words300B <- words300A
 
 #character list
 #tmp <- readLines("../resources/greatexpectations_chars.txt")
@@ -129,39 +131,48 @@ library(networkDynamic)
 library(ndtv)
 nd <- as.networkDynamic(network.initialize(0))
 set.network.attribute(nd,"vertex.pid","vertex.names")
+set.network.attribute(nd,"edge.pid","edge.names")
 for(i in 1:nrow(links)){
-  #add.edge(net,links[i,1],links[i,2])
   fromN <- get.vertex.id(nd,unlist(links[i,1]))
   if(is.na(fromN)){
-    #add.vertices.active(nd,nv=1,vertex.pid=c(unlist(links[i,1])),onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[i,2]))))
     add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,1])))
     fromN <- get.vertex.id(nd,unlist(links[i,1]))
     set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),2]),v=c(fromN))
+    set.vertex.attribute(nd,'content2',paste(unlist(words300B[unlist(nodes[which(nodes[,1]==unlist(links[i,1])),1])]),collapse=' '),v=c(fromN))
     set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),1]),v=c(fromN))
     activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(fromN))
   }
   
   toN <- get.vertex.id(nd,unlist(links[i,2]))
   if(is.na(toN)){
-    #add.vertices.active(nd,nv=1,vertex.pid=c(unlist(links[i,2])),onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[i,2]))))
     add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,2])))
     toN <- get.vertex.id(nd,unlist(links[i,2]))
     set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),2]),v=c(toN))
+    set.vertex.attribute(nd,'content2',paste(unlist(words300B[unlist(nodes[which(nodes[,1]==unlist(links[i,2])),1])]),collapse=' '),v=c(toN))
     set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),1]),v=c(toN))
     activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(toN))
   }
-  add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])))
+  edgeID <- which(get.edge.attribute(nd,'ident')==paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))
+  if(length(edgeID)==0){
+    #add.edges.networkDynamic(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])),edge.pid=c(paste(unlist(links[i,1]),unlist(links[i,2]),sep='%')))
+    add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list(list('set','ident')),vals.eval=list(list(links[i,3][[1]],paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))))
+    #add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])))
+  } else{
+    linkLabel <- paste(get.edge.attribute(nd,'set',unlist=FALSE)[[edgeID]],unlist(links[i,3]),sep=", ")
+    set.edge.attribute(nd, attrname='set', value=linkLabel, e=c(edgeID))
+  }
 }
 
 compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),weight.dist=T,default.dist=3)
 
 #interactive
-render.d3movie(nd,launchBrowser=T, 
+render.d3movie(nd, filename=paste("../dynamic-network.html",sep=''),launchBrowser=T, 
                displaylabels = T, label=nd %v% "vertex.names",
                vertex.col="white",edge.col="darkgray",label.cex=.6,
                vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-               vertex.tooltip = paste("<b>Name:</b>", (nd %v% "step") , "<br>","<b>Content:</b>", (nd %v% "content")),
-               edge.tooltip = paste("<b>Link:</b>", (nd %e% "set") ))
+               #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
+               vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>"),
+               edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
 
 #static slices
 timePrism(nd,at=c(10,50,100),
@@ -169,7 +180,7 @@ timePrism(nd,at=c(10,50,100),
           label.cex=0.5)
 
 #timeline
-proximity.timeline(nd,default.dist=6,mode='sammon',labels.at=17,vertex.cex=4)
+#proximity.timeline(nd,default.dist=6,mode='sammon',labels.at=17,vertex.cex=4)
 
 #stats
 library(tsna)
@@ -181,8 +192,8 @@ plot( tSnaStats(nd,'hierarchy') ,main='Hierarchy')
 #plot( tSnaStats(nd,'closeness') ,main='Closeness')
 
 #paths
-path<-tPath(nd,v = 13,graph.step.time=1)
-plotPaths(nd,path,label.cex=0.5)
+#path<-tPath(nd,v = 13,graph.step.time=1)
+#plotPaths(nd,path,label.cex=0.5)
 
 
 # more analyses
@@ -203,7 +214,7 @@ colrs<-sample(col_vector, 14)
 E(g)$width <- 0.1
 lay <- layout_on_grid(g)
 lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
-pdf(paste("/Users/mlr/Documents/gutenberg_grid_net.pdf",sep=''))
+pdf(paste("../gutenberg_grid_net.pdf",sep=''))
 plot(g,rescale=F,vertex.size=5,vertex.label.cex=0.2,edge.label.cex=0.2,layout=lay,edge.arrow.size=0.1)
 dev.off()
 
@@ -215,13 +226,13 @@ minC[1] <- maxC[1] <- 0
 co <- layout_with_fr(g, minx=minC, maxx=maxC,
                      miny=minC, maxy=maxC)
 
-pdf(paste("/Users/mlr/Documents/gutenberg_dh_net.pdf",sep=''))
+pdf(paste("../gutenberg_dh_net.pdf",sep=''))
 #plot(g,rescale=F,vertex.size=5,vertex.label.cex=0.6,edge.label.cex=0.2,layout=lay,edge.arrow.size=0.1)
 plot(g, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
 dev.off()
 
 degd <- degree.distribution(g)
-jpeg(paste("/Users/mlr/Documents/gutenberg_degree_distri.jpg",sep=''))
+jpeg(paste("../gutenberg_degree_distri.jpg",sep=''))
 plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
 dev.off()
 wtc <- cluster_walktrap(g)
@@ -238,27 +249,27 @@ nodes$id <- as.numeric(nodes$id)
 colnames(nodes) <- c('id','title','label')
 links <- as.data.frame(links)
 colnames(links) <- c('from','to','title')
-network <-visNetwork(nodes, links, width="100%", height="1000px", main="Great Expectations") %>% #visHierarchicalLayout(direction = "LR",sortMethod="directed") %>%
-  visOptions(highlightNearest = TRUE, 
-             selectedBy = "title")
-visSave(network, file = "/Users/mlr/Documents/gutenberg-network.html")
+#network <-visNetwork(nodes, links, width="100%", height="1000px", main="Great Expectations") %>% #visHierarchicalLayout(direction = "LR",sortMethod="directed") %>%
+#  visOptions(highlightNearest = TRUE, 
+#             selectedBy = "title")
+#visSave(network, file = "../gutenberg-network.html")
 
-jpeg(paste("/Users/mlr/Documents/gutenberg_triangles_nodes.jpg",sep=''))
+jpeg(paste("../gutenberg_triangles_nodes.jpg",sep=''))
 triangles <- cbind(tri,nods)
 colnames(triangles)<-c('triangles','all nodes')
 midpoints <- barplot(triangles, xlab="Mean unit value of node id")
 text(midpoints, 2, labels=triangles)
 dev.off()
 
-jpeg(paste("/Users/mlr/Documents/gutenberg_links_source_nrow.jpg",sep=''))
+jpeg(paste("../gutenberg_links_source_nrow.jpg",sep=''))
 plot(links[,2],c(1:nrow(links)),pch=".")
 dev.off()
 
-#jpeg(paste("/Users/mlr/Documents/gutenberg_links_source_target.jpg",sep=''))
+#jpeg(paste("../gutenberg_links_source_target.jpg",sep=''))
 #plot(links[,2],links[,1],pch=".")
 #dev.off()
 
-jpeg(paste("/Users/mlr/Documents/gutenberg_links_targets.jpg",sep=''))
+jpeg(paste("../gutenberg_links_targets.jpg",sep=''))
 #plot(unlist(links[,2]),factor(unlist(links[,3])),pch=".")
 plot(count(unlist(links[,2]))$freq,type='l')
 #for(ab in 1:20){
@@ -266,9 +277,9 @@ plot(count(unlist(links[,2]))$freq,type='l')
 #  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
 #}
 dev.off()
-write.csv(cbind(unlist(links[,2]),links[,3]),file=paste('/Users/mlr/Documents/gutenberg_targets.txt',sep=''))
+write.csv(cbind(unlist(links[,2]),links[,3]),file=paste('../gutenberg_targets.txt',sep=''))
 
-jpeg(paste("/Users/mlr/Documents/gutenberg_links_sources.jpg",sep=''))
+jpeg(paste("../gutenberg_links_sources.jpg",sep=''))
 #plot(unlist(links[,1]),factor(unlist(links[,3])),pch=".")
 plot(count(unlist(links[,1]))$freq,type='l')
 #for(ab in 1:20){
@@ -276,7 +287,7 @@ plot(count(unlist(links[,1]))$freq,type='l')
 #  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
 #}
 dev.off()
-write.csv(cbind(unlist(links[,1]),links[,3]),file=paste('/Users/mlr/Documents/gutenberg_sources.txt',sep=''))
+write.csv(cbind(unlist(links[,1]),links[,3]),file=paste('../gutenberg_sources.txt',sep=''))
 
 agg <- as.numeric(links[,2]) - as.numeric(links[,1])
 plot(c(1:length(agg)),agg,pch='.')
@@ -341,23 +352,75 @@ for(z in 1:nrow(nodes)){
   #if(tail(ent[,1],1)>0) print(tail(ent[,1],1))
 }
 colnames(coordinates) <- c("t","specificity","diversity")
-jpeg(paste("/Users/mlr/Documents/gutenberg_coordinates.jpg",sep=''))
+jpeg(paste("../gutenberg_coordinates.jpg",sep=''))
 scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
 dev.off()
 
 #write.csv(wien,file=paste('/home/mlr/temp_stats_',databases[p],'_wiener.txt',sep=''))
-write.csv(ent,file=paste('/Users/mlr/Documents/gutenberg_entropy.txt',sep=''))
-jpeg(paste("/Users/mlr/Documents/gutenberg_entropy.jpg",sep=''))
+write.csv(ent,file=paste('../gutenberg_entropy.txt',sep=''))
+jpeg(paste("../gutenberg_entropy.jpg",sep=''))
 plot(ent[,1],type="l")
 #for(ab in 1:20){
 #  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
 #  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
 #}
 dev.off()
-jpeg(paste("/Users/mlr/Documents/gutenberg_evenness.jpg",sep=''))
+jpeg(paste("../gutenberg_evenness.jpg",sep=''))
 plot(ent[,2],type="l")
 #for(ab in 1:20){
 #  if(ab %% 2 != 0) abline(v=(5*ab), col = "lightgray", lty = "dotted")
 #  else abline(v=(5*ab), col = "lightgray", lty = "dashed")
 #}
 dev.off()
+
+
+#temporal
+links <- as.data.frame(links)
+links$diff <- as.numeric(links$target)-as.numeric(links$source)
+tlink <- aggregate(diff ~ unlist(tag),links,mean)
+tlink[order(-tlink$diff),]
+
+charRank <- count(unlist(links[,3]))
+charRank[order(-charRank$freq),]
+
+distQuot <- as.data.frame(cbind(tlink[,1],as.double(tlink[,2])/as.double(charRank[,2])),stringsAsFactors = F)
+colnames(distQuot)<-c('char','quot')
+distQuot$quot<-as.double(distQuot$quot)
+distQuot[order(-distQuot$quot),]
+
+
+#### topic modeling
+
+library(topicmodels)
+
+
+myStopwords <- unique(c(stopwords('english'),c("","a", "about", "above", "above", "across", "after", "afterwards", "again", "against", "all", "almost", "alone", "along", "already", "also","although","always","am","among", "amongst", "amoungst", "amount",  "an", "and", "another", "any","anyhow","anyone","anything","anyway", "anywhere", "are", "around", "as",  "at", "back","be","became", "because","become","becomes", "becoming", "been", "before", "beforehand", "behind", "being", "below", "beside", "besides", "between", "beyond", "bill", "both", "bottom","but", "by", "call", "can", "cannot", "cant", "co", "con", "could", "couldnt", "cry", "de", "describe", "detail", "do", "done", "down", "due", "during", "each", "eg", "eight", "either", "eleven","else", "elsewhere", "empty", "enough", "etc", "even", "ever", "every", "everyone", "everything", "everywhere", "except", "few", "fifteen", "fify", "fill", "find", "fire", "first", "five", "for", "former", "formerly", "forty", "found", "four", "from", "front", "full", "further", "get", "give", "go", "had", "has", "hasnt", "have", "he", "hence", "her", "here", "hereafter", "hereby", "herein", "hereupon", "hers", "herself", "him", "himself", "his", "how", "however", "hundred", "ie", "if", "in", "inc", "indeed", "interest", "into", "is", "it", "its", "itself", "keep", "last", "latter", "latterly", "least", "less", "ltd", "made", "many", "may", "me", "meanwhile", "might", "mill", "mine", "more", "moreover", "most", "mostly", "move", "much", "must", "my", "myself", "name", "namely", "neither", "never", "nevertheless", "next", "nine", "no", "nobody", "none", "noone", "nor", "not", "nothing", "now", "nowhere", "of", "off", "often", "on", "once", "one", "only", "onto", "or", "other", "others", "otherwise", "our", "ours", "ourselves", "out", "over", "own","part", "per", "perhaps", "please", "put", "rather", "re", "same", "see", "seem", "seemed", "seeming", "seems", "serious", "several", "she", "should", "show", "side", "since", "sincere", "six", "sixty", "so", "some", "somehow", "someone", "something", "sometime", "sometimes", "somewhere", "still", "such", "system", "take", "ten", "than", "that", "the", "their", "them", "themselves", "then", "thence", "there", "thereafter", "thereby", "therefore", "therein", "thereupon", "these", "they", "thickv", "thin", "third", "this", "those", "though", "three", "through", "throughout", "thru", "thus", "to", "together", "too", "top", "toward", "towards", "twelve", "twenty", "two", "un", "under", "until", "up", "upon", "us", "very", "via", "was", "we", "well", "were", "what", "whatever", "when", "whence", "whenever", "where", "whereafter", "whereas", "whereby", "wherein", "whereupon", "wherever", "whether", "which", "while", "whither", "who", "whoever", "whole", "whom", "whose", "why", "will", "with", "within", "without", "would", "yet", "you", "your", "yours", "yourself", "yourselves", "the")))
+words300C <- lapply(words300B,function(x) unlist(lapply(x,function(y) tolower(gsub("[[:punct:]]", "",gsub("[[:digit:]]", "",y))))))
+words300_sw <- lapply(words300C,function(x) sort(unique(x[!x %in% myStopwords])))
+topicDocs <- sapply(words300_sw,function(x){ paste(unlist(x),collapse=' ') })
+corpus <- Corpus(VectorSource(topicDocs))
+dtm <- DocumentTermMatrix(corpus)
+
+#Set parameters for Gibbs sampling
+burnin <- 4000
+iter <- 2000
+thin <- 500
+seed <-list(2003,5,63,100001,765)
+nstart <- 5
+best <- TRUE
+#Number of topics
+k <- 5
+#Run LDA using Gibbs sampling
+ldaOut <-LDA(dtm,k, method="Gibbs", control=list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
+#docs to topics
+ldaOut.topics <- as.matrix(topics(ldaOut))
+#top 6 terms in each topic
+ldaOut.terms <- as.matrix(terms(ldaOut,6))
+#probabilities associated with each topic assignment
+topicProbabilities <- as.data.frame(ldaOut@gamma)
+#Find relative importance of top 2 topics
+topic1ToTopic2 <- lapply(1:nrow(dtm),function(x)
+  sort(topicProbabilities[x,])[k]/sort(topicProbabilities[x,])[k-1])
+#Find relative importance of second and third most important topics
+topic2ToTopic3 <- lapply(1:nrow(dtm),function(x)
+  sort(topicProbabilities[x,])[k-1]/sort(topicProbabilities[x,])[k-2])
