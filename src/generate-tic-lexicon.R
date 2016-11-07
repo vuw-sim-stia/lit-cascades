@@ -27,8 +27,8 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   res
 }
 
-#fileName <- '../resources/greatexpectations.txt'
-fileName <- '../resources/davidcopperfield.txt'
+fileName <- '../resources/greatexpectations.txt'
+#fileName <- '../resources/davidcopperfield.txt'
 sourceText <- readChar(fileName, file.info(fileName)$size)
 
 # removing special chars and CHAPTER headings
@@ -45,8 +45,8 @@ words300A <- split(full_text, groupA)
 words300B <- words300A
 
 #character list
-#tmp <- readLines("../resources/greatexpectations_chars.txt")
-tmp <- readLines("../resources/davidcopperfield_chars.txt")
+tmp <- readLines("../resources/greatexpectations_chars.txt")
+#tmp <- readLines("../resources/davidcopperfield_chars.txt")
 charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
 chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
 tmp <- c()
@@ -67,10 +67,10 @@ matches <- list()
 for(j in 1:length(words300A)){
   slicematch <- list()
   for(k in 1:nrow(chars)){
-    needle <- chars[k,2]
+    needle <- paste(" ",chars[k,2]," ",sep="")
     matched <- unlist(gregexpr(needle, paste(unlist(words300A[j]),collapse=' ')))
     nWords <- sapply(gregexpr("\\W+", needle), length) + 1
-    words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+    words300A[j] <- strsplit(gsub(needle,paste("",replicate(nWords, "FOOBAR"),"", collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
     if(matched != -1){
       for(l in 1:length(matched)){
         if(is.null(slicematch[[as.character(matched[l])]])){
@@ -155,11 +155,12 @@ for(i in 1:nrow(links)){
   edgeID <- which(get.edge.attribute(nd,'ident')==paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))
   if(length(edgeID)==0){
     #add.edges.networkDynamic(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])),edge.pid=c(paste(unlist(links[i,1]),unlist(links[i,2]),sep='%')))
-    add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list(list('set','ident')),vals.eval=list(list(links[i,3][[1]],paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))))
+    add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list(list('set','ident','width')),vals.eval=list(list(links[i,3][[1]],paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'),1)))
     #add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])))
   } else{
     linkLabel <- paste(get.edge.attribute(nd,'set',unlist=FALSE)[[edgeID]],unlist(links[i,3]),sep=", ")
     set.edge.attribute(nd, attrname='set', value=linkLabel, e=c(edgeID))
+    set.edge.attribute(nd, attrname='width', value=get.edge.attribute(nd,'width',unlist=FALSE)[[edgeID]]+1, e=c(edgeID))
   }
 }
 
@@ -172,6 +173,7 @@ render.d3movie(nd, filename=paste("../dynamic-network.html",sep=''),launchBrowse
                vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
                #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
                vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>"),
+               edge.lwd = (nd %e% "width"),
                edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
 
 #static slices
