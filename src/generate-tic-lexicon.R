@@ -67,7 +67,7 @@ matches <- list()
 for(j in 1:length(words300A)){
   slicematch <- list()
   for(k in 1:nrow(chars)){
-    needle <- paste(" ",chars[k,2]," ",sep="")
+    needle <- paste(" ",chars[k,2],"[,.\\s]",sep="")
     matched <- unlist(gregexpr(needle, paste(unlist(words300A[j]),collapse=' ')))
     nWords <- sapply(gregexpr("\\W+", needle), length) + 1
     words300A[j] <- strsplit(gsub(needle,paste("",replicate(nWords, "FOOBAR"),"", collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
