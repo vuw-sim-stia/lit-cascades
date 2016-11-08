@@ -51,7 +51,8 @@ for(theSource in litSources){
   words300B <- words300A
   
   #character list
-  tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
+  #tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
+  tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
   charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
   chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
   tmp <- c()

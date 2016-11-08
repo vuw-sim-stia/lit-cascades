@@ -7,7 +7,7 @@ JonasChuzzMC: Jonas
 MartinJrMC: Martin
 MartinSrMC: OldMC, Mr Chuzzlewit
 MrsGampMC: Gamp
-MaryMC: _Mary, Miss Graham
+MaryMC: Mary, Miss Graham
 MrsHominyMC: Hominy
 MrsJinkinsMC: Jinkins
 DocJoblingMC: Jobling
@@ -20,8 +20,8 @@ NadgettMC: Nadgett
 CharityPeckMC: Charity
 MercyPeckMC: Merry
 SethPeckMC: Mr Pecksniff
-RuthPinchMC: _Ruth, Miss Pinch
-TomPinchMC: _Tom, Mr Pinch
+RuthPinchMC: Ruth, Miss Pinch
+TomPinchMC: Tom, Mr Pinch
 MrsPrigMC: Mrs Prig, Betsey
 ChevySlymeMC: Slyme
 MrMrsSpottletoeMC: Spottletoe

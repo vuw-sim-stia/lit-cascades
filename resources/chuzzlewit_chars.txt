@@ -24,7 +24,7 @@ GenFladdockMC: Fladdock
 MrsGampMC: Gamp
 MrGanderMC: Gander
 MrsGillMC: Mrs Gill
-MaryMC: _Mary, Miss Graham
+MaryMC: Mary, Miss Graham
 ColGroperMC: Groper
 MrsHominyMC: Hominy
 MrIzzardMC: Izzard
@@ -52,8 +52,8 @@ MrsPawkinsMC: Mrs Pawkins
 CharityPeckMC: Charity
 MercyPeckMC: Merry
 SethPeckMC: Mr Pecksniff
-RuthPinchMC: _Ruth, Miss Pinch
-TomPinchMC: _Tom, Mr Pinch
+RuthPinchMC: Ruth, Miss Pinch
+TomPinchMC: Tom, Mr Pinch
 MrPipMC: Mr Pip
 ProfPiperMC: Professor Piper
 PogramMC: Pogram
