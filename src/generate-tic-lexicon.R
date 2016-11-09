@@ -13,6 +13,7 @@ library(igraph)
 library(networkDynamic)
 library(ndtv)
 library(tsna)
+library(ggplot2)
 
 options(scipen = 999)
 degree.distribution <- function (graph, cumulative = FALSE, ...) 
@@ -30,8 +31,11 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   }
   res
 }
-
-litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
+setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
+#all
+#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
+#selected
+litSources <- c('chuzzlewit')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -51,8 +55,8 @@ for(theSource in litSources){
   words300B <- words300A
   
   #character list
-  #tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
-  tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
+  tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
+  #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
   charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
   chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
   tmp <- c()
@@ -343,6 +347,31 @@ for(theSource in litSources){
   jpeg(paste("../output/",theSource,"_gutenberg_evenness.jpg",sep=''))
   plot(ent[,2],type="l")
   dev.off()
+  
+  #character occurrence
+  tmpDat <- data.frame(x=unlist(links$target),y=unlist(links$tag))
+  jpeg(paste("../output/",theSource,"_gutenberg_idoccurrence.jpg",sep=''))
+  ggplot(tmpDat, aes(x = x, y = y)) + geom_point(size=.1)
+  dev.off()
+  
+  rootLink <- aggregate(unlist(source) ~ unlist(tag),links,min)
+  colnames(rootLink)<-c('y','x')
+  jpeg(paste("../output/",theSource,"_gutenberg_roots.jpg",sep=''))
+  ggplot(rootLink, aes(x = x, y = y)) + geom_point(size=.1)
+  dev.off()
+  
+  targetLink <- aggregate(unlist(target) ~ unlist(tag),links,max)
+  colnames(targetLink)<-c('y','x')
+  jpeg(paste("../output/",theSource,"_gutenberg_roots.jpg",sep=''))
+  ggplot(targetLink, aes(x = x, y = y)) + geom_point(size=.1)
+  dev.off()
+  
+  combined<-rbind(rootLink,targetLink)
+  colnames(rootLink)<-c('y','x')
+  combined$typ<-c(rep("roots",47),rep("stubs",47))
+  jpeg(paste("../output/",theSource,"_gutenberg_roots_stubs.jpg",sep=''))
+  ggplot(combined, aes(x = x, y = y,group=typ,col=typ)) + geom_point()
+  dev.off()
 }
 
 
@@ -359,7 +388,6 @@ distQuot <- as.data.frame(cbind(tlink[,1],as.double(tlink[,2])/as.double(charRan
 colnames(distQuot)<-c('char','quot')
 distQuot$quot<-as.double(distQuot$quot)
 distQuot[order(-distQuot$quot),]
-
 
 #### topic modeling
 
