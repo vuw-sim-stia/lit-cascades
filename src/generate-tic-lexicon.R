@@ -54,6 +54,17 @@ for(theSource in litSources){
   words300A <- split(full_text, groupA)
   words300B <- words300A
   
+  #export text as HTML file
+  htmlHead <- "<htlm><head></head><body>"
+  htmlTail <- "</body>"
+  
+  htmlContent <- ""
+  
+  for(h in 1:length(words300B)){
+    htmlContent <- paste(htmlContent,"<p><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p>",sep='')
+  }
+  write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('../output/',theSource,'_textchunks.html',sep=''))
+  
   #character list
   tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
@@ -180,7 +191,7 @@ for(theSource in litSources){
                  vertex.col="white",edge.col="darkgray",label.cex=.6,
                  vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
                  #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>"),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   
