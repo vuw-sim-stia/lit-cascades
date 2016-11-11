@@ -55,7 +55,7 @@ for(theSource in litSources){
   words300B <- words300A
   
   #export text as HTML file
-  htmlHead <- "<htlm><head><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px';}</script></head><body  onload='foo()'>"
+  htmlHead <- "<htlm><head><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px'; window.onfocus=function(event){location.reload();}}</script></head><body onload='foo()'>"
   htmlTail <- "</body>"
   
   htmlContent <- ""
@@ -183,7 +183,7 @@ for(theSource in litSources){
     }
   }
   
-  compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),weight.dist=T,default.dist=3)
+  compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
   render.d3movie(nd, filename=paste("../output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
@@ -193,6 +193,7 @@ for(theSource in litSources){
                  #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
                  vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
+                 edge.len = 10, uselen = T,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   
   #static slices
