@@ -55,13 +55,13 @@ for(theSource in litSources){
   words300B <- words300A
   
   #export text as HTML file
-  htmlHead <- "<htlm><head></head><body>"
+  htmlHead <- "<htlm><head><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px';}</script></head><body  onload='foo()'>"
   htmlTail <- "</body>"
   
   htmlContent <- ""
   
   for(h in 1:length(words300B)){
-    htmlContent <- paste(htmlContent,"<p><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p>",sep='')
+    htmlContent <- paste(htmlContent,"<p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p>",sep='')
   }
   write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('../output/',theSource,'_textchunks.html',sep=''))
   
