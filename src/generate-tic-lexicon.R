@@ -1,3 +1,4 @@
+#import libs
 library(plyr)
 library(tm)
 library(stringr)
@@ -15,7 +16,9 @@ library(ndtv)
 library(tsna)
 library(ggplot2)
 
+#housekeeping and helpers
 options(scipen = 999)
+
 degree.distribution <- function (graph, cumulative = FALSE, ...) 
 {
   if (!is.igraph(graph)) {
@@ -31,30 +34,44 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   }
   res
 }
+
+#set working directoy
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
-#all
-#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
-#selected
-litSources <- c('chuzzlewit')
+
+#select which texts to process
+litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
   sourceText <- readChar(fileName, file.info(fileName)$size)
+  processedText <- gsub("\\r\\n", " ", sourceText,perl=T)
+  processedText <- gsub("\\n", " ", processedText,perl=T)
   
-  # removing special chars and CHAPTER headings
+  #split by number of words
+  #full_text <- strsplit(processedText, "\\s+")[[1]]
+  #groupA <- rep(seq(ceiling(length(full_text)/1200)), each=1200)[1:length(full_text)]
+  #words300A <- split(full_text, groupA)
+  #words300B <- words300A
   
-  processedText <- gsub("CHAPTER.+?(?=\\r\\n)", "", sourceText,perl=T)
-  processedText <- gsub("Chapter.+", "", processedText,perl=T)
-  processedText <- gsub("CHAPTER [0-9]+\\.", "", processedText,perl=T)
+  #split by number of words and chapters
+  full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\s.]?)", perl=T)[[1]]
+  words300B <- c()
+  tmp <- sapply(full_text,function(x){
+    snippet <- strsplit(x, "\\s+")[[1]]
+    if(length(snippet>1)){
+      groupA <- rep(seq(ceiling(length(snippet)/1200)), each=1200)[1:length(snippet)]
+      words300A <- split(snippet, groupA)
+      words300B <- c(words300B,words300A)
+    }
+  })
   
-  processedText <- gsub("\\r\\n", " ", processedText)
+  for(s in 1:length(tmp)){
+    words300B <- c(words300B,tmp[[s]])
+  }
   
-  full_text <- strsplit(processedText, "\\s+")[[1]]
-  groupA <- rep(seq(ceiling(length(full_text)/1000)), each=1000)[1:length(full_text)]
-  words300A <- split(full_text, groupA)
-  words300B <- words300A
+  words300A <- words300B
   
-  #export text as HTML file
+  #export text as HTML file to allow jumoing to respective slice
   htmlHead <- "<htlm><head><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px'; window.onfocus=function(event){location.reload();}}</script></head><body onload='foo()'>"
   htmlTail <- "</body>"
   
@@ -67,6 +84,7 @@ for(theSource in litSources){
   
   #character list
   tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
+  #short character lists
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
   charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
   chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
@@ -89,7 +107,7 @@ for(theSource in litSources){
     slicematch <- list()
     for(k in 1:nrow(chars)){
       needle <- chars[k,2]
-      matched <- unlist(gregexpr(paste("[^\\s\\\\\"]",needle,"[^\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' ')))
+      matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
       nWords <- sapply(gregexpr("\\W+", needle), length) +1
       words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
       if(matched != -1){
@@ -173,9 +191,7 @@ for(theSource in litSources){
     }
     edgeID <- which(get.edge.attribute(nd,'ident')==paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))
     if(length(edgeID)==0){
-      #add.edges.networkDynamic(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])),edge.pid=c(paste(unlist(links[i,1]),unlist(links[i,2]),sep='%')))
       add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list(list('set','ident','width')),vals.eval=list(list(links[i,3][[1]],paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'),1)))
-      #add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list('set'),vals.eval=list(unlist(links[i,3])))
     } else{
       linkLabel <- paste(get.edge.attribute(nd,'set',unlist=FALSE)[[edgeID]],unlist(links[i,3]),sep=", ")
       set.edge.attribute(nd, attrname='set', value=linkLabel, e=c(edgeID))
@@ -193,7 +209,7 @@ for(theSource in litSources){
                  #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
                  vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
-                 edge.len = 10, uselen = T,
+                 edge.len = 5, uselen = T,object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   
   #static slices
@@ -230,14 +246,9 @@ for(theSource in litSources){
   
   colrs<-sample(col_vector, 14)
   E(g)$width <- 0.1
-  #lay <- layout_on_grid(g)
-  #lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
-  #pdf(paste("../output/",theSource,"_gutenberg_grid_net.pdf",sep=''))
-  #plot(g,rescale=F,vertex.size=5,vertex.label.cex=0.2,edge.label.cex=0.2,layout=lay,edge.arrow.size=0.1)
-  #dev.off()
   
-  #lay <- layout_with_dh(g)
-  #lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+  lay <- layout_with_dh(g)
+  lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
   minC <- rep(-Inf, vcount(g))
   maxC <- rep(Inf, vcount(g))
   minC[1] <- maxC[1] <- 0
@@ -266,13 +277,6 @@ for(theSource in litSources){
   
   links <- as.data.frame(links)
   colnames(links) <- c('from','to','title')
-  
-  #jpeg(paste("../output/",theSource,"_gutenberg_triangles_nodes.jpg",sep=''))
-  #triangles <- cbind(tri,nods)
-  #colnames(triangles)<-c('triangles','all nodes')
-  #midpoints <- barplot(triangles, xlab="Mean unit value of node id")
-  #text(midpoints, 2, labels=triangles)
-  #dev.off()
   
   jpeg(paste("../output/",theSource,"_gutenberg_links_source_nrow.jpg",sep=''))
   plot(links[,2],c(1:nrow(links)),pch=".")
@@ -360,79 +364,37 @@ for(theSource in litSources){
   plot(ent[,2],type="l")
   dev.off()
   
-  #character occurrence
-  tmpDat <- data.frame(x=unlist(links$target),y=unlist(links$tag))
-  jpeg(paste("../output/",theSource,"_gutenberg_idoccurrence.jpg",sep=''))
-  ggplot(tmpDat, aes(x = x, y = y)) + geom_point(size=.1)
-  dev.off()
+  # scatterplot for character frequency
+  labelint = as.integer(nodes$label)
+  tempDat <- data.frame(nodes$title, labelint, stringsAsFactors = F)
+  tmpSplit <- strsplit(tempDat$nodes.title, split=", ")
+  newDat <- data.frame(x = (labelint = rep(tempDat$labelint, sapply(tmpSplit, length))), y = (nodes.title = unlist(tmpSplit))) 
+  ggplot(newDat, aes(x=x, y=y)) + 
+    geom_point(size=1, shape = 23) + 
+    scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
+  ggsave(paste("../output/",theSource,"_gutenberg_character_frequency.pdf",sep=''),scale = 1:2)
   
-  rootLink <- aggregate(unlist(source) ~ unlist(tag),links,min)
-  colnames(rootLink)<-c('y','x')
-  jpeg(paste("../output/",theSource,"_gutenberg_roots.jpg",sep=''))
-  ggplot(rootLink, aes(x = x, y = y)) + geom_point(size=.1)
-  dev.off()
+  # scatterplot for first and last character appearance
+  firstNode <- aggregate(x ~ y,newDat,min)
+  lastNode <- aggregate(x ~ y,newDat,max)
+  combined <- rbind(firstNode,lastNode)
+  colnames(firstNode) <- c('y','x')
+  combined$type <- c(rep("first",nrow(firstNode)),rep("last",nrow(lastNode)))
+  ggplot(combined, aes(x = x, y = y,group=type,col=type)) + 
+    geom_point(size=1.5, shape = 23) +
+    scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
+  ggsave(paste("../output/",theSource,"_gutenberg_first_last_character_appearance.pdf",sep=''),scale = 1:2)
   
-  targetLink <- aggregate(unlist(target) ~ unlist(tag),links,max)
-  colnames(targetLink)<-c('y','x')
-  jpeg(paste("../output/",theSource,"_gutenberg_roots.jpg",sep=''))
-  ggplot(targetLink, aes(x = x, y = y)) + geom_point(size=.1)
-  dev.off()
+  # .txt list of character appearance
+  charfreqcsv <- ddply(newDat, .(y), summarize, x = toString(x))
+  write.csv(charfreqcsv[,c("y","x")],file=paste("../output/",theSource,"_gutenberg_listofcharacterfreq.txt",sep=''), row.names = F)
   
-  combined<-rbind(rootLink,targetLink)
-  colnames(rootLink)<-c('y','x')
-  combined$typ<-c(rep("roots",47),rep("stubs",47))
-  jpeg(paste("../output/",theSource,"_gutenberg_roots_stubs.jpg",sep=''))
-  ggplot(combined, aes(x = x, y = y,group=typ,col=typ)) + geom_point()
-  dev.off()
+  # new entropy graph
+  entgraph <- data.frame(ent)
+  entgraph$indx <- as.integer(row.names(entgraph))
+  ggplot(entgraph, aes(x = indx, y = empEntropy)) +
+    geom_point(size=.2, shape = 23) + geom_line(linetype = 2, size=.2) +
+    scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50)) +
+    scale_y_continuous (limits = c(0,5)) 
+  ggsave(paste("../output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
 }
-
-
-#temporal
-links <- as.data.frame(links)
-links$diff <- as.numeric(links$target)-as.numeric(links$source)
-tlink <- aggregate(diff ~ unlist(tag),links,mean)
-tlink[order(-tlink$diff),]
-
-charRank <- count(unlist(links[,3]))
-charRank[order(-charRank$freq),]
-
-distQuot <- as.data.frame(cbind(tlink[,1],as.double(tlink[,2])/as.double(charRank[,2])),stringsAsFactors = F)
-colnames(distQuot)<-c('char','quot')
-distQuot$quot<-as.double(distQuot$quot)
-distQuot[order(-distQuot$quot),]
-
-#### topic modeling
-
-library(topicmodels)
-
-
-myStopwords <- unique(c(stopwords('english'),c("","a", "about", "above", "above", "across", "after", "afterwards", "again", "against", "all", "almost", "alone", "along", "already", "also","although","always","am","among", "amongst", "amoungst", "amount",  "an", "and", "another", "any","anyhow","anyone","anything","anyway", "anywhere", "are", "around", "as",  "at", "back","be","became", "because","become","becomes", "becoming", "been", "before", "beforehand", "behind", "being", "below", "beside", "besides", "between", "beyond", "bill", "both", "bottom","but", "by", "call", "can", "cannot", "cant", "co", "con", "could", "couldnt", "cry", "de", "describe", "detail", "do", "done", "down", "due", "during", "each", "eg", "eight", "either", "eleven","else", "elsewhere", "empty", "enough", "etc", "even", "ever", "every", "everyone", "everything", "everywhere", "except", "few", "fifteen", "fify", "fill", "find", "fire", "first", "five", "for", "former", "formerly", "forty", "found", "four", "from", "front", "full", "further", "get", "give", "go", "had", "has", "hasnt", "have", "he", "hence", "her", "here", "hereafter", "hereby", "herein", "hereupon", "hers", "herself", "him", "himself", "his", "how", "however", "hundred", "ie", "if", "in", "inc", "indeed", "interest", "into", "is", "it", "its", "itself", "keep", "last", "latter", "latterly", "least", "less", "ltd", "made", "many", "may", "me", "meanwhile", "might", "mill", "mine", "more", "moreover", "most", "mostly", "move", "much", "must", "my", "myself", "name", "namely", "neither", "never", "nevertheless", "next", "nine", "no", "nobody", "none", "noone", "nor", "not", "nothing", "now", "nowhere", "of", "off", "often", "on", "once", "one", "only", "onto", "or", "other", "others", "otherwise", "our", "ours", "ourselves", "out", "over", "own","part", "per", "perhaps", "please", "put", "rather", "re", "same", "see", "seem", "seemed", "seeming", "seems", "serious", "several", "she", "should", "show", "side", "since", "sincere", "six", "sixty", "so", "some", "somehow", "someone", "something", "sometime", "sometimes", "somewhere", "still", "such", "system", "take", "ten", "than", "that", "the", "their", "them", "themselves", "then", "thence", "there", "thereafter", "thereby", "therefore", "therein", "thereupon", "these", "they", "thickv", "thin", "third", "this", "those", "though", "three", "through", "throughout", "thru", "thus", "to", "together", "too", "top", "toward", "towards", "twelve", "twenty", "two", "un", "under", "until", "up", "upon", "us", "very", "via", "was", "we", "well", "were", "what", "whatever", "when", "whence", "whenever", "where", "whereafter", "whereas", "whereby", "wherein", "whereupon", "wherever", "whether", "which", "while", "whither", "who", "whoever", "whole", "whom", "whose", "why", "will", "with", "within", "without", "would", "yet", "you", "your", "yours", "yourself", "yourselves", "the")))
-words300C <- lapply(words300B,function(x) unlist(lapply(x,function(y) tolower(gsub("[[:punct:]]", "",gsub("[[:digit:]]", "",y))))))
-words300_sw <- lapply(words300C,function(x) sort(unique(x[!x %in% myStopwords])))
-topicDocs <- sapply(words300_sw,function(x){ paste(unlist(x),collapse=' ') })
-corpus <- Corpus(VectorSource(topicDocs))
-dtm <- DocumentTermMatrix(corpus)
-
-#Set parameters for Gibbs sampling
-burnin <- 4000
-iter <- 2000
-thin <- 500
-seed <-list(2003,5,63,100001,765)
-nstart <- 5
-best <- TRUE
-#Number of topics
-k <- 5
-#Run LDA using Gibbs sampling
-ldaOut <-LDA(dtm,k, method="Gibbs", control=list(nstart=nstart, seed = seed, best=best, burnin = burnin, iter = iter, thin=thin))
-#docs to topics
-ldaOut.topics <- as.matrix(topics(ldaOut))
-#top 6 terms in each topic
-ldaOut.terms <- as.matrix(terms(ldaOut,6))
-#probabilities associated with each topic assignment
-topicProbabilities <- as.data.frame(ldaOut@gamma)
-#Find relative importance of top 2 topics
-topic1ToTopic2 <- lapply(1:nrow(dtm),function(x)
-  sort(topicProbabilities[x,])[k]/sort(topicProbabilities[x,])[k-1])
-#Find relative importance of second and third most important topics
-topic2ToTopic3 <- lapply(1:nrow(dtm),function(x)
-  sort(topicProbabilities[x,])[k-1]/sort(topicProbabilities[x,])[k-2])
