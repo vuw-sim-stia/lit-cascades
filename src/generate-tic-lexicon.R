@@ -11,10 +11,8 @@ library(scatterplot3d)
 library(RColorBrewer)
 library(tidyr)
 library(igraph)
-library(networkDynamic)
-library(ndtv)
-library(tsna)
 library(ggplot2)
+library(gtools)
 
 #housekeeping and helpers
 options(scipen = 999)
@@ -39,7 +37,8 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #select which texts to process
-litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
+#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
+litSources <- c('greatexpectations')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -166,6 +165,10 @@ for(theSource in litSources){
   colnames(links) <- c('source','target','tag')
   colnames(roots) <- c('root_node_id','tag')
   
+  library(networkDynamic)
+  library(ndtv)
+  library(tsna)
+  
   nd <- as.networkDynamic(network.initialize(0))
   set.network.attribute(nd,"vertex.pid","vertex.names")
   set.network.attribute(nd,"edge.pid","edge.names")
@@ -211,7 +214,10 @@ for(theSource in litSources){
                  edge.lwd = (nd %e% "width"),
                  edge.len = 5, uselen = T,object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
-  
+  detach("package:ndtv", unload=TRUE)
+  detach("package:networkDynamic", unload=TRUE)
+  detach("package:sna", unload=TRUE)
+  detach("package:tsna", unload=TRUE)
   #static slices
   #timePrism(nd,at=c(10,50,100),
             #displaylabels=TRUE,planes = TRUE,
@@ -259,12 +265,13 @@ for(theSource in litSources){
   plot(g, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
-  #degd <- degree.distribution(g)
+  degd <- degree.distribution(g)
   #jpeg(paste("../output/",theSource,"_gutenberg_degree_distri.jpg",sep=''))
   #plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
   #dev.off()
-  #wtc <- cluster_walktrap(g)
-  #gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
+  wtc <- cluster_walktrap(g)
+  gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
+  write.csv2(gstat,paste("../output/",theSource,"_netstat.csv",sep=''))
   
   #tri <- mean(as.numeric(substr(matrix(triangles(g), nrow=3), nchar(matrix(triangles(g), nrow=3))-1+1, nchar(matrix(triangles(g), nrow=3)))))
   #nods <- mean(as.numeric(substr(V(g)$name, nchar(V(g)$name)-1+1, nchar(V(g)$name))))
@@ -277,6 +284,54 @@ for(theSource in litSources){
   
   links <- as.data.frame(links)
   colnames(links) <- c('from','to','title')
+  links$from<-unlist(links$from)
+  links$to<-unlist(links$to)
+  links$title<-unlist(links$title)
+  
+  #### create the character network from the cascade
+  socN1 <- c()
+  for(lin in 1:nrow(nodes)){
+    nex <- unlist(strsplit(nodes$title[lin],", "))
+    print(nex)
+    if(length(nex)>1) socN1 <- rbind(socN1,paste(nex,collapse=', '))
+  }
+  socEdges<-c()
+  for(lin in 1:length(socN1)){
+    socEdges<-rbind(socEdges,combinations(length(unlist(strsplit(socN1[lin],', '))),2,unlist(strsplit(socN1[lin],', '))))
+  }
+  
+  h <- graph.data.frame(socEdges,directed=FALSE)
+  
+  V(h)$frame.color <- "white"
+  V(h)$color <- "orange"
+  
+  E(h)$width <- 0.1
+  
+  lay <- layout_with_dh(h)
+  lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+  minC <- rep(-Inf, vcount(h))
+  maxC <- rep(Inf, vcount(h))
+  minC[1] <- maxC[1] <- 0
+  co <- layout_with_fr(h, minx=minC, maxx=maxC,
+                       miny=minC, maxy=maxC)
+  
+  pdf(paste("../output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
+  plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+  dev.off()
+  
+  #stats for the social graph
+  degd <- degree.distribution(h)
+  #jpeg(paste("../output/",theSource,"_gutenberg_degree_distri.jpg",sep=''))
+  #plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
+  #dev.off()
+  wtc <- cluster_walktrap(h)
+  gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
+  write.csv2(gstat,paste("../output/",theSource,"_socnetstat.csv",sep=''))
+  
+  ####
+  
+  colnames(socEdges) <- c("id1","id2")
+  h <- graph.data.frame(socEdges,directed=FALSE)
   
   jpeg(paste("../output/",theSource,"_gutenberg_links_source_nrow.jpg",sep=''))
   plot(links[,2],c(1:nrow(links)),pch=".")
