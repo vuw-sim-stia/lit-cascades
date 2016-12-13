@@ -266,9 +266,6 @@ for(theSource in litSources){
   dev.off()
   
   degd <- degree.distribution(g)
-  #jpeg(paste("../output/",theSource,"_gutenberg_degree_distri.jpg",sep=''))
-  #plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
-  #dev.off()
   wtc <- cluster_walktrap(g)
   gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
   write.csv2(gstat,paste("../output/",theSource,"_netstat.csv",sep=''))
