@@ -35,14 +35,12 @@ server <- function(input, output) {
   addResourcePath("locpath", "/Users/mlr/Documents/git-projects/lit-cascades/output")
   
   output$networkvisualisation <- renderUI({
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
     tagList(tags$iframe(
       src=paste("locpath/",input$textSelect,"_dynamic-network.html",sep=""), 
       width=1000, height=1000))
   })
   
 }
-
 
 # Run the application 
 shinyApp(ui = ui, server = server)

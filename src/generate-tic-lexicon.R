@@ -34,7 +34,7 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
+setwd("[path to folder]/src/")
 
 #select which texts to process
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
@@ -83,8 +83,10 @@ for(theSource in litSources){
   
   #character list
   tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
-  #short character lists
+  
+  #for short character lists
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
+  
   charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
   chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
   tmp <- c()
@@ -150,7 +152,7 @@ for(theSource in litSources){
     
     for(j in 1:length(tags)){
       cur_tag <- tags[j]
-      if(!is.null(unlist(last_node[cur_tag]))){ #link back to last posts with this tag
+      if(!is.null(unlist(last_node[cur_tag]))){ 
         source_node <- last_node[cur_tag]
         target_node <- p
         links <- rbind(links, c(source_node,target_node,cur_tag))
@@ -209,37 +211,14 @@ for(theSource in litSources){
                  displaylabels = T, label=nd %v% "vertex.names",
                  vertex.col="white",edge.col="darkgray",label.cex=.6,
                  vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-                 #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br>","<b>Matched characters:</b>", (nd %v% "content"), "<br>","<b>Slice content:</b>", (nd %v% "content2")),
                  vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
                  edge.len = 5, uselen = T,object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   detach("package:ndtv", unload=TRUE)
-  detach("package:networkDynamic", unload=TRUE)
-  detach("package:sna", unload=TRUE)
   detach("package:tsna", unload=TRUE)
-  #static slices
-  #timePrism(nd,at=c(10,50,100),
-            #displaylabels=TRUE,planes = TRUE,
-            #label.cex=0.5)
-  
-  #timeline
-  #proximity.timeline(nd,default.dist=6,mode='sammon',labels.at=17,vertex.cex=4)
-  
-  #stats
-  #plot( tEdgeFormation(nd) )
-  #plot( tSnaStats(nd,'gtrans'),main='Transitivity' )
-  #plot( tSnaStats(nd,'gden') ,main='Density')
-  #plot( tSnaStats(nd,'hierarchy') ,main='Hierarchy')
-  #plot( tSnaStats(nd,'betweenness') ,main='Betweenness')
-  #plot( tSnaStats(nd,'closeness') ,main='Closeness')
-  
-  #paths
-  #path<-tPath(nd,v = 13,graph.step.time=1)
-  #plotPaths(nd,path,label.cex=0.5)
-  
-  
-  # more analyses
+  detach("package:sna", unload=TRUE)
+  detach("package:networkDynamic", unload=TRUE)
   
   colnames(links) <- c("id1","id2","label")
   g <- graph.data.frame(links,directed=TRUE)
@@ -247,10 +226,9 @@ for(theSource in litSources){
   V(g)$frame.color <- "white"
   V(g)$color <- "orange"
   
-  qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
-  col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+  deg <- degree(g, mode="all")
+  V(g)$size <- deg*3
   
-  colrs<-sample(col_vector, 14)
   E(g)$width <- 0.1
   
   lay <- layout_with_dh(g)
@@ -262,18 +240,19 @@ for(theSource in litSources){
                        miny=minC, maxy=maxC)
   
   pdf(paste("../output/",theSource,"_gutenberg_dh_net.pdf",sep=''))
-  plot(g, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+  plot(g, layout=co*1.0, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+  dev.off()
+  
+  deg <- degree(g, mode="all")
+  pdf(paste("../output/",theSource,"_gutenberg_dh_net_degdistri.pdf",sep=''))
+  deg.dist <- degree_distribution(g, cumulative=T, mode="all")
+  plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
   dev.off()
   
   degd <- degree.distribution(g)
   wtc <- cluster_walktrap(g)
   gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
-  write.csv2(gstat,paste("../output/",theSource,"_netstat.csv",sep=''))
-  
-  #tri <- mean(as.numeric(substr(matrix(triangles(g), nrow=3), nchar(matrix(triangles(g), nrow=3))-1+1, nchar(matrix(triangles(g), nrow=3)))))
-  #nods <- mean(as.numeric(substr(V(g)$name, nchar(V(g)$name)-1+1, nchar(V(g)$name))))
-  
-  #detach("package:igraph", unload=TRUE)
+  write.csv2(gstat,paste("../output/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
   
   nodes <- as.data.frame(nodes,stringsAsFactors=F)
   colnames(nodes) <- c('id','title','label')
@@ -289,7 +268,6 @@ for(theSource in litSources){
   socN1 <- c()
   for(lin in 1:nrow(nodes)){
     nex <- unlist(strsplit(nodes$title[lin],", "))
-    print(nex)
     if(length(nex)>1) socN1 <- rbind(socN1,paste(nex,collapse=', '))
   }
   socEdges<-c()
@@ -297,12 +275,21 @@ for(theSource in litSources){
     socEdges<-rbind(socEdges,combinations(length(unlist(strsplit(socN1[lin],', '))),2,unlist(strsplit(socN1[lin],', '))))
   }
   
+  socEdges<-as.data.frame(socEdges,stringsAsFactors=F)
+  socEdges<-count(socEdges)
+  
+  colnames(socEdges) <- c("id1","id2","label")
   h <- graph.data.frame(socEdges,directed=FALSE)
   
   V(h)$frame.color <- "white"
   V(h)$color <- "orange"
   
+  deg <- degree(h, mode="all")
+  V(h)$size <- deg*3
+  
   E(h)$width <- 0.1
+  
+  E(h)$weight <- E(h)$label
   
   lay <- layout_with_dh(h)
   lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
@@ -316,19 +303,27 @@ for(theSource in litSources){
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
+  netm <- as_adjacency_matrix(h, attr="weight", sparse=F)
+  colnames(netm) <- V(h)$name
+  rownames(netm) <- V(h)$name
+  
+  palf <- colorRampPalette(c("gold", "dark orange")) 
+  pdf(paste("../output/",theSource,"_gutenberg_dh_socnet_heatmap.pdf",sep=''))
+  heatmap(netm[,17:1], Rowv = NA, Colv = NA, col = palf(100), scale="none", margins=c(20,20) )
+  dev.off()
+  
+  pdf(paste("../output/",theSource,"_gutenberg_dh_socnet_degdistri.pdf",sep=''))
+  deg.dist <- degree_distribution(h, cumulative=T, mode="all")
+  plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
+  dev.off()
+  
   #stats for the social graph
   degd <- degree.distribution(h)
-  #jpeg(paste("../output/",theSource,"_gutenberg_degree_distri.jpg",sep=''))
-  #plot(c(1:length(degd)),degd,type = 'h',xlab='Node degree',ylab='Number of nodes')
-  #dev.off()
   wtc <- cluster_walktrap(h)
   gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
-  write.csv2(gstat,paste("../output/",theSource,"_socnetstat.csv",sep=''))
+  write.csv2(gstat,paste("../output/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
   
   ####
-  
-  colnames(socEdges) <- c("id1","id2")
-  h <- graph.data.frame(socEdges,directed=FALSE)
   
   jpeg(paste("../output/",theSource,"_gutenberg_links_source_nrow.jpg",sep=''))
   plot(links[,2],c(1:nrow(links)),pch=".")
@@ -401,7 +396,6 @@ for(theSource in litSources){
       }
     }
     colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
-    #if(tail(ent[,1],1)>0) print(tail(ent[,1],1))
   }
   colnames(coordinates) <- c("t","specificity","diversity")
   jpeg(paste("../output/",theSource,"_gutenberg_coordinates.jpg",sep=''))
