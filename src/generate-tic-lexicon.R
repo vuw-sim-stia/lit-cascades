@@ -34,7 +34,7 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("[path to folder]/src/")
+setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #select which texts to process
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
