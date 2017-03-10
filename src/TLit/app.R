@@ -68,42 +68,42 @@ server <- function(input, output) {
   
   # dataframes for Shiny - todo rewrite into generic
   # Dickens
-  bleakhouse_entropy <- read.csv(file = "../TLit/www/output/bleakhouse_gutenberg_entropy_csv.txt", sep = ",")
-  bleakhouse_character_first_last <- read.csv(file = "../TLit/www/output/bleakhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  bleakhouse_character_all <- read.csv(file = "../TLit/www/output/bleakhouse_gutenberg_character_frequency_csv.txt", sep = ",")
-  bleakhouse_stats <- read.csv2(file='../TLit/www/output/bleakhouse_netstat.csv', header = T)
+  bleakhouse_entropy <- read.csv(file = "www/output/bleakhouse_gutenberg_entropy_csv.txt", sep = ",")
+  bleakhouse_character_first_last <- read.csv(file = "www/output/bleakhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  bleakhouse_character_all <- read.csv(file = "www/output/bleakhouse_gutenberg_character_frequency_csv.txt", sep = ",")
+  bleakhouse_stats <- read.csv2(file='www/output/bleakhouse_netstat.csv', header = T)
   
-  davidcopperfield_entropy <- read.csv(file = "../TLit/www/output/davidcopperfield_gutenberg_entropy_csv.txt", sep = ",")
-  davidcopperfield_character_first_last <- read.csv(file = "../TLit/www/output/davidcopperfield_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  davidcopperfield_character_all <- read.csv(file = "../TLit/www/output/davidcopperfield_gutenberg_character_frequency_csv.txt", sep = ",")
-  davidcopperfield_stats <- read.csv2(file='../TLit/www/output/davidcopperfield_netstat.csv', header = T)
+  davidcopperfield_entropy <- read.csv(file = "www/output/davidcopperfield_gutenberg_entropy_csv.txt", sep = ",")
+  davidcopperfield_character_first_last <- read.csv(file = "www/output/davidcopperfield_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  davidcopperfield_character_all <- read.csv(file = "www/output/davidcopperfield_gutenberg_character_frequency_csv.txt", sep = ",")
+  davidcopperfield_stats <- read.csv2(file='www/output/davidcopperfield_netstat.csv', header = T)
   
-  greatexpectations_entropy <- read.csv(file = "../TLit/www/output/greatexpectations_gutenberg_entropy_csv.txt", sep = ",")
-  greatexpectations_character_first_last <- read.csv(file = "../TLit/www/output/greatexpectations_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  greatexpectations_character_all <- read.csv(file = "../TLit/www/output/greatexpectations_gutenberg_character_frequency_csv.txt", sep = ",")
-  greatexpectations_stats <- read.csv2(file='../TLit/www/output/greatexpectations_netstat.csv', header = T)
+  greatexpectations_entropy <- read.csv(file = "www/output/greatexpectations_gutenberg_entropy_csv.txt", sep = ",")
+  greatexpectations_character_first_last <- read.csv(file = "www/output/greatexpectations_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  greatexpectations_character_all <- read.csv(file = "www/output/greatexpectations_gutenberg_character_frequency_csv.txt", sep = ",")
+  greatexpectations_stats <- read.csv2(file='www/output/greatexpectations_netstat.csv', header = T)
   
-  chuzzlewit_entropy <- read.csv(file = "../TLit/www/output/chuzzlewit_gutenberg_entropy_csv.txt", sep = ",")
-  chuzzlewit_character_first_last <- read.csv(file = "../TLit/www/output/chuzzlewit_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  chuzzlewit_character_all <- read.csv(file = "../TLit/www/output/chuzzlewit_gutenberg_character_frequency_csv.txt", sep = ",")
-  chuzzlewit_stats <- read.csv2(file='../TLit/www/output/chuzzlewit_netstat.csv', header = T)
+  chuzzlewit_entropy <- read.csv(file = "www/output/chuzzlewit_gutenberg_entropy_csv.txt", sep = ",")
+  chuzzlewit_character_first_last <- read.csv(file = "www/output/chuzzlewit_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  chuzzlewit_character_all <- read.csv(file = "www/output/chuzzlewit_gutenberg_character_frequency_csv.txt", sep = ",")
+  chuzzlewit_stats <- read.csv2(file='www/output/chuzzlewit_netstat.csv', header = T)
   
-  ourmutualfriend_entropy <- read.csv(file = "../TLit/www/output/ourmutualfriend_gutenberg_entropy_csv.txt", sep = ",")
-  ourmutualfriend_character_first_last <- read.csv(file = "../TLit/www/output/ourmutualfriend_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  ourmutualfriend_character_all <- read.csv(file = "../TLit/www/output/ourmutualfriend_gutenberg_character_frequency_csv.txt", sep = ",")
+  ourmutualfriend_entropy <- read.csv(file = "www/output/ourmutualfriend_gutenberg_entropy_csv.txt", sep = ",")
+  ourmutualfriend_character_first_last <- read.csv(file = "www/output/ourmutualfriend_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  ourmutualfriend_character_all <- read.csv(file = "www/output/ourmutualfriend_gutenberg_character_frequency_csv.txt", sep = ",")
   
-  pickwick_entropy <- read.csv(file = "../TLit/www/output/pickwick_gutenberg_entropy_csv.txt", sep = ",")
-  pickwick_character_first_last <- read.csv(file = "../TLit/www/output/pickwick_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  pickwick_character_all <- read.csv(file = "../TLit/www/output/pickwick_gutenberg_character_frequency_csv.txt", sep = ",")
+  pickwick_entropy <- read.csv(file = "www/output/pickwick_gutenberg_entropy_csv.txt", sep = ",")
+  pickwick_character_first_last <- read.csv(file = "www/output/pickwick_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  pickwick_character_all <- read.csv(file = "www/output/pickwick_gutenberg_character_frequency_csv.txt", sep = ",")
   
   # Trollope
-  phineasfinn_entropy <- read.csv(file = "../TLit/www/output/phineasfinn_gutenberg_entropy_csv.txt", sep = ",")
-  phineasfinn_character_first_last <- read.csv(file = "../TLit/www/output/phineasfinn_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  phineasfinn_character_all <- read.csv(file = "../TLit/www/output/phineasfinn_gutenberg_character_frequency_csv.txt", sep = ",")
+  phineasfinn_entropy <- read.csv(file = "www/output/phineasfinn_gutenberg_entropy_csv.txt", sep = ",")
+  phineasfinn_character_first_last <- read.csv(file = "www/output/phineasfinn_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  phineasfinn_character_all <- read.csv(file = "www/output/phineasfinn_gutenberg_character_frequency_csv.txt", sep = ",")
   
-  smallhouse_entropy <- read.csv(file = "../TLit/www/output/smallhouse_gutenberg_entropy_csv.txt", sep = ",")
-  smallhouse_character_first_last <- read.csv(file = "../TLit/www/output/smallhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  smallhouse_character_all <- read.csv(file = "../TLit/www/output/smallhouse_gutenberg_character_frequency_csv.txt", sep = ",")
+  smallhouse_entropy <- read.csv(file = "www/output/smallhouse_gutenberg_entropy_csv.txt", sep = ",")
+  smallhouse_character_first_last <- read.csv(file = "www/output/smallhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
+  smallhouse_character_all <- read.csv(file = "www/output/smallhouse_gutenberg_character_frequency_csv.txt", sep = ",")
   
   
   #resource path for network visulisations

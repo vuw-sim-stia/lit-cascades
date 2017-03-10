@@ -38,8 +38,8 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #select which texts to process
-#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit')
-litSources <- c('bleakhouse')
+litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
+#litSources <- c('bleakhouse')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -80,7 +80,7 @@ for(theSource in litSources){
   for(h in 1:length(words300B)){
     htmlContent <- paste(htmlContent,"<p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p>",sep='')
   }
-  write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('../TLit/www/output/',theSource,'_textchunks.html',sep=''))
+  write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',theSource,'_textchunks.html',sep=''))
   
   #character list
   tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
@@ -208,11 +208,11 @@ for(theSource in litSources){
   compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
-  render.d3movie(nd, filename=paste("../TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
+  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
                  displaylabels = T, label=nd %v% "vertex.names",
                  vertex.col="white",edge.col="darkgray",label.cex=.6,
                  vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../TLit/www/output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
                  edge.len = 5, uselen = T,object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
@@ -240,12 +240,12 @@ for(theSource in litSources){
   co <- layout_with_fr(g, minx=minC, maxx=maxC,
                        miny=minC, maxy=maxC)
   
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_net.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_net.pdf",sep=''))
   plot(g, layout=co*1.0, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
   deg <- degree(g, mode="all")
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_net_degdistri.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_net_degdistri.pdf",sep=''))
   deg.dist <- degree_distribution(g, cumulative=T, mode="all")
   plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
   dev.off()
@@ -253,7 +253,7 @@ for(theSource in litSources){
   degd <- degree.distribution(g)
   wtc <- cluster_walktrap(g)
   gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
-  write.csv2(gstat,paste("../TLit/www/output/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
+  write.csv2(gstat,paste("TLit/www/output/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
   
   nodes <- as.data.frame(nodes,stringsAsFactors=F)
   colnames(nodes) <- c('id','title','label')
@@ -292,7 +292,7 @@ for(theSource in litSources){
   co <- layout_with_fr(h, minx=minC, maxx=maxC,
                        miny=minC, maxy=maxC)
   
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
@@ -331,7 +331,7 @@ for(theSource in litSources){
   co <- layout_with_fr(h, minx=minC, maxx=maxC,
                        miny=minC, maxy=maxC)
   
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_socnet2.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet2.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
@@ -340,11 +340,11 @@ for(theSource in litSources){
   rownames(netm) <- V(h)$name
   
   palf <- colorRampPalette(c("gold", "dark orange")) 
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_socnet_heatmap.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet_heatmap.pdf",sep=''))
   heatmap(netm[,17:1], Rowv = NA, Colv = NA, col = palf(100), scale="none", margins=c(20,20) )
   dev.off()
   
-  pdf(paste("../TLit/www/output/",theSource,"_gutenberg_dh_socnet_degdistri.pdf",sep=''))
+  pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet_degdistri.pdf",sep=''))
   deg.dist <- degree_distribution(h, cumulative=T, mode="all")
   plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
   dev.off()
@@ -353,23 +353,23 @@ for(theSource in litSources){
   degd <- degree.distribution(h)
   wtc <- cluster_walktrap(h)
   gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
-  write.csv2(gstat,paste("../TLit/www/output/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
+  write.csv2(gstat,paste("TLit/www/output/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
   
   ####
   
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_links_source_nrow.jpg",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_links_source_nrow.jpg",sep=''))
   plot(links[,2],c(1:nrow(links)),pch=".")
   dev.off()
   
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_links_targets.jpg",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_links_targets.jpg",sep=''))
   plot(count(unlist(links[,2]))$freq,type='l')
   dev.off()
   write.csv(cbind(unlist(links[,2]),links[,3]),file=paste('../gutenberg_targets.txt',sep=''))
   
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_links_sources.jpg",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_links_sources.jpg",sep=''))
   plot(count(unlist(links[,1]))$freq,type='l')
   dev.off()
-  write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("../TLit/www/output/",theSource,"_gutenberg_sources.txt",sep=''))
+  write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("TLit/www/output/",theSource,"_gutenberg_sources.txt",sep=''))
   
   agg <- as.numeric(links[,2]) - as.numeric(links[,1])
   plot(c(1:length(agg)),agg,pch='.')
@@ -430,15 +430,15 @@ for(theSource in litSources){
     colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
   }
   colnames(coordinates) <- c("t","specificity","diversity")
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_coordinates.jpg",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_coordinates.jpg",sep=''))
   scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
   dev.off()
   
-  write.csv(ent,file=paste("../TLit/www/output/",theSource,"_gutenberg_entropy.txt",sep=''))
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_entropy.jpg",sep=''))
+  write.csv(ent,file=paste("TLit/www/output/",theSource,"_gutenberg_entropy.txt",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_entropy.jpg",sep=''))
   plot(ent[,1],type="l")
   dev.off()
-  jpeg(paste("../TLit/www/output/",theSource,"_gutenberg_evenness.jpg",sep=''))
+  jpeg(paste("TLit/www/output/",theSource,"_gutenberg_evenness.jpg",sep=''))
   plot(ent[,2],type="l")
   dev.off()
   
@@ -456,8 +456,8 @@ for(theSource in litSources){
   ggplot(newDat, aes(x=Node, y=Character)) + 
     geom_point(size=1, shape = 23) + 
     scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
-  ggsave(paste("../TLit/www/output/",theSource,"_gutenberg_character_frequency.pdf",sep=''),scale = 1:2)
-  write.csv(newDat,file=paste("../TLit/www/output/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''))
+  ggsave(paste("TLit/www/output/",theSource,"_gutenberg_character_frequency.pdf",sep=''),scale = 1:2)
+  write.csv(newDat,file=paste("TLit/www/output/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''))
   
   # scatterplot for first and last character appearance
   firstNode <- aggregate(Node ~ Character,newDat,min)
@@ -470,15 +470,15 @@ for(theSource in litSources){
   ggplot(combined, aes(x = Node, y = Character, group=Type, col=Type)) + 
     geom_point(size=1.5, shape = 23) +
     scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
-  ggsave(paste("../TLit/www/output/",theSource,"_gutenberg_first_last_character_appearance.pdf",sep=''),scale = 1:2)
-  write.csv(combined,file=paste("../TLit/www/output/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''))
+  ggsave(paste("TLit/www/output/",theSource,"_gutenberg_first_last_character_appearance.pdf",sep=''),scale = 1:2)
+  write.csv(combined,file=paste("TLit/www/output/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''))
   
   # .txt list of character appearance
   charfreqcsv <- ddply(newDat, .(Character), summarize, Node = toString(Node))
-  write.csv(charfreqcsv[,c("Character","Node")],file=paste("../TLit/www/output/",theSource,"_gutenberg_listofcharacterfreq.txt",sep=''), row.names = F)
+  write.csv(charfreqcsv[,c("Character","Node")],file=paste("TLit/www/output/",theSource,"_gutenberg_listofcharacterfreq.txt",sep=''), row.names = F)
   
   #.txt list of number of appearances for each character
-  write.csv(numberchar,file=paste("../TLit/www/output/",theSource,"_gutenberg_totalnumberofcharacterfreq.txt",sep=''), row.names = F)
+  write.csv(numberchar,file=paste("TLit/www/output/",theSource,"_gutenberg_totalnumberofcharacterfreq.txt",sep=''), row.names = F)
   
   # new entropy graph
   entgraph <- data.frame(ent)
@@ -489,7 +489,7 @@ for(theSource in litSources){
     geom_point(size=.2, shape = 23) + geom_line(linetype = 2, size=.2) +
     scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50)) +
     scale_y_continuous (limits = c(0,5)) 
-  ggsave(paste("../TLit/www/output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
-  write.csv(entgraph,file=paste("../TLit/www/output/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
+  ggsave(paste("TLit/www/output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
+  write.csv(entgraph,file=paste("TLit/www/output/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
   
 }
