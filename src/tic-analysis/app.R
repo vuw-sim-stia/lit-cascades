@@ -32,7 +32,7 @@ ui <- shinyUI(absolutePanel(
 
 server <- function(input, output) {
   
-  addResourcePath("locpath", "/Users/mlr/Documents/git-projects/lit-cascades/output")
+  addResourcePath("locpath", "/Users/tomgoldfinch/Documents/Research/lit-cascades/output")
   
   output$networkvisualisation <- renderUI({
     tagList(tags$iframe(

@@ -13,16 +13,28 @@ library(plotly)
 
 ui <- shinyUI(absolutePanel(
   width=1600,
-  height=1600,
-  tags$link(
-    href=paste0("http://fonts.googleapis.com/css?",
-                "family=Source+Sans+Pro:300,600,300italic"),
-    rel="stylesheet", type="text/css"),
-  tags$style(type="text/css",
-             "body {font-family: 'Source Sans Pro'}"),
-  navbarPage("Character co-occurrence in English literature - a distant reading prototype",
-             tabPanel("Home"),
-             
+  height=1000,
+  navbarPage("Towards a Computational Literary Science",
+             tabPanel("Home",
+                      titlePanel(
+                        h1(strong("Towards a Computational",br("Literary Science")))),
+                      sidebarLayout(
+                      sidebarPanel(
+                        h4("Team"),
+                          p("Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the spearheading digital futures theme, which is part of the areas of strategic distictiveness of Victoria University of Wellington."),
+                        h5("Markus Luczak-Roesch"),
+                          p("Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant",a(href="sociam.org",target="_blank","SOCIAM - The Theory and Practice of Social Machines"),"at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems.", br("More information:",a(href="http://markus-luczak.de",target="_blank","http://markus-luczak.de"))),
+                        h5("Adam Grener"),
+                          p("Adam Grener is Lecturer in the English Programme at Victoria University of Wellington. His main area of research is the nineteenth-century British novel, though he also has interest in the history of the novel, narrative theory, and computational approaches to literature. His work has appeared in the journals Genre, Narrative, and Modern Philology, and he is the co-editor of a special issue of Genre, “Narrative Against Data in the Victorian Novel,” set to appear in March 2017. He is completing a book on realist aesthetics and the history of probabilistic thought.", br("More information:",a(href="http://www.victoria.ac.nz/seftms/about/staff/adam-grener",target="-blank","http://www.victoria.ac.nz/seftms/about/staff/adam-grener"))),
+                        h5("Research Assistants"),
+                          p("Tom Goldfinch", br("Emma Fenton"))),
+                      mainPanel(
+                        br(),
+                          img(src='net5.png', height = 500, width = 1000, align = "center"),
+                        h4("Project Abstract"),
+                          p("Data-driven analysis has emerged as a growing methodology, if not sub-discipline within literary studies. This approach, broadly described as “distant reading”, has harnessed available technology to open new avenues for how we understand literary texts, both individually and in the aggregate. Whereas traditional literary scholarship is generally grounded in the interpretation of the specific language of a text or body of texts, macroanalytic approaches have offered new ways of seeing texts. This interdisciplinary research project at the Victoria University of Wellington is an attempt to theorise the relationship between macroanalytic and microanalytic (distant and close) readings of individual works."),
+                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Project on GitHub"))
+                        ))),
              tabPanel("Statistics",
                       sidebarPanel(
                         helpText("From the below options, select a text and range of nodes to examine; alternately, you can hover over the graph to display various interactive methods."),
@@ -107,7 +119,7 @@ server <- function(input, output) {
   
   
   #resource path for network visulisations
-  addResourcePath("locpath", "/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output")
+  addResourcePath("locpath", "/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output")
   
   #dynamic slider range for characters
   
@@ -218,42 +230,42 @@ server <- function(input, output) {
   #network visualisations    
   output$networkvisualisation_greatexpectations <- renderUI({
     tagList(tags$iframe(src=paste("locpath/greatexpectations_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_davidcopperfield <- renderUI({
     tagList(tags$iframe(src=paste("locpath/davidcopperfield_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_chuzzlewit <- renderUI({
     tagList(tags$iframe(src=paste("locpath/chuzzlewit_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_bleakhouse <- renderUI({
     tagList(tags$iframe(src=paste("locpath/bleakhouse_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_pickwick <- renderUI({
     tagList(tags$iframe(src=paste("locpath/pickwick_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_ourmutualfriend <- renderUI({
     tagList(tags$iframe(src=paste("locpath/ourmutualfriend_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_phineasfinn <- renderUI({
     tagList(tags$iframe(src=paste("locpath/phineasfinn_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_smallhouse <- renderUI({
     tagList(tags$iframe(src=paste("locpath/smallhouse_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
 }
