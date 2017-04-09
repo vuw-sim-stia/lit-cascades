@@ -35,11 +35,11 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
+setwd("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/")
 
 #select which texts to process
-litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
-#litSources <- c('bleakhouse')
+#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
+litSources <- c('greatexpectations')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -171,7 +171,7 @@ for(theSource in litSources){
   library(networkDynamic)
   library(ndtv)
   library(tsna)
-  
+ 
   nd <- as.networkDynamic(network.initialize(0))
   set.network.attribute(nd,"vertex.pid","vertex.names")
   set.network.attribute(nd,"edge.pid","edge.names")
@@ -208,14 +208,15 @@ for(theSource in litSources){
   compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
-  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
-                 displaylabels = T, label=nd %v% "vertex.names",
-                 vertex.col="white",edge.col="darkgray",label.cex=.6,
-                 vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
-                 edge.lwd = (nd %e% "width"),
-                 edge.len = 5, uselen = T,object.scale = 0.1,
-                 edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+  #render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
+                 #displaylabels = T, label=nd %v% "vertex.names",
+                 #vertex.col="white",edge.col="darkgray",label.cex=.6,
+                 #vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
+                 #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 #edge.lwd = (nd %e% "width"),
+                 #edge.len = 5, uselen = T,object.scale = 0.1,
+                 #edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+  
   detach("package:ndtv", unload=TRUE)
   detach("package:tsna", unload=TRUE)
   detach("package:sna", unload=TRUE)
@@ -292,6 +293,9 @@ for(theSource in litSources){
   co <- layout_with_fr(h, minx=minC, maxx=maxC,
                        miny=minC, maxy=maxC)
   
+  ## new Social Network visIgraph
+  visIgraph(h,smooth=T) %>% visNodes(shadow = T,font=list(size=16)) %>% visEdges(color=list(color="grey"),font = list(color="grey",size=10)) %>% visOptions(highlightNearest=T,height = "200%",width="200%") %>% visIgraphLayout(physics=FALSE, smooth=TRUE) %>% visSave(file=paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
+
   pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
@@ -492,4 +496,20 @@ for(theSource in litSources){
   ggsave(paste("TLit/www/output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
   write.csv(entgraph,file=paste("TLit/www/output/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
   
+  library(networkDynamic)
+  library(ndtv)
+  library(tsna)
+  
+  ## new static network      
+  net3 <- network(links, vertex.attr=nodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)        
+  render.d3movie(net3, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=F,
+                 displaylabels=F,label=net3 %v% "vertex.names",
+                 vertex.col="white",edge.col="darkgray",label.cex=.6,
+                 vertex.cex=function(slice){degree(slice)/10},
+                 edge.lwd=function(slice){degree(slice)/10},
+                 vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(net3 %v% "label"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
+                 vertex.border="#000000",
+                 #edge.lwd = (net3 %e% "width"),
+                 object.scale = 20)
+                 #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
 }

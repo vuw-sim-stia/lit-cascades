@@ -1,0 +1,32 @@
+YngBaileyMC: Bailey
+MrBevanMC: Bevan
+ChuffeyMC: Chuffey
+AnthonyChuzzMC: Anthony
+GeorgeChuzzMC: George
+JonasChuzzMC: Jonas
+MartinJrMC: Martin
+MartinSrMC: OldMC, Mr Chuzzlewit
+MrsGampMC: Gamp
+MaryMC: Mary, Miss Graham
+MrsHominyMC: Hominy
+MrsJinkinsMC: Jinkins
+DocJoblingMC: Jobling
+LewsomeMC: Lewsome
+MrsLupinMC: Lupin
+AugModdleMC: Moddle, Augustus, youngest gentleman
+TiggMontagueMC: Tigg, Montague
+MrMouldMC: Mr Mould
+NadgettMC: Nadgett
+CharityPeckMC: Charity
+MercyPeckMC: Merry
+SethPeckMC: Mr Pecksniff
+RuthPinchMC: Ruth, Miss Pinch
+TomPinchMC: Tom, Mr Pinch
+MrsPrigMC: Mrs Prig, Betsey
+ChevySlymeMC: Slyme
+MrMrsSpottletoeMC: Spottletoe
+PollSweedleMC: Sweedle
+MrsTodgersMC: Mrs Todgers
+WestlockMC: John, Westlock
+MarkTapleyMC: Mark, Mr Tapley
+AnonyWomanMC: NONNY

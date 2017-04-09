@@ -1,0 +1,75 @@
+YngBaileyMC: Bailey
+MrBevanMC: Bevan
+BibMC: Julius Bib
+JeffBrickMC: Mr Brick, Jefferson Brick
+BuffumMC: Buffum
+BullamyMC: Bullamy
+ChiggleMC: Chiggle
+GenChokeMC: General Choke, Cyrus Choke
+MajChollopMC: Chollop
+ChuffeyMC: Chuffey
+AnthonyChuzzMC: Anthony
+GeorgeChuzzMC: George
+JonasChuzzMC: Jonas
+MartinJrMC: Martin
+MartinSrMC: OldMC, Mr Chuzzlewit
+MrsNedChuzzMC: Mrs Ned, strong-minded
+CiceroMC: Cicero
+MsCodgerMC: Codger
+CrimpleMC: Crimple
+ColDiverMC: Colonel Diver
+DocDunkleMC: Dunkle
+MrFipsMC: Fips
+GenFladdockMC: Fladdock
+MrsGampMC: Gamp
+MrGanderMC: Gander
+MrsGillMC: Mrs Gill
+MaryMC: Mary, Miss Graham
+ColGroperMC: Groper
+MrsHominyMC: Hominy
+MrIzzardMC: Izzard
+JackCoachMC: Jakk
+JaneMC: Jane
+MrsJinkinsMC: Jinkins
+DocJoblingMC: Jobling
+JoddMC: Jodd
+CaptKedgickMC: Kedgick
+LFKettleMC: Kettle
+LewsomeMC: Lewsome
+LummyNedMC: Lummy
+MrsLupinMC: Lupin
+AugModdleMC: Moddle, Augustus, youngest gentleman
+TiggMontagueMC: Tigg, Montague
+MrMouldMC: Mr Mould
+MrsMouldMC: Mrs Mould
+MissesMouldMC: Misses Mould
+ProfMullitMC: Mullit
+NadgettMC: Nadgett
+NorrisMC: Mr Norris
+MrsNorrisMC: Mrs Norris
+MajPawkinsMC: Major Pawkins
+MrsPawkinsMC: Mrs Pawkins
+CharityPeckMC: Charity
+MercyPeckMC: Merry
+SethPeckMC: Mr Pecksniff
+RuthPinchMC: Ruth, Miss Pinch
+TomPinchMC: Tom, Mr Pinch
+MrPipMC: Mr Pip
+ProfPiperMC: Professor Piper
+PogramMC: Pogram
+MrsPrigMC: Mrs Prig, Betsey
+ScadderMC: Scadder
+WlmSimmonsMC: Simmons
+ChevySlymeMC: Slyme
+PutnamSmifMC: Smif
+SophiaMC: Sophia
+MrMrsSpottletoeMC: Spottletoe
+PollSweedleMC: Sweedle
+TackerMC: Tacker
+TamarooMC: Tamaroo
+MrsTodgersMC: Mrs Todgers
+MsToppitMC: Toppit
+WestlockMC: John, Westlock
+MrWolfMC: Mr Wolf
+MarkTapleyMC: Mark, Mr Tapley
+AnonyWomanMC: NONNY

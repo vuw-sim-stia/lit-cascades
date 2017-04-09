@@ -1,0 +1,96 @@
+MrBadgerBH: Badger, Mr. Badger
+MrsBadgerBH: Mrs. Badger, Mrs. Bayham Badger
+MattBagnetBH: Mr. Bagnet, Matthew Bagnet, Lignum
+MrsBagnetBH: Mrs. Bagnet
+MaltaBagnetBH: Malta
+QuebecBagnetBH: Quebec
+WoolwichBagnetBH: Woolwich
+MsBarbaryBH: Miss Barbary
+MrsBlinderBH: Blinder
+MrBlowersBH: Blower
+BogsbyBH: Bogsby
+LordBoodleBH: Boodle
+BoythornBH: Boythorn
+BucketBH: Mr. Bucket, Inspector Bucket
+MrsBucketBH: Mrs. Bucket
+BuffyBH: Buffy
+CarstoneBH: Richard, Mr. Carstone
+RevChadbandBH: Mr. Chadband, Reverend Chadband
+MrsChadbandBH: Mrs. Rachael, Mrs. Chadband
+CharleyBH: Charley, Charlotte
+AdaClareBH: Ada, Miss Clare
+CoavinsesBH: Coavinses, Neckett
+DarbyBH: Darby
+LadyDedlockBH: my Lady, Lady Dedlock, Honoria, 
+SirDedlockBH: Sir Leicester
+VolumniaDedBH: Volumnia
+ProfDingoBH: Dingo
+MissDonnyBH: Miss Donny
+MissFliteBH: Flite
+GridleyBH: Gridley, man from Shropshire
+MrGrubbleBH: Grubble
+GuppyBH: Guppy
+MrsGuppyBH: Mrs. Guppy
+GusterBH: Guster
+MrGusherBH: Gusher
+NemoBH: Nemo, Hawdon
+HortenseBH: Hortense, mademoiselle
+JohnJarndyceBH: cousin John, John Jarndyce, Mr. Jarndyce
+CaddyBH: Caddy, Caroline
+MrsJellby: Mrs. Jellby
+MrJellbyBH: Mr. Jellyby
+PeepyJellby: Peepy
+JennyBH: Jenny
+JoBH: Jo, Toughey, crossing-sweeping boy
+JoblingBH: Weevle, Jobling, Tony
+ConvoKengeBH: Mr. Kenge, Conversation Kenge
+KrookBH: Krook
+LizBH: Liz
+MsMelvillesonBH: Melvilleson 
+MercuryBH: Mercury
+MooneyBH: Mooney
+EmmaNeckettBH: Emma
+TomNeckettBH: TomNeckett
+MrPardiggleBH: Mr. Pardiggle
+MrsPardiggleBH: Mrs. Pardiggle
+AlfredParBH: Alfred
+EgbertParBH: Egbert
+FrancisParBH: Francis
+OswaldParBH: Oswald
+PefferBH: Peffer
+MrsPerkinsBH: Perkins
+MrsPiperBH: Mrs. Piper
+PollyBH: Polly
+PriscillaBH: Priscilla
+MrQualeBH: Quale
+RosaBH: Rosa
+GeorgeRouncewellBH: Mr. George, George Rouncewell
+MrRouncewellBH: Mr. Rouncewell
+MrsRouncewellBH: Mrs. Rouncewell
+WattRouncewellBH: Watt
+SkimpoleBH: Mr. Skimpole, Harold
+MrsSkimpoleBH: Mrs. Skimpole
+ArethusaSkimpBH: Arethusa, Beauty daughter
+KittySkimBH: Kitty, Comedy
+LauraSkimpBH: Laaaura, Sentiment
+SladderyBH: Sladdery
+BartSmallweedBH: Bartholomew, Chick, Young Smallweed, Bart
+GrandpaSmallweedBH: Grandfather, Mr. Smallweed
+MrsSmallweedBH: Mrs. Smallweed
+JudySmallweedBH: Judy
+MrSnagsbyBH: Mr. Snagsby
+MrsSnagsbyBH: Mrs. Snagsby
+PhilSquodBH: Phil, Mr. Squod
+BobStablesBH: Stables
+EstherBH: Esther, Dame Durden, Mother Hubbard, Mrs. Shipton
+LittleSwillsBH: Swills
+CaptSwosserBH: Captain Swosser
+MrTangleBH: Tangle
+ThomasBH: Thummas
+TulkinghornBH: Tulkinghorn, the lawyer
+MrTurveydropBH: Mr. Turveydrop
+PrinceTurveyBH: Prince
+VholesBH: Vholes
+MissWiskBH: Wisk
+AllanWdctBH: Allan, Mr. Woodcourt
+MrsWoodcourtBH: Mrs. Woodcourt

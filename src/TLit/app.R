@@ -35,6 +35,27 @@ ui <- shinyUI(absolutePanel(
                           p("Data-driven analysis has emerged as a growing methodology, if not sub-discipline within literary studies. This approach, broadly described as “distant reading”, has harnessed available technology to open new avenues for how we understand literary texts, both individually and in the aggregate. Whereas traditional literary scholarship is generally grounded in the interpretation of the specific language of a text or body of texts, macroanalytic approaches have offered new ways of seeing texts. This interdisciplinary research project at the Victoria University of Wellington is an attempt to theorise the relationship between macroanalytic and microanalytic (distant and close) readings of individual works."),
                         h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Project on GitHub"))
                         ))),
+             tabPanel("Dynamic Network",
+                      sidebarPanel(
+                        helpText("The Dynamic Network provides a method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window.")),
+                      mainPanel(
+                        tabsetPanel(
+                          tabPanel("Bleak House",
+                                   htmlOutput("networkvisualisation_bleakhouse")),
+                          tabPanel("David Copperfield",
+                                   htmlOutput("networkvisualisation_davidcopperfield")),
+                          tabPanel("Great Expectations",  
+                                   htmlOutput("networkvisualisation_greatexpectations")),
+                          tabPanel("Martin Chuzzlewit",
+                                   htmlOutput("networkvisualisation_chuzzlewit")),
+                          tabPanel("Our Mutual Friend",
+                                   htmlOutput("networkvisualisation_ourmutualfriend")),
+                          tabPanel("Pickwick Papers",
+                                   htmlOutput("networkvisualisation_pickwick")),
+                          tabPanel("Phineas Finn",
+                                   htmlOutput("networkvisualisation_phineasfinn")),
+                          tabPanel("Small House",
+                                   htmlOutput("networkvisualisation_smallhouse"))))),
              tabPanel("Statistics",
                       sidebarPanel(
                         helpText("From the below options, select a text and range of nodes to examine; alternately, you can hover over the graph to display various interactive methods."),
@@ -53,28 +74,20 @@ ui <- shinyUI(absolutePanel(
                         tabPanel("All Character Appearances", 
                                  fluidRow(column(width = 12,
                                                  plotlyOutput("plot_character_appearance_all", height = 800))))))),
-             
-             tabPanel("Network Visualisation",
+              tabPanel("Static Network",
                       sidebarPanel(
-                        helpText("The Network Visualisation provides a dynamic method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window.")),
+                        helpText("The Static Network provides a high-level view of the final slide of the Dynamic Network. Click on a node for the slice number, and characters contained within the slice.")),
                       mainPanel(
                         tabsetPanel(
-                          tabPanel("Bleak House",
-                                   htmlOutput("networkvisualisation_bleakhouse")),
-                          tabPanel("David Copperfield",
-                                   htmlOutput("networkvisualisation_davidcopperfield")),
-                          tabPanel("Great Expectations",  
-                                   htmlOutput("networkvisualisation_greatexpectations")),
-                          tabPanel("Martin Chuzzlewit",
-                                   htmlOutput("networkvisualisation_chuzzlewit")),
-                          tabPanel("Our Mutual Friend",
-                                   htmlOutput("networkvisualisation_ourmutualfriend")),
-                          tabPanel("Pickwick Papers",
-                                   htmlOutput("networkvisualisation_pickwick")),
-                          tabPanel("Phineas Finn",
-                                   htmlOutput("networkvisualisation_phineasfinn")),
-                          tabPanel("Small House",
-                                   htmlOutput("networkvisualisation_smallhouse"))))))))
+                          tabPanel("Great Expectations",
+                                   htmlOutput("staticnetwork_greatexpectations"))))),
+             tabPanel("Social Network",
+                      sidebarPanel(
+                        helpText("The Social Network provides a dynamic method of viewing relationships between characters within a text. Click on a node to reveal the name of the character it represents, and note which other characters are highlighted in relation. Drag nodes around to find out more about the relationships between characters.")),
+                      mainPanel(
+                        tabsetPanel(
+                          tabPanel("Great Expectations",
+                                   htmlOutput("socialnetwork_greatexpectations"))))))))
 
 server <- function(input, output) {
   
@@ -267,6 +280,21 @@ server <- function(input, output) {
     tagList(tags$iframe(src=paste("locpath/smallhouse_dynamic-network.html",sep=""), width=1000, height=800))
     #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
+  
+  ## STATIC NETWORK
+  
+  output$staticnetwork_greatexpectations <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/greatexpectations_static-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+  })
+  
+  ## SOCIAL NETWORK
+  
+  output$socialnetwork_greatexpectations <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/greatexpectations_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+  })
+  
   
 }
 
