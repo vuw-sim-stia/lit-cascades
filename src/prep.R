@@ -208,14 +208,14 @@ for(theSource in litSources){
   compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
-  #render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
-                 #displaylabels = T, label=nd %v% "vertex.names",
-                 #vertex.col="white",edge.col="darkgray",label.cex=.6,
-                 #vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-                 #vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("../output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
-                 #edge.lwd = (nd %e% "width"),
-                 #edge.len = 5, uselen = T,object.scale = 0.1,
-                 #edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
+                 displaylabels = T, label=nd %v% "vertex.names",
+                 vertex.col="white",edge.col="darkgray",label.cex=.6,
+                 vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 edge.lwd = (nd %e% "width"),
+                 edge.len = 5, uselen = T,object.scale = 0.1,
+                 edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   
   detach("package:ndtv", unload=TRUE)
   detach("package:tsna", unload=TRUE)
@@ -295,7 +295,23 @@ for(theSource in litSources){
   
   ## new Social Network visIgraph
   visIgraph(h,smooth=T) %>% visNodes(shadow = T,font=list(size=16)) %>% visEdges(color=list(color="grey"),font = list(color="grey",size=10)) %>% visOptions(highlightNearest=T,height = "200%",width="200%") %>% visIgraphLayout(physics=FALSE, smooth=TRUE) %>% visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
-
+  
+  #todo: fix this to replace igraphVis
+  #tmpNodes <- V(h)$names
+  #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
+  #tmpSoc <- network(tmpEdges, vertex.attr=tmpNodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)
+  #compute.animation(tmpSoc, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
+  #render.d3movie(tmpSoc, filename=paste("TLit/www/output/",theSource,"_social-network2.html",sep=''),launchBrowser=T,
+      #displaylabels=F,label=tmpSoc %v% "vertex.names",
+      #vertex.col="white",edge.col="darkgray",label.cex=.6,
+      #vertex.cex=function(slice){degree(slice)/10},
+      #edge.lwd=function(slice){degree(slice)/10},
+      #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(tmpSoc %v% "name"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
+      #vertex.border="#000000",
+      #edge.lwd = (net3 %e% "width"),
+      #edge.len = 5, uselen = T,object.scale = 0.1)
+      #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
+  
   pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
@@ -501,15 +517,16 @@ for(theSource in litSources){
   library(tsna)
   
   ## new static network      
-  net3 <- network(links, vertex.attr=nodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)        
-  render.d3movie(net3, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=F,
-                 displaylabels=F,label=net3 %v% "vertex.names",
-                 vertex.col="white",edge.col="darkgray",label.cex=.6,
-                 vertex.cex=function(slice){degree(slice)/10},
-                 edge.lwd=function(slice){degree(slice)/10},
-                 vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(net3 %v% "label"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
-                 vertex.border="#000000",
+  #net3 <- network(links, vertex.attr=nodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)
+  #compute.animation(net3, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
+  #render.d3movie(net3, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=T,
+                 #displaylabels=F,label=net3 %v% "vertex.names",
+                 #vertex.col="white",edge.col="darkgray",label.cex=.6,
+                 #vertex.cex=function(slice){degree(slice)/10},
+                 #edge.lwd=function(slice){degree(slice)/10},
+                 #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(net3 %v% "label"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
+                 #vertex.border="#000000",
                  #edge.lwd = (net3 %e% "width"),
-                 object.scale = 20)
+                 #edge.len = 5, uselen = T,object.scale = 0.1)
                  #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
 }

@@ -74,20 +74,34 @@ ui <- shinyUI(absolutePanel(
                         tabPanel("All Character Appearances", 
                                  fluidRow(column(width = 12,
                                                  plotlyOutput("plot_character_appearance_all", height = 800))))))),
-              tabPanel("Static Network",
-                      sidebarPanel(
-                        helpText("The Static Network provides a high-level view of the final slide of the Dynamic Network. Click on a node for the slice number, and characters contained within the slice.")),
-                      mainPanel(
-                        tabsetPanel(
-                          tabPanel("Great Expectations",
-                                   htmlOutput("staticnetwork_greatexpectations"))))),
+              #tabPanel("Static Network",
+                      #sidebarPanel(
+                        #helpText("The Static Network provides a high-level view of the final slide of the Dynamic Network. Click on a node for the slice number, and characters contained within the slice.")),
+                      #mainPanel(
+                        #tabsetPanel(
+                          #tabPanel("Great Expectations",
+                                   #htmlOutput("staticnetwork_greatexpectations"))))),
              tabPanel("Social Network",
                       sidebarPanel(
                         helpText("The Social Network provides a dynamic method of viewing relationships between characters within a text. Click on a node to reveal the name of the character it represents, and note which other characters are highlighted in relation. Drag nodes around to find out more about the relationships between characters.")),
                       mainPanel(
                         tabsetPanel(
-                          tabPanel("Great Expectations",
-                                   htmlOutput("socialnetwork_greatexpectations"))))))))
+                          tabPanel("Bleak House",
+                                   htmlOutput("socialnetwork_bleakhouse")),
+                          tabPanel("David Copperfield",
+                                   htmlOutput("socialnetwork_davidcopperfield")),
+                          tabPanel("Great Expectations",  
+                                   htmlOutput("socialnetwork_greatexpectations")),
+                          tabPanel("Martin Chuzzlewit",
+                                   htmlOutput("socialnetwork_chuzzlewit")),
+                          tabPanel("Our Mutual Friend",
+                                   htmlOutput("socialnetwork_ourmutualfriend")),
+                          tabPanel("Pickwick Papers",
+                                   htmlOutput("socialnetwork_pickwick")),
+                          tabPanel("Phineas Finn",
+                                   htmlOutput("socialnetwork_phineasfinn")),
+                          tabPanel("Small House",
+                                   htmlOutput("socialnetwork_smallhouse"))))))))
 
 server <- function(input, output) {
   
@@ -135,7 +149,7 @@ server <- function(input, output) {
   smallhouse_stats <- read.csv2(file='www/output/smallhouse_netstat.csv', header = T)
   
   #resource path for network visulisations
-  addResourcePath("locpath", "/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output")
+  addResourcePath("locpath", "./www/output")
   
   #dynamic slider range for characters
   
@@ -286,19 +300,52 @@ server <- function(input, output) {
   
   ## STATIC NETWORK
   
-  output$staticnetwork_greatexpectations <- renderUI({
-    tagList(tags$iframe(src=paste("locpath/greatexpectations_static-network.html",sep=""), width=1000, height=800))
+  #output$staticnetwork_greatexpectations <- renderUI({
+    #tagList(tags$iframe(src=paste("locpath/greatexpectations_static-network.html",sep=""), width=1000, height=800))
     #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
-  })
+  #})
   
   ## SOCIAL NETWORK
   
   output$socialnetwork_greatexpectations <- renderUI({
     tagList(tags$iframe(src=paste("locpath/greatexpectations_social-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
   })
   
+  output$socialnetwork_davidcopperfield <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/davidcopperfield_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
   
+  output$socialnetwork_chuzzlewit <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/chuzzlewit_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
+  
+  output$socialnetwork_bleakhouse <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/bleakhouse_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
+  
+  output$socialnetwork_pickwick <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/pickwick_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
+  
+  output$socialnetwork_ourmutualfriend <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/ourmutualfriend_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
+  
+  output$socialnetwork_phineasfinn <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/phineasfinn_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
+  
+  output$socialnetwork_smallhouse <- renderUI({
+    tagList(tags$iframe(src=paste("locpath/smallhouse_social-network.html",sep=""), width=1000, height=800))
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"__social-network.html",sep="")
+  })
 }
 
 # Run the application 
