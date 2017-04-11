@@ -116,23 +116,26 @@ server <- function(input, output) {
   ourmutualfriend_entropy <- read.csv(file = "www/output/ourmutualfriend_gutenberg_entropy_csv.txt", sep = ",")
   ourmutualfriend_character_first_last <- read.csv(file = "www/output/ourmutualfriend_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
   ourmutualfriend_character_all <- read.csv(file = "www/output/ourmutualfriend_gutenberg_character_frequency_csv.txt", sep = ",")
+  ourmutualfriend_stats <- read.csv2(file='www/output/ourmutualfriend_netstat.csv', header = T)
   
   pickwick_entropy <- read.csv(file = "www/output/pickwick_gutenberg_entropy_csv.txt", sep = ",")
   pickwick_character_first_last <- read.csv(file = "www/output/pickwick_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
   pickwick_character_all <- read.csv(file = "www/output/pickwick_gutenberg_character_frequency_csv.txt", sep = ",")
+  pickwick_stats <- read.csv2(file='www/output/pickwick_netstat.csv', header = T)
   
   # Trollope
   phineasfinn_entropy <- read.csv(file = "www/output/phineasfinn_gutenberg_entropy_csv.txt", sep = ",")
   phineasfinn_character_first_last <- read.csv(file = "www/output/phineasfinn_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
   phineasfinn_character_all <- read.csv(file = "www/output/phineasfinn_gutenberg_character_frequency_csv.txt", sep = ",")
+  phineasfinn_stats <- read.csv2(file='www/output/phineasfinn_netstat.csv', header = T)
   
   smallhouse_entropy <- read.csv(file = "www/output/smallhouse_gutenberg_entropy_csv.txt", sep = ",")
   smallhouse_character_first_last <- read.csv(file = "www/output/smallhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
   smallhouse_character_all <- read.csv(file = "www/output/smallhouse_gutenberg_character_frequency_csv.txt", sep = ",")
-  
+  smallhouse_stats <- read.csv2(file='www/output/smallhouse_netstat.csv', header = T)
   
   #resource path for network visulisations
-  addResourcePath("locpath", "/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output")
+  addResourcePath("locpath", "/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output")
   
   #dynamic slider range for characters
   
@@ -243,56 +246,56 @@ server <- function(input, output) {
   #network visualisations    
   output$networkvisualisation_greatexpectations <- renderUI({
     tagList(tags$iframe(src=paste("locpath/greatexpectations_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_davidcopperfield <- renderUI({
     tagList(tags$iframe(src=paste("locpath/davidcopperfield_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_chuzzlewit <- renderUI({
     tagList(tags$iframe(src=paste("locpath/chuzzlewit_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_bleakhouse <- renderUI({
     tagList(tags$iframe(src=paste("locpath/bleakhouse_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_pickwick <- renderUI({
     tagList(tags$iframe(src=paste("locpath/pickwick_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_ourmutualfriend <- renderUI({
     tagList(tags$iframe(src=paste("locpath/ourmutualfriend_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_phineasfinn <- renderUI({
     tagList(tags$iframe(src=paste("locpath/phineasfinn_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   output$networkvisualisation_smallhouse <- renderUI({
     tagList(tags$iframe(src=paste("locpath/smallhouse_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   ## STATIC NETWORK
   
   output$staticnetwork_greatexpectations <- renderUI({
     tagList(tags$iframe(src=paste("locpath/greatexpectations_static-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   ## SOCIAL NETWORK
   
   output$socialnetwork_greatexpectations <- renderUI({
     tagList(tags$iframe(src=paste("locpath/greatexpectations_social-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/tomgoldfinch/Documents/Research/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
+    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
   })
   
   

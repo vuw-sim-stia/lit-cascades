@@ -35,11 +35,11 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/")
+setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #select which texts to process
-#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
-litSources <- c('greatexpectations')
+litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
+#litSources <- c('greatexpectations')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -294,7 +294,7 @@ for(theSource in litSources){
                        miny=minC, maxy=maxC)
   
   ## new Social Network visIgraph
-  visIgraph(h,smooth=T) %>% visNodes(shadow = T,font=list(size=16)) %>% visEdges(color=list(color="grey"),font = list(color="grey",size=10)) %>% visOptions(highlightNearest=T,height = "200%",width="200%") %>% visIgraphLayout(physics=FALSE, smooth=TRUE) %>% visSave(file=paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
+  visIgraph(h,smooth=T) %>% visNodes(shadow = T,font=list(size=16)) %>% visEdges(color=list(color="grey"),font = list(color="grey",size=10)) %>% visOptions(highlightNearest=T,height = "200%",width="200%") %>% visIgraphLayout(physics=FALSE, smooth=TRUE) %>% visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
 
   pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
