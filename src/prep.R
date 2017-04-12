@@ -38,8 +38,8 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #select which texts to process
-litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
-#litSources <- c('greatexpectations')
+#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
+litSources <- c('bleakhouse','ourmutualfriend')
 
 for(theSource in litSources){
   fileName <- paste('../resources/',theSource,'.txt',sep='')
@@ -212,7 +212,7 @@ for(theSource in litSources){
                  displaylabels = T, label=nd %v% "vertex.names",
                  vertex.col="white",edge.col="darkgray",label.cex=.6,
                  vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("output/",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = (nd %e% "width"),
                  edge.len = 5, uselen = T,object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
