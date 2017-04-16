@@ -1,0 +1,1595 @@
+"","Character","Node","Appearances"
+"1","Alfred Jingle",121,32
+"2","Alfred Jingle",263,32
+"3","Alfred Jingle",235,32
+"4","Alfred Jingle",124,32
+"5","Alfred Jingle",39,32
+"6","Alfred Jingle",281,32
+"7","Alfred Jingle",125,32
+"8","Alfred Jingle",31,32
+"9","Alfred Jingle",71,32
+"10","Alfred Jingle",122,32
+"11","Alfred Jingle",37,32
+"12","Alfred Jingle",72,32
+"13","Alfred Jingle",83,32
+"14","Alfred Jingle",32,32
+"15","Alfred Jingle",226,32
+"16","Alfred Jingle",4,32
+"17","Alfred Jingle",42,32
+"18","Alfred Jingle",36,32
+"19","Alfred Jingle",94,32
+"20","Alfred Jingle",225,32
+"21","Alfred Jingle",41,32
+"22","Alfred Jingle",210,32
+"23","Alfred Jingle",43,32
+"24","Alfred Jingle",35,32
+"25","Alfred Jingle",123,32
+"26","Alfred Jingle",262,32
+"27","Alfred Jingle",75,32
+"28","Alfred Jingle",77,32
+"29","Alfred Jingle",34,32
+"30","Alfred Jingle",73,32
+"31","Alfred Jingle",70,32
+"32","Alfred Jingle",44,32
+"33","Angelo Cyrus Bantam",182,5
+"34","Angelo Cyrus Bantam",176,5
+"35","Angelo Cyrus Bantam",185,5
+"36","Angelo Cyrus Bantam",177,5
+"37","Angelo Cyrus Bantam",175,5
+"38","Anthony Humm",163,2
+"39","Anthony Humm",162,2
+"40","Arabella Allen",279,29
+"41","Arabella Allen",262,29
+"42","Arabella Allen",193,29
+"43","Arabella Allen",236,29
+"44","Arabella Allen",234,29
+"45","Arabella Allen",268,29
+"46","Arabella Allen",258,29
+"47","Arabella Allen",270,29
+"48","Arabella Allen",278,29
+"49","Arabella Allen",196,29
+"50","Arabella Allen",267,29
+"51","Arabella Allen",194,29
+"52","Arabella Allen",280,29
+"53","Arabella Allen",189,29
+"54","Arabella Allen",146,29
+"55","Arabella Allen",266,29
+"56","Arabella Allen",239,29
+"57","Arabella Allen",277,29
+"58","Arabella Allen",145,29
+"59","Arabella Allen",192,29
+"60","Arabella Allen",137,29
+"61","Arabella Allen",158,29
+"62","Arabella Allen",148,29
+"63","Arabella Allen",188,29
+"64","Arabella Allen",269,29
+"65","Arabella Allen",235,29
+"66","Arabella Allen",147,29
+"67","Arabella Allen",195,29
+"68","Arabella Allen",276,29
+"69","Augustus Snodgrass",1,75
+"70","Augustus Snodgrass",174,75
+"71","Augustus Snodgrass",23,75
+"72","Augustus Snodgrass",54,75
+"73","Augustus Snodgrass",70,75
+"74","Augustus Snodgrass",170,75
+"75","Augustus Snodgrass",3,75
+"76","Augustus Snodgrass",135,75
+"77","Augustus Snodgrass",6,75
+"78","Augustus Snodgrass",281,75
+"79","Augustus Snodgrass",24,75
+"80","Augustus Snodgrass",36,75
+"81","Augustus Snodgrass",279,75
+"82","Augustus Snodgrass",4,75
+"83","Augustus Snodgrass",114,75
+"84","Augustus Snodgrass",155,75
+"85","Augustus Snodgrass",120,75
+"86","Augustus Snodgrass",5,75
+"87","Augustus Snodgrass",46,75
+"88","Augustus Snodgrass",25,75
+"89","Augustus Snodgrass",32,75
+"90","Augustus Snodgrass",173,75
+"91","Augustus Snodgrass",29,75
+"92","Augustus Snodgrass",13,75
+"93","Augustus Snodgrass",138,75
+"94","Augustus Snodgrass",220,75
+"95","Augustus Snodgrass",137,75
+"96","Augustus Snodgrass",146,75
+"97","Augustus Snodgrass",28,75
+"98","Augustus Snodgrass",14,75
+"99","Augustus Snodgrass",219,75
+"100","Augustus Snodgrass",117,75
+"101","Augustus Snodgrass",267,75
+"102","Augustus Snodgrass",82,75
+"103","Augustus Snodgrass",58,75
+"104","Augustus Snodgrass",85,75
+"105","Augustus Snodgrass",158,75
+"106","Augustus Snodgrass",10,75
+"107","Augustus Snodgrass",45,75
+"108","Augustus Snodgrass",134,75
+"109","Augustus Snodgrass",8,75
+"110","Augustus Snodgrass",16,75
+"111","Augustus Snodgrass",30,75
+"112","Augustus Snodgrass",145,75
+"113","Augustus Snodgrass",83,75
+"114","Augustus Snodgrass",9,75
+"115","Augustus Snodgrass",269,75
+"116","Augustus Snodgrass",17,75
+"117","Augustus Snodgrass",34,75
+"118","Augustus Snodgrass",148,75
+"119","Augustus Snodgrass",19,75
+"120","Augustus Snodgrass",147,75
+"121","Augustus Snodgrass",175,75
+"122","Augustus Snodgrass",81,75
+"123","Augustus Snodgrass",235,75
+"124","Augustus Snodgrass",56,75
+"125","Augustus Snodgrass",133,75
+"126","Augustus Snodgrass",11,75
+"127","Augustus Snodgrass",149,75
+"128","Augustus Snodgrass",67,75
+"129","Augustus Snodgrass",21,75
+"130","Augustus Snodgrass",118,75
+"131","Augustus Snodgrass",280,75
+"132","Augustus Snodgrass",15,75
+"133","Augustus Snodgrass",125,75
+"134","Augustus Snodgrass",268,75
+"135","Augustus Snodgrass",53,75
+"136","Augustus Snodgrass",132,75
+"137","Augustus Snodgrass",165,75
+"138","Augustus Snodgrass",119,75
+"139","Augustus Snodgrass",68,75
+"140","Augustus Snodgrass",52,75
+"141","Augustus Snodgrass",61,75
+"142","Augustus Snodgrass",20,75
+"143","Augustus Snodgrass",270,75
+"144","Benjamin Allen",235,21
+"145","Benjamin Allen",257,21
+"146","Benjamin Allen",236,21
+"147","Benjamin Allen",146,21
+"148","Benjamin Allen",239,21
+"149","Benjamin Allen",145,21
+"150","Benjamin Allen",280,21
+"151","Benjamin Allen",215,21
+"152","Benjamin Allen",237,21
+"153","Benjamin Allen",238,21
+"154","Benjamin Allen",269,21
+"155","Benjamin Allen",251,21
+"156","Benjamin Allen",155,21
+"157","Benjamin Allen",147,21
+"158","Benjamin Allen",148,21
+"159","Benjamin Allen",188,21
+"160","Benjamin Allen",157,21
+"161","Benjamin Allen",248,21
+"162","Benjamin Allen",255,21
+"163","Benjamin Allen",249,21
+"164","Benjamin Allen",187,21
+"165","Betsy",157,2
+"166","Betsy",228,2
+"167","Bill",203,1
+"168","Bob Sawyer",145,30
+"169","Bob Sawyer",257,30
+"170","Bob Sawyer",239,30
+"171","Bob Sawyer",252,30
+"172","Bob Sawyer",155,30
+"173","Bob Sawyer",237,30
+"174","Bob Sawyer",147,30
+"175","Bob Sawyer",156,30
+"176","Bob Sawyer",248,30
+"177","Bob Sawyer",251,30
+"178","Bob Sawyer",157,30
+"179","Bob Sawyer",236,30
+"180","Bob Sawyer",158,30
+"181","Bob Sawyer",146,30
+"182","Bob Sawyer",258,30
+"183","Bob Sawyer",256,30
+"184","Bob Sawyer",253,30
+"185","Bob Sawyer",234,30
+"186","Bob Sawyer",187,30
+"187","Bob Sawyer",250,30
+"188","Bob Sawyer",148,30
+"189","Bob Sawyer",192,30
+"190","Bob Sawyer",254,30
+"191","Bob Sawyer",154,30
+"192","Bob Sawyer",238,30
+"193","Bob Sawyer",255,30
+"194","Bob Sawyer",280,30
+"195","Bob Sawyer",189,30
+"196","Bob Sawyer",188,30
+"197","Bob Sawyer",249,30
+"198","Boffer",273,2
+"199","Boffer",274,2
+"200","Brooks",87,1
+"201","Brother Mordlin",163,1
+"202","Brother Tadger",163,1
+"203","Bullman",91,1
+"204","Chancery Prisoner",226,3
+"205","Chancery Prisoner",209,3
+"206","Chancery Prisoner",220,3
+"207","Charley",95,1
+"208","Clergyman",137,10
+"209","Clergyman",47,10
+"210","Clergyman",23,10
+"211","Clergyman",144,10
+"212","Clergyman",83,10
+"213","Clergyman",50,10
+"214","Clergyman",28,10
+"215","Clergyman",136,10
+"216","Clergyman",24,10
+"217","Clergyman",45,10
+"218","Colonel Bulder",7,2
+"219","Colonel Bulder",15,2
+"220","Count Smorltork",69,2
+"221","Count Smorltork",70,2
+"222","Crookey",198,1
+"223","Daniel Grummer",120,6
+"224","Daniel Grummer",116,6
+"225","Daniel Grummer",117,6
+"226","Daniel Grummer",121,6
+"227","Daniel Grummer",119,6
+"228","Daniel Grummer",118,6
+"229","Doctor Payne",13,3
+"230","Doctor Payne",10,3
+"231","Doctor Payne",14,3
+"232","Doctor Slammer",7,5
+"233","Doctor Slammer",10,5
+"234","Doctor Slammer",8,5
+"235","Doctor Slammer",14,5
+"236","Doctor Slammer",9,5
+"237","Dodson",149,25
+"238","Dodson",167,25
+"239","Dodson",264,25
+"240","Dodson",92,25
+"241","Dodson",171,25
+"242","Dodson",166,25
+"243","Dodson",126,25
+"244","Dodson",230,25
+"245","Dodson",190,25
+"246","Dodson",168,25
+"247","Dodson",127,25
+"248","Dodson",95,25
+"249","Dodson",265,25
+"250","Dodson",225,25
+"251","Dodson",125,25
+"252","Dodson",233,25
+"253","Dodson",91,25
+"254","Dodson",108,25
+"255","Dodson",150,25
+"256","Dodson",280,25
+"257","Dodson",83,25
+"258","Dodson",172,25
+"259","Dodson",151,25
+"260","Dodson",204,25
+"261","Dodson",93,25
+"262","Dowager Snuphanuph",176,3
+"263","Dowager Snuphanuph",178,3
+"264","Dowager Snuphanuph",177,3
+"265","Dubbley",120,4
+"266","Dubbley",118,4
+"267","Dubbley",117,4
+"268","Dubbley",119,4
+"269","Emily Wardle",134,20
+"270","Emily Wardle",135,20
+"271","Emily Wardle",269,20
+"272","Emily Wardle",45,20
+"273","Emily Wardle",18,20
+"274","Emily Wardle",278,20
+"275","Emily Wardle",267,20
+"276","Emily Wardle",147,20
+"277","Emily Wardle",138,20
+"278","Emily Wardle",34,20
+"279","Emily Wardle",61,20
+"280","Emily Wardle",37,20
+"281","Emily Wardle",33,20
+"282","Emily Wardle",136,20
+"283","Emily Wardle",279,20
+"284","Emily Wardle",270,20
+"285","Emily Wardle",268,20
+"286","Emily Wardle",148,20
+"287","Emily Wardle",17,20
+"288","Emily Wardle",36,20
+"289","Emma",137,6
+"290","Emma",21,6
+"291","Emma",34,6
+"292","Emma",138,6
+"293","Emma",134,6
+"294","Emma",22,6
+"295","Fogg",230,27
+"296","Fogg",92,27
+"297","Fogg",190,27
+"298","Fogg",167,27
+"299","Fogg",171,27
+"300","Fogg",232,27
+"301","Fogg",127,27
+"302","Fogg",125,27
+"303","Fogg",280,27
+"304","Fogg",95,27
+"305","Fogg",168,27
+"306","Fogg",225,27
+"307","Fogg",172,27
+"308","Fogg",108,27
+"309","Fogg",149,27
+"310","Fogg",264,27
+"311","Fogg",150,27
+"312","Fogg",126,27
+"313","Fogg",93,27
+"314","Fogg",265,27
+"315","Fogg",233,27
+"316","Fogg",91,27
+"317","Fogg",231,27
+"318","Fogg",166,27
+"319","Fogg",83,27
+"320","Fogg",204,27
+"321","Fogg",151,27
+"322","Frank Simmery",273,2
+"323","Frank Simmery",274,2
+"324","Gabriel Grub",142,5
+"325","Gabriel Grub",144,5
+"326","Gabriel Grub",143,5
+"327","Gabriel Grub",139,5
+"328","Gabriel Grub",141,5
+"329","George Heyling",103,2
+"330","George Heyling",102,2
+"331","Goodwin",82,1
+"332","Harris",183,1
+"333","Henry Beller",162,1
+"334","Hon Slumkey",56,7
+"335","Hon Slumkey",58,7
+"336","Hon Slumkey",57,7
+"337","Hon Slumkey",59,7
+"338","Hon Slumkey",54,7
+"339","Hon Slumkey",55,7
+"340","Hon Slumkey",255,7
+"341","Hon Snipe",7,1
+"342","Horatio Fizkin",58,5
+"343","Horatio Fizkin",54,5
+"344","Horatio Fizkin",59,5
+"345","Horatio Fizkin",81,5
+"346","Horatio Fizkin",55,5
+"347","Isabella Wardle",33,13
+"348","Isabella Wardle",24,13
+"349","Isabella Wardle",266,13
+"350","Isabella Wardle",135,13
+"351","Isabella Wardle",234,13
+"352","Isabella Wardle",29,13
+"353","Isabella Wardle",267,13
+"354","Isabella Wardle",83,13
+"355","Isabella Wardle",18,13
+"356","Isabella Wardle",17,13
+"357","Isabella Wardle",34,13
+"358","Isabella Wardle",134,13
+"359","Isabella Wardle",23,13
+"360","Jack Bamber",102,7
+"361","Jack Bamber",103,7
+"362","Jack Bamber",98,7
+"363","Jack Bamber",95,7
+"364","Jack Bamber",99,7
+"365","Jack Bamber",96,7
+"366","Jack Bamber",97,7
+"367","Jack Hopkins",158,4
+"368","Jack Hopkins",156,4
+"369","Jack Hopkins",155,4
+"370","Jack Hopkins",157,4
+"371","Jack Martin",243,1
+"372","Jackson",91,6
+"373","Jackson",92,6
+"374","Jackson",149,6
+"375","Jackson",150,6
+"376","Jackson",230,6
+"377","Jackson",169,6
+"378","Jane1",21,1
+"379","Jem Hutley",12,2
+"380","Jem Hutley",11,2
+"381","Job Trotter",225,24
+"382","Job Trotter",123,24
+"383","Job Trotter",94,24
+"384","Job Trotter",76,24
+"385","Job Trotter",226,24
+"386","Job Trotter",111,24
+"387","Job Trotter",235,24
+"388","Job Trotter",227,24
+"389","Job Trotter",211,24
+"390","Job Trotter",121,24
+"391","Job Trotter",122,24
+"392","Job Trotter",281,24
+"393","Job Trotter",263,24
+"394","Job Trotter",210,24
+"395","Job Trotter",75,24
+"396","Job Trotter",232,24
+"397","Job Trotter",262,24
+"398","Job Trotter",119,24
+"399","Job Trotter",124,24
+"400","Job Trotter",73,24
+"401","Job Trotter",74,24
+"402","Job Trotter",112,24
+"403","Job Trotter",113,24
+"404","Job Trotter",231,24
+"405","Joe",278,23
+"406","Joe",21,23
+"407","Joe",137,23
+"408","Joe",18,23
+"409","Joe",33,23
+"410","Joe",266,23
+"411","Joe",136,23
+"412","Joe",268,23
+"413","Joe",37,23
+"414","Joe",270,23
+"415","Joe",28,23
+"416","Joe",146,23
+"417","Joe",147,23
+"418","Joe",269,23
+"419","Joe",35,23
+"420","Joe",267,23
+"421","Joe",16,23
+"422","Joe",34,23
+"423","Joe",134,23
+"424","Joe",17,23
+"425","Joe",133,23
+"426","Joe",138,23
+"427","Joe",135,23
+"428","Joe Smiggers",1,1
+"429","John Edmunds",26,3
+"430","John Edmunds",25,3
+"431","John Edmunds",27,3
+"432","John Smauker",183,4
+"433","John Smauker",184,4
+"434","John Smauker",185,4
+"435","John Smauker",182,4
+"436","Jonas Mudge",162,1
+"437","Kate",79,1
+"438","Lady Clubber",7,2
+"439","Lady Clubber",6,2
+"440","Lieutenant Tappleton",10,3
+"441","Lieutenant Tappleton",13,3
+"442","Lieutenant Tappleton",14,3
+"443","Lord Mutanhed",178,2
+"444","Lord Mutanhed",177,2
+"445","Lud Hudibaras",179,1
+"446","Maria Lobbs",78,3
+"447","Maria Lobbs",80,3
+"448","Maria Lobbs",79,3
+"449","Marquess of Filletoville",245,2
+"450","Marquess of Filletoville",246,2
+"451","Martha Bardell",150,25
+"452","Martha Bardell",52,25
+"453","Martha Bardell",280,25
+"454","Martha Bardell",230,25
+"455","Martha Bardell",171,25
+"456","Martha Bardell",168,25
+"457","Martha Bardell",167,25
+"458","Martha Bardell",172,25
+"459","Martha Bardell",92,25
+"460","Martha Bardell",239,25
+"461","Martha Bardell",232,25
+"462","Martha Bardell",125,25
+"463","Martha Bardell",231,25
+"464","Martha Bardell",126,25
+"465","Martha Bardell",233,25
+"466","Martha Bardell",228,25
+"467","Martha Bardell",169,25
+"468","Martha Bardell",53,25
+"469","Martha Bardell",166,25
+"470","Martha Bardell",225,25
+"471","Martha Bardell",234,25
+"472","Martha Bardell",83,25
+"473","Martha Bardell",159,25
+"474","Martha Bardell",229,25
+"475","Martha Bardell",170,25
+"476","Mary",258,22
+"477","Mary",279,22
+"478","Mary",234,22
+"479","Mary",123,22
+"480","Mary",276,22
+"481","Mary",229,22
+"482","Mary",100,22
+"483","Mary",195,22
+"484","Mary",21,22
+"485","Mary",101,22
+"486","Mary",269,22
+"487","Mary",61,22
+"488","Mary",268,22
+"489","Mary",280,22
+"490","Mary",161,22
+"491","Mary",278,22
+"492","Mary",194,22
+"493","Mary",122,22
+"494","Mary",205,22
+"495","Mary",193,22
+"496","Mary",228,22
+"497","Mary",275,22
+"498","Miss Bolo",177,1
+"499","Miss Bulder",7,1
+"500","Miss Gwynn",77,1
+"501","Miss Nupkins",122,3
+"502","Miss Nupkins",123,3
+"503","Miss Nupkins",121,3
+"504","Miss Smithers",76,2
+"505","Miss Smithers",95,2
+"506","Miss Tomkins",77,2
+"507","Miss Tomkins",76,2
+"508","Miss Witherfield",115,3
+"509","Miss Witherfield",114,3
+"510","Miss Witherfield",116,3
+"511","Misses Clubber",7,1
+"512","Misses Matinter",177,1
+"513","Misses Smithie",7,1
+"514","Mr Ayresleigh",198,1
+"515","Mr Blotton",50,2
+"516","Mr Blotton",51,2
+"517","Mr Crawley",177,1
+"518","Mr Crushton",178,2
+"519","Mr Crushton",177,2
+"520","Mr Dowler",192,12
+"521","Mr Dowler",187,12
+"522","Mr Dowler",174,12
+"523","Mr Dowler",175,12
+"524","Mr Dowler",176,12
+"525","Mr Dowler",180,12
+"526","Mr Dowler",190,12
+"527","Mr Dowler",181,12
+"528","Mr Dowler",189,12
+"529","Mr Dowler",185,12
+"530","Mr Dowler",191,12
+"531","Mr Dowler",178,12
+"532","Mr Dumkins",31,3
+"533","Mr Dumkins",30,3
+"534","Mr Dumkins",32,3
+"535","Mr Grundy",95,1
+"536","Mr Gunter",157,1
+"537","Mr Hunter",68,2
+"538","Mr Hunter",67,2
+"539","Mr Jinkins",65,1
+"540","Mr Jinks",116,4
+"541","Mr Jinks",120,4
+"542","Mr Jinks",121,4
+"543","Mr Jinks",119,4
+"544","Mr Lowten",95,13
+"545","Mr Lowten",264,13
+"546","Mr Lowten",151,13
+"547","Mr Lowten",99,13
+"548","Mr Lowten",232,13
+"549","Mr Lowten",265,13
+"550","Mr Lowten",266,13
+"551","Mr Lowten",96,13
+"552","Mr Lowten",200,13
+"553","Mr Lowten",165,13
+"554","Mr Lowten",263,13
+"555","Mr Lowten",262,13
+"556","Mr Lowten",153,13
+"557","Mr Luffey",31,3
+"558","Mr Luffey",30,3
+"559","Mr Luffey",32,3
+"560","Mr Mallard",153,3
+"561","Mr Mallard",152,3
+"562","Mr Mallard",165,3
+"563","Mr Miller",25,2
+"564","Mr Miller",23,2
+"565","Mr Mivins",206,5
+"566","Mr Mivins",219,5
+"567","Mr Mivins",207,5
+"568","Mr Mivins",205,5
+"569","Mr Mivins",204,5
+"570","Mr Namby",197,3
+"571","Mr Namby",198,3
+"572","Mr Namby",199,3
+"573","Mr Noddy",157,1
+"574","Mr Nupkins",122,9
+"575","Mr Nupkins",123,9
+"576","Mr Nupkins",161,9
+"577","Mr Nupkins",120,9
+"578","Mr Nupkins",121,9
+"579","Mr Nupkins",116,9
+"580","Mr Nupkins",124,9
+"581","Mr Nupkins",193,9
+"582","Mr Nupkins",119,9
+"583","Mr Perker",279,40
+"584","Mr Perker",264,40
+"585","Mr Perker",231,40
+"586","Mr Perker",46,40
+"587","Mr Perker",235,40
+"588","Mr Perker",59,40
+"589","Mr Perker",94,40
+"590","Mr Perker",167,40
+"591","Mr Perker",200,40
+"592","Mr Perker",227,40
+"593","Mr Perker",126,40
+"594","Mr Perker",232,40
+"595","Mr Perker",93,40
+"596","Mr Perker",269,40
+"597","Mr Perker",267,40
+"598","Mr Perker",173,40
+"599","Mr Perker",266,40
+"600","Mr Perker",263,40
+"601","Mr Perker",57,40
+"602","Mr Perker",265,40
+"603","Mr Perker",166,40
+"604","Mr Perker",95,40
+"605","Mr Perker",172,40
+"606","Mr Perker",151,40
+"607","Mr Perker",42,40
+"608","Mr Perker",55,40
+"609","Mr Perker",233,40
+"610","Mr Perker",149,40
+"611","Mr Perker",280,40
+"612","Mr Perker",199,40
+"613","Mr Perker",152,40
+"614","Mr Perker",58,40
+"615","Mr Perker",153,40
+"616","Mr Perker",270,40
+"617","Mr Perker",165,40
+"618","Mr Perker",198,40
+"619","Mr Perker",43,40
+"620","Mr Perker",159,40
+"621","Mr Perker",262,40
+"622","Mr Perker",234,40
+"623","Mr Phunky",153,4
+"624","Mr Phunky",170,4
+"625","Mr Phunky",166,4
+"626","Mr Phunky",165,4
+"627","Mr Podder",30,3
+"628","Mr Podder",31,3
+"629","Mr Podder",32,3
+"630","Mr Porkenham",121,1
+"631","Mr Pott",257,13
+"632","Mr Pott",81,13
+"633","Mr Pott",55,13
+"634","Mr Pott",68,13
+"635","Mr Pott",256,13
+"636","Mr Pott",254,13
+"637","Mr Pott",60,13
+"638","Mr Pott",57,13
+"639","Mr Pott",69,13
+"640","Mr Pott",56,13
+"641","Mr Pott",70,13
+"642","Mr Pott",82,13
+"643","Mr Pott",255,13
+"644","Mr Price",198,1
+"645","Mr Raddle",228,5
+"646","Mr Raddle",230,5
+"647","Mr Raddle",229,5
+"648","Mr Raddle",155,5
+"649","Mr Raddle",158,5
+"650","Mr Simpson",208,1
+"651","Mr Skimpin",170,4
+"652","Mr Skimpin",165,4
+"653","Mr Skimpin",169,4
+"654","Mr Skimpin",166,4
+"655","Mr Slasher",155,1
+"656","Mr Smangle",207,5
+"657","Mr Smangle",206,5
+"658","Mr Smangle",227,5
+"659","Mr Smangle",219,5
+"660","Mr Smangle",205,5
+"661","Mr Smithies",7,1
+"662","Mr Smouch",197,2
+"663","Mr Smouch",198,2
+"664","Mr Snicks",232,1
+"665","Mr Staple",31,1
+"666","Mr Stareleigh",172,5
+"667","Mr Stareleigh",168,5
+"668","Mr Stareleigh",165,5
+"669","Mr Stareleigh",166,5
+"670","Mr Stareleigh",167,5
+"671","Mr Stiggins",129,10
+"672","Mr Stiggins",260,10
+"673","Mr Stiggins",163,10
+"674","Mr Stiggins",223,10
+"675","Mr Stiggins",224,10
+"676","Mr Stiggins",261,10
+"677","Mr Stiggins",130,10
+"678","Mr Stiggins",164,10
+"679","Mr Stiggins",128,10
+"680","Mr Stiggins",259,10
+"681","Mr Struggles",32,3
+"682","Mr Struggles",31,3
+"683","Mr Struggles",30,3
+"684","Mr Trundle",139,18
+"685","Mr Trundle",85,18
+"686","Mr Trundle",83,18
+"687","Mr Trundle",17,18
+"688","Mr Trundle",33,18
+"689","Mr Trundle",78,18
+"690","Mr Trundle",136,18
+"691","Mr Trundle",45,18
+"692","Mr Trundle",82,18
+"693","Mr Trundle",77,18
+"694","Mr Trundle",34,18
+"695","Mr Trundle",281,18
+"696","Mr Trundle",279,18
+"697","Mr Trundle",266,18
+"698","Mr Trundle",24,18
+"699","Mr Trundle",134,18
+"700","Mr Trundle",146,18
+"701","Mr Trundle",135,18
+"702","Mr Tuckle",185,2
+"703","Mr Tuckle",183,2
+"704","Mr Wardle",139,34
+"705","Mr Wardle",42,34
+"706","Mr Wardle",19,34
+"707","Mr Wardle",21,34
+"708","Mr Wardle",83,34
+"709","Mr Wardle",145,34
+"710","Mr Wardle",85,34
+"711","Mr Wardle",17,34
+"712","Mr Wardle",18,34
+"713","Mr Wardle",30,34
+"714","Mr Wardle",25,34
+"715","Mr Wardle",45,34
+"716","Mr Wardle",78,34
+"717","Mr Wardle",281,34
+"718","Mr Wardle",279,34
+"719","Mr Wardle",34,34
+"720","Mr Wardle",270,34
+"721","Mr Wardle",43,34
+"722","Mr Wardle",36,34
+"723","Mr Wardle",77,34
+"724","Mr Wardle",31,34
+"725","Mr Wardle",28,34
+"726","Mr Wardle",37,34
+"727","Mr Wardle",137,34
+"728","Mr Wardle",133,34
+"729","Mr Wardle",136,34
+"730","Mr Wardle",38,34
+"731","Mr Wardle",24,34
+"732","Mr Wardle",267,34
+"733","Mr Wardle",23,34
+"734","Mr Wardle",39,34
+"735","Mr Wardle",86,34
+"736","Mr Wardle",269,34
+"737","Mr Wardle",29,34
+"738","Mr Watty",151,1
+"739","Mr Whiffers",185,2
+"740","Mr Whiffers",184,2
+"741","Mr Wicks",92,3
+"742","Mr Wicks",93,3
+"743","Mr Wicks",91,3
+"744","Mrs Budger",7,1
+"745","Mrs Bulder",7,1
+"746","Mrs Bunkin",170,1
+"747","Mrs Cluppins",230,10
+"748","Mrs Cluppins",172,10
+"749","Mrs Cluppins",168,10
+"750","Mrs Cluppins",169,10
+"751","Mrs Cluppins",167,10
+"752","Mrs Cluppins",228,10
+"753","Mrs Cluppins",125,10
+"754","Mrs Cluppins",126,10
+"755","Mrs Cluppins",229,10
+"756","Mrs Cluppins",166,10
+"757","Mrs Craddock",182,3
+"758","Mrs Craddock",178,3
+"759","Mrs Craddock",181,3
+"760","Mrs Dowler",174,6
+"761","Mrs Dowler",176,6
+"762","Mrs Dowler",181,6
+"763","Mrs Dowler",190,6
+"764","Mrs Dowler",180,6
+"765","Mrs Dowler",178,6
+"766","Mrs Hunter",68,4
+"767","Mrs Hunter",69,4
+"768","Mrs Hunter",67,4
+"769","Mrs Hunter",70,4
+"770","Mrs Mudberry",170,1
+"771","Mrs Nupkins",123,3
+"772","Mrs Nupkins",122,3
+"773","Mrs Nupkins",121,3
+"774","Mrs Porkenham",121,1
+"775","Mrs Pott",255,11
+"776","Mrs Pott",81,11
+"777","Mrs Pott",68,11
+"778","Mrs Pott",69,11
+"779","Mrs Pott",82,11
+"780","Mrs Pott",57,11
+"781","Mrs Pott",61,11
+"782","Mrs Pott",55,11
+"783","Mrs Pott",58,11
+"784","Mrs Pott",56,11
+"785","Mrs Pott",70,11
+"786","Mrs Raddle",230,8
+"787","Mrs Raddle",154,8
+"788","Mrs Raddle",157,8
+"789","Mrs Raddle",229,8
+"790","Mrs Raddle",158,8
+"791","Mrs Raddle",155,8
+"792","Mrs Raddle",156,8
+"793","Mrs Raddle",228,8
+"794","Mrs Rogers",230,3
+"795","Mrs Rogers",229,3
+"796","Mrs Rogers",228,3
+"797","Mrs Sanders",167,9
+"798","Mrs Sanders",125,9
+"799","Mrs Sanders",168,9
+"800","Mrs Sanders",228,9
+"801","Mrs Sanders",166,9
+"802","Mrs Sanders",229,9
+"803","Mrs Sanders",169,9
+"804","Mrs Sanders",230,9
+"805","Mrs Sanders",126,9
+"806","Mrs Smithe",7,1
+"807","Mrs Tomlinson",7,1
+"808","Mrs Wardle",74,22
+"809","Mrs Wardle",137,22
+"810","Mrs Wardle",237,22
+"811","Mrs Wardle",37,22
+"812","Mrs Wardle",139,22
+"813","Mrs Wardle",25,22
+"814","Mrs Wardle",23,22
+"815","Mrs Wardle",238,22
+"816","Mrs Wardle",171,22
+"817","Mrs Wardle",138,22
+"818","Mrs Wardle",34,22
+"819","Mrs Wardle",136,22
+"820","Mrs Wardle",125,22
+"821","Mrs Wardle",147,22
+"822","Mrs Wardle",135,22
+"823","Mrs Wardle",45,22
+"824","Mrs Wardle",35,22
+"825","Mrs Wardle",280,22
+"826","Mrs Wardle",134,22
+"827","Mrs Wardle",36,22
+"828","Mrs Wardle",24,22
+"829","Mrs Wardle",148,22
+"830","Mrs Weller",129,9
+"831","Mrs Weller",128,9
+"832","Mrs Weller",223,9
+"833","Mrs Weller",105,9
+"834","Mrs Weller",259,9
+"835","Mrs Weller",130,9
+"836","Mrs Weller",274,9
+"837","Mrs Weller",224,9
+"838","Mrs Weller",41,9
+"839","Mrs Wugsby",177,2
+"840","Mrs Wugsby",178,2
+"841","Muzzle",193,7
+"842","Muzzle",119,7
+"843","Muzzle",124,7
+"844","Muzzle",123,7
+"845","Muzzle",116,7
+"846","Muzzle",122,7
+"847","Muzzle",120,7
+"848","Nathaniel Pipkin",78,3
+"849","Nathaniel Pipkin",79,3
+"850","Nathaniel Pipkin",80,3
+"851","Nathaniel Winkle",78,94
+"852","Nathaniel Winkle",67,94
+"853","Nathaniel Winkle",80,94
+"854","Nathaniel Winkle",269,94
+"855","Nathaniel Winkle",118,94
+"856","Nathaniel Winkle",120,94
+"857","Nathaniel Winkle",30,94
+"858","Nathaniel Winkle",81,94
+"859","Nathaniel Winkle",174,94
+"860","Nathaniel Winkle",85,94
+"861","Nathaniel Winkle",220,94
+"862","Nathaniel Winkle",262,94
+"863","Nathaniel Winkle",234,94
+"864","Nathaniel Winkle",195,94
+"865","Nathaniel Winkle",3,94
+"866","Nathaniel Winkle",17,94
+"867","Nathaniel Winkle",82,94
+"868","Nathaniel Winkle",83,94
+"869","Nathaniel Winkle",181,94
+"870","Nathaniel Winkle",280,94
+"871","Nathaniel Winkle",16,94
+"872","Nathaniel Winkle",190,94
+"873","Nathaniel Winkle",4,94
+"874","Nathaniel Winkle",9,94
+"875","Nathaniel Winkle",278,94
+"876","Nathaniel Winkle",270,94
+"877","Nathaniel Winkle",145,94
+"878","Nathaniel Winkle",6,94
+"879","Nathaniel Winkle",149,94
+"880","Nathaniel Winkle",170,94
+"881","Nathaniel Winkle",87,94
+"882","Nathaniel Winkle",238,94
+"883","Nathaniel Winkle",135,94
+"884","Nathaniel Winkle",114,94
+"885","Nathaniel Winkle",57,94
+"886","Nathaniel Winkle",146,94
+"887","Nathaniel Winkle",46,94
+"888","Nathaniel Winkle",219,94
+"889","Nathaniel Winkle",117,94
+"890","Nathaniel Winkle",251,94
+"891","Nathaniel Winkle",14,94
+"892","Nathaniel Winkle",191,94
+"893","Nathaniel Winkle",29,94
+"894","Nathaniel Winkle",189,94
+"895","Nathaniel Winkle",175,94
+"896","Nathaniel Winkle",69,94
+"897","Nathaniel Winkle",34,94
+"898","Nathaniel Winkle",1,94
+"899","Nathaniel Winkle",134,94
+"900","Nathaniel Winkle",11,94
+"901","Nathaniel Winkle",188,94
+"902","Nathaniel Winkle",254,94
+"903","Nathaniel Winkle",79,94
+"904","Nathaniel Winkle",185,94
+"905","Nathaniel Winkle",61,94
+"906","Nathaniel Winkle",119,94
+"907","Nathaniel Winkle",15,94
+"908","Nathaniel Winkle",19,94
+"909","Nathaniel Winkle",10,94
+"910","Nathaniel Winkle",148,94
+"911","Nathaniel Winkle",277,94
+"912","Nathaniel Winkle",20,94
+"913","Nathaniel Winkle",248,94
+"914","Nathaniel Winkle",5,94
+"915","Nathaniel Winkle",56,94
+"916","Nathaniel Winkle",137,94
+"917","Nathaniel Winkle",52,94
+"918","Nathaniel Winkle",136,94
+"919","Nathaniel Winkle",196,94
+"920","Nathaniel Winkle",192,94
+"921","Nathaniel Winkle",53,94
+"922","Nathaniel Winkle",252,94
+"923","Nathaniel Winkle",86,94
+"924","Nathaniel Winkle",68,94
+"925","Nathaniel Winkle",8,94
+"926","Nathaniel Winkle",138,94
+"927","Nathaniel Winkle",279,94
+"928","Nathaniel Winkle",173,94
+"929","Nathaniel Winkle",264,94
+"930","Nathaniel Winkle",133,94
+"931","Nathaniel Winkle",58,94
+"932","Nathaniel Winkle",147,94
+"933","Nathaniel Winkle",187,94
+"934","Nathaniel Winkle",21,94
+"935","Nathaniel Winkle",194,94
+"936","Nathaniel Winkle",239,94
+"937","Nathaniel Winkle",13,94
+"938","Nathaniel Winkle",169,94
+"939","Nathaniel Winkle",193,94
+"940","Nathaniel Winkle",28,94
+"941","Nathaniel Winkle",45,94
+"942","Nathaniel Winkle",281,94
+"943","Nathaniel Winkle",24,94
+"944","Nathaniel Winkle",158,94
+"945","Neddy",215,3
+"946","Neddy",208,3
+"947","Neddy",220,3
+"948","Old Lobbs",80,3
+"949","Old Lobbs",79,3
+"950","Old Lobbs",78,3
+"951","Peter Magnus",107,4
+"952","Peter Magnus",115,4
+"953","Peter Magnus",114,4
+"954","Peter Magnus",106,4
+"955","Prince Bladud",180,3
+"956","Prince Bladud",179,3
+"957","Prince Bladud",178,3
+"958","Pruffle",196,1
+"959","Quanko Samba",31,1
+"960","Rachael Wardle",37,10
+"961","Rachael Wardle",29,10
+"962","Rachael Wardle",41,10
+"963","Rachael Wardle",18,10
+"964","Rachael Wardle",17,10
+"965","Rachael Wardle",42,10
+"966","Rachael Wardle",83,10
+"967","Rachael Wardle",36,10
+"968","Rachael Wardle",33,10
+"969","Rachael Wardle",35,10
+"970","Richard Upwitch",166,1
+"971","Sam",3,1
+"972","Sam Weller",162,135
+"973","Sam Weller",57,135
+"974","Sam Weller",106,135
+"975","Sam Weller",163,135
+"976","Sam Weller",105,135
+"977","Sam Weller",204,135
+"978","Sam Weller",226,135
+"979","Sam Weller",249,135
+"980","Sam Weller",93,135
+"981","Sam Weller",171,135
+"982","Sam Weller",130,135
+"983","Sam Weller",225,135
+"984","Sam Weller",217,135
+"985","Sam Weller",124,135
+"986","Sam Weller",198,135
+"987","Sam Weller",113,135
+"988","Sam Weller",207,135
+"989","Sam Weller",202,135
+"990","Sam Weller",86,135
+"991","Sam Weller",82,135
+"992","Sam Weller",240,135
+"993","Sam Weller",186,135
+"994","Sam Weller",41,135
+"995","Sam Weller",235,135
+"996","Sam Weller",72,135
+"997","Sam Weller",175,135
+"998","Sam Weller",184,135
+"999","Sam Weller",234,135
+"1000","Sam Weller",73,135
+"1001","Sam Weller",120,135
+"1002","Sam Weller",276,135
+"1003","Sam Weller",161,135
+"1004","Sam Weller",253,135
+"1005","Sam Weller",250,135
+"1006","Sam Weller",136,135
+"1007","Sam Weller",164,135
+"1008","Sam Weller",40,135
+"1009","Sam Weller",281,135
+"1010","Sam Weller",190,135
+"1011","Sam Weller",197,135
+"1012","Sam Weller",183,135
+"1013","Sam Weller",125,135
+"1014","Sam Weller",185,135
+"1015","Sam Weller",151,135
+"1016","Sam Weller",191,135
+"1017","Sam Weller",195,135
+"1018","Sam Weller",231,135
+"1019","Sam Weller",83,135
+"1020","Sam Weller",196,135
+"1021","Sam Weller",194,135
+"1022","Sam Weller",74,135
+"1023","Sam Weller",129,135
+"1024","Sam Weller",273,135
+"1025","Sam Weller",227,135
+"1026","Sam Weller",112,135
+"1027","Sam Weller",223,135
+"1028","Sam Weller",222,135
+"1029","Sam Weller",214,135
+"1030","Sam Weller",257,135
+"1031","Sam Weller",261,135
+"1032","Sam Weller",272,135
+"1033","Sam Weller",172,135
+"1034","Sam Weller",148,135
+"1035","Sam Weller",215,135
+"1036","Sam Weller",146,135
+"1037","Sam Weller",203,135
+"1038","Sam Weller",44,135
+"1039","Sam Weller",56,135
+"1040","Sam Weller",145,135
+"1041","Sam Weller",271,135
+"1042","Sam Weller",67,135
+"1043","Sam Weller",238,135
+"1044","Sam Weller",274,135
+"1045","Sam Weller",53,135
+"1046","Sam Weller",42,135
+"1047","Sam Weller",258,135
+"1048","Sam Weller",237,135
+"1049","Sam Weller",220,135
+"1050","Sam Weller",192,135
+"1051","Sam Weller",279,135
+"1052","Sam Weller",150,135
+"1053","Sam Weller",232,135
+"1054","Sam Weller",94,135
+"1055","Sam Weller",260,135
+"1056","Sam Weller",160,135
+"1057","Sam Weller",219,135
+"1058","Sam Weller",121,135
+"1059","Sam Weller",218,135
+"1060","Sam Weller",87,135
+"1061","Sam Weller",211,135
+"1062","Sam Weller",91,135
+"1063","Sam Weller",111,135
+"1064","Sam Weller",89,135
+"1065","Sam Weller",95,135
+"1066","Sam Weller",159,135
+"1067","Sam Weller",213,135
+"1068","Sam Weller",216,135
+"1069","Sam Weller",200,135
+"1070","Sam Weller",239,135
+"1071","Sam Weller",277,135
+"1072","Sam Weller",165,135
+"1073","Sam Weller",256,135
+"1074","Sam Weller",224,135
+"1075","Sam Weller",248,135
+"1076","Sam Weller",233,135
+"1077","Sam Weller",118,135
+"1078","Sam Weller",54,135
+"1079","Sam Weller",75,135
+"1080","Sam Weller",278,135
+"1081","Sam Weller",259,135
+"1082","Sam Weller",176,135
+"1083","Sam Weller",78,135
+"1084","Sam Weller",147,135
+"1085","Sam Weller",109,135
+"1086","Sam Weller",85,135
+"1087","Sam Weller",126,135
+"1088","Sam Weller",182,135
+"1089","Sam Weller",128,135
+"1090","Sam Weller",71,135
+"1091","Sam Weller",122,135
+"1092","Sam Weller",119,135
+"1093","Sam Weller",199,135
+"1094","Sam Weller",254,135
+"1095","Sam Weller",193,135
+"1096","Sam Weller",123,135
+"1097","Sam Weller",43,135
+"1098","Sam Weller",173,135
+"1099","Sam Weller",92,135
+"1100","Sam Weller",133,135
+"1101","Sam Weller",137,135
+"1102","Sam Weller",280,135
+"1103","Sam Weller",174,135
+"1104","Sam Weller",134,135
+"1105","Sam Weller",77,135
+"1106","Sam Weller",275,135
+"1107","Samuel Pickwick",218,213
+"1108","Samuel Pickwick",6,213
+"1109","Samuel Pickwick",217,213
+"1110","Samuel Pickwick",232,213
+"1111","Samuel Pickwick",139,213
+"1112","Samuel Pickwick",156,213
+"1113","Samuel Pickwick",32,213
+"1114","Samuel Pickwick",38,213
+"1115","Samuel Pickwick",266,213
+"1116","Samuel Pickwick",3,213
+"1117","Samuel Pickwick",254,213
+"1118","Samuel Pickwick",145,213
+"1119","Samuel Pickwick",23,213
+"1120","Samuel Pickwick",240,213
+"1121","Samuel Pickwick",270,213
+"1122","Samuel Pickwick",170,213
+"1123","Samuel Pickwick",82,213
+"1124","Samuel Pickwick",104,213
+"1125","Samuel Pickwick",13,213
+"1126","Samuel Pickwick",205,213
+"1127","Samuel Pickwick",78,213
+"1128","Samuel Pickwick",50,213
+"1129","Samuel Pickwick",31,213
+"1130","Samuel Pickwick",126,213
+"1131","Samuel Pickwick",159,213
+"1132","Samuel Pickwick",46,213
+"1133","Samuel Pickwick",137,213
+"1134","Samuel Pickwick",125,213
+"1135","Samuel Pickwick",25,213
+"1136","Samuel Pickwick",113,213
+"1137","Samuel Pickwick",29,213
+"1138","Samuel Pickwick",165,213
+"1139","Samuel Pickwick",4,213
+"1140","Samuel Pickwick",20,213
+"1141","Samuel Pickwick",106,213
+"1142","Samuel Pickwick",172,213
+"1143","Samuel Pickwick",147,213
+"1144","Samuel Pickwick",190,213
+"1145","Samuel Pickwick",251,213
+"1146","Samuel Pickwick",262,213
+"1147","Samuel Pickwick",30,213
+"1148","Samuel Pickwick",276,213
+"1149","Samuel Pickwick",120,213
+"1150","Samuel Pickwick",105,213
+"1151","Samuel Pickwick",166,213
+"1152","Samuel Pickwick",83,213
+"1153","Samuel Pickwick",10,213
+"1154","Samuel Pickwick",148,213
+"1155","Samuel Pickwick",268,213
+"1156","Samuel Pickwick",114,213
+"1157","Samuel Pickwick",95,213
+"1158","Samuel Pickwick",203,213
+"1159","Samuel Pickwick",206,213
+"1160","Samuel Pickwick",278,213
+"1161","Samuel Pickwick",257,213
+"1162","Samuel Pickwick",181,213
+"1163","Samuel Pickwick",76,213
+"1164","Samuel Pickwick",19,213
+"1165","Samuel Pickwick",85,213
+"1166","Samuel Pickwick",74,213
+"1167","Samuel Pickwick",93,213
+"1168","Samuel Pickwick",39,213
+"1169","Samuel Pickwick",177,213
+"1170","Samuel Pickwick",5,213
+"1171","Samuel Pickwick",72,213
+"1172","Samuel Pickwick",75,213
+"1173","Samuel Pickwick",227,213
+"1174","Samuel Pickwick",259,213
+"1175","Samuel Pickwick",155,213
+"1176","Samuel Pickwick",263,213
+"1177","Samuel Pickwick",15,213
+"1178","Samuel Pickwick",87,213
+"1179","Samuel Pickwick",110,213
+"1180","Samuel Pickwick",202,213
+"1181","Samuel Pickwick",34,213
+"1182","Samuel Pickwick",1,213
+"1183","Samuel Pickwick",152,213
+"1184","Samuel Pickwick",280,213
+"1185","Samuel Pickwick",89,213
+"1186","Samuel Pickwick",54,213
+"1187","Samuel Pickwick",9,213
+"1188","Samuel Pickwick",44,213
+"1189","Samuel Pickwick",124,213
+"1190","Samuel Pickwick",61,213
+"1191","Samuel Pickwick",98,213
+"1192","Samuel Pickwick",161,213
+"1193","Samuel Pickwick",128,213
+"1194","Samuel Pickwick",135,213
+"1195","Samuel Pickwick",182,213
+"1196","Samuel Pickwick",24,213
+"1197","Samuel Pickwick",84,213
+"1198","Samuel Pickwick",215,213
+"1199","Samuel Pickwick",248,213
+"1200","Samuel Pickwick",171,213
+"1201","Samuel Pickwick",92,213
+"1202","Samuel Pickwick",195,213
+"1203","Samuel Pickwick",47,213
+"1204","Samuel Pickwick",136,213
+"1205","Samuel Pickwick",191,213
+"1206","Samuel Pickwick",265,213
+"1207","Samuel Pickwick",226,213
+"1208","Samuel Pickwick",51,213
+"1209","Samuel Pickwick",192,213
+"1210","Samuel Pickwick",250,213
+"1211","Samuel Pickwick",107,213
+"1212","Samuel Pickwick",52,213
+"1213","Samuel Pickwick",117,213
+"1214","Samuel Pickwick",146,213
+"1215","Samuel Pickwick",225,213
+"1216","Samuel Pickwick",186,213
+"1217","Samuel Pickwick",21,213
+"1218","Samuel Pickwick",173,213
+"1219","Samuel Pickwick",53,213
+"1220","Samuel Pickwick",42,213
+"1221","Samuel Pickwick",187,213
+"1222","Samuel Pickwick",8,213
+"1223","Samuel Pickwick",138,213
+"1224","Samuel Pickwick",194,213
+"1225","Samuel Pickwick",174,213
+"1226","Samuel Pickwick",43,213
+"1227","Samuel Pickwick",2,213
+"1228","Samuel Pickwick",239,213
+"1229","Samuel Pickwick",230,213
+"1230","Samuel Pickwick",70,213
+"1231","Samuel Pickwick",214,213
+"1232","Samuel Pickwick",234,213
+"1233","Samuel Pickwick",91,213
+"1234","Samuel Pickwick",99,213
+"1235","Samuel Pickwick",277,213
+"1236","Samuel Pickwick",123,213
+"1237","Samuel Pickwick",256,213
+"1238","Samuel Pickwick",86,213
+"1239","Samuel Pickwick",235,213
+"1240","Samuel Pickwick",56,213
+"1241","Samuel Pickwick",176,213
+"1242","Samuel Pickwick",199,213
+"1243","Samuel Pickwick",37,213
+"1244","Samuel Pickwick",167,213
+"1245","Samuel Pickwick",249,213
+"1246","Samuel Pickwick",207,213
+"1247","Samuel Pickwick",253,213
+"1248","Samuel Pickwick",116,213
+"1249","Samuel Pickwick",57,213
+"1250","Samuel Pickwick",208,213
+"1251","Samuel Pickwick",111,213
+"1252","Samuel Pickwick",168,213
+"1253","Samuel Pickwick",157,213
+"1254","Samuel Pickwick",185,213
+"1255","Samuel Pickwick",122,213
+"1256","Samuel Pickwick",108,213
+"1257","Samuel Pickwick",58,213
+"1258","Samuel Pickwick",109,213
+"1259","Samuel Pickwick",178,213
+"1260","Samuel Pickwick",55,213
+"1261","Samuel Pickwick",233,213
+"1262","Samuel Pickwick",118,213
+"1263","Samuel Pickwick",60,213
+"1264","Samuel Pickwick",45,213
+"1265","Samuel Pickwick",180,213
+"1266","Samuel Pickwick",275,213
+"1267","Samuel Pickwick",77,213
+"1268","Samuel Pickwick",115,213
+"1269","Samuel Pickwick",11,213
+"1270","Samuel Pickwick",96,213
+"1271","Samuel Pickwick",153,213
+"1272","Samuel Pickwick",132,213
+"1273","Samuel Pickwick",151,213
+"1274","Samuel Pickwick",17,213
+"1275","Samuel Pickwick",154,213
+"1276","Samuel Pickwick",36,213
+"1277","Samuel Pickwick",198,213
+"1278","Samuel Pickwick",81,213
+"1279","Samuel Pickwick",237,213
+"1280","Samuel Pickwick",209,213
+"1281","Samuel Pickwick",28,213
+"1282","Samuel Pickwick",133,213
+"1283","Samuel Pickwick",197,213
+"1284","Samuel Pickwick",73,213
+"1285","Samuel Pickwick",267,213
+"1286","Samuel Pickwick",149,213
+"1287","Samuel Pickwick",169,213
+"1288","Samuel Pickwick",210,213
+"1289","Samuel Pickwick",258,213
+"1290","Samuel Pickwick",88,213
+"1291","Samuel Pickwick",211,213
+"1292","Samuel Pickwick",134,213
+"1293","Samuel Pickwick",16,213
+"1294","Samuel Pickwick",150,213
+"1295","Samuel Pickwick",264,213
+"1296","Samuel Pickwick",94,213
+"1297","Samuel Pickwick",121,213
+"1298","Samuel Pickwick",67,213
+"1299","Samuel Pickwick",200,213
+"1300","Samuel Pickwick",252,213
+"1301","Samuel Pickwick",119,213
+"1302","Samuel Pickwick",269,213
+"1303","Samuel Pickwick",281,213
+"1304","Samuel Pickwick",196,213
+"1305","Samuel Pickwick",220,213
+"1306","Samuel Pickwick",238,213
+"1307","Samuel Pickwick",255,213
+"1308","Samuel Pickwick",14,213
+"1309","Samuel Pickwick",18,213
+"1310","Samuel Pickwick",69,213
+"1311","Samuel Pickwick",175,213
+"1312","Samuel Pickwick",204,213
+"1313","Samuel Pickwick",216,213
+"1314","Samuel Pickwick",279,213
+"1315","Samuel Pickwick",68,213
+"1316","Samuel Pickwick",201,213
+"1317","Samuel Pickwick",158,213
+"1318","Samuel Pickwick",219,213
+"1319","Samuel Pickwick",71,213
+"1320","Serjeant Buzfuz",168,8
+"1321","Serjeant Buzfuz",165,8
+"1322","Serjeant Buzfuz",172,8
+"1323","Serjeant Buzfuz",171,8
+"1324","Serjeant Buzfuz",166,8
+"1325","Serjeant Buzfuz",169,8
+"1326","Serjeant Buzfuz",167,8
+"1327","Serjeant Buzfuz",170,8
+"1328","Serjeant Snubbin",169,8
+"1329","Serjeant Snubbin",165,8
+"1330","Serjeant Snubbin",166,8
+"1331","Serjeant Snubbin",172,8
+"1332","Serjeant Snubbin",152,8
+"1333","Serjeant Snubbin",153,8
+"1334","Serjeant Snubbin",170,8
+"1335","Serjeant Snubbin",151,8
+"1336","Sir Geoffrey Manning",83,3
+"1337","Sir Geoffrey Manning",85,3
+"1338","Sir Geoffrey Manning",86,3
+"1339","Sir Thomas Blazo",263,1
+"1340","Sololomon Lucas",68,2
+"1341","Sololomon Lucas",67,2
+"1342","Solomon Pell",272,9
+"1343","Solomon Pell",235,9
+"1344","Solomon Pell",273,9
+"1345","Solomon Pell",213,9
+"1346","Solomon Pell",215,9
+"1347","Solomon Pell",274,9
+"1348","Solomon Pell",214,9
+"1349","Solomon Pell",212,9
+"1350","Solomon Pell",271,9
+"1351","Thomas Burton",163,1
+"1352","Thomas Clubber",7,1
+"1353","Thomas Groffin",166,1
+"1354","Tom Bardell",228,6
+"1355","Tom Bardell",52,6
+"1356","Tom Bardell",229,6
+"1357","Tom Bardell",125,6
+"1358","Tom Bardell",166,6
+"1359","Tom Bardell",126,6
+"1360","Tom Cripps",189,6
+"1361","Tom Cripps",188,6
+"1362","Tom Cripps",237,6
+"1363","Tom Cripps",238,6
+"1364","Tom Cripps",236,6
+"1365","Tom Cripps",248,6
+"1366","Tom Martin",207,3
+"1367","Tom Martin",208,3
+"1368","Tom Martin",209,3
+"1369","Tom Roker",202,9
+"1370","Tom Roker",208,9
+"1371","Tom Roker",209,9
+"1372","Tom Roker",218,9
+"1373","Tom Roker",207,9
+"1374","Tom Roker",220,9
+"1375","Tom Roker",227,9
+"1376","Tom Roker",210,9
+"1377","Tom Roker",215,9
+"1378","Tom Smart",65,7
+"1379","Tom Smart",64,7
+"1380","Tom Smart",239,7
+"1381","Tom Smart",66,7
+"1382","Tom Smart",241,7
+"1383","Tom Smart",62,7
+"1384","Tom Smart",63,7
+"1385","Tom Wildspark",161,1
+"1386","Tommy",3,1
+"1387","Tony Weller",249,125
+"1388","Tony Weller",207,125
+"1389","Tony Weller",136,125
+"1390","Tony Weller",83,125
+"1391","Tony Weller",129,125
+"1392","Tony Weller",195,125
+"1393","Tony Weller",78,125
+"1394","Tony Weller",223,125
+"1395","Tony Weller",213,125
+"1396","Tony Weller",164,125
+"1397","Tony Weller",191,125
+"1398","Tony Weller",258,125
+"1399","Tony Weller",196,125
+"1400","Tony Weller",172,125
+"1401","Tony Weller",272,125
+"1402","Tony Weller",273,125
+"1403","Tony Weller",112,125
+"1404","Tony Weller",91,125
+"1405","Tony Weller",250,125
+"1406","Tony Weller",217,125
+"1407","Tony Weller",124,125
+"1408","Tony Weller",271,125
+"1409","Tony Weller",85,125
+"1410","Tony Weller",82,125
+"1411","Tony Weller",105,125
+"1412","Tony Weller",106,125
+"1413","Tony Weller",278,125
+"1414","Tony Weller",281,125
+"1415","Tony Weller",237,125
+"1416","Tony Weller",215,125
+"1417","Tony Weller",161,125
+"1418","Tony Weller",239,125
+"1419","Tony Weller",203,125
+"1420","Tony Weller",260,125
+"1421","Tony Weller",181,125
+"1422","Tony Weller",253,125
+"1423","Tony Weller",132,125
+"1424","Tony Weller",238,125
+"1425","Tony Weller",277,125
+"1426","Tony Weller",226,125
+"1427","Tony Weller",220,125
+"1428","Tony Weller",57,125
+"1429","Tony Weller",192,125
+"1430","Tony Weller",61,125
+"1431","Tony Weller",185,125
+"1432","Tony Weller",145,125
+"1433","Tony Weller",225,125
+"1434","Tony Weller",120,125
+"1435","Tony Weller",160,125
+"1436","Tony Weller",183,125
+"1437","Tony Weller",110,125
+"1438","Tony Weller",163,125
+"1439","Tony Weller",224,125
+"1440","Tony Weller",128,125
+"1441","Tony Weller",204,125
+"1442","Tony Weller",93,125
+"1443","Tony Weller",212,125
+"1444","Tony Weller",56,125
+"1445","Tony Weller",146,125
+"1446","Tony Weller",41,125
+"1447","Tony Weller",86,125
+"1448","Tony Weller",257,125
+"1449","Tony Weller",173,125
+"1450","Tony Weller",92,125
+"1451","Tony Weller",67,125
+"1452","Tony Weller",184,125
+"1453","Tony Weller",71,125
+"1454","Tony Weller",53,125
+"1455","Tony Weller",218,125
+"1456","Tony Weller",182,125
+"1457","Tony Weller",147,125
+"1458","Tony Weller",89,125
+"1459","Tony Weller",280,125
+"1460","Tony Weller",276,125
+"1461","Tony Weller",234,125
+"1462","Tony Weller",174,125
+"1463","Tony Weller",94,125
+"1464","Tony Weller",121,125
+"1465","Tony Weller",274,125
+"1466","Tony Weller",125,125
+"1467","Tony Weller",119,125
+"1468","Tony Weller",118,125
+"1469","Tony Weller",261,125
+"1470","Tony Weller",254,125
+"1471","Tony Weller",72,125
+"1472","Tony Weller",84,125
+"1473","Tony Weller",104,125
+"1474","Tony Weller",130,125
+"1475","Tony Weller",73,125
+"1476","Tony Weller",222,125
+"1477","Tony Weller",109,125
+"1478","Tony Weller",123,125
+"1479","Tony Weller",69,125
+"1480","Tony Weller",113,125
+"1481","Tony Weller",214,125
+"1482","Tony Weller",133,125
+"1483","Tony Weller",122,125
+"1484","Tony Weller",74,125
+"1485","Tony Weller",150,125
+"1486","Tony Weller",137,125
+"1487","Tony Weller",200,125
+"1488","Tony Weller",259,125
+"1489","Tony Weller",197,125
+"1490","Tony Weller",87,125
+"1491","Tony Weller",275,125
+"1492","Tony Weller",176,125
+"1493","Tony Weller",138,125
+"1494","Tony Weller",126,125
+"1495","Tony Weller",162,125
+"1496","Tony Weller",193,125
+"1497","Tony Weller",77,125
+"1498","Tony Weller",159,125
+"1499","Tony Weller",153,125
+"1500","Tony Weller",235,125
+"1501","Tony Weller",194,125
+"1502","Tony Weller",211,125
+"1503","Tony Weller",202,125
+"1504","Tony Weller",75,125
+"1505","Tony Weller",171,125
+"1506","Tony Weller",248,125
+"1507","Tony Weller",134,125
+"1508","Tony Weller",111,125
+"1509","Tony Weller",151,125
+"1510","Tony Weller",88,125
+"1511","Tony Weller",190,125
+"1512","Tracy Tupman",9,79
+"1513","Tracy Tupman",67,79
+"1514","Tracy Tupman",174,79
+"1515","Tracy Tupman",70,79
+"1516","Tracy Tupman",134,79
+"1517","Tracy Tupman",32,79
+"1518","Tracy Tupman",123,79
+"1519","Tracy Tupman",147,79
+"1520","Tracy Tupman",61,79
+"1521","Tracy Tupman",114,79
+"1522","Tracy Tupman",3,79
+"1523","Tracy Tupman",46,79
+"1524","Tracy Tupman",83,79
+"1525","Tracy Tupman",8,79
+"1526","Tracy Tupman",35,79
+"1527","Tracy Tupman",13,79
+"1528","Tracy Tupman",133,79
+"1529","Tracy Tupman",107,79
+"1530","Tracy Tupman",145,79
+"1531","Tracy Tupman",37,79
+"1532","Tracy Tupman",120,79
+"1533","Tracy Tupman",29,79
+"1534","Tracy Tupman",132,79
+"1535","Tracy Tupman",148,79
+"1536","Tracy Tupman",5,79
+"1537","Tracy Tupman",33,79
+"1538","Tracy Tupman",24,79
+"1539","Tracy Tupman",1,79
+"1540","Tracy Tupman",54,79
+"1541","Tracy Tupman",235,79
+"1542","Tracy Tupman",115,79
+"1543","Tracy Tupman",68,79
+"1544","Tracy Tupman",23,79
+"1545","Tracy Tupman",137,79
+"1546","Tracy Tupman",149,79
+"1547","Tracy Tupman",22,79
+"1548","Tracy Tupman",85,79
+"1549","Tracy Tupman",4,79
+"1550","Tracy Tupman",34,79
+"1551","Tracy Tupman",81,79
+"1552","Tracy Tupman",169,79
+"1553","Tracy Tupman",280,79
+"1554","Tracy Tupman",86,79
+"1555","Tracy Tupman",146,79
+"1556","Tracy Tupman",11,79
+"1557","Tracy Tupman",19,79
+"1558","Tracy Tupman",6,79
+"1559","Tracy Tupman",53,79
+"1560","Tracy Tupman",82,79
+"1561","Tracy Tupman",173,79
+"1562","Tracy Tupman",116,79
+"1563","Tracy Tupman",36,79
+"1564","Tracy Tupman",220,79
+"1565","Tracy Tupman",211,79
+"1566","Tracy Tupman",16,79
+"1567","Tracy Tupman",52,79
+"1568","Tracy Tupman",28,79
+"1569","Tracy Tupman",117,79
+"1570","Tracy Tupman",56,79
+"1571","Tracy Tupman",18,79
+"1572","Tracy Tupman",25,79
+"1573","Tracy Tupman",58,79
+"1574","Tracy Tupman",175,79
+"1575","Tracy Tupman",10,79
+"1576","Tracy Tupman",17,79
+"1577","Tracy Tupman",118,79
+"1578","Tracy Tupman",158,79
+"1579","Tracy Tupman",87,79
+"1580","Tracy Tupman",69,79
+"1581","Tracy Tupman",125,79
+"1582","Tracy Tupman",14,79
+"1583","Tracy Tupman",20,79
+"1584","Tracy Tupman",21,79
+"1585","Tracy Tupman",170,79
+"1586","Tracy Tupman",71,79
+"1587","Tracy Tupman",15,79
+"1588","Tracy Tupman",219,79
+"1589","Tracy Tupman",7,79
+"1590","Tracy Tupman",119,79
+"1591","Wilkins",73,2
+"1592","Wilkins",88,2
+"1593","Wilkins Flasher",274,2
+"1594","Wilkins Flasher",273,2

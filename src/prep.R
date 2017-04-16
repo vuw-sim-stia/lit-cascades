@@ -37,13 +37,20 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 #set working directoy
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
+#get all text and char files
+allCharFiles <- list.files("../resources/Dickens Character Lists/")
+allCharFiles <- allCharFiles[which(allCharFiles!="Icon\r")]
+allTextFiles <- list.files("../resources/Dickens Text Files")
+allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
 #select which texts to process
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
-litSources <- c('bleakhouse','ourmutualfriend')
+#litSources <- c('bleakhouse','ourmutualfriend')
+allOutput <- c()
 
-for(theSource in litSources){
-  fileName <- paste('../resources/',theSource,'.txt',sep='')
-  sourceText <- readChar(fileName, file.info(fileName)$size)
+for(nextRun in 1:length(allTextFiles)){
+  theSource <- gsub(' ','',gsub(' text.txt','',allTextFiles[nextRun]))
+  allOutput <- c(allOutput,theSource)
+  sourceText <- readChar(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]))$size)
   processedText <- gsub("\\r\\n", " ", sourceText,perl=T)
   processedText <- gsub("\\n", " ", processedText,perl=T)
   
@@ -54,7 +61,8 @@ for(theSource in litSources){
   #words300B <- words300A
   
   #split by number of words and chapters
-  full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\s.]?)", perl=T)[[1]]
+  #full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\s.]?)", perl=T)[[1]]
+  full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\.]?[\\s.]?)", perl=T)[[1]]
   words300B <- c()
   tmp <- sapply(full_text,function(x){
     snippet <- strsplit(x, "\\s+")[[1]]
@@ -83,7 +91,7 @@ for(theSource in litSources){
   write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',theSource,'_textchunks.html',sep=''))
   
   #character list
-  tmp <- readLines(paste('../resources/',theSource,'_chars.txt',sep=''))
+  tmp <- readLines(paste0('../resources/Dickens Character Lists/',allCharFiles[nextRun]))
   
   #for short character lists
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
@@ -266,6 +274,29 @@ for(theSource in litSources){
   links$to<-unlist(links$to)
   links$title<-unlist(links$title)
   
+  #new static cascade network
+  socNodes <- data.frame(id=V(g)$name,label=V(g)$name)
+  socEdges <- data.frame(from=head_of(g,E(g))$name,to=tail_of(g,E(g))$name)
+  colnames(socNodes) <- c('id','label')
+  colnames(socEdges) <- c('from','to')
+  socNodes$shape <- "dot"  
+  socNodes$shadow <- FALSE # Nodes will drop shadow
+  socNodes$borderWidth <- 2 # Node border width
+  socNodes$color.border <- "black"
+  socNodes$color.highlight.background <- "orange"
+  socNodes$color.highlight.border <- "darkred"
+  
+  socEdges$shadow <- FALSE
+  socEdges$color <- "gray"
+  socEdges$label <- E(g)$label
+  netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
+    visNodes(shadow = T,font=list(size=32)) %>% 
+    visEdges(color=list(color="grey"),font = list(color="grey",size=32)) %>% 
+    visOptions(highlightNearest = TRUE) %>%
+    visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
+    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
+  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network.html",sep=''))
+  
   #### create the character network from the cascade
   socN1 <- c()
   for(lin in 1:nrow(nodes)){
@@ -278,7 +309,7 @@ for(theSource in litSources){
     socEdges<-rbind(socEdges,combinations(length(unlist(strsplit(socN1[lin],', '))),2,unlist(strsplit(socN1[lin],', '))))
   }
   
-  h <- graph.data.frame(socEdges,directed=FALSE)
+  h <- graph.data.frame(unique(socEdges),directed=FALSE)
   
   V(h)$frame.color <- "white"
   V(h)$color <- "orange"
@@ -294,8 +325,31 @@ for(theSource in litSources){
                        miny=minC, maxy=maxC)
   
   ## new Social Network visIgraph
-  visIgraph(h,smooth=T) %>% visNodes(shadow = T,font=list(size=16)) %>% visEdges(color=list(color="grey"),font = list(color="grey",size=10)) %>% visOptions(highlightNearest=T,height = "200%",width="200%") %>% visIgraphLayout(physics=FALSE, smooth=TRUE) %>% visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
+  visIgraph(h,smooth=F) %>% visNodes(borderWidth = 3, shadow = F,font=list(size=18),color = list(background = "blue", border = "black",highlight = "yellow",hover="yellow")) %>% 
+    visEdges(color=list(color="grey"),font = list(color="grey")) %>% 
+    visOptions(highlightNearest=T,height = "800px",width="1000px") %>% 
+    #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
+    visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
+    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
+    visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
+  socNodes <- data.frame(id=V(h)$name,label=V(h)$name)
+  socEdges <- data.frame(from=head_of(h,E(h))$name,to=tail_of(h,E(h))$name)
+  colnames(socNodes) <- c('id','label')
+  colnames(socEdges) <- c('from','to')
+  socNodes$shape <- "dot"  
+  socNodes$shadow <- FALSE # Nodes will drop shadow
+  socNodes$borderWidth <- 2 # Node border width
+  socNodes$color.border <- "black"
+  socNodes$color.highlight.background <- "orange"
+  socNodes$color.highlight.border <- "darkred"
   
+  socEdges$shadow <- FALSE
+  socEdges$color <- "gray"
+  netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
+    visOptions(highlightNearest = TRUE) %>%
+    visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
+    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
+  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
   #todo: fix this to replace igraphVis
   #tmpNodes <- V(h)$names
   #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
@@ -530,3 +584,5 @@ for(theSource in litSources){
                  #edge.len = 5, uselen = T,object.scale = 0.1)
                  #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
 }
+
+write.csv2(allOutput,'TLit/www/output/allTexts.csv')

@@ -1,0 +1,456 @@
+"","Character","Node","Appearances"
+"1","Charles St EvrŽmonde",90,48
+"2","Charles St EvrŽmonde",85,48
+"3","Charles St EvrŽmonde",100,48
+"4","Charles St EvrŽmonde",68,48
+"5","Charles St EvrŽmonde",64,48
+"6","Charles St EvrŽmonde",91,48
+"7","Charles St EvrŽmonde",77,48
+"8","Charles St EvrŽmonde",87,48
+"9","Charles St EvrŽmonde",44,48
+"10","Charles St EvrŽmonde",99,48
+"11","Charles St EvrŽmonde",123,48
+"12","Charles St EvrŽmonde",127,48
+"13","Charles St EvrŽmonde",126,48
+"14","Charles St EvrŽmonde",33,48
+"15","Charles St EvrŽmonde",133,48
+"16","Charles St EvrŽmonde",40,48
+"17","Charles St EvrŽmonde",39,48
+"18","Charles St EvrŽmonde",114,48
+"19","Charles St EvrŽmonde",108,48
+"20","Charles St EvrŽmonde",105,48
+"21","Charles St EvrŽmonde",125,48
+"22","Charles St EvrŽmonde",94,48
+"23","Charles St EvrŽmonde",106,48
+"24","Charles St EvrŽmonde",41,48
+"25","Charles St EvrŽmonde",79,48
+"26","Charles St EvrŽmonde",46,48
+"27","Charles St EvrŽmonde",112,48
+"28","Charles St EvrŽmonde",101,48
+"29","Charles St EvrŽmonde",67,48
+"30","Charles St EvrŽmonde",45,48
+"31","Charles St EvrŽmonde",98,48
+"32","Charles St EvrŽmonde",34,48
+"33","Charles St EvrŽmonde",92,48
+"34","Charles St EvrŽmonde",88,48
+"35","Charles St EvrŽmonde",28,48
+"36","Charles St EvrŽmonde",120,48
+"37","Charles St EvrŽmonde",21,48
+"38","Charles St EvrŽmonde",93,48
+"39","Charles St EvrŽmonde",89,48
+"40","Charles St EvrŽmonde",103,48
+"41","Charles St EvrŽmonde",129,48
+"42","Charles St EvrŽmonde",74,48
+"43","Charles St EvrŽmonde",27,48
+"44","Charles St EvrŽmonde",131,48
+"45","Charles St EvrŽmonde",102,48
+"46","Charles St EvrŽmonde",86,48
+"47","Charles St EvrŽmonde",66,48
+"48","Charles St EvrŽmonde",96,48
+"49","Doctor Manette",52,49
+"50","Doctor Manette",27,49
+"51","Doctor Manette",127,49
+"52","Doctor Manette",64,49
+"53","Doctor Manette",106,49
+"54","Doctor Manette",16,49
+"55","Doctor Manette",94,49
+"56","Doctor Manette",15,49
+"57","Doctor Manette",24,49
+"58","Doctor Manette",30,49
+"59","Doctor Manette",47,49
+"60","Doctor Manette",72,49
+"61","Doctor Manette",9,49
+"62","Doctor Manette",28,49
+"63","Doctor Manette",78,49
+"64","Doctor Manette",31,49
+"65","Doctor Manette",90,49
+"66","Doctor Manette",119,49
+"67","Doctor Manette",102,49
+"68","Doctor Manette",50,49
+"69","Doctor Manette",69,49
+"70","Doctor Manette",120,49
+"71","Doctor Manette",121,49
+"72","Doctor Manette",44,49
+"73","Doctor Manette",115,49
+"74","Doctor Manette",46,49
+"75","Doctor Manette",98,49
+"76","Doctor Manette",93,49
+"77","Doctor Manette",23,49
+"78","Doctor Manette",53,49
+"79","Doctor Manette",71,49
+"80","Doctor Manette",12,49
+"81","Doctor Manette",33,49
+"82","Doctor Manette",25,49
+"83","Doctor Manette",105,49
+"84","Doctor Manette",7,49
+"85","Doctor Manette",34,49
+"86","Doctor Manette",68,49
+"87","Doctor Manette",8,49
+"88","Doctor Manette",86,49
+"89","Doctor Manette",103,49
+"90","Doctor Manette",123,49
+"91","Doctor Manette",96,49
+"92","Doctor Manette",67,49
+"93","Doctor Manette",32,49
+"94","Doctor Manette",114,49
+"95","Doctor Manette",108,49
+"96","Doctor Manette",45,49
+"97","Doctor Manette",49,49
+"98","Ernest Defarge",79,34
+"99","Ernest Defarge",90,34
+"100","Ernest Defarge",61,34
+"101","Ernest Defarge",64,34
+"102","Ernest Defarge",12,34
+"103","Ernest Defarge",106,34
+"104","Ernest Defarge",77,34
+"105","Ernest Defarge",114,34
+"106","Ernest Defarge",15,34
+"107","Ernest Defarge",80,34
+"108","Ernest Defarge",129,34
+"109","Ernest Defarge",122,34
+"110","Ernest Defarge",17,34
+"111","Ernest Defarge",59,34
+"112","Ernest Defarge",16,34
+"113","Ernest Defarge",37,34
+"114","Ernest Defarge",102,34
+"115","Ernest Defarge",60,34
+"116","Ernest Defarge",13,34
+"117","Ernest Defarge",58,34
+"118","Ernest Defarge",123,34
+"119","Ernest Defarge",96,34
+"120","Ernest Defarge",68,34
+"121","Ernest Defarge",11,34
+"122","Ernest Defarge",119,34
+"123","Ernest Defarge",63,34
+"124","Ernest Defarge",78,34
+"125","Ernest Defarge",81,34
+"126","Ernest Defarge",134,34
+"127","Ernest Defarge",97,34
+"128","Ernest Defarge",91,34
+"129","Ernest Defarge",62,34
+"130","Ernest Defarge",14,34
+"131","Ernest Defarge",98,34
+"132","Foulon",80,2
+"133","Foulon",81,2
+"134","Gaspard",64,2
+"135","Gaspard",11,2
+"136","Jacques",60,15
+"137","Jacques",114,15
+"138","Jacques",82,15
+"139","Jacques",11,15
+"140","Jacques",59,15
+"141","Jacques",43,15
+"142","Jacques",129,15
+"143","Jacques",80,15
+"144","Jacques",62,15
+"145","Jacques",61,15
+"146","Jacques",78,15
+"147","Jacques",58,15
+"148","Jacques",77,15
+"149","Jacques",81,15
+"150","Jacques",122,15
+"151","Jarvis Lorry",2,62
+"152","Jarvis Lorry",22,62
+"153","Jarvis Lorry",123,62
+"154","Jarvis Lorry",3,62
+"155","Jarvis Lorry",95,62
+"156","Jarvis Lorry",23,62
+"157","Jarvis Lorry",85,62
+"158","Jarvis Lorry",6,62
+"159","Jarvis Lorry",105,62
+"160","Jarvis Lorry",7,62
+"161","Jarvis Lorry",49,62
+"162","Jarvis Lorry",8,62
+"163","Jarvis Lorry",86,62
+"164","Jarvis Lorry",9,62
+"165","Jarvis Lorry",50,62
+"166","Jarvis Lorry",51,62
+"167","Jarvis Lorry",87,62
+"168","Jarvis Lorry",101,62
+"169","Jarvis Lorry",127,62
+"170","Jarvis Lorry",91,62
+"171","Jarvis Lorry",12,62
+"172","Jarvis Lorry",27,62
+"173","Jarvis Lorry",88,62
+"174","Jarvis Lorry",13,62
+"175","Jarvis Lorry",108,62
+"176","Jarvis Lorry",14,62
+"177","Jarvis Lorry",120,62
+"178","Jarvis Lorry",71,62
+"179","Jarvis Lorry",15,62
+"180","Jarvis Lorry",109,62
+"181","Jarvis Lorry",72,62
+"182","Jarvis Lorry",16,62
+"183","Jarvis Lorry",73,62
+"184","Jarvis Lorry",110,62
+"185","Jarvis Lorry",31,62
+"186","Jarvis Lorry",77,62
+"187","Jarvis Lorry",93,62
+"188","Jarvis Lorry",20,62
+"189","Jarvis Lorry",32,62
+"190","Jarvis Lorry",102,62
+"191","Jarvis Lorry",25,62
+"192","Jarvis Lorry",107,62
+"193","Jarvis Lorry",103,62
+"194","Jarvis Lorry",97,62
+"195","Jarvis Lorry",33,62
+"196","Jarvis Lorry",96,62
+"197","Jarvis Lorry",74,62
+"198","Jarvis Lorry",124,62
+"199","Jarvis Lorry",113,62
+"200","Jarvis Lorry",99,62
+"201","Jarvis Lorry",68,62
+"202","Jarvis Lorry",125,62
+"203","Jarvis Lorry",67,62
+"204","Jarvis Lorry",111,62
+"205","Jarvis Lorry",128,62
+"206","Jarvis Lorry",98,62
+"207","Jarvis Lorry",94,62
+"208","Jarvis Lorry",34,62
+"209","Jarvis Lorry",112,62
+"210","Jarvis Lorry",121,62
+"211","Jarvis Lorry",131,62
+"212","Jarvis Lorry",69,62
+"213","Jerry Cruncher",25,24
+"214","Jerry Cruncher",132,24
+"215","Jerry Cruncher",55,24
+"216","Jerry Cruncher",130,24
+"217","Jerry Cruncher",19,24
+"218","Jerry Cruncher",56,24
+"219","Jerry Cruncher",21,24
+"220","Jerry Cruncher",3,24
+"221","Jerry Cruncher",54,24
+"222","Jerry Cruncher",24,24
+"223","Jerry Cruncher",4,24
+"224","Jerry Cruncher",107,24
+"225","Jerry Cruncher",20,24
+"226","Jerry Cruncher",86,24
+"227","Jerry Cruncher",111,24
+"228","Jerry Cruncher",110,24
+"229","Jerry Cruncher",131,24
+"230","Jerry Cruncher",96,24
+"231","Jerry Cruncher",18,24
+"232","Jerry Cruncher",108,24
+"233","Jerry Cruncher",57,24
+"234","Jerry Cruncher",105,24
+"235","Jerry Cruncher",88,24
+"236","Jerry Cruncher",34,24
+"237","Joe",3,2
+"238","Joe",2,2
+"239","Lucie Manette",68,38
+"240","Lucie Manette",100,38
+"241","Lucie Manette",79,38
+"242","Lucie Manette",103,38
+"243","Lucie Manette",97,38
+"244","Lucie Manette",120,38
+"245","Lucie Manette",112,38
+"246","Lucie Manette",76,38
+"247","Lucie Manette",125,38
+"248","Lucie Manette",96,38
+"249","Lucie Manette",33,38
+"250","Lucie Manette",87,38
+"251","Lucie Manette",94,38
+"252","Lucie Manette",45,38
+"253","Lucie Manette",69,38
+"254","Lucie Manette",52,38
+"255","Lucie Manette",73,38
+"256","Lucie Manette",46,38
+"257","Lucie Manette",53,38
+"258","Lucie Manette",44,38
+"259","Lucie Manette",98,38
+"260","Lucie Manette",101,38
+"261","Lucie Manette",34,38
+"262","Lucie Manette",88,38
+"263","Lucie Manette",123,38
+"264","Lucie Manette",131,38
+"265","Lucie Manette",106,38
+"266","Lucie Manette",128,38
+"267","Lucie Manette",32,38
+"268","Lucie Manette",66,38
+"269","Lucie Manette",93,38
+"270","Lucie Manette",127,38
+"271","Lucie Manette",27,38
+"272","Lucie Manette",77,38
+"273","Lucie Manette",67,38
+"274","Lucie Manette",105,38
+"275","Lucie Manette",31,38
+"276","Lucie Manette",85,38
+"277","Marquis St EvrŽmonde I",117,3
+"278","Marquis St EvrŽmonde I",118,3
+"279","Marquis St EvrŽmonde I",119,3
+"280","Marquis St EvrŽmonde II",101,23
+"281","Marquis St EvrŽmonde II",86,23
+"282","Marquis St EvrŽmonde II",35,23
+"283","Marquis St EvrŽmonde II",123,23
+"284","Marquis St EvrŽmonde II",38,23
+"285","Marquis St EvrŽmonde II",59,23
+"286","Marquis St EvrŽmonde II",64,23
+"287","Marquis St EvrŽmonde II",87,23
+"288","Marquis St EvrŽmonde II",37,23
+"289","Marquis St EvrŽmonde II",42,23
+"290","Marquis St EvrŽmonde II",95,23
+"291","Marquis St EvrŽmonde II",39,23
+"292","Marquis St EvrŽmonde II",82,23
+"293","Marquis St EvrŽmonde II",116,23
+"294","Marquis St EvrŽmonde II",40,23
+"295","Marquis St EvrŽmonde II",36,23
+"296","Marquis St EvrŽmonde II",43,23
+"297","Marquis St EvrŽmonde II",93,23
+"298","Marquis St EvrŽmonde II",83,23
+"299","Marquis St EvrŽmonde II",58,23
+"300","Marquis St EvrŽmonde II",62,23
+"301","Marquis St EvrŽmonde II",41,23
+"302","Marquis St EvrŽmonde II",85,23
+"303","Miss Pross",130,25
+"304","Miss Pross",46,25
+"305","Miss Pross",96,25
+"306","Miss Pross",94,25
+"307","Miss Pross",120,25
+"308","Miss Pross",103,25
+"309","Miss Pross",74,25
+"310","Miss Pross",107,25
+"311","Miss Pross",106,25
+"312","Miss Pross",34,25
+"313","Miss Pross",132,25
+"314","Miss Pross",76,25
+"315","Miss Pross",68,25
+"316","Miss Pross",72,25
+"317","Miss Pross",32,25
+"318","Miss Pross",31,25
+"319","Miss Pross",69,25
+"320","Miss Pross",71,25
+"321","Miss Pross",44,25
+"322","Miss Pross",131,25
+"323","Miss Pross",108,25
+"324","Miss Pross",105,25
+"325","Miss Pross",67,25
+"326","Miss Pross",73,25
+"327","Miss Pross",33,25
+"328","Mr Stryver",76,17
+"329","Mr Stryver",51,17
+"330","Mr Stryver",47,17
+"331","Mr Stryver",49,17
+"332","Mr Stryver",87,17
+"333","Mr Stryver",30,17
+"334","Mr Stryver",48,17
+"335","Mr Stryver",52,17
+"336","Mr Stryver",86,17
+"337","Mr Stryver",44,17
+"338","Mr Stryver",25,17
+"339","Mr Stryver",50,17
+"340","Mr Stryver",45,17
+"341","Mr Stryver",74,17
+"342","Mr Stryver",24,17
+"343","Mr Stryver",27,17
+"344","Mr Stryver",29,17
+"345","Mrs Cruncher",54,5
+"346","Mrs Cruncher",130,5
+"347","Mrs Cruncher",55,5
+"348","Mrs Cruncher",56,5
+"349","Mrs Cruncher",111,5
+"350","Mrs Stryver",76,1
+"351","Roger Cly",54,7
+"352","Roger Cly",25,7
+"353","Roger Cly",55,7
+"354","Roger Cly",134,7
+"355","Roger Cly",22,7
+"356","Roger Cly",110,7
+"357","Roger Cly",24,7
+"358","Solomon Pross",134,17
+"359","Solomon Pross",22,17
+"360","Solomon Pross",120,17
+"361","Solomon Pross",68,17
+"362","Solomon Pross",108,17
+"363","Solomon Pross",24,17
+"364","Solomon Pross",109,17
+"365","Solomon Pross",25,17
+"366","Solomon Pross",111,17
+"367","Solomon Pross",130,17
+"368","Solomon Pross",62,17
+"369","Solomon Pross",105,17
+"370","Solomon Pross",32,17
+"371","Solomon Pross",64,17
+"372","Solomon Pross",127,17
+"373","Solomon Pross",110,17
+"374","Solomon Pross",107,17
+"375","Sydney Carton",24,32
+"376","Sydney Carton",123,32
+"377","Sydney Carton",25,32
+"378","Sydney Carton",109,32
+"379","Sydney Carton",126,32
+"380","Sydney Carton",53,32
+"381","Sydney Carton",114,32
+"382","Sydney Carton",45,32
+"383","Sydney Carton",34,32
+"384","Sydney Carton",111,32
+"385","Sydney Carton",120,32
+"386","Sydney Carton",125,32
+"387","Sydney Carton",76,32
+"388","Sydney Carton",74,32
+"389","Sydney Carton",127,32
+"390","Sydney Carton",30,32
+"391","Sydney Carton",122,32
+"392","Sydney Carton",28,32
+"393","Sydney Carton",128,32
+"394","Sydney Carton",48,32
+"395","Sydney Carton",108,32
+"396","Sydney Carton",112,32
+"397","Sydney Carton",29,32
+"398","Sydney Carton",52,32
+"399","Sydney Carton",121,32
+"400","Sydney Carton",110,32
+"401","Sydney Carton",134,32
+"402","Sydney Carton",44,32
+"403","Sydney Carton",27,32
+"404","Sydney Carton",124,32
+"405","Sydney Carton",47,32
+"406","Sydney Carton",113,32
+"407","The Vengeance",97,11
+"408","The Vengeance",96,11
+"409","The Vengeance",80,11
+"410","The Vengeance",114,11
+"411","The Vengeance",81,11
+"412","The Vengeance",134,11
+"413","The Vengeance",119,11
+"414","The Vengeance",129,11
+"415","The Vengeance",101,11
+"416","The Vengeance",133,11
+"417","The Vengeance",122,11
+"418","ThŽophile Gabelle",43,8
+"419","ThŽophile Gabelle",103,8
+"420","ThŽophile Gabelle",83,8
+"421","ThŽophile Gabelle",87,8
+"422","ThŽophile Gabelle",84,8
+"423","ThŽophile Gabelle",102,8
+"424","ThŽophile Gabelle",88,8
+"425","ThŽophile Gabelle",38,8
+"426","ThŽrse Defarge",114,28
+"427","ThŽrse Defarge",61,28
+"428","ThŽrse Defarge",109,28
+"429","ThŽrse Defarge",133,28
+"430","ThŽrse Defarge",60,28
+"431","ThŽrse Defarge",64,28
+"432","ThŽrse Defarge",80,28
+"433","ThŽrse Defarge",131,28
+"434","ThŽrse Defarge",79,28
+"435","ThŽrse Defarge",12,28
+"436","ThŽrse Defarge",122,28
+"437","ThŽrse Defarge",132,28
+"438","ThŽrse Defarge",101,28
+"439","ThŽrse Defarge",81,28
+"440","ThŽrse Defarge",11,28
+"441","ThŽrse Defarge",17,28
+"442","ThŽrse Defarge",63,28
+"443","ThŽrse Defarge",123,28
+"444","ThŽrse Defarge",65,28
+"445","ThŽrse Defarge",78,28
+"446","ThŽrse Defarge",119,28
+"447","ThŽrse Defarge",62,28
+"448","ThŽrse Defarge",129,28
+"449","ThŽrse Defarge",96,28
+"450","ThŽrse Defarge",130,28
+"451","ThŽrse Defarge",97,28
+"452","ThŽrse Defarge",124,28
+"453","ThŽrse Defarge",58,28
+"454","Tom",2,1
+"455","Young Jerry Cruncher",19,1

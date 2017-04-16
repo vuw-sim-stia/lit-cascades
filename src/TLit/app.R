@@ -11,6 +11,8 @@
 library(shiny)
 library(plotly)
 
+allText <- read.csv2(file = "www/output/allTexts.csv")
+
 ui <- shinyUI(absolutePanel(
   width=1600,
   height=1000,
@@ -38,18 +40,20 @@ ui <- shinyUI(absolutePanel(
              tabPanel("Network Visualisations",
                       sidebarPanel(
                         helpText("The Dynamic Network provides a method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window."),
-                        selectInput('dynSelect', 'Select Text:', list('Charles Dickens' = c('Bleak House'='bleakhouse','David Copperfield'='davidcopperfield','Martin Chuzzlewit'='chuzzlewit','Our Mutual Friend'='ourmutualfriend')))),
+                        selectInput('dynSelect', 'Select Text:', list('Charles Dickens' = allText$x))),
                       mainPanel(
                         tabsetPanel(
-                          tabPanel("Dynamic Character Network",
+                          tabPanel("Dynamic Character Flow Network",
                                    htmlOutput("networkvisualisation_chars")),
+                          tabPanel("Static Character Flow Network",
+                                   htmlOutput("networkvisualisation_statchars")),
                           tabPanel("Static Social Network",
                                    htmlOutput("networkvisualisation_social"))))),
              tabPanel("Statistics",
                       sidebarPanel(
                         helpText("From the below options, select a text and range of nodes to examine; alternately, you can hover over the graph to display various interactive methods."),
                         #selectInput('textSelect', 'Select Text:', list('Charles Dickens' = c('Bleak House'='bleakhouse','David Copperfield'='davidcopperfield','Great Expectations'='greatexpectations','Martin Chuzzlewit'='chuzzlewit','Our Mutual Friend'='ourmutualfriend','Pickwick Papers'='pickwick'), 'Anthony Trollope' = c('Phineas Finn'='phineasfinn', 'Small House'='smallhouse'))),
-                        selectInput('textSelect', 'Select Text:', list('Charles Dickens' = c('Bleak House'='bleakhouse','David Copperfield'='davidcopperfield','Martin Chuzzlewit'='chuzzlewit','Our Mutual Friend'='ourmutualfriend'))),
+                        selectInput('textSelect', 'Select Text:', list('Charles Dickens' = allText$x)),
                         sliderInput('noderange', label = 'Range of Nodes Within Text:', min = 1, max = 400, value = c(1, 400)),
                         uiOutput('characterrange'),
                         tableOutput('statistics')),
@@ -66,58 +70,6 @@ ui <- shinyUI(absolutePanel(
                                                  plotlyOutput("plot_character_appearance_all", height = 800))))))))))
 
 server <- function(input, output) {
-  
-  # dataframes for Shiny - todo rewrite into generic
-  # Dickens
-  bleakhouse_entropy <- read.csv(file = "www/output/bleakhouse_gutenberg_entropy_csv.txt", sep = ",")
-  bleakhouse_character_first_last <- read.csv(file = "www/output/bleakhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  bleakhouse_character_all <- read.csv(file = "www/output/bleakhouse_gutenberg_character_frequency_csv.txt", sep = ",")
-  bleakhouse_stats <- read.csv2(file='www/output/bleakhouse_netstat.csv', header = T)
-  bleakhouse_stats2 <- read.csv2(file='www/output/bleakhouse_socnetstat.csv', header = T)
-  
-  davidcopperfield_entropy <- read.csv(file = "www/output/davidcopperfield_gutenberg_entropy_csv.txt", sep = ",")
-  davidcopperfield_character_first_last <- read.csv(file = "www/output/davidcopperfield_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  davidcopperfield_character_all <- read.csv(file = "www/output/davidcopperfield_gutenberg_character_frequency_csv.txt", sep = ",")
-  davidcopperfield_stats <- read.csv2(file='www/output/davidcopperfield_netstat.csv', header = T)
-  davidcopperfield_stats2 <- read.csv2(file='www/output/davidcopperfield_socnetstat.csv', header = T)
-  
-  #greatexpectations_entropy <- read.csv(file = "www/output/greatexpectations_gutenberg_entropy_csv.txt", sep = ",")
-  #greatexpectations_character_first_last <- read.csv(file = "www/output/greatexpectations_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  #greatexpectations_character_all <- read.csv(file = "www/output/greatexpectations_gutenberg_character_frequency_csv.txt", sep = ",")
-  #greatexpectations_stats <- read.csv2(file='www/output/greatexpectations_netstat.csv', header = T)
-  #greatexpectations_stats2 <- read.csv2(file='www/output/greatexpectations_socnetstat.csv', header = T)
-  
-  chuzzlewit_entropy <- read.csv(file = "www/output/chuzzlewit_gutenberg_entropy_csv.txt", sep = ",")
-  chuzzlewit_character_first_last <- read.csv(file = "www/output/chuzzlewit_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  chuzzlewit_character_all <- read.csv(file = "www/output/chuzzlewit_gutenberg_character_frequency_csv.txt", sep = ",")
-  chuzzlewit_stats <- read.csv2(file='www/output/chuzzlewit_netstat.csv', header = T)
-  chuzzlewit_stats2 <- read.csv2(file='www/output/chuzzlewit_socnetstat.csv', header = T)
-  
-  ourmutualfriend_entropy <- read.csv(file = "www/output/ourmutualfriend_gutenberg_entropy_csv.txt", sep = ",")
-  ourmutualfriend_character_first_last <- read.csv(file = "www/output/ourmutualfriend_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  ourmutualfriend_character_all <- read.csv(file = "www/output/ourmutualfriend_gutenberg_character_frequency_csv.txt", sep = ",")
-  ourmutualfriend_stats <- read.csv2(file='www/output/ourmutualfriend_netstat.csv', header = T)
-  ourmutualfriend_stats2 <- read.csv2(file='www/output/ourmutualfriend_socnetstat.csv', header = T)
-  
-  #pickwick_entropy <- read.csv(file = "www/output/pickwick_gutenberg_entropy_csv.txt", sep = ",")
-  #pickwick_character_first_last <- read.csv(file = "www/output/pickwick_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  #pickwick_character_all <- read.csv(file = "www/output/pickwick_gutenberg_character_frequency_csv.txt", sep = ",")
-  #pickwick_stats <- read.csv2(file='www/output/pickwick_netstat.csv', header = T)
-  #pickwick_stats2 <- read.csv2(file='www/output/pickwick_socnetstat.csv', header = T)
-  
-  # Trollope
-  #phineasfinn_entropy <- read.csv(file = "www/output/phineasfinn_gutenberg_entropy_csv.txt", sep = ",")
-  #phineasfinn_character_first_last <- read.csv(file = "www/output/phineasfinn_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  #phineasfinn_character_all <- read.csv(file = "www/output/phineasfinn_gutenberg_character_frequency_csv.txt", sep = ",")
-  #phineasfinn_stats <- read.csv2(file='www/output/phineasfinn_netstat.csv', header = T)
-  #phineasfinn_stats2 <- read.csv2(file='www/output/phineasfinn_socnetstat.csv', header = T)
-  
-  #smallhouse_entropy <- read.csv(file = "www/output/smallhouse_gutenberg_entropy_csv.txt", sep = ",")
-  #smallhouse_character_first_last <- read.csv(file = "www/output/smallhouse_gutenberg_first_last_character_appearance_csv.txt", sep = ",")
-  #smallhouse_character_all <- read.csv(file = "www/output/smallhouse_gutenberg_character_frequency_csv.txt", sep = ",")
-  #smallhouse_stats <- read.csv2(file='www/output/smallhouse_netstat.csv', header = T)
-  #smallhouse_stats2 <- read.csv2(file='www/output/smallhouse_socnetstat.csv', header = T)
-  
   #resource path for network visulisations
   addResourcePath("locpath", "./www/output")
   
@@ -125,48 +77,39 @@ server <- function(input, output) {
     paste0("output/",input$dynSelect,"_dynamic-network.html")
   })
   
+  loadstatchars <- reactive({
+    paste0("output/",input$dynSelect,"_static-network.html")
+  })
+  
   loadsoc <- reactive({
     paste0("output/",input$dynSelect,"_social-network.html")
   })
   
   #dynamic slider range for characters
+  slider <- reactive({
+    paste0("www/output/",input$textSelect,"_gutenberg_character_frequency_csv.txt")
+  })
   
   output$characterrange <- renderUI ({
-    
-    if (input$textSelect == "chuzzlewit") {charrange <- chuzzlewit_character_all}
-    #if (input$textSelect == "greatexpectations") {charrange <- greatexpectations_character_all}
-    if (input$textSelect == "davidcopperfield") {charrange <- davidcopperfield_character_all}
-    if (input$textSelect == "bleakhouse") {charrange <- bleakhouse_character_all}
-    #if (input$textSelect == "pickwick") {charrange <- pickwick_character_all}
-    if (input$textSelect == "ourmutualfriend") {charrange <- ourmutualfriend_character_all}
-    #if (input$textSelect == "phineasfinn") {charrange <- phineasfinn_character_all}
-    #if (input$textSelect == "smallhouse") {charrange <- smallhouse_character_all}
+    charrange <- read.csv(file = slider(), sep = ",")
     
     sliderInput('charrange', 'Number of Character Appearances', min = min(charrange$Appearances), max = max(charrange$Appearances), value = c(min(charrange$Appearances), max(charrange$Appearances)))
     
   })
   
   #statistics
+  stat1 <- reactive({
+    paste0("www/output/",input$textSelect,"_netstat.csv")
+  })
+  
+  stat2 <- reactive({
+    paste0("www/output/",input$textSelect,"_socnetstat.csv")
+  })
   
   output$statistics <- renderTable ({
+    stats <- read.csv2(file = stat1(), header = T)
     
-    if (input$textSelect == "chuzzlewit") {stats <- chuzzlewit_stats}
-    #if (input$textSelect == "greatexpectations") {stats <- greatexpectations_stats}
-    if (input$textSelect == "davidcopperfield") {stats <- davidcopperfield_stats}
-    if (input$textSelect == "bleakhouse") {stats <- bleakhouse_stats}
-    #if (input$textSelect == "pickwick") {stats <- pickwick_stats}
-    if (input$textSelect == "ourmutualfriend") {stats <- ourmutualfriend_stats}
-    #if (input$textSelect == "phineasfinn") {stats <- phineasfinn_stats}
-    #if (input$textSelect == "smallhouse") {stats <- smallhouse_stats}
-    
-    if (input$textSelect == "chuzzlewit") {stats2 <- chuzzlewit_stats2}
-    #if (input$textSelect == "greatexpectations") {stats2 <- greatexpectations_stats2}
-    if (input$textSelect == "davidcopperfield") {stats2 <- davidcopperfield_stats2}
-    if (input$textSelect == "bleakhouse") {stats2 <- bleakhouse_stats2}
-    #if (input$textSelect == "pickwick") {stats2 <- pickwick_stats2}
-    if (input$textSelect == "ourmutualfriend") {stats2 <- ourmutualfriend_stats2}
-    #if (input$textSelect == "phineasfinn") {stats2 <- phineasfinn_stats2}
-    #if (input$textSelect == "smallhouse") {stats2 <- smallhouse_stats2}
+    stats2 <- read.csv2(file = stat2(), header = T)
     
     tmpstat <- c('diameter(g)','min(degd)','max(degd)','mean(degd)','edge_density(g)','modularity(wtc)')
     tmpexpl <- c('?','?','?','?','?','?')
@@ -177,16 +120,13 @@ server <- function(input, output) {
   })
   
   #entropy plot
+  entrop <- reactive({
+    paste0("www/output/",input$textSelect,"_gutenberg_entropy_csv.txt")
+  })
+  
   output$plot_entropy <- renderPlotly({
     
-    if (input$textSelect == "chuzzlewit") {plotname_ent <- chuzzlewit_entropy}
-    #if (input$textSelect == "greatexpectations") {plotname_ent <- greatexpectations_entropy}
-    if (input$textSelect == "davidcopperfield") {plotname_ent <- davidcopperfield_entropy}
-    if (input$textSelect == "bleakhouse") {plotname_ent <- bleakhouse_entropy}
-    #if (input$textSelect == "pickwick") {plotname_ent <- pickwick_entropy}
-    if (input$textSelect == "ourmutualfriend") {plotname_ent <- ourmutualfriend_entropy}
-    #if (input$textSelect == "phineasfinn") {plotname_ent <- phineasfinn_entropy}
-    #if (input$textSelect == "smallhouse") {plotname_ent <- smallhouse_entropy}
+    plotname_ent <- read.csv(file = entrop(), sep = ',')
     
     ggplotly(ggplot(plotname_ent, aes(x = Node, y = Entropy)) + geom_point() + geom_line(linetype = 2, size=.2) + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0)) + scale_y_continuous (limits = c(0,5), minor_breaks = seq(0, 5, 0.25), breaks = seq(0, 5, 0.5)))
     
@@ -196,14 +136,7 @@ server <- function(input, output) {
   
   plotname_char_first_last <- reactive({
     
-    if (input$textSelect == "chuzzlewit") {plotname_char_first_last <- chuzzlewit_character_first_last}
-    #if (input$textSelect == "greatexpectations") {plotname_char_first_last <- greatexpectations_character_first_last}
-    if (input$textSelect == "davidcopperfield") {plotname_char_first_last <- davidcopperfield_character_first_last}
-    if (input$textSelect == "bleakhouse") {plotname_char_first_last <- bleakhouse_character_first_last}
-    #if (input$textSelect == "pickwick") {plotname_char_first_last <- pickwick_character_first_last}
-    if (input$textSelect == "ourmutualfriend") {plotname_char_first_last <- ourmutualfriend_character_first_last}
-    #if (input$textSelect == "phineasfinn") {plotname_char_first_last <- phineasfinn_character_first_last}
-    #if (input$textSelect == "smallhouse") {plotname_char_first_last <- smallhouse_character_first_last}
+    plotname_char_first_last <- read.csv(file = paste0("www/output/",input$textSelect,"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_first_last %>%
@@ -222,14 +155,7 @@ server <- function(input, output) {
   
   plotname_char_all <- reactive({
     
-    if (input$textSelect == "chuzzlewit") {plotname_char_all <- chuzzlewit_character_all}
-    #if (input$textSelect == "greatexpectations") {plotname_char_all <- greatexpectations_character_all}
-    if (input$textSelect == "davidcopperfield") {plotname_char_all <- davidcopperfield_character_all}
-    if (input$textSelect == "bleakhouse") {plotname_char_all <- bleakhouse_character_all}
-    #if (input$textSelect == "pickwick") {plotname_char_all <- pickwick_character_all}
-    if (input$textSelect == "ourmutualfriend") {plotname_char_all <- ourmutualfriend_character_all}
-    #if (input$textSelect == "phineasfinn") {plotname_char_all <- phineasfinn_character_all}
-    #if (input$textSelect == "smallhouse") {plotname_char_all <- smallhouse_character_all}
+    plotname_char_all <- read.csv(file = paste0("www/output/",input$textSelect,"_gutenberg_character_frequency_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_all %>%
@@ -244,14 +170,12 @@ server <- function(input, output) {
     
   }) 
   
-  #network visualisations    
-  #output$networkvisualisation_greatexpectations <- renderUI({
-    #tagList(tags$iframe(src=paste("locpath/greatexpectations_dynamic-network.html",sep=""), width=1000, height=800))
-    #netpath <- paste("file:///Users/mlr/Documents/git-projects/lit-cascades/output/",input$textSelect,"_dynamic-network.html",sep="")
-  #})
-  
   output$networkvisualisation_chars <- renderUI({
     tags$iframe(src=loadchars(), width=1000, height=800)
+  })
+  
+  output$networkvisualisation_statchars <- renderUI({
+    tags$iframe(src=loadstatchars(), width=1000, height=800)
   })
   
   output$networkvisualisation_social <- renderUI({
