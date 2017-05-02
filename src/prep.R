@@ -230,8 +230,15 @@ for(nextRun in 1:length(allTextFiles)){
   detach("package:sna", unload=TRUE)
   detach("package:networkDynamic", unload=TRUE)
   
+  uniqueLinks <- data.frame(id1=character(0),id2=character(0),label=character(0))
+  convLinks <- as.data.frame(links,stringsAsFactors = F)
+  for(z in 1:nrow(convLinks)){
+    uniqueLinks <- rbind(uniqueLinks,data.frame(id1=unlist(convLinks[z,1]),id2=unlist(convLinks[z,2]),label=paste(convLinks[which(unlist(convLinks[,1])==unlist(convLinks[z,1]) & unlist(convLinks[,2])==unlist(convLinks[z,2])),3],collapse=', '),stringsAsFactors = F))
+  }
+  uniqueLinks <- unique(uniqueLinks)
+  colnames(uniqueLinks) <- c("id1","id2","label")
   colnames(links) <- c("id1","id2","label")
-  g <- graph.data.frame(links,directed=TRUE)
+  g <- graph.data.frame(uniqueLinks,directed=TRUE)
   
   V(g)$frame.color <- "white"
   V(g)$color <- "orange"
