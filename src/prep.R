@@ -48,7 +48,7 @@ allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
 allOutput <- c()
 
 for(nextRun in 1:length(allTextFiles)){
-  theSource <- gsub(' ','',gsub(' text.txt','',allTextFiles[nextRun]))
+  theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
   allOutput <- c(allOutput,theSource)
   sourceText <- readChar(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]))$size)
   processedText <- gsub("\\r\\n", " ", sourceText,perl=T)

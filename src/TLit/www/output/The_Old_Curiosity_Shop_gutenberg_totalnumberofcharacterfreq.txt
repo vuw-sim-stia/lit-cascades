@@ -1,0 +1,57 @@
+"Character","Node"
+"Abel Garland",30
+"Barbara",15
+"Becky Morgan",2
+"Dame West",1
+"Daniel Quilp",65
+"David",2
+"Dick Swiveller",60
+"Foxey",1
+"Frederick Trent",11
+"George",5
+"Harry",1
+"Isaac List",7
+"Jacob Nubbles",24
+"James Groves",4
+"Jane Wackles",2
+"Jerry",4
+"Joe Jowl",3
+"John Owen",1
+"Kit Nubbles",72
+"Little Nell",88
+"Maunders",1
+"Melissa Wackles",1
+"Miss Cheggs",2
+"Miss Edwards",2
+"Miss Monflathers",4
+"Mr Cheggs",6
+"Mr Chuckster",16
+"Mr Garland",29
+"Mr Grinder",1
+"Mr Harris",11
+"Mr Marton",1
+"Mr Slum",3
+"Mr Tomkinley",1
+"Mr Vuffin",1
+"Mr Witherden",11
+"Mrs Betsy Quilp",21
+"Mrs Garland",11
+"Mrs George",1
+"Mrs Henrietta Simmons",1
+"Mrs Jarley",12
+"Mrs Jiniwin",10
+"Mrs Nubbles",9
+"Mrs Wackles",2
+"Nell Trent",88
+"Nell's Grandfather",52
+"Richard Evans",1
+"Sally Brass",39
+"Sampson Brass",53
+"Sophia Wackles",9
+"Sophronia Sphynx",14
+"Sweet William",1
+"The Bachelor",12
+"The Clergyman",3
+"Thomas Codlin",22
+"Tom Scott",9
+"Whisker",6

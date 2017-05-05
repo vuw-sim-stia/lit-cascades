@@ -40,7 +40,7 @@ ui <- shinyUI(absolutePanel(
              tabPanel("Network Visualisations",
                       sidebarPanel(
                         helpText("The Dynamic Network provides a method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window."),
-                        selectInput('dynSelect', 'Select Text:', list('Charles Dickens' = allText$x))),
+                        selectInput('dynSelect', 'Select Text:', list('Charles Dickens' = gsub("_"," ",allText$x)))),
                       mainPanel(
                         tabsetPanel(
                           tabPanel("Dynamic Character Flow Network",
@@ -53,7 +53,7 @@ ui <- shinyUI(absolutePanel(
                       sidebarPanel(
                         helpText("From the below options, select a text and range of nodes to examine; alternately, you can hover over the graph to display various interactive methods."),
                         #selectInput('textSelect', 'Select Text:', list('Charles Dickens' = c('Bleak House'='bleakhouse','David Copperfield'='davidcopperfield','Great Expectations'='greatexpectations','Martin Chuzzlewit'='chuzzlewit','Our Mutual Friend'='ourmutualfriend','Pickwick Papers'='pickwick'), 'Anthony Trollope' = c('Phineas Finn'='phineasfinn', 'Small House'='smallhouse'))),
-                        selectInput('textSelect', 'Select Text:', list('Charles Dickens' = allText$x)),
+                        selectInput('textSelect', 'Select Text:', list('Charles Dickens' = gsub("_"," ",allText$x))),
                         sliderInput('noderange', label = 'Range of Nodes Within Text:', min = 1, max = 400, value = c(1, 400)),
                         uiOutput('characterrange'),
                         tableOutput('statistics')),
@@ -74,20 +74,20 @@ server <- function(input, output) {
   addResourcePath("locpath", "./www/output")
   
   loadchars <- reactive({
-    paste0("output/",input$dynSelect,"_dynamic-network.html")
+    paste0("output/",gsub(" ","_",input$dynSelect),"_dynamic-network.html")
   })
   
   loadstatchars <- reactive({
-    paste0("output/",input$dynSelect,"_static-network.html")
+    paste0("output/",gsub(" ","_",input$dynSelect),"_static-network.html")
   })
   
   loadsoc <- reactive({
-    paste0("output/",input$dynSelect,"_social-network.html")
+    paste0("output/",gsub(" ","_",input$dynSelect),"_social-network.html")
   })
   
   #dynamic slider range for characters
   slider <- reactive({
-    paste0("www/output/",input$textSelect,"_gutenberg_character_frequency_csv.txt")
+    paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt")
   })
   
   output$characterrange <- renderUI ({
@@ -99,11 +99,11 @@ server <- function(input, output) {
   
   #statistics
   stat1 <- reactive({
-    paste0("www/output/",input$textSelect,"_netstat.csv")
+    paste0("www/output/",gsub(" ","_",input$textSelect),"_netstat.csv")
   })
   
   stat2 <- reactive({
-    paste0("www/output/",input$textSelect,"_socnetstat.csv")
+    paste0("www/output/",gsub(" ","_",input$textSelect),"_socnetstat.csv")
   })
   
   output$statistics <- renderTable ({
@@ -121,7 +121,7 @@ server <- function(input, output) {
   
   #entropy plot
   entrop <- reactive({
-    paste0("www/output/",input$textSelect,"_gutenberg_entropy_csv.txt")
+    paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_entropy_csv.txt")
   })
   
   output$plot_entropy <- renderPlotly({
@@ -136,7 +136,7 @@ server <- function(input, output) {
   
   plotname_char_first_last <- reactive({
     
-    plotname_char_first_last <- read.csv(file = paste0("www/output/",input$textSelect,"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_first_last %>%
@@ -155,7 +155,7 @@ server <- function(input, output) {
   
   plotname_char_all <- reactive({
     
-    plotname_char_all <- read.csv(file = paste0("www/output/",input$textSelect,"_gutenberg_character_frequency_csv.txt"), sep = ',')
+    plotname_char_all <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_all %>%
