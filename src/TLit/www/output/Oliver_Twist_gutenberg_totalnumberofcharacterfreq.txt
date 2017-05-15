@@ -1,48 +1,48 @@
 "Character","Node"
 "Anny",1
-"Artful Dodger",28
-"Barney",6
-"Bet",6
-"Bill Sikes",43
+"Artful Dodger",27
+"Barney",8
+"Bet",7
+"Bill Sikes",50
 "Blathers",5
-"Brittles",9
+"Brittles",11
 "Charley Bates",25
-"Charlotte",11
+"Charlotte",14
 "Conkey Chickweed",3
 "Dick",5
 "Duff",6
-"Edward Leeford",18
-"Fagin",48
+"Edward Leeford",25
+"Fagin",56
 "Grannett",1
-"Harry Maylie",12
-"Jem Spyers",2
+"Harry Maylie",13
+"Jem Spyers",1
 "Kags",2
 "Martha",1
-"Morris Bolter",4
-"Mr Brownlow",29
-"Mr Bumble",31
-"Mr Fang",3
-"Mr Gamfield",4
-"Mr Giles",16
-"Mr Grimwig",12
-"Mr Limbkins",4
+"Morris Bolter",5
+"Mr Brownlow",31
+"Mr Bumble",37
+"Mr Fang",4
+"Mr Gamfield",5
+"Mr Giles",20
+"Mr Grimwig",13
+"Mr Limbkins",3
 "Mr Lively",1
-"Mr Losberne",24
+"Mr Losberne",27
 "Mr Mann",1
 "Mr Slout",1
-"Mr Sowerberry",13
-"Mrs Bedwin",10
+"Mr Sowerberry",14
+"Mrs Bedwin",12
 "Mrs Bolter",1
 "Mrs Corney",9
 "Mrs Mann",4
-"Mrs Maylie",22
-"Mrs Sowerberry",9
-"Nancy",30
+"Mrs Maylie",23
+"Mrs Sowerberry",8
+"Nancy",31
 "Ned",2
-"Noah Claypole",20
-"Oliver Twist",96
+"Noah Claypole",23
+"Oliver Twist",111
 "Phil Barker",1
-"Rose Maylie",32
+"Rose Maylie",37
 "Sally",5
-"Toby Crackit",18
-"Tom Chitling",8
+"Toby Crackit",20
+"Tom Chitling",6

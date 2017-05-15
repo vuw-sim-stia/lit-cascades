@@ -1,94 +1,94 @@
 "Character","Node"
-"Ada Clare",112
-"Alfred Pardiggle",1
-"Allan Woodcourt",43
-"Arethusa Skimpole",3
-"Bartholomew Smallweed",8
-"Bob Stables",4
+"Ada Clare",126
+"Alfred Pardiggle",2
+"Allan Woodcourt",45
+"Arethusa Skimpole",4
+"Bartholomew Smallweed",9
+"Bob Stables",5
 "Captain Hawden",10
-"Captain Swosser",3
-"Caroline Caddy",35
-"Charley",37
-"Coavinses",9
-"Conversation Kenge",24
+"Captain Swosser",4
+"Caroline Caddy",37
+"Charley",43
+"Coavinses",11
+"Conversation Kenge",26
 "Darby",2
-"Egbert Pardiggle",2
+"Egbert Pardiggle",3
 "Emma Neckett",8
-"Esther Summerson",80
+"Esther Summerson",86
 "Francis Pardiggle",2
-"George Rouncewell",39
-"Grandfather Smallweed",26
-"Guster",14
-"Inspector Bucket",45
+"George Rouncewell",46
+"Grandfather Smallweed",30
+"Guster",16
+"Inspector Bucket",51
 "James George Bogsby",2
-"Jenny",8
-"Jo",28
-"Jobling",21
-"John Jarndyce",95
-"Judy Smallweed",18
-"Kitty Skimpole",3
-"Krook",29
-"Lady Dedlock",66
-"Laura Skimpole",3
-"Lawrence Boythorn",22
-"Little Swills",8
+"Jenny",12
+"Jo",34
+"Jobling",24
+"John Jarndyce",102
+"Judy Smallweed",19
+"Kitty Skimpole",4
+"Krook",30
+"Lady Dedlock",77
+"Laura Skimpole",4
+"Lawrence Boythorn",25
+"Little Swills",7
 "Liz",5
 "Lord Boodle",4
-"Mademoiselle Hortense",12
-"Malta Bagnet",8
-"Matthew Bagnet",16
-"Mercury",19
+"Mademoiselle Hortense",13
+"Malta Bagnet",10
+"Matthew Bagnet",20
+"Mercury",20
 "Miss Barbary",4
-"Miss Donny",2
-"Miss Flite",27
-"Miss Wisk",1
+"Miss Donny",1
+"Miss Flite",29
+"Miss Wisk",2
 "Mooney",1
-"Mr Badger",8
+"Mr Badger",9
 "Mr Gridley",21
 "Mr Grubble",1
 "Mr Gusher",2
-"Mr Jellby",16
+"Mr Jellby",18
 "Mr Pardiggle",2
-"Mr Quale",6
+"Mr Quale",7
 "Mr Rouncewell",12
-"Mr Skimpole",34
-"Mr Snagsby",34
+"Mr Skimpole",39
+"Mr Snagsby",39
 "Mr Tangle",1
-"Mr Tulkinghorn",61
-"Mr Turveydrop",17
+"Mr Tulkinghorn",71
+"Mr Turveydrop",18
 "Mrs Badger",5
-"Mrs Bagnet",15
+"Mrs Bagnet",19
 "Mrs Blinder",7
 "Mrs Bucket",5
-"Mrs Chadband",13
+"Mrs Chadband",14
 "Mrs Guppy",4
-"Mrs Pardiggle",6
-"Mrs Perkins",8
-"Mrs Piper",8
+"Mrs Pardiggle",9
+"Mrs Perkins",7
+"Mrs Piper",7
 "Mrs Rouncewell",24
 "Mrs Skimpole",4
 "Mrs Smallweed",10
-"Mrs Snagsby",26
-"Mrs Woodcourt",9
-"Oswald Pardiggle",2
-"Peepy Jellby",18
+"Mrs Snagsby",28
+"Mrs Woodcourt",10
+"Oswald Pardiggle",3
+"Peepy Jellby",20
 "Peffer",1
-"Phil Squod",13
+"Phil Squod",17
 "Polly",2
-"Prince Turvey",17
+"Prince Turvey",16
 "Priscilla",2
 "Professor Dingo",4
-"Quebec Bagnet",8
+"Quebec Bagnet",10
 "Reverend Chadband",10
-"Richard Carstone",92
-"Rosa",10
-"Sir Dedlock",71
+"Richard Carstone",102
+"Rosa",14
+"Sir Dedlock",83
 "Sladdery",2
 "Thomas",1
-"Tom Neckett",9
-"Vholes",22
-"Volumnia Dedlock",17
-"Watt Rouncewell",5
+"Tom Neckett",8
+"Vholes",25
+"Volumnia Dedlock",20
+"Watt Rouncewell",6
 "William Buffy",7
-"William Guppy",45
-"Woolwich Bagnet",10
+"William Guppy",50
+"Woolwich Bagnet",9

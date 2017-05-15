@@ -1,25 +1,25 @@
 "Character","Node"
-"Charles St EvrŽmonde",48
-"Doctor Manette",49
+"Charles St EvrŽmonde",54
+"Doctor Manette",55
 "Ernest Defarge",34
-"Foulon",2
-"Gaspard",2
+"Foulon",3
+"Gaspard",3
 "Jacques",15
-"Jarvis Lorry",62
-"Jerry Cruncher",24
+"Jarvis Lorry",71
+"Jerry Cruncher",28
 "Joe",2
-"Lucie Manette",38
+"Lucie Manette",41
 "Marquis St EvrŽmonde I",3
-"Marquis St EvrŽmonde II",23
-"Miss Pross",25
+"Marquis St EvrŽmonde II",28
+"Miss Pross",29
 "Mr Stryver",17
-"Mrs Cruncher",5
+"Mrs Cruncher",6
 "Mrs Stryver",1
 "Roger Cly",7
 "Solomon Pross",17
-"Sydney Carton",32
-"The Vengeance",11
+"Sydney Carton",35
+"The Vengeance",12
 "ThŽophile Gabelle",8
 "ThŽrse Defarge",28
 "Tom",1
-"Young Jerry Cruncher",1
+"Young Jerry Cruncher",2

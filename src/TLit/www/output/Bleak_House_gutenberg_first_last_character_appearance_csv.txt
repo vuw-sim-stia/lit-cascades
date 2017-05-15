@@ -1,187 +1,187 @@
 "","Character","Node","Type","Appearances"
-"1","Ada Clare",12,"First Appearance",112
-"2","Ada Clare",327,"Last Appearance",112
-"3","Alfred Pardiggle",39,"Last Appearance",1
-"4","Alfred Pardiggle",39,"First Appearance",1
-"5","Allan Woodcourt",328,"Last Appearance",43
-"6","Allan Woodcourt",74,"First Appearance",43
-"7","Arethusa Skimpole",308,"Last Appearance",3
-"8","Arethusa Skimpole",221,"First Appearance",3
-"9","Bartholomew Smallweed",102,"First Appearance",8
-"10","Bartholomew Smallweed",208,"Last Appearance",8
-"11","Bob Stables",293,"Last Appearance",4
-"12","Bob Stables",4,"First Appearance",4
-"13","Captain Hawden",272,"Last Appearance",10
-"14","Captain Hawden",20,"First Appearance",10
-"15","Captain Swosser",86,"Last Appearance",3
-"16","Captain Swosser",65,"First Appearance",3
-"17","Caroline Caddy",15,"First Appearance",35
-"18","Caroline Caddy",327,"Last Appearance",35
-"19","Charley",327,"Last Appearance",37
-"20","Charley",79,"First Appearance",37
-"21","Coavinses",309,"Last Appearance",9
-"22","Coavinses",29,"First Appearance",9
-"23","Conversation Kenge",323,"Last Appearance",24
-"24","Conversation Kenge",8,"First Appearance",24
-"25","Darby",115,"First Appearance",2
-"26","Darby",116,"Last Appearance",2
-"27","Egbert Pardiggle",40,"Last Appearance",2
-"28","Egbert Pardiggle",39,"First Appearance",2
-"29","Emma Neckett",79,"First Appearance",8
-"30","Emma Neckett",327,"Last Appearance",8
-"31","Esther Summerson",7,"First Appearance",80
-"32","Esther Summerson",328,"Last Appearance",80
-"33","Francis Pardiggle",39,"First Appearance",2
-"34","Francis Pardiggle",40,"Last Appearance",2
-"35","George Rouncewell",109,"First Appearance",39
-"36","George Rouncewell",317,"Last Appearance",39
-"37","Grandfather Smallweed",102,"First Appearance",26
-"38","Grandfather Smallweed",313,"Last Appearance",26
-"39","Guster",49,"First Appearance",14
-"40","Guster",301,"Last Appearance",14
-"41","Inspector Bucket",113,"First Appearance",45
-"42","Inspector Bucket",317,"Last Appearance",45
-"43","James George Bogsby",170,"First Appearance",2
-"44","James George Bogsby",173,"Last Appearance",2
-"45","Jenny",42,"First Appearance",8
-"46","Jenny",291,"Last Appearance",8
-"47","Jo",56,"First Appearance",28
-"48","Jo",318,"Last Appearance",28
-"49","Jobling",102,"First Appearance",21
-"50","Jobling",321,"Last Appearance",21
-"51","John Jarndyce",9,"First Appearance",95
-"52","John Jarndyce",322,"Last Appearance",95
-"53","Judy Smallweed",237,"Last Appearance",18
-"54","Judy Smallweed",107,"First Appearance",18
-"55","Kitty Skimpole",221,"First Appearance",3
-"56","Kitty Skimpole",308,"Last Appearance",3
-"57","Krook",20,"First Appearance",29
-"58","Krook",313,"Last Appearance",29
-"59","Lady Dedlock",4,"First Appearance",66
-"60","Lady Dedlock",325,"Last Appearance",66
-"61","Laura Skimpole",221,"First Appearance",3
-"62","Laura Skimpole",308,"Last Appearance",3
-"63","Lawrence Boythorn",44,"First Appearance",22
-"64","Lawrence Boythorn",325,"Last Appearance",22
-"65","Little Swills",55,"First Appearance",8
-"66","Little Swills",207,"Last Appearance",8
-"67","Liz",115,"First Appearance",5
-"68","Liz",289,"Last Appearance",5
-"69","Lord Boodle",60,"First Appearance",4
-"70","Lord Boodle",325,"Last Appearance",4
-"71","Mademoiselle Hortense",59,"First Appearance",12
-"72","Mademoiselle Hortense",275,"Last Appearance",12
-"73","Malta Bagnet",142,"First Appearance",8
-"74","Malta Bagnet",279,"Last Appearance",8
-"75","Matthew Bagnet",142,"First Appearance",16
-"76","Matthew Bagnet",279,"Last Appearance",16
-"77","Mercury",5,"First Appearance",19
-"78","Mercury",281,"Last Appearance",19
-"79","Miss Barbary",281,"Last Appearance",4
-"80","Miss Barbary",8,"First Appearance",4
-"81","Miss Donny",10,"First Appearance",2
-"82","Miss Donny",11,"Last Appearance",2
-"83","Miss Flite",324,"Last Appearance",27
-"84","Miss Flite",53,"First Appearance",27
-"85","Miss Wisk",157,"Last Appearance",1
-"86","Miss Wisk",157,"First Appearance",1
-"87","Mooney",56,"Last Appearance",1
-"88","Mooney",56,"First Appearance",1
-"89","Mr Badger",65,"First Appearance",8
-"90","Mr Badger",255,"Last Appearance",8
-"91","Mr Gridley",305,"Last Appearance",21
-"92","Mr Gridley",2,"First Appearance",21
-"93","Mr Grubble",193,"Last Appearance",1
-"94","Mr Grubble",193,"First Appearance",1
-"95","Mr Gusher",77,"Last Appearance",2
-"96","Mr Gusher",40,"First Appearance",2
-"97","Mr Jellby",14,"First Appearance",16
-"98","Mr Jellby",327,"Last Appearance",16
-"99","Mr Pardiggle",40,"Last Appearance",2
-"100","Mr Pardiggle",39,"First Appearance",2
-"101","Mr Quale",157,"Last Appearance",6
-"102","Mr Quale",16,"First Appearance",6
-"103","Mr Rouncewell",315,"Last Appearance",12
-"104","Mr Rouncewell",32,"First Appearance",12
-"105","Mr Skimpole",26,"First Appearance",34
-"106","Mr Skimpole",309,"Last Appearance",34
-"107","Mr Snagsby",301,"Last Appearance",34
-"108","Mr Snagsby",49,"First Appearance",34
-"109","Mr Tangle",2,"First Appearance",1
-"110","Mr Tangle",2,"Last Appearance",1
-"111","Mr Tulkinghorn",5,"First Appearance",61
-"112","Mr Tulkinghorn",300,"Last Appearance",61
-"113","Mr Turveydrop",70,"First Appearance",17
-"114","Mr Turveydrop",327,"Last Appearance",17
-"115","Mrs Badger",65,"First Appearance",5
-"116","Mrs Badger",153,"Last Appearance",5
-"117","Mrs Bagnet",142,"First Appearance",15
-"118","Mrs Bagnet",279,"Last Appearance",15
-"119","Mrs Blinder",78,"First Appearance",7
-"120","Mrs Blinder",237,"Last Appearance",7
-"121","Mrs Bucket",250,"First Appearance",5
-"122","Mrs Bucket",275,"Last Appearance",5
-"123","Mrs Chadband",7,"First Appearance",13
-"124","Mrs Chadband",272,"Last Appearance",13
-"125","Mrs Guppy",48,"First Appearance",4
-"126","Mrs Guppy",321,"Last Appearance",4
-"127","Mrs Pardiggle",39,"First Appearance",6
-"128","Mrs Pardiggle",238,"Last Appearance",6
-"129","Mrs Perkins",54,"First Appearance",8
-"130","Mrs Perkins",207,"Last Appearance",8
-"131","Mrs Piper",54,"First Appearance",8
-"132","Mrs Piper",207,"Last Appearance",8
-"133","Mrs Rouncewell",296,"Last Appearance",24
-"134","Mrs Rouncewell",32,"First Appearance",24
-"135","Mrs Skimpole",30,"First Appearance",4
-"136","Mrs Skimpole",223,"Last Appearance",4
-"137","Mrs Smallweed",107,"First Appearance",10
-"138","Mrs Smallweed",271,"Last Appearance",10
-"139","Mrs Snagsby",49,"First Appearance",26
-"140","Mrs Snagsby",301,"Last Appearance",26
-"141","Mrs Woodcourt",90,"First Appearance",9
-"142","Mrs Woodcourt",319,"Last Appearance",9
-"143","Oswald Pardiggle",39,"First Appearance",2
-"144","Oswald Pardiggle",40,"Last Appearance",2
-"145","Peepy Jellby",15,"First Appearance",18
-"146","Peepy Jellby",327,"Last Appearance",18
-"147","Peffer",49,"First Appearance",1
-"148","Peffer",49,"Last Appearance",1
-"149","Phil Squod",112,"First Appearance",13
-"150","Phil Squod",325,"Last Appearance",13
-"151","Polly",103,"First Appearance",2
-"152","Polly",105,"Last Appearance",2
-"153","Prince Turvey",71,"First Appearance",17
-"154","Prince Turvey",254,"Last Appearance",17
-"155","Priscilla",17,"First Appearance",2
-"156","Priscilla",19,"Last Appearance",2
-"157","Professor Dingo",65,"First Appearance",4
-"158","Professor Dingo",87,"Last Appearance",4
-"159","Quebec Bagnet",279,"Last Appearance",8
-"160","Quebec Bagnet",142,"First Appearance",8
-"161","Reverend Chadband",97,"First Appearance",10
-"162","Reverend Chadband",272,"Last Appearance",10
-"163","Richard Carstone",328,"Last Appearance",92
-"164","Richard Carstone",12,"First Appearance",92
-"165","Rosa",316,"Last Appearance",10
-"166","Rosa",33,"First Appearance",10
-"167","Sir Dedlock",325,"Last Appearance",71
-"168","Sir Dedlock",4,"First Appearance",71
-"169","Sladdery",5,"First Appearance",2
-"170","Sladdery",293,"Last Appearance",2
-"171","Thomas",211,"Last Appearance",1
-"172","Thomas",211,"First Appearance",1
-"173","Tom Neckett",327,"Last Appearance",9
-"174","Tom Neckett",79,"First Appearance",9
-"175","Vholes",323,"Last Appearance",22
-"176","Vholes",198,"First Appearance",22
-"177","Volumnia Dedlock",145,"First Appearance",17
-"178","Volumnia Dedlock",326,"Last Appearance",17
-"179","Watt Rouncewell",316,"Last Appearance",5
-"180","Watt Rouncewell",33,"First Appearance",5
-"181","William Buffy",325,"Last Appearance",7
-"182","William Buffy",60,"First Appearance",7
-"183","William Guppy",321,"Last Appearance",45
-"184","William Guppy",14,"First Appearance",45
-"185","Woolwich Bagnet",142,"First Appearance",10
-"186","Woolwich Bagnet",277,"Last Appearance",10
+"1","Ada Clare",13,"First Appearance",126
+"2","Ada Clare",387,"Last Appearance",126
+"3","Alfred Pardiggle",44,"Last Appearance",2
+"4","Alfred Pardiggle",43,"First Appearance",2
+"5","Allan Woodcourt",388,"Last Appearance",45
+"6","Allan Woodcourt",86,"First Appearance",45
+"7","Arethusa Skimpole",364,"Last Appearance",4
+"8","Arethusa Skimpole",259,"First Appearance",4
+"9","Bartholomew Smallweed",120,"First Appearance",9
+"10","Bartholomew Smallweed",244,"Last Appearance",9
+"11","Bob Stables",346,"Last Appearance",5
+"12","Bob Stables",5,"First Appearance",5
+"13","Captain Hawden",321,"Last Appearance",10
+"14","Captain Hawden",21,"First Appearance",10
+"15","Captain Swosser",101,"Last Appearance",4
+"16","Captain Swosser",75,"First Appearance",4
+"17","Caroline Caddy",16,"First Appearance",37
+"18","Caroline Caddy",387,"Last Appearance",37
+"19","Charley",387,"Last Appearance",43
+"20","Charley",91,"First Appearance",43
+"21","Coavinses",366,"Last Appearance",11
+"22","Coavinses",32,"First Appearance",11
+"23","Conversation Kenge",383,"Last Appearance",26
+"24","Conversation Kenge",9,"First Appearance",26
+"25","Darby",135,"First Appearance",2
+"26","Darby",136,"Last Appearance",2
+"27","Egbert Pardiggle",45,"Last Appearance",3
+"28","Egbert Pardiggle",43,"First Appearance",3
+"29","Emma Neckett",91,"First Appearance",8
+"30","Emma Neckett",387,"Last Appearance",8
+"31","Esther Summerson",7,"First Appearance",86
+"32","Esther Summerson",388,"Last Appearance",86
+"33","Francis Pardiggle",43,"First Appearance",2
+"34","Francis Pardiggle",45,"Last Appearance",2
+"35","George Rouncewell",128,"First Appearance",46
+"36","George Rouncewell",376,"Last Appearance",46
+"37","Grandfather Smallweed",120,"First Appearance",30
+"38","Grandfather Smallweed",371,"Last Appearance",30
+"39","Guster",56,"First Appearance",16
+"40","Guster",356,"Last Appearance",16
+"41","Inspector Bucket",133,"First Appearance",51
+"42","Inspector Bucket",375,"Last Appearance",51
+"43","James George Bogsby",199,"First Appearance",2
+"44","James George Bogsby",203,"Last Appearance",2
+"45","Jenny",47,"First Appearance",12
+"46","Jenny",345,"Last Appearance",12
+"47","Jo",65,"First Appearance",34
+"48","Jo",377,"Last Appearance",34
+"49","Jobling",120,"First Appearance",24
+"50","Jobling",381,"Last Appearance",24
+"51","John Jarndyce",9,"First Appearance",102
+"52","John Jarndyce",382,"Last Appearance",102
+"53","Judy Smallweed",279,"Last Appearance",19
+"54","Judy Smallweed",126,"First Appearance",19
+"55","Kitty Skimpole",259,"First Appearance",4
+"56","Kitty Skimpole",364,"Last Appearance",4
+"57","Krook",21,"First Appearance",30
+"58","Krook",370,"Last Appearance",30
+"59","Lady Dedlock",4,"First Appearance",77
+"60","Lady Dedlock",385,"Last Appearance",77
+"61","Laura Skimpole",259,"First Appearance",4
+"62","Laura Skimpole",364,"Last Appearance",4
+"63","Lawrence Boythorn",50,"First Appearance",25
+"64","Lawrence Boythorn",385,"Last Appearance",25
+"65","Little Swills",64,"First Appearance",7
+"66","Little Swills",243,"Last Appearance",7
+"67","Liz",136,"First Appearance",5
+"68","Liz",341,"Last Appearance",5
+"69","Lord Boodle",70,"First Appearance",4
+"70","Lord Boodle",386,"Last Appearance",4
+"71","Mademoiselle Hortense",69,"First Appearance",13
+"72","Mademoiselle Hortense",326,"Last Appearance",13
+"73","Malta Bagnet",167,"First Appearance",10
+"74","Malta Bagnet",330,"Last Appearance",10
+"75","Matthew Bagnet",167,"First Appearance",20
+"76","Matthew Bagnet",330,"Last Appearance",20
+"77","Mercury",5,"First Appearance",20
+"78","Mercury",332,"Last Appearance",20
+"79","Miss Barbary",332,"Last Appearance",4
+"80","Miss Barbary",9,"First Appearance",4
+"81","Miss Donny",11,"First Appearance",1
+"82","Miss Donny",11,"Last Appearance",1
+"83","Miss Flite",384,"Last Appearance",29
+"84","Miss Flite",61,"First Appearance",29
+"85","Miss Wisk",184,"Last Appearance",2
+"86","Miss Wisk",183,"First Appearance",2
+"87","Mooney",64,"Last Appearance",1
+"88","Mooney",64,"First Appearance",1
+"89","Mr Badger",75,"First Appearance",9
+"90","Mr Badger",300,"Last Appearance",9
+"91","Mr Gridley",360,"Last Appearance",21
+"92","Mr Gridley",3,"First Appearance",21
+"93","Mr Grubble",226,"Last Appearance",1
+"94","Mr Grubble",226,"First Appearance",1
+"95","Mr Gusher",89,"Last Appearance",2
+"96","Mr Gusher",44,"First Appearance",2
+"97","Mr Jellby",15,"First Appearance",18
+"98","Mr Jellby",387,"Last Appearance",18
+"99","Mr Pardiggle",45,"Last Appearance",2
+"100","Mr Pardiggle",44,"First Appearance",2
+"101","Mr Quale",184,"Last Appearance",7
+"102","Mr Quale",18,"First Appearance",7
+"103","Mr Rouncewell",373,"Last Appearance",12
+"104","Mr Rouncewell",36,"First Appearance",12
+"105","Mr Skimpole",29,"First Appearance",39
+"106","Mr Skimpole",366,"Last Appearance",39
+"107","Mr Snagsby",356,"Last Appearance",39
+"108","Mr Snagsby",56,"First Appearance",39
+"109","Mr Tangle",3,"First Appearance",1
+"110","Mr Tangle",3,"Last Appearance",1
+"111","Mr Tulkinghorn",5,"First Appearance",71
+"112","Mr Tulkinghorn",354,"Last Appearance",71
+"113","Mr Turveydrop",82,"First Appearance",18
+"114","Mr Turveydrop",387,"Last Appearance",18
+"115","Mrs Badger",75,"First Appearance",5
+"116","Mrs Badger",179,"Last Appearance",5
+"117","Mrs Bagnet",167,"First Appearance",19
+"118","Mrs Bagnet",330,"Last Appearance",19
+"119","Mrs Blinder",91,"First Appearance",7
+"120","Mrs Blinder",279,"Last Appearance",7
+"121","Mrs Bucket",295,"First Appearance",5
+"122","Mrs Bucket",325,"Last Appearance",5
+"123","Mrs Chadband",7,"First Appearance",14
+"124","Mrs Chadband",322,"Last Appearance",14
+"125","Mrs Guppy",55,"First Appearance",4
+"126","Mrs Guppy",381,"Last Appearance",4
+"127","Mrs Pardiggle",43,"First Appearance",9
+"128","Mrs Pardiggle",281,"Last Appearance",9
+"129","Mrs Perkins",63,"First Appearance",7
+"130","Mrs Perkins",243,"Last Appearance",7
+"131","Mrs Piper",63,"First Appearance",7
+"132","Mrs Piper",243,"Last Appearance",7
+"133","Mrs Rouncewell",350,"Last Appearance",24
+"134","Mrs Rouncewell",35,"First Appearance",24
+"135","Mrs Skimpole",33,"First Appearance",4
+"136","Mrs Skimpole",261,"Last Appearance",4
+"137","Mrs Smallweed",126,"First Appearance",10
+"138","Mrs Smallweed",320,"Last Appearance",10
+"139","Mrs Snagsby",56,"First Appearance",28
+"140","Mrs Snagsby",356,"Last Appearance",28
+"141","Mrs Woodcourt",105,"First Appearance",10
+"142","Mrs Woodcourt",379,"Last Appearance",10
+"143","Oswald Pardiggle",43,"First Appearance",3
+"144","Oswald Pardiggle",45,"Last Appearance",3
+"145","Peepy Jellby",16,"First Appearance",20
+"146","Peepy Jellby",387,"Last Appearance",20
+"147","Peffer",56,"First Appearance",1
+"148","Peffer",56,"Last Appearance",1
+"149","Phil Squod",132,"First Appearance",17
+"150","Phil Squod",385,"Last Appearance",17
+"151","Polly",121,"First Appearance",2
+"152","Polly",124,"Last Appearance",2
+"153","Prince Turvey",82,"First Appearance",16
+"154","Prince Turvey",299,"Last Appearance",16
+"155","Priscilla",19,"First Appearance",2
+"156","Priscilla",20,"Last Appearance",2
+"157","Professor Dingo",75,"First Appearance",4
+"158","Professor Dingo",101,"Last Appearance",4
+"159","Quebec Bagnet",330,"Last Appearance",10
+"160","Quebec Bagnet",167,"First Appearance",10
+"161","Reverend Chadband",115,"First Appearance",10
+"162","Reverend Chadband",322,"Last Appearance",10
+"163","Richard Carstone",388,"Last Appearance",102
+"164","Richard Carstone",13,"First Appearance",102
+"165","Rosa",374,"Last Appearance",14
+"166","Rosa",37,"First Appearance",14
+"167","Sir Dedlock",386,"Last Appearance",83
+"168","Sir Dedlock",4,"First Appearance",83
+"169","Sladdery",6,"First Appearance",2
+"170","Sladdery",346,"Last Appearance",2
+"171","Thomas",247,"Last Appearance",1
+"172","Thomas",247,"First Appearance",1
+"173","Tom Neckett",387,"Last Appearance",8
+"174","Tom Neckett",92,"First Appearance",8
+"175","Vholes",383,"Last Appearance",25
+"176","Vholes",232,"First Appearance",25
+"177","Volumnia Dedlock",170,"First Appearance",20
+"178","Volumnia Dedlock",386,"Last Appearance",20
+"179","Watt Rouncewell",374,"Last Appearance",6
+"180","Watt Rouncewell",37,"First Appearance",6
+"181","William Buffy",386,"Last Appearance",7
+"182","William Buffy",70,"First Appearance",7
+"183","William Guppy",381,"Last Appearance",50
+"184","William Guppy",15,"First Appearance",50
+"185","Woolwich Bagnet",168,"First Appearance",9
+"186","Woolwich Bagnet",327,"Last Appearance",9

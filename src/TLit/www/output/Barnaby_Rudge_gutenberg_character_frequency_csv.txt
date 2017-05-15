@@ -1,909 +1,978 @@
 "","Character","Node","Appearances"
-"1","Akerman",240,2
-"2","Akerman",196,2
-"3","Barnaby Rudge",179,77
-"4","Barnaby Rudge",147,77
-"5","Barnaby Rudge",23,77
-"6","Barnaby Rudge",211,77
-"7","Barnaby Rudge",241,77
-"8","Barnaby Rudge",83,77
-"9","Barnaby Rudge",145,77
-"10","Barnaby Rudge",26,77
-"11","Barnaby Rudge",155,77
-"12","Barnaby Rudge",152,77
-"13","Barnaby Rudge",154,77
-"14","Barnaby Rudge",192,77
-"15","Barnaby Rudge",143,77
-"16","Barnaby Rudge",142,77
-"17","Barnaby Rudge",56,77
-"18","Barnaby Rudge",256,77
-"19","Barnaby Rudge",17,77
-"20","Barnaby Rudge",37,77
-"21","Barnaby Rudge",40,77
-"22","Barnaby Rudge",12,77
-"23","Barnaby Rudge",181,77
-"24","Barnaby Rudge",130,77
-"25","Barnaby Rudge",13,77
-"26","Barnaby Rudge",232,77
-"27","Barnaby Rudge",164,77
-"28","Barnaby Rudge",153,77
-"29","Barnaby Rudge",82,77
-"30","Barnaby Rudge",78,77
-"31","Barnaby Rudge",81,77
-"32","Barnaby Rudge",178,77
-"33","Barnaby Rudge",186,77
-"34","Barnaby Rudge",77,77
-"35","Barnaby Rudge",22,77
-"36","Barnaby Rudge",200,77
-"37","Barnaby Rudge",175,77
-"38","Barnaby Rudge",55,77
-"39","Barnaby Rudge",123,77
-"40","Barnaby Rudge",148,77
-"41","Barnaby Rudge",191,77
-"42","Barnaby Rudge",144,77
-"43","Barnaby Rudge",239,77
-"44","Barnaby Rudge",177,77
-"45","Barnaby Rudge",215,77
-"46","Barnaby Rudge",210,77
-"47","Barnaby Rudge",138,77
-"48","Barnaby Rudge",139,77
-"49","Barnaby Rudge",240,77
-"50","Barnaby Rudge",213,77
-"51","Barnaby Rudge",19,77
-"52","Barnaby Rudge",160,77
-"53","Barnaby Rudge",176,77
-"54","Barnaby Rudge",149,77
-"55","Barnaby Rudge",80,77
-"56","Barnaby Rudge",246,77
-"57","Barnaby Rudge",34,77
-"58","Barnaby Rudge",237,77
-"59","Barnaby Rudge",36,77
-"60","Barnaby Rudge",33,77
-"61","Barnaby Rudge",212,77
-"62","Barnaby Rudge",146,77
-"63","Barnaby Rudge",225,77
-"64","Barnaby Rudge",245,77
-"65","Barnaby Rudge",79,77
-"66","Barnaby Rudge",185,77
-"67","Barnaby Rudge",35,77
-"68","Barnaby Rudge",163,77
-"69","Barnaby Rudge",214,77
-"70","Barnaby Rudge",61,77
-"71","Barnaby Rudge",162,77
-"72","Barnaby Rudge",226,77
-"73","Barnaby Rudge",150,77
-"74","Barnaby Rudge",21,77
-"75","Barnaby Rudge",151,77
-"76","Barnaby Rudge",161,77
-"77","Barnaby Rudge",131,77
-"78","Barnaby Rudge",247,77
-"79","Barnaby Rudge",236,77
-"80","Dolly Varden",63,50
-"81","Dolly Varden",15,50
-"82","Dolly Varden",84,50
-"83","Dolly Varden",242,50
-"84","Dolly Varden",30,50
-"85","Dolly Varden",64,50
-"86","Dolly Varden",243,50
-"87","Dolly Varden",87,50
-"88","Dolly Varden",85,50
-"89","Dolly Varden",221,50
-"90","Dolly Varden",182,50
-"91","Dolly Varden",77,50
-"92","Dolly Varden",11,50
-"93","Dolly Varden",43,50
-"94","Dolly Varden",62,50
-"95","Dolly Varden",249,50
-"96","Dolly Varden",250,50
-"97","Dolly Varden",129,50
-"98","Dolly Varden",255,50
-"99","Dolly Varden",97,50
-"100","Dolly Varden",45,50
-"101","Dolly Varden",65,50
-"102","Dolly Varden",68,50
-"103","Dolly Varden",70,50
-"104","Dolly Varden",223,50
-"105","Dolly Varden",224,50
-"106","Dolly Varden",219,50
-"107","Dolly Varden",131,50
-"108","Dolly Varden",220,50
-"109","Dolly Varden",222,50
-"110","Dolly Varden",217,50
-"111","Dolly Varden",25,50
-"112","Dolly Varden",66,50
-"113","Dolly Varden",67,50
-"114","Dolly Varden",26,50
-"115","Dolly Varden",183,50
-"116","Dolly Varden",128,50
-"117","Dolly Varden",94,50
-"118","Dolly Varden",98,50
-"119","Dolly Varden",99,50
-"120","Dolly Varden",60,50
-"121","Dolly Varden",216,50
-"122","Dolly Varden",17,50
-"123","Dolly Varden",248,50
-"124","Dolly Varden",61,50
-"125","Dolly Varden",225,50
-"126","Dolly Varden",69,50
-"127","Dolly Varden",44,50
-"128","Dolly Varden",96,50
-"129","Dolly Varden",127,50
-"130","Edward Chester",221,29
-"131","Edward Chester",49,29
-"132","Edward Chester",46,29
-"133","Edward Chester",101,29
-"134","Edward Chester",48,29
-"135","Edward Chester",17,29
-"136","Edward Chester",82,29
-"137","Edward Chester",47,29
-"138","Edward Chester",223,29
-"139","Edward Chester",242,29
-"140","Edward Chester",130,29
-"141","Edward Chester",64,29
-"142","Edward Chester",60,29
-"143","Edward Chester",235,29
-"144","Edward Chester",61,29
-"145","Edward Chester",246,29
-"146","Edward Chester",50,29
-"147","Edward Chester",247,29
-"148","Edward Chester",100,29
-"149","Edward Chester",209,29
-"150","Edward Chester",222,29
-"151","Edward Chester",22,29
-"152","Edward Chester",92,29
-"153","Edward Chester",245,29
-"154","Edward Chester",23,29
-"155","Edward Chester",256,29
-"156","Edward Chester",65,29
-"157","Edward Chester",72,29
-"158","Edward Chester",251,29
-"159","Emma Haredale",91,32
-"160","Emma Haredale",130,32
-"161","Emma Haredale",127,32
-"162","Emma Haredale",80,32
-"163","Emma Haredale",92,32
-"164","Emma Haredale",6,32
-"165","Emma Haredale",222,32
-"166","Emma Haredale",87,32
-"167","Emma Haredale",221,32
-"168","Emma Haredale",48,32
-"169","Emma Haredale",182,32
-"170","Emma Haredale",93,32
-"171","Emma Haredale",225,32
-"172","Emma Haredale",86,32
-"173","Emma Haredale",5,32
-"174","Emma Haredale",219,32
-"175","Emma Haredale",220,32
-"176","Emma Haredale",50,32
-"177","Emma Haredale",39,32
-"178","Emma Haredale",85,32
-"179","Emma Haredale",216,32
-"180","Emma Haredale",64,32
-"181","Emma Haredale",217,32
-"182","Emma Haredale",79,32
-"183","Emma Haredale",246,32
-"184","Emma Haredale",17,32
-"185","Emma Haredale",107,32
-"186","Emma Haredale",65,32
-"187","Emma Haredale",245,32
-"188","Emma Haredale",68,32
-"189","Emma Haredale",183,32
-"190","Emma Haredale",49,32
-"191","Gabriel Varden",242,55
-"192","Gabriel Varden",13,55
-"193","Gabriel Varden",64,55
-"194","Gabriel Varden",12,55
-"195","Gabriel Varden",26,55
-"196","Gabriel Varden",232,55
-"197","Gabriel Varden",25,55
-"198","Gabriel Varden",255,55
-"199","Gabriel Varden",69,55
-"200","Gabriel Varden",157,55
-"201","Gabriel Varden",83,55
-"202","Gabriel Varden",15,55
-"203","Gabriel Varden",62,55
-"204","Gabriel Varden",11,55
-"205","Gabriel Varden",85,55
-"206","Gabriel Varden",17,55
-"207","Gabriel Varden",194,55
-"208","Gabriel Varden",247,55
-"209","Gabriel Varden",128,55
-"210","Gabriel Varden",94,55
-"211","Gabriel Varden",120,55
-"212","Gabriel Varden",130,55
-"213","Gabriel Varden",22,55
-"214","Gabriel Varden",10,55
-"215","Gabriel Varden",9,55
-"216","Gabriel Varden",60,55
-"217","Gabriel Varden",20,55
-"218","Gabriel Varden",70,55
-"219","Gabriel Varden",156,55
-"220","Gabriel Varden",131,55
-"221","Gabriel Varden",76,55
-"222","Gabriel Varden",234,55
-"223","Gabriel Varden",129,55
-"224","Gabriel Varden",23,55
-"225","Gabriel Varden",195,55
-"226","Gabriel Varden",158,55
-"227","Gabriel Varden",61,55
-"228","Gabriel Varden",44,55
-"229","Gabriel Varden",82,55
-"230","Gabriel Varden",229,55
-"231","Gabriel Varden",233,55
-"232","Gabriel Varden",183,55
-"233","Gabriel Varden",126,55
-"234","Gabriel Varden",245,55
-"235","Gabriel Varden",196,55
-"236","Gabriel Varden",16,55
-"237","Gabriel Varden",127,55
-"238","Gabriel Varden",235,55
-"239","Gabriel Varden",43,55
-"240","Gabriel Varden",97,55
-"241","Gabriel Varden",84,55
-"242","Gabriel Varden",21,55
-"243","Gabriel Varden",246,55
-"244","Gabriel Varden",45,55
-"245","Gabriel Varden",19,55
-"246","Gashford",176,36
-"247","Gashford",117,36
-"248","Gashford",154,36
-"249","Gashford",109,36
-"250","Gashford",151,36
-"251","Gashford",166,36
-"252","Gashford",120,36
-"253","Gashford",110,36
-"254","Gashford",221,36
-"255","Gashford",133,36
-"256","Gashford",152,36
-"257","Gashford",118,36
-"258","Gashford",165,36
-"259","Gashford",155,36
-"260","Gashford",160,36
-"261","Gashford",137,36
-"262","Gashford",134,36
-"263","Gashford",111,36
-"264","Gashford",217,36
-"265","Gashford",116,36
-"266","Gashford",135,36
-"267","Gashford",164,36
-"268","Gashford",115,36
-"269","Gashford",148,36
-"270","Gashford",161,36
-"271","Gashford",136,36
-"272","Gashford",149,36
-"273","Gashford",121,36
-"274","Gashford",254,36
-"275","Gashford",147,36
-"276","Gashford",112,36
-"277","Gashford",150,36
-"278","Gashford",163,36
-"279","Gashford",113,36
-"280","Gashford",114,36
-"281","Gashford",252,36
-"282","General Conway",152,1
-"283","Geoffrey Haredale",253,60
-"284","Geoffrey Haredale",86,60
-"285","Geoffrey Haredale",164,60
-"286","Geoffrey Haredale",133,60
-"287","Geoffrey Haredale",37,60
-"288","Geoffrey Haredale",92,60
-"289","Geoffrey Haredale",83,60
-"290","Geoffrey Haredale",219,60
-"291","Geoffrey Haredale",46,60
-"292","Geoffrey Haredale",189,60
-"293","Geoffrey Haredale",47,60
-"294","Geoffrey Haredale",188,60
-"295","Geoffrey Haredale",36,60
-"296","Geoffrey Haredale",182,60
-"297","Geoffrey Haredale",84,60
-"298","Geoffrey Haredale",137,60
-"299","Geoffrey Haredale",172,60
-"300","Geoffrey Haredale",252,60
-"301","Geoffrey Haredale",107,60
-"302","Geoffrey Haredale",124,60
-"303","Geoffrey Haredale",49,60
-"304","Geoffrey Haredale",174,60
-"305","Geoffrey Haredale",209,60
-"306","Geoffrey Haredale",251,60
-"307","Geoffrey Haredale",79,60
-"308","Geoffrey Haredale",65,60
-"309","Geoffrey Haredale",173,60
-"310","Geoffrey Haredale",100,60
-"311","Geoffrey Haredale",135,60
-"312","Geoffrey Haredale",132,60
-"313","Geoffrey Haredale",222,60
-"314","Geoffrey Haredale",6,60
-"315","Geoffrey Haredale",131,60
-"316","Geoffrey Haredale",34,60
-"317","Geoffrey Haredale",203,60
-"318","Geoffrey Haredale",33,60
-"319","Geoffrey Haredale",166,60
-"320","Geoffrey Haredale",38,60
-"321","Geoffrey Haredale",208,60
-"322","Geoffrey Haredale",220,60
-"323","Geoffrey Haredale",5,60
-"324","Geoffrey Haredale",187,60
-"325","Geoffrey Haredale",134,60
-"326","Geoffrey Haredale",205,60
-"327","Geoffrey Haredale",247,60
-"328","Geoffrey Haredale",80,60
-"329","Geoffrey Haredale",93,60
-"330","Geoffrey Haredale",7,60
-"331","Geoffrey Haredale",221,60
-"332","Geoffrey Haredale",130,60
-"333","Geoffrey Haredale",39,60
-"334","Geoffrey Haredale",170,60
-"335","Geoffrey Haredale",254,60
-"336","Geoffrey Haredale",82,60
-"337","Geoffrey Haredale",106,60
-"338","Geoffrey Haredale",236,60
-"339","Geoffrey Haredale",245,60
-"340","Geoffrey Haredale",246,60
-"341","Geoffrey Haredale",64,60
-"342","Geoffrey Haredale",78,60
-"343","Herbert",225,1
-"344","Hugh",1,87
-"345","Hugh",74,87
-"346","Hugh",40,87
-"347","Hugh",130,87
-"348","Hugh",121,87
-"349","Hugh",41,87
-"350","Hugh",122,87
-"351","Hugh",212,87
-"352","Hugh",180,87
-"353","Hugh",213,87
-"354","Hugh",181,87
-"355","Hugh",66,87
-"356","Hugh",55,87
-"357","Hugh",214,87
-"358","Hugh",167,87
-"359","Hugh",149,87
-"360","Hugh",215,87
-"361","Hugh",168,87
-"362","Hugh",106,87
-"363","Hugh",216,87
-"364","Hugh",35,87
-"365","Hugh",183,87
-"366","Hugh",170,87
-"367","Hugh",107,87
-"368","Hugh",80,87
-"369","Hugh",184,87
-"370","Hugh",108,87
-"371","Hugh",81,87
-"372","Hugh",136,87
-"373","Hugh",89,87
-"374","Hugh",118,87
-"375","Hugh",90,87
-"376","Hugh",109,87
-"377","Hugh",186,87
-"378","Hugh",219,87
-"379","Hugh",47,87
-"380","Hugh",230,87
-"381","Hugh",110,87
-"382","Hugh",241,87
-"383","Hugh",120,87
-"384","Hugh",154,87
-"385","Hugh",164,87
-"386","Hugh",195,87
-"387","Hugh",178,87
-"388","Hugh",210,87
-"389","Hugh",155,87
-"390","Hugh",211,87
-"391","Hugh",233,87
-"392","Hugh",198,87
-"393","Hugh",194,87
-"394","Hugh",33,87
-"395","Hugh",117,87
-"396","Hugh",123,87
-"397","Hugh",234,87
-"398","Hugh",56,87
-"399","Hugh",151,87
-"400","Hugh",182,87
-"401","Hugh",239,87
-"402","Hugh",185,87
-"403","Hugh",196,87
-"404","Hugh",137,87
-"405","Hugh",119,87
-"406","Hugh",150,87
-"407","Hugh",160,87
-"408","Hugh",153,87
-"409","Hugh",201,87
-"410","Hugh",88,87
-"411","Hugh",237,87
-"412","Hugh",67,87
-"413","Hugh",161,87
-"414","Hugh",165,87
-"415","Hugh",163,87
-"416","Hugh",162,87
-"417","Hugh",193,87
-"418","Hugh",208,87
-"419","Hugh",124,87
-"420","Hugh",240,87
-"421","Hugh",229,87
-"422","Hugh",152,87
-"423","Hugh",36,87
-"424","Hugh",73,87
-"425","Hugh",217,87
-"426","Hugh",68,87
-"427","Hugh",236,87
-"428","Hugh",72,87
-"429","Hugh",69,87
-"430","Hugh",207,87
-"431","Joe Willet",10,46
-"432","Joe Willet",255,46
-"433","Joe Willet",95,46
-"434","Joe Willet",225,46
-"435","Joe Willet",66,46
-"436","Joe Willet",6,46
-"437","Joe Willet",43,46
-"438","Joe Willet",182,46
-"439","Joe Willet",63,46
-"440","Joe Willet",46,46
-"441","Joe Willet",36,46
-"442","Joe Willet",209,46
-"443","Joe Willet",98,46
-"444","Joe Willet",242,46
-"445","Joe Willet",67,46
-"446","Joe Willet",243,46
-"447","Joe Willet",5,46
-"448","Joe Willet",7,46
-"449","Joe Willet",129,46
-"450","Joe Willet",17,46
-"451","Joe Willet",249,46
-"452","Joe Willet",69,46
-"453","Joe Willet",222,46
-"454","Joe Willet",33,46
-"455","Joe Willet",41,46
-"456","Joe Willet",64,46
-"457","Joe Willet",223,46
-"458","Joe Willet",99,46
-"459","Joe Willet",68,46
-"460","Joe Willet",8,46
-"461","Joe Willet",248,46
-"462","Joe Willet",224,46
-"463","Joe Willet",80,46
-"464","Joe Willet",88,46
-"465","Joe Willet",44,46
-"466","Joe Willet",97,46
-"467","Joe Willet",4,46
-"468","Joe Willet",256,46
-"469","Joe Willet",94,46
-"470","Joe Willet",221,46
-"471","Joe Willet",47,46
-"472","Joe Willet",91,46
-"473","Joe Willet",45,46
-"474","Joe Willet",11,46
-"475","Joe Willet",96,46
-"476","Joe Willet",62,46
-"477","John Chester",36,39
-"478","John Chester",89,39
-"479","John Chester",40,39
-"480","John Chester",88,39
-"481","John Chester",233,39
-"482","John Chester",123,39
-"483","John Chester",34,39
-"484","John Chester",93,39
-"485","John Chester",92,39
-"486","John Chester",73,39
-"487","John Chester",232,39
-"488","John Chester",83,39
-"489","John Chester",252,39
-"490","John Chester",234,39
-"491","John Chester",51,39
-"492","John Chester",84,39
-"493","John Chester",101,39
-"494","John Chester",75,39
-"495","John Chester",90,39
-"496","John Chester",48,39
-"497","John Chester",76,39
-"498","John Chester",38,39
-"499","John Chester",72,39
-"500","John Chester",165,39
-"501","John Chester",33,39
-"502","John Chester",39,39
-"503","John Chester",94,39
-"504","John Chester",87,39
-"505","John Chester",74,39
-"506","John Chester",124,39
-"507","John Chester",235,39
-"508","John Chester",19,39
-"509","John Chester",91,39
-"510","John Chester",100,39
-"511","John Chester",85,39
-"512","John Chester",86,39
-"513","John Chester",134,39
-"514","John Chester",77,39
-"515","John Chester",133,39
-"516","John Fielding",204,2
-"517","John Fielding",188,2
-"518","John Grueby",109,14
-"519","John Grueby",110,14
-"520","John Grueby",204,14
-"521","John Grueby",176,14
-"522","John Grueby",254,14
-"523","John Grueby",118,14
-"524","John Grueby",108,14
-"525","John Grueby",117,14
-"526","John Grueby",135,14
-"527","John Grueby",203,14
-"528","John Grueby",111,14
-"529","John Grueby",209,14
-"530","John Grueby",175,14
-"531","John Grueby",115,14
-"532","John Willet",41,94
-"533","John Willet",134,94
-"534","John Willet",32,94
-"535","John Willet",6,94
-"536","John Willet",84,94
-"537","John Willet",144,94
-"538","John Willet",110,94
-"539","John Willet",94,94
-"540","John Willet",33,94
-"541","John Willet",223,94
-"542","John Willet",21,94
-"543","John Willet",95,94
-"544","John Willet",253,94
-"545","John Willet",48,94
-"546","John Willet",133,94
-"547","John Willet",11,94
-"548","John Willet",233,94
-"549","John Willet",86,94
-"550","John Willet",118,94
-"551","John Willet",17,94
-"552","John Willet",45,94
-"553","John Willet",100,94
-"554","John Willet",252,94
-"555","John Willet",232,94
-"556","John Willet",81,94
-"557","John Willet",167,94
-"558","John Willet",4,94
-"559","John Willet",40,94
-"560","John Willet",243,94
-"561","John Willet",221,94
-"562","John Willet",254,94
-"563","John Willet",77,94
-"564","John Willet",42,94
-"565","John Willet",63,94
-"566","John Willet",8,94
-"567","John Willet",255,94
-"568","John Willet",43,94
-"569","John Willet",29,94
-"570","John Willet",203,94
-"571","John Willet",67,94
-"572","John Willet",34,94
-"573","John Willet",168,94
-"574","John Willet",44,94
-"575","John Willet",169,94
-"576","John Willet",5,94
-"577","John Willet",68,94
-"578","John Willet",166,94
-"579","John Willet",47,94
-"580","John Willet",135,94
-"581","John Willet",61,94
-"582","John Willet",105,94
-"583","John Willet",39,94
-"584","John Willet",209,94
-"585","John Willet",111,94
-"586","John Willet",145,94
-"587","John Willet",37,94
-"588","John Willet",62,94
-"589","John Willet",244,94
-"590","John Willet",129,94
-"591","John Willet",175,94
-"592","John Willet",104,94
-"593","John Willet",188,94
-"594","John Willet",176,94
-"595","John Willet",123,94
-"596","John Willet",234,94
-"597","John Willet",248,94
-"598","John Willet",108,94
-"599","John Willet",3,94
-"600","John Willet",179,94
-"601","John Willet",103,94
-"602","John Willet",256,94
-"603","John Willet",35,94
-"604","John Willet",96,94
-"605","John Willet",170,94
-"606","John Willet",91,94
-"607","John Willet",107,94
-"608","John Willet",117,94
-"609","John Willet",173,94
-"610","John Willet",36,94
-"611","John Willet",46,94
-"612","John Willet",99,94
-"613","John Willet",115,94
-"614","John Willet",235,94
-"615","John Willet",165,94
-"616","John Willet",242,94
-"617","John Willet",109,94
-"618","John Willet",204,94
-"619","John Willet",124,94
-"620","John Willet",224,94
-"621","John Willet",97,94
-"622","John Willet",106,94
-"623","John Willet",102,94
-"624","John Willet",90,94
-"625","John Willet",70,94
-"626","Lord Algernon Percy",207,1
-"627","Lord George Gordon",161,27
-"628","Lord George Gordon",110,27
-"629","Lord George Gordon",108,27
-"630","Lord George Gordon",225,27
-"631","Lord George Gordon",133,27
-"632","Lord George Gordon",150,27
-"633","Lord George Gordon",134,27
-"634","Lord George Gordon",114,27
-"635","Lord George Gordon",175,27
-"636","Lord George Gordon",203,27
-"637","Lord George Gordon",149,27
-"638","Lord George Gordon",152,27
-"639","Lord George Gordon",113,27
-"640","Lord George Gordon",165,27
-"641","Lord George Gordon",109,27
-"642","Lord George Gordon",151,27
-"643","Lord George Gordon",155,27
-"644","Lord George Gordon",120,27
-"645","Lord George Gordon",117,27
-"646","Lord George Gordon",119,27
-"647","Lord George Gordon",112,27
-"648","Lord George Gordon",115,27
-"649","Lord George Gordon",176,27
-"650","Lord George Gordon",147,27
-"651","Lord George Gordon",127,27
-"652","Lord George Gordon",148,27
-"653","Lord George Gordon",254,27
-"654","Mark Gilbert",28,2
-"655","Mark Gilbert",120,2
-"656","Martha Varden",92,40
-"657","Martha Varden",13,40
-"658","Martha Varden",156,40
-"659","Martha Varden",17,40
-"660","Martha Varden",222,40
-"661","Martha Varden",63,40
-"662","Martha Varden",62,40
-"663","Martha Varden",157,40
-"664","Martha Varden",69,40
-"665","Martha Varden",126,40
-"666","Martha Varden",26,40
-"667","Martha Varden",129,40
-"668","Martha Varden",25,40
-"669","Martha Varden",84,40
-"670","Martha Varden",249,40
-"671","Martha Varden",60,40
-"672","Martha Varden",11,40
-"673","Martha Varden",68,40
-"674","Martha Varden",71,40
-"675","Martha Varden",131,40
-"676","Martha Varden",67,40
-"677","Martha Varden",98,40
-"678","Martha Varden",86,40
-"679","Martha Varden",61,40
-"680","Martha Varden",250,40
-"681","Martha Varden",112,40
-"682","Martha Varden",159,40
-"683","Martha Varden",82,40
-"684","Martha Varden",127,40
-"685","Martha Varden",44,40
-"686","Martha Varden",223,40
-"687","Martha Varden",45,40
-"688","Martha Varden",158,40
-"689","Martha Varden",43,40
-"690","Martha Varden",87,40
-"691","Martha Varden",70,40
-"692","Martha Varden",10,40
-"693","Martha Varden",128,40
-"694","Martha Varden",85,40
-"695","Martha Varden",248,40
-"696","Mary Jones",23,11
-"697","Mary Jones",78,11
-"698","Mary Jones",116,11
-"699","Mary Jones",236,11
-"700","Mary Jones",1,11
-"701","Mary Jones",21,11
-"702","Mary Jones",111,11
-"703","Mary Jones",112,11
-"704","Mary Jones",135,11
-"705","Mary Jones",108,11
-"706","Mary Jones",82,11
-"707","Miggs",218,40
-"708","Miggs",98,40
-"709","Miggs",69,40
-"710","Miggs",219,40
-"711","Miggs",61,40
-"712","Miggs",220,40
-"713","Miggs",60,40
-"714","Miggs",127,40
-"715","Miggs",126,40
-"716","Miggs",99,40
-"717","Miggs",77,40
-"718","Miggs",62,40
-"719","Miggs",129,40
-"720","Miggs",87,40
-"721","Miggs",84,40
-"722","Miggs",45,40
-"723","Miggs",255,40
-"724","Miggs",157,40
-"725","Miggs",217,40
-"726","Miggs",25,40
-"727","Miggs",122,40
-"728","Miggs",249,40
-"729","Miggs",44,40
-"730","Miggs",216,40
-"731","Miggs",26,40
-"732","Miggs",156,40
-"733","Miggs",30,40
-"734","Miggs",85,40
-"735","Miggs",131,40
-"736","Miggs",194,40
-"737","Miggs",112,40
-"738","Miggs",58,40
-"739","Miggs",158,40
-"740","Miggs",128,40
-"741","Miggs",31,40
-"742","Miggs",70,40
-"743","Miggs",184,40
-"744","Miggs",250,40
-"745","Miggs",159,40
-"746","Miggs",195,40
-"747","Mr Rudge",236,10
-"748","Mr Rudge",190,10
-"749","Mr Rudge",239,10
-"750","Mr Rudge",174,10
-"751","Mr Rudge",82,10
-"752","Mr Rudge",149,10
-"753","Mr Rudge",247,10
-"754","Mr Rudge",123,10
-"755","Mr Rudge",77,10
-"756","Mr Rudge",7,10
-"757","Mrs Rudge",77,4
-"758","Mrs Rudge",33,4
-"759","Mrs Rudge",17,4
-"760","Mrs Rudge",23,4
-"761","Ned Dennis",38,60
-"762","Ned Dennis",161,60
-"763","Ned Dennis",155,60
-"764","Ned Dennis",151,60
-"765","Ned Dennis",122,60
-"766","Ned Dennis",48,60
-"767","Ned Dennis",184,60
-"768","Ned Dennis",117,60
-"769","Ned Dennis",92,60
-"770","Ned Dennis",49,60
-"771","Ned Dennis",218,60
-"772","Ned Dennis",116,60
-"773","Ned Dennis",93,60
-"774","Ned Dennis",230,60
-"775","Ned Dennis",86,60
-"776","Ned Dennis",39,60
-"777","Ned Dennis",183,60
-"778","Ned Dennis",164,60
-"779","Ned Dennis",237,60
-"780","Ned Dennis",136,60
-"781","Ned Dennis",217,60
-"782","Ned Dennis",137,60
-"783","Ned Dennis",118,60
-"784","Ned Dennis",229,60
-"785","Ned Dennis",186,60
-"786","Ned Dennis",163,60
-"787","Ned Dennis",50,60
-"788","Ned Dennis",200,60
-"789","Ned Dennis",181,60
-"790","Ned Dennis",83,60
-"791","Ned Dennis",72,60
-"792","Ned Dennis",120,60
-"793","Ned Dennis",232,60
-"794","Ned Dennis",185,60
-"795","Ned Dennis",193,60
-"796","Ned Dennis",121,60
-"797","Ned Dennis",239,60
-"798","Ned Dennis",165,60
-"799","Ned Dennis",216,60
-"800","Ned Dennis",233,60
-"801","Ned Dennis",119,60
-"802","Ned Dennis",201,60
-"803","Ned Dennis",236,60
-"804","Ned Dennis",85,60
-"805","Ned Dennis",100,60
-"806","Ned Dennis",154,60
-"807","Ned Dennis",167,60
-"808","Ned Dennis",214,60
-"809","Ned Dennis",213,60
-"810","Ned Dennis",124,60
-"811","Ned Dennis",196,60
-"812","Ned Dennis",168,60
-"813","Ned Dennis",149,60
-"814","Ned Dennis",222,60
-"815","Ned Dennis",240,60
-"816","Ned Dennis",194,60
-"817","Ned Dennis",150,60
-"818","Ned Dennis",160,60
-"819","Ned Dennis",234,60
-"820","Ned Dennis",112,60
-"821","Peak",75,4
-"822","Peak",233,4
-"823","Peak",232,4
-"824","Peak",235,4
-"825","Phil Parkes",166,11
-"826","Phil Parkes",103,11
-"827","Phil Parkes",104,11
-"828","Phil Parkes",5,11
-"829","Phil Parkes",36,11
-"830","Phil Parkes",102,11
-"831","Phil Parkes",94,11
-"832","Phil Parkes",105,11
-"833","Phil Parkes",255,11
-"834","Phil Parkes",6,11
-"835","Phil Parkes",4,11
-"836","Philips",188,1
-"837","Simon Tappertit",145,23
-"838","Simon Tappertit",16,23
-"839","Simon Tappertit",193,23
-"840","Simon Tappertit",222,23
-"841","Simon Tappertit",194,23
-"842","Simon Tappertit",254,23
-"843","Simon Tappertit",185,23
-"844","Simon Tappertit",154,23
-"845","Simon Tappertit",183,23
-"846","Simon Tappertit",195,23
-"847","Simon Tappertit",122,23
-"848","Simon Tappertit",150,23
-"849","Simon Tappertit",157,23
-"850","Simon Tappertit",158,23
-"851","Simon Tappertit",112,23
-"852","Simon Tappertit",130,23
-"853","Simon Tappertit",149,23
-"854","Simon Tappertit",181,23
-"855","Simon Tappertit",160,23
-"856","Simon Tappertit",76,23
-"857","Simon Tappertit",165,23
-"858","Simon Tappertit",184,23
-"859","Simon Tappertit",216,23
-"860","Solomon Daisy",174,17
-"861","Solomon Daisy",172,17
-"862","Solomon Daisy",255,17
-"863","Solomon Daisy",173,17
-"864","Solomon Daisy",36,17
-"865","Solomon Daisy",7,17
-"866","Solomon Daisy",107,17
-"867","Solomon Daisy",104,17
-"868","Solomon Daisy",6,17
-"869","Solomon Daisy",105,17
-"870","Solomon Daisy",106,17
-"871","Solomon Daisy",37,17
-"872","Solomon Daisy",8,17
-"873","Solomon Daisy",94,17
-"874","Solomon Daisy",166,17
-"875","Solomon Daisy",103,17
-"876","Solomon Daisy",11,17
-"877","Stagg",143,10
-"878","Stagg",27,10
-"879","Stagg",28,10
-"880","Stagg",59,10
-"881","Stagg",58,10
-"882","Stagg",29,10
-"883","Stagg",213,10
-"884","Stagg",140,10
-"885","Stagg",142,10
-"886","Stagg",192,10
-"887","The Black Lion",45,8
-"888","The Black Lion",242,8
-"889","The Black Lion",244,8
-"890","The Black Lion",96,8
-"891","The Black Lion",223,8
-"892","The Black Lion",221,8
-"893","The Black Lion",43,8
-"894","The Black Lion",41,8
-"895","Tom Cobb",105,12
-"896","Tom Cobb",224,12
-"897","Tom Cobb",5,12
-"898","Tom Cobb",103,12
-"899","Tom Cobb",4,12
-"900","Tom Cobb",95,12
-"901","Tom Cobb",98,12
-"902","Tom Cobb",255,12
-"903","Tom Cobb",166,12
-"904","Tom Cobb",94,12
-"905","Tom Cobb",102,12
-"906","Tom Cobb",104,12
-"907","Tom Green",179,2
-"908","Tom Green",178,2
+"1","Akerman",277,2
+"2","Akerman",226,2
+"3","Barnaby Rudge",25,83
+"4","Barnaby Rudge",157,83
+"5","Barnaby Rudge",19,83
+"6","Barnaby Rudge",38,83
+"7","Barnaby Rudge",221,83
+"8","Barnaby Rudge",249,83
+"9","Barnaby Rudge",208,83
+"10","Barnaby Rudge",41,83
+"11","Barnaby Rudge",184,83
+"12","Barnaby Rudge",24,83
+"13","Barnaby Rudge",43,83
+"14","Barnaby Rudge",68,83
+"15","Barnaby Rudge",162,83
+"16","Barnaby Rudge",202,83
+"17","Barnaby Rudge",278,83
+"18","Barnaby Rudge",248,83
+"19","Barnaby Rudge",164,83
+"20","Barnaby Rudge",205,83
+"21","Barnaby Rudge",89,83
+"22","Barnaby Rudge",279,83
+"23","Barnaby Rudge",261,83
+"24","Barnaby Rudge",40,83
+"25","Barnaby Rudge",158,83
+"26","Barnaby Rudge",167,83
+"27","Barnaby Rudge",214,83
+"28","Barnaby Rudge",148,83
+"29","Barnaby Rudge",170,83
+"30","Barnaby Rudge",64,83
+"31","Barnaby Rudge",15,83
+"32","Barnaby Rudge",243,83
+"33","Barnaby Rudge",173,83
+"34","Barnaby Rudge",141,83
+"35","Barnaby Rudge",246,83
+"36","Barnaby Rudge",39,83
+"37","Barnaby Rudge",93,83
+"38","Barnaby Rudge",247,83
+"39","Barnaby Rudge",166,83
+"40","Barnaby Rudge",14,83
+"41","Barnaby Rudge",62,83
+"42","Barnaby Rudge",87,83
+"43","Barnaby Rudge",169,83
+"44","Barnaby Rudge",277,83
+"45","Barnaby Rudge",203,83
+"46","Barnaby Rudge",29,83
+"47","Barnaby Rudge",92,83
+"48","Barnaby Rudge",174,83
+"49","Barnaby Rudge",88,83
+"50","Barnaby Rudge",213,83
+"51","Barnaby Rudge",189,83
+"52","Barnaby Rudge",165,83
+"53","Barnaby Rudge",46,83
+"54","Barnaby Rudge",272,83
+"55","Barnaby Rudge",91,83
+"56","Barnaby Rudge",63,83
+"57","Barnaby Rudge",172,83
+"58","Barnaby Rudge",267,83
+"59","Barnaby Rudge",284,83
+"60","Barnaby Rudge",21,83
+"61","Barnaby Rudge",178,83
+"62","Barnaby Rudge",171,83
+"63","Barnaby Rudge",149,83
+"64","Barnaby Rudge",220,83
+"65","Barnaby Rudge",159,83
+"66","Barnaby Rudge",262,83
+"67","Barnaby Rudge",276,83
+"68","Barnaby Rudge",201,83
+"69","Barnaby Rudge",42,83
+"70","Barnaby Rudge",175,83
+"71","Barnaby Rudge",187,83
+"72","Barnaby Rudge",299,83
+"73","Barnaby Rudge",185,83
+"74","Barnaby Rudge",273,83
+"75","Barnaby Rudge",188,83
+"76","Barnaby Rudge",244,83
+"77","Barnaby Rudge",298,83
+"78","Barnaby Rudge",186,83
+"79","Barnaby Rudge",274,83
+"80","Barnaby Rudge",231,83
+"81","Barnaby Rudge",286,83
+"82","Barnaby Rudge",177,83
+"83","Barnaby Rudge",163,83
+"84","Barnaby Rudge",26,83
+"85","Barnaby Rudge",206,83
+"86","Dolly Varden",73,58
+"87","Dolly Varden",106,58
+"88","Dolly Varden",288,58
+"89","Dolly Varden",111,58
+"90","Dolly Varden",281,58
+"91","Dolly Varden",20,58
+"92","Dolly Varden",291,58
+"93","Dolly Varden",50,58
+"94","Dolly Varden",87,58
+"95","Dolly Varden",110,58
+"96","Dolly Varden",290,58
+"97","Dolly Varden",297,58
+"98","Dolly Varden",145,58
+"99","Dolly Varden",251,58
+"100","Dolly Varden",96,58
+"101","Dolly Varden",97,58
+"102","Dolly Varden",77,58
+"103","Dolly Varden",69,58
+"104","Dolly Varden",254,58
+"105","Dolly Varden",252,58
+"106","Dolly Varden",260,58
+"107","Dolly Varden",259,58
+"108","Dolly Varden",81,58
+"109","Dolly Varden",49,58
+"110","Dolly Varden",253,58
+"111","Dolly Varden",147,58
+"112","Dolly Varden",95,58
+"113","Dolly Varden",76,58
+"114","Dolly Varden",72,58
+"115","Dolly Varden",94,58
+"116","Dolly Varden",28,58
+"117","Dolly Varden",70,58
+"118","Dolly Varden",209,58
+"119","Dolly Varden",210,58
+"120","Dolly Varden",257,58
+"121","Dolly Varden",144,58
+"122","Dolly Varden",51,58
+"123","Dolly Varden",258,58
+"124","Dolly Varden",75,58
+"125","Dolly Varden",35,58
+"126","Dolly Varden",68,58
+"127","Dolly Varden",211,58
+"128","Dolly Varden",80,58
+"129","Dolly Varden",108,58
+"130","Dolly Varden",282,58
+"131","Dolly Varden",18,58
+"132","Dolly Varden",78,58
+"133","Dolly Varden",13,58
+"134","Dolly Varden",67,58
+"135","Dolly Varden",79,58
+"136","Dolly Varden",74,58
+"137","Dolly Varden",256,58
+"138","Dolly Varden",289,58
+"139","Dolly Varden",146,58
+"140","Dolly Varden",149,58
+"141","Dolly Varden",255,58
+"142","Dolly Varden",250,58
+"143","Dolly Varden",280,58
+"144","Edward Chester",57,31
+"145","Edward Chester",104,31
+"146","Edward Chester",292,31
+"147","Edward Chester",113,31
+"148","Edward Chester",55,31
+"149","Edward Chester",73,31
+"150","Edward Chester",67,31
+"151","Edward Chester",256,31
+"152","Edward Chester",24,31
+"153","Edward Chester",114,31
+"154","Edward Chester",92,31
+"155","Edward Chester",287,31
+"156","Edward Chester",19,31
+"157","Edward Chester",241,31
+"158","Edward Chester",285,31
+"159","Edward Chester",53,31
+"160","Edward Chester",52,31
+"161","Edward Chester",68,31
+"162","Edward Chester",298,31
+"163","Edward Chester",284,31
+"164","Edward Chester",26,31
+"165","Edward Chester",56,31
+"166","Edward Chester",25,31
+"167","Edward Chester",286,31
+"168","Edward Chester",82,31
+"169","Edward Chester",148,31
+"170","Edward Chester",54,31
+"171","Edward Chester",280,31
+"172","Edward Chester",270,31
+"173","Edward Chester",242,31
+"174","Edward Chester",257,31
+"175","Emma Haredale",104,31
+"176","Emma Haredale",5,31
+"177","Emma Haredale",209,31
+"178","Emma Haredale",253,31
+"179","Emma Haredale",120,31
+"180","Emma Haredale",285,31
+"181","Emma Haredale",210,31
+"182","Emma Haredale",260,31
+"183","Emma Haredale",144,31
+"184","Emma Haredale",250,31
+"185","Emma Haredale",96,31
+"186","Emma Haredale",89,31
+"187","Emma Haredale",77,31
+"188","Emma Haredale",45,31
+"189","Emma Haredale",57,31
+"190","Emma Haredale",7,31
+"191","Emma Haredale",256,31
+"192","Emma Haredale",55,31
+"193","Emma Haredale",148,31
+"194","Emma Haredale",103,31
+"195","Emma Haredale",254,31
+"196","Emma Haredale",72,31
+"197","Emma Haredale",255,31
+"198","Emma Haredale",105,31
+"199","Emma Haredale",73,31
+"200","Emma Haredale",90,31
+"201","Emma Haredale",97,31
+"202","Emma Haredale",251,31
+"203","Emma Haredale",19,31
+"204","Emma Haredale",284,31
+"205","Emma Haredale",6,31
+"206","Gabriel Varden",73,59
+"207","Gabriel Varden",146,59
+"208","Gabriel Varden",24,59
+"209","Gabriel Varden",106,59
+"210","Gabriel Varden",270,59
+"211","Gabriel Varden",79,59
+"212","Gabriel Varden",19,59
+"213","Gabriel Varden",183,59
+"214","Gabriel Varden",11,59
+"215","Gabriel Varden",49,59
+"216","Gabriel Varden",68,59
+"217","Gabriel Varden",95,59
+"218","Gabriel Varden",267,59
+"219","Gabriel Varden",145,59
+"220","Gabriel Varden",20,59
+"221","Gabriel Varden",110,59
+"222","Gabriel Varden",18,59
+"223","Gabriel Varden",143,59
+"224","Gabriel Varden",21,59
+"225","Gabriel Varden",22,59
+"226","Gabriel Varden",27,59
+"227","Gabriel Varden",147,59
+"228","Gabriel Varden",23,59
+"229","Gabriel Varden",269,59
+"230","Gabriel Varden",28,59
+"231","Gabriel Varden",14,59
+"232","Gabriel Varden",148,59
+"233","Gabriel Varden",136,59
+"234","Gabriel Varden",25,59
+"235","Gabriel Varden",70,59
+"236","Gabriel Varden",80,59
+"237","Gabriel Varden",297,59
+"238","Gabriel Varden",51,59
+"239","Gabriel Varden",264,59
+"240","Gabriel Varden",86,59
+"241","Gabriel Varden",180,59
+"242","Gabriel Varden",10,59
+"243","Gabriel Varden",211,59
+"244","Gabriel Varden",226,59
+"245","Gabriel Varden",224,59
+"246","Gabriel Varden",223,59
+"247","Gabriel Varden",181,59
+"248","Gabriel Varden",17,59
+"249","Gabriel Varden",149,59
+"250","Gabriel Varden",144,59
+"251","Gabriel Varden",81,59
+"252","Gabriel Varden",182,59
+"253","Gabriel Varden",94,59
+"254","Gabriel Varden",13,59
+"255","Gabriel Varden",268,59
+"256","Gabriel Varden",286,59
+"257","Gabriel Varden",26,59
+"258","Gabriel Varden",280,59
+"259","Gabriel Varden",93,59
+"260","Gabriel Varden",50,59
+"261","Gabriel Varden",92,59
+"262","Gabriel Varden",284,59
+"263","Gabriel Varden",67,59
+"264","Gabriel Varden",15,59
+"265","Gashford",131,36
+"266","Gashford",191,36
+"267","Gashford",127,36
+"268","Gashford",188,36
+"269","Gashford",124,36
+"270","Gashford",153,36
+"271","Gashford",129,36
+"272","Gashford",155,36
+"273","Gashford",189,36
+"274","Gashford",128,36
+"275","Gashford",186,36
+"276","Gashford",178,36
+"277","Gashford",187,36
+"278","Gashford",130,36
+"279","Gashford",132,36
+"280","Gashford",179,36
+"281","Gashford",152,36
+"282","Gashford",123,36
+"283","Gashford",171,36
+"284","Gashford",177,36
+"285","Gashford",294,36
+"286","Gashford",256,36
+"287","Gashford",125,36
+"288","Gashford",184,36
+"289","Gashford",172,36
+"290","Gashford",151,36
+"291","Gashford",136,36
+"292","Gashford",126,36
+"293","Gashford",170,36
+"294","Gashford",156,36
+"295","Gashford",174,36
+"296","Gashford",251,36
+"297","Gashford",134,36
+"298","Gashford",138,36
+"299","Gashford",296,36
+"300","Gashford",202,36
+"301","General Conway",174,1
+"302","Geoffrey Haredale",188,67
+"303","Geoffrey Haredale",120,67
+"304","Geoffrey Haredale",237,67
+"305","Geoffrey Haredale",295,67
+"306","Geoffrey Haredale",141,67
+"307","Geoffrey Haredale",241,67
+"308","Geoffrey Haredale",209,67
+"309","Geoffrey Haredale",44,67
+"310","Geoffrey Haredale",156,67
+"311","Geoffrey Haredale",217,67
+"312","Geoffrey Haredale",284,67
+"313","Geoffrey Haredale",89,67
+"314","Geoffrey Haredale",92,67
+"315","Geoffrey Haredale",94,67
+"316","Geoffrey Haredale",42,67
+"317","Geoffrey Haredale",195,67
+"318","Geoffrey Haredale",105,67
+"319","Geoffrey Haredale",153,67
+"320","Geoffrey Haredale",39,67
+"321","Geoffrey Haredale",215,67
+"322","Geoffrey Haredale",8,67
+"323","Geoffrey Haredale",142,67
+"324","Geoffrey Haredale",148,67
+"325","Geoffrey Haredale",53,67
+"326","Geoffrey Haredale",151,67
+"327","Geoffrey Haredale",191,67
+"328","Geoffrey Haredale",240,67
+"329","Geoffrey Haredale",52,67
+"330","Geoffrey Haredale",7,67
+"331","Geoffrey Haredale",285,67
+"332","Geoffrey Haredale",200,67
+"333","Geoffrey Haredale",45,67
+"334","Geoffrey Haredale",292,67
+"335","Geoffrey Haredale",90,67
+"336","Geoffrey Haredale",154,67
+"337","Geoffrey Haredale",242,67
+"338","Geoffrey Haredale",216,67
+"339","Geoffrey Haredale",296,67
+"340","Geoffrey Haredale",73,67
+"341","Geoffrey Haredale",152,67
+"342","Geoffrey Haredale",113,67
+"343","Geoffrey Haredale",199,67
+"344","Geoffrey Haredale",93,67
+"345","Geoffrey Haredale",286,67
+"346","Geoffrey Haredale",236,67
+"347","Geoffrey Haredale",46,67
+"348","Geoffrey Haredale",91,67
+"349","Geoffrey Haredale",149,67
+"350","Geoffrey Haredale",150,67
+"351","Geoffrey Haredale",40,67
+"352","Geoffrey Haredale",293,67
+"353","Geoffrey Haredale",119,67
+"354","Geoffrey Haredale",198,67
+"355","Geoffrey Haredale",235,67
+"356","Geoffrey Haredale",104,67
+"357","Geoffrey Haredale",96,67
+"358","Geoffrey Haredale",254,67
+"359","Geoffrey Haredale",294,67
+"360","Geoffrey Haredale",5,67
+"361","Geoffrey Haredale",255,67
+"362","Geoffrey Haredale",6,67
+"363","Geoffrey Haredale",272,67
+"364","Geoffrey Haredale",256,67
+"365","Geoffrey Haredale",121,67
+"366","Geoffrey Haredale",55,67
+"367","Geoffrey Haredale",253,67
+"368","Geoffrey Haredale",43,67
+"369","Herbert",260,1
+"370","Hugh",1,94
+"371","Hugh",174,94
+"372","Hugh",138,94
+"373","Hugh",79,94
+"374","Hugh",139,94
+"375","Hugh",119,94
+"376","Hugh",91,94
+"377","Hugh",83,94
+"378","Hugh",140,94
+"379","Hugh",177,94
+"380","Hugh",120,94
+"381","Hugh",53,94
+"382","Hugh",274,94
+"383","Hugh",141,94
+"384","Hugh",222,94
+"385","Hugh",46,94
+"386","Hugh",266,94
+"387","Hugh",82,94
+"388","Hugh",47,94
+"389","Hugh",142,94
+"390","Hugh",184,94
+"391","Hugh",243,94
+"392","Hugh",48,94
+"393","Hugh",224,94
+"394","Hugh",85,94
+"395","Hugh",268,94
+"396","Hugh",192,94
+"397","Hugh",124,94
+"398","Hugh",193,94
+"399","Hugh",247,94
+"400","Hugh",226,94
+"401","Hugh",248,94
+"402","Hugh",229,94
+"403","Hugh",187,94
+"404","Hugh",249,94
+"405","Hugh",270,94
+"406","Hugh",185,94
+"407","Hugh",233,94
+"408","Hugh",250,94
+"409","Hugh",213,94
+"410","Hugh",156,94
+"411","Hugh",121,94
+"412","Hugh",186,94
+"413","Hugh",272,94
+"414","Hugh",277,94
+"415","Hugh",251,94
+"416","Hugh",172,94
+"417","Hugh",278,94
+"418","Hugh",148,94
+"419","Hugh",273,94
+"420","Hugh",244,94
+"421","Hugh",100,94
+"422","Hugh",205,94
+"423","Hugh",276,94
+"424","Hugh",134,94
+"425","Hugh",207,94
+"426","Hugh",122,94
+"427","Hugh",63,94
+"428","Hugh",208,94
+"429","Hugh",175,94
+"430","Hugh",195,94
+"431","Hugh",77,94
+"432","Hugh",123,94
+"433","Hugh",155,94
+"434","Hugh",245,94
+"435","Hugh",75,94
+"436","Hugh",133,94
+"437","Hugh",137,94
+"438","Hugh",76,94
+"439","Hugh",265,94
+"440","Hugh",214,94
+"441","Hugh",135,94
+"442","Hugh",269,94
+"443","Hugh",136,94
+"444","Hugh",38,94
+"445","Hugh",212,94
+"446","Hugh",102,94
+"447","Hugh",101,94
+"448","Hugh",173,94
+"449","Hugh",240,94
+"450","Hugh",99,94
+"451","Hugh",40,94
+"452","Hugh",210,94
+"453","Hugh",189,94
+"454","Hugh",171,94
+"455","Hugh",223,94
+"456","Hugh",209,94
+"457","Hugh",211,94
+"458","Hugh",84,94
+"459","Hugh",246,94
+"460","Hugh",188,94
+"461","Hugh",253,94
+"462","Hugh",178,94
+"463","Hugh",42,94
+"464","Joe Willet",9,51
+"465","Joe Willet",107,51
+"466","Joe Willet",99,51
+"467","Joe Willet",288,51
+"468","Joe Willet",11,51
+"469","Joe Willet",297,51
+"470","Joe Willet",70,51
+"471","Joe Willet",47,51
+"472","Joe Willet",53,51
+"473","Joe Willet",77,51
+"474","Joe Willet",7,51
+"475","Joe Willet",280,51
+"476","Joe Willet",49,51
+"477","Joe Willet",110,51
+"478","Joe Willet",260,51
+"479","Joe Willet",91,51
+"480","Joe Willet",102,51
+"481","Joe Willet",100,51
+"482","Joe Willet",256,51
+"483","Joe Willet",209,51
+"484","Joe Willet",78,51
+"485","Joe Willet",76,51
+"486","Joe Willet",111,51
+"487","Joe Willet",108,51
+"488","Joe Willet",50,51
+"489","Joe Willet",106,51
+"490","Joe Willet",5,51
+"491","Joe Willet",8,51
+"492","Joe Willet",52,51
+"493","Joe Willet",38,51
+"494","Joe Willet",298,51
+"495","Joe Willet",258,51
+"496","Joe Willet",257,51
+"497","Joe Willet",281,51
+"498","Joe Willet",79,51
+"499","Joe Willet",48,51
+"500","Joe Willet",13,51
+"501","Joe Willet",73,51
+"502","Joe Willet",146,51
+"503","Joe Willet",242,51
+"504","Joe Willet",289,51
+"505","Joe Willet",6,51
+"506","Joe Willet",14,51
+"507","Joe Willet",112,51
+"508","Joe Willet",109,51
+"509","Joe Willet",42,51
+"510","Joe Willet",241,51
+"511","Joe Willet",75,51
+"512","Joe Willet",51,51
+"513","Joe Willet",12,51
+"514","Joe Willet",20,51
+"515","John Chester",102,42
+"516","John Chester",271,42
+"517","John Chester",43,42
+"518","John Chester",189,42
+"519","John Chester",54,42
+"520","John Chester",46,42
+"521","John Chester",267,42
+"522","John Chester",40,42
+"523","John Chester",87,42
+"524","John Chester",99,42
+"525","John Chester",101,42
+"526","John Chester",104,42
+"527","John Chester",151,42
+"528","John Chester",86,42
+"529","John Chester",97,42
+"530","John Chester",270,42
+"531","John Chester",57,42
+"532","John Chester",93,42
+"533","John Chester",82,42
+"534","John Chester",39,42
+"535","John Chester",268,42
+"536","John Chester",85,42
+"537","John Chester",94,42
+"538","John Chester",42,42
+"539","John Chester",141,42
+"540","John Chester",95,42
+"541","John Chester",105,42
+"542","John Chester",153,42
+"543","John Chester",84,42
+"544","John Chester",44,42
+"545","John Chester",96,42
+"546","John Chester",103,42
+"547","John Chester",293,42
+"548","John Chester",140,42
+"549","John Chester",114,42
+"550","John Chester",100,42
+"551","John Chester",21,42
+"552","John Chester",113,42
+"553","John Chester",152,42
+"554","John Chester",83,42
+"555","John Chester",45,42
+"556","John Chester",106,42
+"557","John Fielding",217,2
+"558","John Fielding",237,2
+"559","John Grueby",202,15
+"560","John Grueby",154,15
+"561","John Grueby",122,15
+"562","John Grueby",125,15
+"563","John Grueby",242,15
+"564","John Grueby",126,15
+"565","John Grueby",132,15
+"566","John Grueby",235,15
+"567","John Grueby",236,15
+"568","John Grueby",124,15
+"569","John Grueby",296,15
+"570","John Grueby",131,15
+"571","John Grueby",130,15
+"572","John Grueby",123,15
+"573","John Grueby",134,15
+"574","John Willet",108,102
+"575","John Willet",142,102
+"576","John Willet",109,102
+"577","John Willet",202,102
+"578","John Willet",33,102
+"579","John Willet",242,102
+"580","John Willet",237,102
+"581","John Willet",267,102
+"582","John Willet",122,102
+"583","John Willet",283,102
+"584","John Willet",5,102
+"585","John Willet",94,102
+"586","John Willet",38,102
+"587","John Willet",118,102
+"588","John Willet",119,102
+"589","John Willet",101,102
+"590","John Willet",39,102
+"591","John Willet",68,102
+"592","John Willet",14,102
+"593","John Willet",4,102
+"594","John Willet",87,102
+"595","John Willet",132,102
+"596","John Willet",288,102
+"597","John Willet",270,102
+"598","John Willet",297,102
+"599","John Willet",130,102
+"600","John Willet",120,102
+"601","John Willet",235,102
+"602","John Willet",9,102
+"603","John Willet",258,102
+"604","John Willet",6,102
+"605","John Willet",37,102
+"606","John Willet",40,102
+"607","John Willet",43,102
+"608","John Willet",125,102
+"609","John Willet",20,102
+"610","John Willet",217,102
+"611","John Willet",140,102
+"612","John Willet",48,102
+"613","John Willet",113,102
+"614","John Willet",268,102
+"615","John Willet",107,102
+"616","John Willet",141,102
+"617","John Willet",49,102
+"618","John Willet",269,102
+"619","John Willet",97,102
+"620","John Willet",296,102
+"621","John Willet",116,102
+"622","John Willet",47,102
+"623","John Willet",50,102
+"624","John Willet",199,102
+"625","John Willet",257,102
+"626","John Willet",13,102
+"627","John Willet",42,102
+"628","John Willet",192,102
+"629","John Willet",134,102
+"630","John Willet",167,102
+"631","John Willet",3,102
+"632","John Willet",46,102
+"633","John Willet",236,102
+"634","John Willet",193,102
+"635","John Willet",153,102
+"636","John Willet",151,102
+"637","John Willet",299,102
+"638","John Willet",91,102
+"639","John Willet",123,102
+"640","John Willet",152,102
+"641","John Willet",78,102
+"642","John Willet",51,102
+"643","John Willet",294,102
+"644","John Willet",54,102
+"645","John Willet",281,102
+"646","John Willet",194,102
+"647","John Willet",115,102
+"648","John Willet",117,102
+"649","John Willet",154,102
+"650","John Willet",191,102
+"651","John Willet",7,102
+"652","John Willet",121,102
+"653","John Willet",146,102
+"654","John Willet",77,102
+"655","John Willet",280,102
+"656","John Willet",106,102
+"657","John Willet",124,102
+"658","John Willet",131,102
+"659","John Willet",298,102
+"660","John Willet",70,102
+"661","John Willet",52,102
+"662","John Willet",102,102
+"663","John Willet",195,102
+"664","John Willet",189,102
+"665","John Willet",76,102
+"666","John Willet",293,102
+"667","John Willet",256,102
+"668","John Willet",111,102
+"669","John Willet",53,102
+"670","John Willet",241,102
+"671","John Willet",295,102
+"672","John Willet",206,102
+"673","John Willet",23,102
+"674","John Willet",81,102
+"675","John Willet",166,102
+"676","Lord Algernon Percy",239,1
+"677","Lord George Gordon",175,29
+"678","Lord George Gordon",235,29
+"679","Lord George Gordon",202,29
+"680","Lord George Gordon",123,29
+"681","Lord George Gordon",145,29
+"682","Lord George Gordon",128,29
+"683","Lord George Gordon",260,29
+"684","Lord George Gordon",122,29
+"685","Lord George Gordon",185,29
+"686","Lord George Gordon",170,29
+"687","Lord George Gordon",131,29
+"688","Lord George Gordon",178,29
+"689","Lord George Gordon",172,29
+"690","Lord George Gordon",189,29
+"691","Lord George Gordon",125,29
+"692","Lord George Gordon",135,29
+"693","Lord George Gordon",152,29
+"694","Lord George Gordon",169,29
+"695","Lord George Gordon",130,29
+"696","Lord George Gordon",296,29
+"697","Lord George Gordon",127,29
+"698","Lord George Gordon",129,29
+"699","Lord George Gordon",124,29
+"700","Lord George Gordon",153,29
+"701","Lord George Gordon",201,29
+"702","Lord George Gordon",174,29
+"703","Lord George Gordon",171,29
+"704","Lord George Gordon",136,29
+"705","Lord George Gordon",132,29
+"706","Mark Gilbert",136,2
+"707","Mark Gilbert",31,2
+"708","Martha Varden",290,42
+"709","Martha Varden",68,42
+"710","Martha Varden",149,42
+"711","Martha Varden",182,42
+"712","Martha Varden",183,42
+"713","Martha Varden",76,42
+"714","Martha Varden",78,42
+"715","Martha Varden",96,42
+"716","Martha Varden",79,42
+"717","Martha Varden",145,42
+"718","Martha Varden",51,42
+"719","Martha Varden",14,42
+"720","Martha Varden",77,42
+"721","Martha Varden",11,42
+"722","Martha Varden",147,42
+"723","Martha Varden",127,42
+"724","Martha Varden",69,42
+"725","Martha Varden",81,42
+"726","Martha Varden",181,42
+"727","Martha Varden",95,42
+"728","Martha Varden",288,42
+"729","Martha Varden",180,42
+"730","Martha Varden",27,42
+"731","Martha Varden",80,42
+"732","Martha Varden",110,42
+"733","Martha Varden",144,42
+"734","Martha Varden",94,42
+"735","Martha Varden",289,42
+"736","Martha Varden",28,42
+"737","Martha Varden",49,42
+"738","Martha Varden",97,42
+"739","Martha Varden",143,42
+"740","Martha Varden",103,42
+"741","Martha Varden",15,42
+"742","Martha Varden",257,42
+"743","Martha Varden",93,42
+"744","Martha Varden",67,42
+"745","Martha Varden",70,42
+"746","Martha Varden",20,42
+"747","Martha Varden",146,42
+"748","Martha Varden",50,42
+"749","Martha Varden",256,42
+"750","Mary Jones",125,13
+"751","Mary Jones",1,13
+"752","Mary Jones",126,13
+"753","Mary Jones",26,13
+"754","Mary Jones",132,13
+"755","Mary Jones",272,13
+"756","Mary Jones",92,13
+"757","Mary Jones",89,13
+"758","Mary Jones",122,13
+"759","Mary Jones",127,13
+"760","Mary Jones",2,13
+"761","Mary Jones",23,13
+"762","Mary Jones",154,13
+"763","Miggs",69,44
+"764","Miggs",251,44
+"765","Miggs",180,44
+"766","Miggs",35,44
+"767","Miggs",66,44
+"768","Miggs",145,44
+"769","Miggs",97,44
+"770","Miggs",253,44
+"771","Miggs",127,44
+"772","Miggs",28,44
+"773","Miggs",111,44
+"774","Miggs",36,44
+"775","Miggs",51,44
+"776","Miggs",252,44
+"777","Miggs",87,44
+"778","Miggs",94,44
+"779","Miggs",225,44
+"780","Miggs",80,44
+"781","Miggs",149,44
+"782","Miggs",95,44
+"783","Miggs",183,44
+"784","Miggs",68,44
+"785","Miggs",297,44
+"786","Miggs",79,44
+"787","Miggs",139,44
+"788","Miggs",223,44
+"789","Miggs",67,44
+"790","Miggs",81,44
+"791","Miggs",250,44
+"792","Miggs",182,44
+"793","Miggs",290,44
+"794","Miggs",212,44
+"795","Miggs",65,44
+"796","Miggs",289,44
+"797","Miggs",96,44
+"798","Miggs",110,44
+"799","Miggs",147,44
+"800","Miggs",146,44
+"801","Miggs",144,44
+"802","Miggs",254,44
+"803","Miggs",181,44
+"804","Miggs",27,44
+"805","Miggs",50,44
+"806","Miggs",34,44
+"807","Mr Rudge",141,10
+"808","Mr Rudge",286,10
+"809","Mr Rudge",171,10
+"810","Mr Rudge",200,10
+"811","Mr Rudge",92,10
+"812","Mr Rudge",8,10
+"813","Mr Rudge",276,10
+"814","Mr Rudge",218,10
+"815","Mr Rudge",87,10
+"816","Mr Rudge",272,10
+"817","Mrs Rudge",39,4
+"818","Mrs Rudge",19,4
+"819","Mrs Rudge",26,4
+"820","Mrs Rudge",87,4
+"821","Ned Dennis",55,66
+"822","Ned Dennis",135,66
+"823","Ned Dennis",178,66
+"824","Ned Dennis",251,66
+"825","Ned Dennis",269,66
+"826","Ned Dennis",277,66
+"827","Ned Dennis",226,66
+"828","Ned Dennis",142,66
+"829","Ned Dennis",248,66
+"830","Ned Dennis",127,66
+"831","Ned Dennis",96,66
+"832","Ned Dennis",114,66
+"833","Ned Dennis",113,66
+"834","Ned Dennis",136,66
+"835","Ned Dennis",265,66
+"836","Ned Dennis",138,66
+"837","Ned Dennis",93,66
+"838","Ned Dennis",95,66
+"839","Ned Dennis",139,66
+"840","Ned Dennis",223,66
+"841","Ned Dennis",256,66
+"842","Ned Dennis",233,66
+"843","Ned Dennis",103,66
+"844","Ned Dennis",224,66
+"845","Ned Dennis",250,66
+"846","Ned Dennis",264,66
+"847","Ned Dennis",193,66
+"848","Ned Dennis",134,66
+"849","Ned Dennis",189,66
+"850","Ned Dennis",208,66
+"851","Ned Dennis",187,66
+"852","Ned Dennis",82,66
+"853","Ned Dennis",272,66
+"854","Ned Dennis",249,66
+"855","Ned Dennis",252,66
+"856","Ned Dennis",155,66
+"857","Ned Dennis",185,66
+"858","Ned Dennis",270,66
+"859","Ned Dennis",57,66
+"860","Ned Dennis",54,66
+"861","Ned Dennis",156,66
+"862","Ned Dennis",211,66
+"863","Ned Dennis",131,66
+"864","Ned Dennis",266,66
+"865","Ned Dennis",172,66
+"866","Ned Dennis",173,66
+"867","Ned Dennis",184,66
+"868","Ned Dennis",177,66
+"869","Ned Dennis",273,66
+"870","Ned Dennis",222,66
+"871","Ned Dennis",45,66
+"872","Ned Dennis",213,66
+"873","Ned Dennis",210,66
+"874","Ned Dennis",97,66
+"875","Ned Dennis",137,66
+"876","Ned Dennis",104,66
+"877","Ned Dennis",174,66
+"878","Ned Dennis",56,66
+"879","Ned Dennis",267,66
+"880","Ned Dennis",132,66
+"881","Ned Dennis",231,66
+"882","Ned Dennis",171,66
+"883","Ned Dennis",188,66
+"884","Ned Dennis",214,66
+"885","Ned Dennis",212,66
+"886","Ned Dennis",232,66
+"887","Peak",267,4
+"888","Peak",85,4
+"889","Peak",268,4
+"890","Peak",270,4
+"891","Phil Parkes",5,12
+"892","Phil Parkes",115,12
+"893","Phil Parkes",118,12
+"894","Phil Parkes",191,12
+"895","Phil Parkes",298,12
+"896","Phil Parkes",43,12
+"897","Phil Parkes",42,12
+"898","Phil Parkes",117,12
+"899","Phil Parkes",106,12
+"900","Phil Parkes",4,12
+"901","Phil Parkes",116,12
+"902","Phil Parkes",6,12
+"903","Philips",216,1
+"904","Simon Tappertit",297,24
+"905","Simon Tappertit",211,24
+"906","Simon Tappertit",127,24
+"907","Simon Tappertit",222,24
+"908","Simon Tappertit",171,24
+"909","Simon Tappertit",182,24
+"910","Simon Tappertit",224,24
+"911","Simon Tappertit",177,24
+"912","Simon Tappertit",223,24
+"913","Simon Tappertit",256,24
+"914","Simon Tappertit",18,24
+"915","Simon Tappertit",208,24
+"916","Simon Tappertit",181,24
+"917","Simon Tappertit",139,24
+"918","Simon Tappertit",86,24
+"919","Simon Tappertit",212,24
+"920","Simon Tappertit",148,24
+"921","Simon Tappertit",189,24
+"922","Simon Tappertit",185,24
+"923","Simon Tappertit",225,24
+"924","Simon Tappertit",213,24
+"925","Simon Tappertit",172,24
+"926","Simon Tappertit",250,24
+"927","Simon Tappertit",167,24
+"928","Solomon Daisy",116,17
+"929","Solomon Daisy",13,17
+"930","Solomon Daisy",107,17
+"931","Solomon Daisy",118,17
+"932","Solomon Daisy",120,17
+"933","Solomon Daisy",119,17
+"934","Solomon Daisy",43,17
+"935","Solomon Daisy",42,17
+"936","Solomon Daisy",9,17
+"937","Solomon Daisy",8,17
+"938","Solomon Daisy",199,17
+"939","Solomon Daisy",191,17
+"940","Solomon Daisy",106,17
+"941","Solomon Daisy",298,17
+"942","Solomon Daisy",200,17
+"943","Solomon Daisy",117,17
+"944","Solomon Daisy",7,17
+"945","Stagg",31,9
+"946","Stagg",162,9
+"947","Stagg",163,9
+"948","Stagg",247,9
+"949","Stagg",220,9
+"950","Stagg",159,9
+"951","Stagg",30,9
+"952","Stagg",66,9
+"953","Stagg",32,9
+"954","The Black Lion",108,10
+"955","The Black Lion",280,10
+"956","The Black Lion",49,10
+"957","The Black Lion",48,10
+"958","The Black Lion",47,10
+"959","The Black Lion",256,10
+"960","The Black Lion",51,10
+"961","The Black Lion",257,10
+"962","The Black Lion",258,10
+"963","The Black Lion",283,10
+"964","Tom Cobb",191,13
+"965","Tom Cobb",117,13
+"966","Tom Cobb",115,13
+"967","Tom Cobb",107,13
+"968","Tom Cobb",106,13
+"969","Tom Cobb",298,13
+"970","Tom Cobb",258,13
+"971","Tom Cobb",5,13
+"972","Tom Cobb",116,13
+"973","Tom Cobb",6,13
+"974","Tom Cobb",4,13
+"975","Tom Cobb",110,13
+"976","Tom Cobb",118,13
+"977","Tom Green",206,1

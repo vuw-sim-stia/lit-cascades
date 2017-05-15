@@ -1,119 +1,119 @@
 "Character","Node"
 "Alphonse",2
-"Arthur Gride",27
+"Arthur Gride",33
 "Augustus Borum",1
 "Baron Von Koeldwethout",5
 "Baron Von Swillenhausen",2
-"Baroness Von Koeldwethout",1
+"Baroness Von Koeldwethout",2
 "Baroness Von Swillenhausen",1
 "Belling",3
 "Bolder",3
 "Captain Adams",2
 "Cecilia Bobster",2
-"Charles Cheeryble",40
+"Charles Cheeryble",41
 "Charlotte Borum",1
 "Cobbey",2
-"Colonel Chowser",2
-"David",2
+"Colonel Chowser",3
+"David",1
 "Dick",3
-"Doctor Lumbey",2
+"Doctor Lumbey",3
 "Dorker",1
-"Edwin Cheeryble",34
-"Fanny Squeers",18
+"Edwin Cheeryble",35
+"Fanny Squeers",22
 "Fluggers",1
-"Frank Cheeryble",24
+"Frank Cheeryble",26
 "Graymarsh",2
 "Hannah",1
-"Henrietta Petowker",15
+"Henrietta Petowker",18
 "Henry Wititterly",8
 "Horatio Peltirogus",1
 "Jane Dibabs",2
-"John Browdie",29
-"Julia Wititterly",9
-"Kate Nickleby",108
+"John Browdie",34
+"Julia Wititterly",10
+"Kate Nickleby",124
 "Lord Frederick Verisopht",16
 "Lukin",1
-"Madame Mantalini",17
-"Madeline Bray",32
-"Matilda Price",2
+"Madame Mantalini",21
+"Madeline Bray",36
+"Matilda Price",3
 "Miss Belvawney",2
 "Miss Bravassa",6
 "Miss Browndock",1
 "Miss Cropley",1
 "Miss Gazingi",1
-"Miss Knag",15
-"Miss La Creevy",33
+"Miss Knag",18
+"Miss La Creevy",36
 "Miss Lane",1
-"Miss Ledrook",6
+"Miss Ledrook",8
 "Miss Simmonds",1
-"Miss Snevellicci",15
-"Mobbs",1
-"Morleena Kenwigs",12
+"Miss Snevellicci",17
+"Mobbs",2
+"Morleena Kenwigs",13
 "Mortimer Knag",2
 "Mr Bobster",1
-"Mr Bonney",2
+"Mr Bonney",3
 "Mr Borum",1
 "Mr Brooker",5
 "Mr Bulph",2
-"Mr Crowl",5
-"Mr Crummles",29
-"Mr Curdle",3
+"Mr Crowl",6
+"Mr Crummles",30
+"Mr Curdle",2
 "Mr Cutler",1
-"Mr Folair",10
+"Mr Folair",11
 "Mr Gallanbile",1
 "Mr Glavormelly",1
 "Mr Godfrey Nickleby",1
-"Mr Gregsbury",4
-"Mr Kenwigs",17
+"Mr Gregsbury",5
+"Mr Kenwigs",18
 "Mr Lenville",6
-"Mr Lillyvick",17
-"Mr Mantalini",13
+"Mr Lillyvick",20
+"Mr Mantalini",14
 "Mr Nickleby",2
-"Mr Pluck",15
+"Mr Pluck",16
 "Mr Pugstyles",2
-"Mr Pyke",17
+"Mr Pyke",18
 "Mr Scaley",1
-"Mr Snawley",12
+"Mr Snawley",14
 "Mr Snevellicci",2
 "Mr Snobb",2
 "Mr Trimmers",2
-"Mr Watkins",1
+"Mr Watkins",2
 "Mr Westwood",2
-"Mrs Blockson",1
+"Mrs Blockson",2
 "Mrs Borum",2
 "Mrs Crummles",19
 "Mrs Curdle",2
 "Mrs Cutler",1
 "Mrs Gallanbile",1
-"Mrs Grudden",10
+"Mrs Grudden",11
 "Mrs Kenwigs",16
 "Mrs Lenville",2
-"Mrs Nickleby",66
+"Mrs Nickleby",79
 "Mrs Snawley",2
 "Mrs Snevellicci",3
 "Mrs Squeers",27
 "Muntle",1
-"Newman Noggs",70
-"Nicholas Nickleby",193
+"Newman Noggs",81
+"Nicholas Nickleby",227
 "Ninetta Crummles",4
-"Peg Sliderskew",16
+"Peg Sliderskew",17
 "Phoebe",2
-"Ralph Nickleby",130
+"Ralph Nickleby",144
 "Sir Matthew Pupker",3
-"Sir Mulberry Hawk",32
+"Sir Mulberry Hawk",34
 "Sir Thomas Grimble",1
 "Sir Tumley Snuffim",4
-"Smike",73
-"Snittle Timberry",4
+"Smike",77
+"Snittle Timberry",5
 "The African Swallower",3
 "The Hawkinses",1
-"The Little Kenwigses",14
-"The Master Crummleses",11
+"The Little Kenwigses",13
+"The Master Crummleses",10
 "The Miss Dowdles",1
 "Thomas",1
-"Tim Linkinwater",38
-"Tom Tix",1
-"Wackford Squeers",69
-"Wackford SqueersJunior",11
+"Tim Linkinwater",41
+"Tom Tix",2
+"Wackford Squeers",74
+"Wackford SqueersJunior",12
 "Walter Bray",7
 "William",2
