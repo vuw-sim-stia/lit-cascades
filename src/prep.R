@@ -35,7 +35,7 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
+setwd("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/")
 
 #get all text and char files
 allCharFiles <- list.files("../resources/Dickens Character Lists/")
@@ -216,13 +216,13 @@ for(nextRun in 1:length(allTextFiles)){
   compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
-  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
-                 displaylabels = T, label=nd %v% "vertex.names",
-                 vertex.col="white",edge.col="darkgray",label.cex=.6,
-                 vertex.cex = function(slice){ degree(slice)/10 }, vertex.border="#000000",
+  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=T, 
+                 displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
+                 vertex.col="orange",edge.col="darkgray",
+                 vertex.cex = .5, vertex.border="black",
                  vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
-                 edge.lwd = (nd %e% "width"),
-                 edge.len = 5, uselen = T,object.scale = 0.1,
+                 edge.lwd = .3,
+                 object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
   
   detach("package:ndtv", unload=TRUE)
@@ -239,6 +239,13 @@ for(nextRun in 1:length(allTextFiles)){
   colnames(uniqueLinks) <- c("id1","id2","label")
   colnames(links) <- c("id1","id2","label")
   g <- graph.data.frame(uniqueLinks,directed=TRUE)
+  
+  nLabels <- c()
+  for(z in 1:nrow(nodes)){
+    nLabels <- c(nLabels,paste(unique(unlist(strsplit(paste(uniqueLinks[which(uniqueLinks$id1==z | uniqueLinks$id2==z),3],collapse = ', '),', '))),collapse = ', '))
+  }
+  
+  V(g)$content <- nLabels
   
   V(g)$frame.color <- "white"
   V(g)$color <- "orange"
@@ -296,13 +303,15 @@ for(nextRun in 1:length(allTextFiles)){
   socEdges$shadow <- FALSE
   socEdges$color <- "gray"
   socEdges$label <- E(g)$label
+  
+  ## old static network
   netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
     visNodes(shadow = T,font=list(size=32)) %>% 
     visEdges(color=list(color="grey"),font = list(color="grey",size=32)) %>% 
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network.html",sep=''))
+  visSave(netw, file = paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
   
   #### create the character network from the cascade
   socN1 <- c()
@@ -331,14 +340,14 @@ for(nextRun in 1:length(allTextFiles)){
   co <- layout_with_fr(h, minx=minC, maxx=maxC,
                        miny=minC, maxy=maxC)
   
-  ## new Social Network visIgraph
+  ## old Social Network visIgraph
   visIgraph(h,smooth=F) %>% visNodes(borderWidth = 3, shadow = F,font=list(size=18),color = list(background = "blue", border = "black",highlight = "yellow",hover="yellow")) %>% 
     visEdges(color=list(color="grey"),font = list(color="grey")) %>% 
     visOptions(highlightNearest=T,height = "800px",width="1000px") %>% 
     #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
     visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
-    visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network.html",sep=''),selfcontained=TRUE)
+    visSave(file=paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
   socNodes <- data.frame(id=V(h)$name,label=V(h)$name)
   socEdges <- data.frame(from=head_of(h,E(h))$name,to=tail_of(h,E(h))$name)
   colnames(socNodes) <- c('id','label')
@@ -352,11 +361,13 @@ for(nextRun in 1:length(allTextFiles)){
   
   socEdges$shadow <- FALSE
   socEdges$color <- "gray"
+  
+  ## old social network-2
   netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
+  visSave(netw, file = paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
   #todo: fix this to replace igraphVis
   #tmpNodes <- V(h)$names
   #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
@@ -573,23 +584,44 @@ for(nextRun in 1:length(allTextFiles)){
   ggsave(paste("TLit/www/output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
   write.csv(entgraph,file=paste("TLit/www/output/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
   
+  ## matching static & social network
+  
   library(networkDynamic)
   library(ndtv)
   library(tsna)
+  library(intergraph)
   
-  ## new static network      
-  #net3 <- network(links, vertex.attr=nodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)
-  #compute.animation(net3, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
-  #render.d3movie(net3, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=T,
-                 #displaylabels=F,label=net3 %v% "vertex.names",
-                 #vertex.col="white",edge.col="darkgray",label.cex=.6,
-                 #vertex.cex=function(slice){degree(slice)/10},
-                 #edge.lwd=function(slice){degree(slice)/10},
-                 #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(net3 %v% "label"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
-                 #vertex.border="#000000",
-                 #edge.lwd = (net3 %e% "width"),
-                 #edge.len = 5, uselen = T,object.scale = 0.1)
-                 #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
-}
+  hnetwork <- asNetwork(g)
+  
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=T, 
+                 displaylabels = T, label=hnetwork %v% "vertex.names",
+                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                 vertex.cex = .5, vertex.border="black",
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched characters:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 edge.lwd = .3,
+                 object.scale = 0.1,
+                 edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
+  
+  hnetwork <- asNetwork(h)
+  
+  socEdges2 <- socEdges
+  socEdges2 <- socEdges2[c("id2", "id1","label")]
+  names(socEdges2)[names(socEdges2) == "id2"] <- "haha"
+  names(socEdges2)[names(socEdges2) == "id1"] <- "id2"
+  names(socEdges2)[names(socEdges2) == "haha"] <- "id1"
+  
+  newsocEdges <- rbind(socEdges,socEdges2)
+  newsocEdges <- ddply(newsocEdges, .(id1),summarize, id2 = toString(id2))
+  
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_social-network.html",sep=''),launchBrowser=T, 
+                 displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
+                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                 vertex.cex = .5, vertex.border="black",
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched characters:</b>", (newsocEdges$id2)),
+                 edge.lwd = .3,
+                 object.scale = 0.1,
+                 edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
+
+}  
 
 write.csv2(allOutput,'TLit/www/output/allTexts.csv')

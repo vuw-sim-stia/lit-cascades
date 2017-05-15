@@ -16,7 +16,7 @@ allText <- read.csv2(file = "www/output/allTexts.csv")
 ui <- shinyUI(absolutePanel(
   width=1600,
   height=1000,
-  navbarPage("Towards a Computational Literary Science",
+  navbarPage("Novella Twist", ## come up with cool name for project lol ## 
              tabPanel("Home",
                       titlePanel(
                         h1(strong("Towards a Computational",br("Literary Science")))),
@@ -33,13 +33,19 @@ ui <- shinyUI(absolutePanel(
                       mainPanel(
                         br(),
                           img(src='net5.png', height = 500, width = 1000, align = "center"),
-                        h4("Project Abstract"),
-                          p("Data-driven analysis has emerged as a growing methodology, if not sub-discipline within literary studies. This approach, broadly described as “distant reading”, has harnessed available technology to open new avenues for how we understand literary texts, both individually and in the aggregate. Whereas traditional literary scholarship is generally grounded in the interpretation of the specific language of a text or body of texts, macroanalytic approaches have offered new ways of seeing texts. This interdisciplinary research project at the Victoria University of Wellington is an attempt to theorise the relationship between macroanalytic and microanalytic (distant and close) readings of individual works."),
-                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Project on GitHub"))
+                        h4("Project Overview"),
+                          p("The programme creates a network map of characters in the novel. Each node (or dot) represents a 1,000 word chunk of the novel. The programme scans the chunks sequentially and identifies which characters appear in each chunk. Two nodes are connected if they share sequential appearances of any character."),
+                          p("The Dynamic Flow Character Network shows how the network is created as the novel unfolds from beginning to end."),
+                          p("The Static Flow Character Network provides a view of the completed network."),
+                          p("The Static Social Network shows how all of the characters are connected--in this visualisation, each node represents a character and not a chunk of the text."),
+                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Research Methodology and Findings"))
                         ))),
              tabPanel("Network Visualisations",
                       sidebarPanel(
-                        helpText("The Dynamic Network provides a method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window."),
+                        helpText(
+                          p("The Dynamic Character Flow Network provides a method of viewing how character co-occurence develops in a text over time.  Click on an edge to reveal the characters linking two nodes; click on a node for more information on the node, characters, and a link to the text content in a separate window; double-click on a node to highlight its connections."),
+                          p("The Static Character Flow Network provides a high-level view of all relationships between characters over the course of a text, segmented by time of occurrence."),
+                          p("The Static Social Network provides an overview of the relationships between characters over the entirety of a text. Click on a node to highlight it and its connections.")),
                         selectInput('dynSelect', 'Select Text:', list('Charles Dickens' = gsub("_"," ",allText$x)))),
                       mainPanel(
                         tabsetPanel(
@@ -67,7 +73,27 @@ ui <- shinyUI(absolutePanel(
                                                                          plotlyOutput("plot_character_appearance_first_last", height = 800)))),
                         tabPanel("All Character Appearances", 
                                  fluidRow(column(width = 12,
-                                                 plotlyOutput("plot_character_appearance_all", height = 800))))))))))
+                                                 plotlyOutput("plot_character_appearance_all", height = 800))))))),
+            tabPanel("About",
+                     titlePanel(
+                        h1(strong("Towards a Computational",br("Literary Science")))),
+                      sidebarLayout(
+                      sidebarPanel(
+                        h4("Team"),
+                          p("Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the spearheading digital futures theme, which is part of the areas of strategic distictiveness of Victoria University of Wellington."),
+                        h5("Markus Luczak-Roesch"),
+                          p("Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant",a(href="sociam.org",target="_blank","SOCIAM - The Theory and Practice of Social Machines"),"at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems.", br("More information:",a(href="http://markus-luczak.de",target="_blank","http://markus-luczak.de"))),
+                        h5("Adam Grener"),
+                          p("Adam Grener is Lecturer in the English Programme at Victoria University of Wellington. His main area of research is the nineteenth-century British novel, though he also has interest in the history of the novel, narrative theory, and computational approaches to literature. His work has appeared in the journals Genre, Narrative, and Modern Philology, and he is the co-editor of a special issue of Genre, “Narrative Against Data in the Victorian Novel,” set to appear in March 2017. He is completing a book on realist aesthetics and the history of probabilistic thought.", br("More information:",a(href="http://www.victoria.ac.nz/seftms/about/staff/adam-grener",target="-blank","http://www.victoria.ac.nz/seftms/about/staff/adam-grener"))),
+                        h5("Research Assistants"),
+                          p("Tom Goldfinch", br("Emma Fenton"))),
+                     mainPanel(
+                        br(),
+                          img(src='net5.png', height = 500, width = 1000, align = "center"),
+                        h4("Project Abstract"),
+                          p("Data-driven analysis has emerged as a growing methodology, if not sub-discipline within literary studies. This approach, broadly described as “distant reading”, has harnessed available technology to open new avenues for how we understand literary texts, both individually and in the aggregate. Whereas traditional literary scholarship is generally grounded in the interpretation of the specific language of a text or body of texts, macroanalytic approaches have offered new ways of seeing texts. This interdisciplinary research project at the Victoria University of Wellington is an attempt to theorise the relationship between macroanalytic and microanalytic (distant and close) readings of individual works."),
+                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Project on GitHub"))
+                        ))))))
 
 server <- function(input, output) {
   #resource path for network visulisations
