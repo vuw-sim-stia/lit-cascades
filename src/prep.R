@@ -334,7 +334,7 @@ for(nextRun in 1:length(allTextFiles)){
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste(getwd(),"/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
+  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
   
   #### create the character network from the cascade
   socN1 <- c()
@@ -370,7 +370,7 @@ for(nextRun in 1:length(allTextFiles)){
     #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
     visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
-    visSave(file=paste(getwd(),"TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
+    visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
   socNodes <- data.frame(id=V(h)$name,label=V(h)$name)
   socEdges <- data.frame(from=head_of(h,E(h))$name,to=tail_of(h,E(h))$name)
   colnames(socNodes) <- c('id','label')
@@ -390,7 +390,7 @@ for(nextRun in 1:length(allTextFiles)){
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste(getwd(),"TLit/www/output/",theSource,"_social-network2.html",sep=''))
+  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
   #todo: fix this to replace igraphVis
   #tmpNodes <- V(h)$names
   #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
