@@ -1,3 +1,24 @@
+# Preprocessing script for a tool prototype that enables close and distant reading of literature.
+# For demonstration purposes the tool is configured to work on various Victorian Novels from Charles Dickens and other authors.
+# Authors: Markus Luczak-Roesch, Tom Goldfinch
+
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+#                                               "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+# 
+# http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+
 #import libs
 library(plyr)
 library(tm)
@@ -35,7 +56,7 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 }
 
 #set working directoy
-setwd("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/")
+setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #get all text and char files
 allCharFiles <- list.files("../resources/Dickens Character Lists/")
@@ -46,6 +67,8 @@ allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
 #litSources <- c('bleakhouse','ourmutualfriend')
 allOutput <- c()
+
+sliceSize <- 1000
 
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
@@ -67,7 +90,7 @@ for(nextRun in 1:length(allTextFiles)){
   tmp <- sapply(full_text,function(x){
     snippet <- strsplit(x, "\\s+")[[1]]
     if(length(snippet>1)){
-      groupA <- rep(seq(ceiling(length(snippet)/1200)), each=1200)[1:length(snippet)]
+      groupA <- rep(seq(ceiling(length(snippet)/sliceSize)), each=sliceSize)[1:length(snippet)]
       words300A <- split(snippet, groupA)
       words300B <- c(words300B,words300A)
     }
@@ -216,7 +239,7 @@ for(nextRun in 1:length(allTextFiles)){
   compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   
   #interactive
-  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=T, 
+  render.d3movie(nd, filename=paste("TLit/www/output/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
                  displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
                  vertex.col="orange",edge.col="darkgray",
                  vertex.cex = .5, vertex.border="black",
@@ -311,7 +334,7 @@ for(nextRun in 1:length(allTextFiles)){
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
+  visSave(netw, file = paste(getwd(),"/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
   
   #### create the character network from the cascade
   socN1 <- c()
@@ -347,7 +370,7 @@ for(nextRun in 1:length(allTextFiles)){
     #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
     visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
-    visSave(file=paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
+    visSave(file=paste(getwd(),"TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
   socNodes <- data.frame(id=V(h)$name,label=V(h)$name)
   socEdges <- data.frame(from=head_of(h,E(h))$name,to=tail_of(h,E(h))$name)
   colnames(socNodes) <- c('id','label')
@@ -367,7 +390,7 @@ for(nextRun in 1:length(allTextFiles)){
     visOptions(highlightNearest = TRUE) %>%
     visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
     visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/tomgoldfinch/Documents/Research/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
+  visSave(netw, file = paste(getwd(),"TLit/www/output/",theSource,"_social-network2.html",sep=''))
   #todo: fix this to replace igraphVis
   #tmpNodes <- V(h)$names
   #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
@@ -593,7 +616,7 @@ for(nextRun in 1:length(allTextFiles)){
   
   hnetwork <- asNetwork(g)
   
-  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=T, 
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
                  displaylabels = T, label=hnetwork %v% "vertex.names",
                  vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                  vertex.cex = .5, vertex.border="black",
@@ -613,7 +636,7 @@ for(nextRun in 1:length(allTextFiles)){
   newsocEdges <- rbind(socEdges,socEdges2)
   newsocEdges <- ddply(newsocEdges, .(id1),summarize, id2 = toString(id2))
   
-  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_social-network.html",sep=''),launchBrowser=T, 
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
                  displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
                  vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                  vertex.cex = .5, vertex.border="black",
