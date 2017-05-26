@@ -60,8 +60,10 @@ setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #get all text and char files
 allCharFiles <- list.files("../resources/Dickens Character Lists/")
+#allCharFiles <- list.files("/Users/mlr/Documents/Dickens Character Lists/")
 allCharFiles <- allCharFiles[which(allCharFiles!="Icon\r")]
 allTextFiles <- list.files("../resources/Dickens Text Files")
+#allTextFiles <- list.files("/Users/mlr/Documents/Dickens Text Files")
 allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
 #select which texts to process
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
@@ -74,6 +76,7 @@ for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
   allOutput <- c(allOutput,theSource)
   sourceText <- readChar(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]))$size)
+  #sourceText <- readChar(paste0('/Users/mlr/Documents/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('/Users/mlr/Documents/Dickens Text Files/',allTextFiles[nextRun]))$size)
   processedText <- gsub("\\r\\n", " ", sourceText,perl=T)
   processedText <- gsub("\\n", " ", processedText,perl=T)
   
@@ -115,6 +118,7 @@ for(nextRun in 1:length(allTextFiles)){
   
   #character list
   tmp <- readLines(paste0('../resources/Dickens Character Lists/',allCharFiles[nextRun]))
+  #tmp <- readLines(paste0('/Users/mlr/Documents/Dickens Character Lists/',allCharFiles[nextRun]))
   
   #for short character lists
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
@@ -264,7 +268,7 @@ for(nextRun in 1:length(allTextFiles)){
   g <- graph.data.frame(uniqueLinks,directed=TRUE)
   
   nLabels <- c()
-  for(z in 1:nrow(nodes)){
+  for(z in V(g)$name){
     nLabels <- c(nLabels,paste(unique(unlist(strsplit(paste(uniqueLinks[which(uniqueLinks$id1==z | uniqueLinks$id2==z),3],collapse = ', '),', '))),collapse = ', '))
   }
   
