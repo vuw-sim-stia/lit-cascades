@@ -25,6 +25,7 @@
 # under the License.
 #
 
+library(plyr)
 library(shiny)
 library(plotly)
 
@@ -39,14 +40,11 @@ ui <- shinyUI(absolutePanel(
                         h1(strong("Towards a Computational",br("Literary Science")))),
                       sidebarLayout(
                       sidebarPanel(
-                        h4("Team"),
-                          p("Led by Markus Luczak-Roesch and Adam Grener this interdisciplinary research project was supported under the spearheading digital futures theme, which is part of the areas of strategic distictiveness of Victoria University of Wellington."),
-                        h5("Markus Luczak-Roesch"),
-                          p("Markus Luczak-Roesch is a Senior Lecturer in Information Systems at the School for Information Management, Victoria Business School, Victoria University of Wellington. Before joining Victoria Markus worked as a Senior Research Fellow on the prestigious EPSRC programme grant",a(href="sociam.org",target="_blank","SOCIAM - The Theory and Practice of Social Machines"),"at the University of Southampton, Electronics and Computer Science (UK, 2013-2016). A computer scientist by education, Markus investigates the formal properties of information in socio-technical systems and human factors of information and computing systems.", br("More information:",a(href="http://markus-luczak.de",target="_blank","http://markus-luczak.de"))),
-                        h5("Adam Grener"),
-                          p("Adam Grener is Lecturer in the English Programme at Victoria University of Wellington. His main area of research is the nineteenth-century British novel, though he also has interest in the history of the novel, narrative theory, and computational approaches to literature. His work has appeared in the journals Genre, Narrative, and Modern Philology, and he is the co-editor of a special issue of Genre, “Narrative Against Data in the Victorian Novel,” set to appear in March 2017. He is completing a book on realist aesthetics and the history of probabilistic thought.", br("More information:",a(href="http://www.victoria.ac.nz/seftms/about/staff/adam-grener",target="-blank","http://www.victoria.ac.nz/seftms/about/staff/adam-grener"))),
-                        h5("Research Assistants"),
-                          p("Tom Goldfinch", br("Emma Fenton"))),
+                        h4("How to Read the Graphs and Plots"),
+                        h5("Node"),
+                          p("A node (or circle/dot) on a graph or plot indicates a 1000-word slice of the book. Clicking or hovering over the node will reveal more detail about, such as matched characters, or type of character appearance."),
+                        h5("Edge"),
+                          p("An edge (or line between two nodes) on a graph or plot indicates a connection between two 1000-word slices of the book due to character co-occurrence. Click or hover over an edge for more detail, such as the matched characters between two nodes.")),
                       mainPanel(
                         br(),
                           img(src='net5.png', height = 500, width = 1000, align = "center"),
@@ -170,8 +168,9 @@ server <- function(input, output) {
   output$plot_entropy <- renderPlotly({
     
     plotname_ent <- read.csv(file = entrop(), sep = ',')
+    charrange <- read.csv(file = slider(), sep = ",")
     
-    ggplotly(ggplot(plotname_ent, aes(x = Node, y = Entropy)) + geom_point() + geom_line(linetype = 2, size=.2) + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0)) + scale_y_continuous (limits = c(0,5), minor_breaks = seq(0, 5, 0.25), breaks = seq(0, 5, 0.5)))
+    ggplotly((ggplot(plotname_ent, aes(x = Node, y = Entropy)) + geom_point() + geom_line(linetype = 2, size=.2) + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0)) + scale_y_continuous (limits = c(0,5), minor_breaks = seq(0, 5, 0.25), breaks = seq(0, 5, 0.5))))
     
   })
   
@@ -190,7 +189,10 @@ server <- function(input, output) {
   
   output$plot_character_appearance_first_last <- renderPlotly({
     
-    ggplotly(ggplot(plotname_char_first_last(), aes(x = Node, y = Character, group = Type, col = Type)) + theme(legend.position = c(300,3)) + geom_point() + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0)))
+    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotheight <- nrow(count(unique(plotname_char_first_last$Character)))
+    
+   ggplotly((ggplot(plotname_char_first_last(), aes(x = Node, y = Character, col = Type)) + theme(legend.position = c(300,3)) + geom_point() + scale_color_manual(values=c("#33CC33","#FF0000")) + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0))),height=plotheight*18, width = 1200)
     
   })
   
@@ -209,7 +211,10 @@ server <- function(input, output) {
   
   output$plot_character_appearance_all <- renderPlotly({
     
-    ggplotly(ggplot(plotname_char_all(), aes(x = Node, y = Character)) + geom_point() + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0)))
+    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotheight <- nrow(count(unique(plotname_char_first_last$Character)))
+    
+    ggplotly((ggplot(plotname_char_all(), aes(x = Node, y = Character)) + geom_point() + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0))),height=plotheight*18, width = 1200)
     
   }) 
   
