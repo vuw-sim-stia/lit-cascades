@@ -35,6 +35,10 @@ library(igraph)
 library(ggplot2)
 library(plotly)
 library(gtools)
+library(networkDynamic)
+library(ndtv)
+library(tsna)
+library(intergraph)
 
 #housekeeping and helpers
 options(scipen = 999)
@@ -59,11 +63,9 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
 #get all text and char files
-allCharFiles <- list.files("../resources/Dickens Character Lists/")
-#allCharFiles <- list.files("/Users/mlr/Documents/Dickens Character Lists/")
+allCharFiles <- list.files("../resources/Character Lists/")
 allCharFiles <- allCharFiles[which(allCharFiles!="Icon\r")]
-allTextFiles <- list.files("../resources/Dickens Text Files")
-#allTextFiles <- list.files("/Users/mlr/Documents/Dickens Text Files")
+allTextFiles <- list.files("../resources/Text Files")
 allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
 #select which texts to process
 #litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
@@ -75,8 +77,7 @@ sliceSize <- 1000
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
   allOutput <- c(allOutput,theSource)
-  sourceText <- readChar(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Dickens Text Files/',allTextFiles[nextRun]))$size)
-  #sourceText <- readChar(paste0('/Users/mlr/Documents/Dickens Text Files/',allTextFiles[nextRun]), file.info(paste0('/Users/mlr/Documents/Dickens Text Files/',allTextFiles[nextRun]))$size)
+  sourceText <- readChar(paste0('../resources/Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Text Files/',allTextFiles[nextRun]))$size)
   processedText <- gsub("\\r\\n", " ", sourceText,perl=T)
   processedText <- gsub("\\n", " ", processedText,perl=T)
   
@@ -105,20 +106,8 @@ for(nextRun in 1:length(allTextFiles)){
   
   words300A <- words300B
   
-  #export text as HTML file to allow jumoing to respective slice
-  htmlHead <- "<htlm><head><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px'; window.onfocus=function(event){location.reload();}}</script></head><body onload='foo()'>"
-  htmlTail <- "</body>"
-  
-  htmlContent <- ""
-  
-  for(h in 1:length(words300B)){
-    htmlContent <- paste(htmlContent,"<p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p>",sep='')
-  }
-  write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',theSource,'_textchunks.html',sep=''))
-  
   #character list
-  tmp <- readLines(paste0('../resources/Dickens Character Lists/',allCharFiles[nextRun]))
-  #tmp <- readLines(paste0('/Users/mlr/Documents/Dickens Character Lists/',allCharFiles[nextRun]))
+  tmp <- readLines(paste0('../resources/Character Lists/',allCharFiles[nextRun]))
   
   #for short character lists
   #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
@@ -203,10 +192,38 @@ for(nextRun in 1:length(allTextFiles)){
   colnames(links) <- c('source','target','tag')
   colnames(roots) <- c('root_node_id','tag')
   
+  
+  #export text as HTML file to allow jumoing to respective slice
+  htmlHead <- "<htlm><head><style type='text/css'>body{font-family: Verdana, sans-serif;}</style><script>function foo(){var hash = window.location.hash.substring(1); document.getElementById(hash).style.border = '2px solid red'; document.getElementById(hash).style.padding = '15px'; window.onfocus=function(event){location.reload();}}</script></head><body onload='foo()'>"
+  htmlTail <- "</body>"
+  
+  htmlContent <- ""
+  
+  for(h in 1:length(words300B)){
+    targets <- unique(unlist(links[which(links[,1]==h),2]))
+    sources <- unique(unlist(links[which(links[,2]==h),1]))
+    
+    sLinks <- ""
+    if(length(sources)>0){
+      for(aLink in 1:length(sources)){
+        sLinks <- paste0(sLinks," - <a href='#slice-",sources[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",sources[aLink],"</a>")
+      }
+    }
+    
+    tLinks <- ""
+    if(length(targets)>0){
+      for(aLink in 1:length(targets)){
+        tLinks <- paste0(tLinks," - <a href='#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
+      }
+    }
+    htmlContent <- paste(htmlContent,"<p style='font-size: 0.8em; color:#ccc;'>is linked to from: ",sLinks,"</p><p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p><p style='font-size: 0.8em; color:#ccc;text-decoration: none;'>is linked to to: ",tLinks,"</p><hr>",sep='')
+  }
+  write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',theSource,'_textchunks.html',sep=''))
+  
   library(networkDynamic)
   library(ndtv)
   library(tsna)
- 
+  
   nd <- as.networkDynamic(network.initialize(0))
   set.network.attribute(nd,"vertex.pid","vertex.names")
   set.network.attribute(nd,"edge.pid","edge.names")
@@ -268,7 +285,7 @@ for(nextRun in 1:length(allTextFiles)){
   g <- graph.data.frame(uniqueLinks,directed=TRUE)
   
   nLabels <- c()
-  for(z in V(g)$name){
+  for(z in 1:nrow(nodes)){
     nLabels <- c(nLabels,paste(unique(unlist(strsplit(paste(uniqueLinks[which(uniqueLinks$id1==z | uniqueLinks$id2==z),3],collapse = ', '),', '))),collapse = ', '))
   }
   
@@ -277,7 +294,7 @@ for(nextRun in 1:length(allTextFiles)){
   V(g)$frame.color <- "white"
   V(g)$color <- "orange"
   
-  deg <- degree(g, mode="all")
+  deg <-  igraph::degree(g, mode="all")
   V(g)$size <- deg*3
   
   E(g)$width <- 0.1
@@ -294,7 +311,7 @@ for(nextRun in 1:length(allTextFiles)){
   plot(g, layout=co*1.0, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
   dev.off()
   
-  deg <- degree(g, mode="all")
+  deg <-  igraph::degree(g, mode="all")
   pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_net_degdistri.pdf",sep=''))
   deg.dist <- degree_distribution(g, cumulative=T, mode="all")
   plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
@@ -332,13 +349,27 @@ for(nextRun in 1:length(allTextFiles)){
   socEdges$label <- E(g)$label
   
   ## old static network
-  netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
-    visNodes(shadow = T,font=list(size=32)) %>% 
-    visEdges(color=list(color="grey"),font = list(color="grey",size=32)) %>% 
-    visOptions(highlightNearest = TRUE) %>%
-    visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
-    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
+  #netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
+  #  visNodes(shadow = T,font=list(size=32)) %>% 
+  #  visEdges(color=list(color="grey"),font = list(color="grey",size=32)) %>% 
+  #  visOptions(highlightNearest = TRUE) %>%
+  #  visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
+  #  visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
+  #visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
+  library(networkDynamic)
+  library(ndtv)
+  library(tsna)
+  
+  hnetwork <- asNetwork(g)
+  
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
+                 displaylabels = T, label=hnetwork %v% "vertex.names",
+                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                 vertex.cex = .5, vertex.border="black",
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched characters:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 edge.lwd = .3,
+                 object.scale = 0.1,
+                 edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
   
   #### create the character network from the cascade
   socN1 <- c()
@@ -368,13 +399,13 @@ for(nextRun in 1:length(allTextFiles)){
                        miny=minC, maxy=maxC)
   
   ## old Social Network visIgraph
-  visIgraph(h,smooth=F) %>% visNodes(borderWidth = 3, shadow = F,font=list(size=18),color = list(background = "blue", border = "black",highlight = "yellow",hover="yellow")) %>% 
-    visEdges(color=list(color="grey"),font = list(color="grey")) %>% 
-    visOptions(highlightNearest=T,height = "800px",width="1000px") %>% 
-    #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
-    visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
-    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
-    visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
+  #visIgraph(h,smooth=F) %>% visNodes(borderWidth = 3, shadow = F,font=list(size=18),color = list(background = "blue", border = "black",highlight = "yellow",hover="yellow")) %>% 
+  #  visEdges(color=list(color="grey"),font = list(color="grey")) %>% 
+  #  visOptions(highlightNearest=T,height = "800px",width="1000px") %>% 
+  #visIgraphLayout(physics=FALSE, smooth=TRUE) %>% 
+  #  visInteraction(dragNodes = TRUE, dragView = TRUE, zoomView = TRUE) %>% 
+  #  visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 250,avoidOverlap=0.5)) %>% 
+  #  visSave(file=paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network-old.html",sep=''),selfcontained=TRUE)
   socNodes <- data.frame(id=V(h)$name,label=V(h)$name)
   socEdges <- data.frame(from=head_of(h,E(h))$name,to=tail_of(h,E(h))$name)
   colnames(socNodes) <- c('id','label')
@@ -390,26 +421,27 @@ for(nextRun in 1:length(allTextFiles)){
   socEdges$color <- "gray"
   
   ## old social network-2
-  netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
-    visOptions(highlightNearest = TRUE) %>%
-    visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
-    visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-  visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
+  #netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
+  #  visOptions(highlightNearest = TRUE) %>%
+  #  visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
+  #  visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
+  #visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
+  
   #todo: fix this to replace igraphVis
   #tmpNodes <- V(h)$names
   #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
   #tmpSoc <- network(tmpEdges, vertex.attr=tmpNodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)
   #compute.animation(tmpSoc, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
   #render.d3movie(tmpSoc, filename=paste("TLit/www/output/",theSource,"_social-network2.html",sep=''),launchBrowser=T,
-      #displaylabels=F,label=tmpSoc %v% "vertex.names",
-      #vertex.col="white",edge.col="darkgray",label.cex=.6,
-      #vertex.cex=function(slice){degree(slice)/10},
-      #edge.lwd=function(slice){degree(slice)/10},
-      #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(tmpSoc %v% "name"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
-      #vertex.border="#000000",
-      #edge.lwd = (net3 %e% "width"),
-      #edge.len = 5, uselen = T,object.scale = 0.1)
-      #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
+  #displaylabels=F,label=tmpSoc %v% "vertex.names",
+  #vertex.col="white",edge.col="darkgray",label.cex=.6,
+  #vertex.cex=function(slice){degree(slice)/10},
+  #edge.lwd=function(slice){degree(slice)/10},
+  #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(tmpSoc %v% "name"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
+  #vertex.border="#000000",
+  #edge.lwd = (net3 %e% "width"),
+  #edge.len = 5, uselen = T,object.scale = 0.1)
+  #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
   
   pdf(paste("TLit/www/output/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
   plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
@@ -435,7 +467,7 @@ for(nextRun in 1:length(allTextFiles)){
   V(h)$frame.color <- "white"
   V(h)$color <- "orange"
   
-  deg <- degree(h, mode="all")
+  deg <- igraph::degree(h, mode="all")
   V(h)$size <- deg*3
   
   E(h)$width <- 0.1
@@ -468,6 +500,48 @@ for(nextRun in 1:length(allTextFiles)){
   plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
   dev.off()
   
+  hnetwork <- asNetwork(h)
+  
+  socEdges2 <- socEdges
+  socEdges2 <- socEdges2[c("id2", "id1","label")]
+  names(socEdges2)[names(socEdges2) == "id2"] <- "haha"
+  names(socEdges2)[names(socEdges2) == "id1"] <- "id2"
+  names(socEdges2)[names(socEdges2) == "haha"] <- "id1"
+  
+  newsocEdges <- rbind(socEdges,socEdges2)
+  
+  allChars = unique(c(newsocEdges$id1,newsocEdges$id2))
+  linkedChar <- c()
+  for(char in 1:length(allChars)){
+    linkedChar <- rbind(linkedChar,c(allChars[char],paste(unique(c(newsocEdges[which(newsocEdges$id1==allChars[char]),2],newsocEdges[which(newsocEdges$id2==allChars[char]),1])),collapse = ", ")))
+  }
+  linkedChar <- as.data.frame(linkedChar)
+  colnames(linkedChar) <- c("char","links")
+  
+  #newsocEdges <- ddply(newsocEdges, .(id1),summarize, id2 = toString(id2))
+  
+  linkedChar2 <- c()
+  
+  for(char in 1:length(hnetwork$val)){
+    linkedChar2 <- rbind(linkedChar2,linkedChar[which(linkedChar[,1]==hnetwork$val[[char]]$vertex.names),])
+  }
+  linkedChar2 <- as.data.frame(linkedChar2)
+  colnames(linkedChar2) <- c("char","links")
+  
+  write.csv(linkedChar2$char,file=paste("TLit/www/output/",theSource,"_allcharacters.csv",sep=''))
+  
+  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
+                 displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
+                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                 vertex.cex = .5, vertex.border="black",
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched characters:</b>", (linkedChar2$links)),
+                 edge.lwd = .3,
+                 object.scale = 0.1,
+                 edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
+  detach("package:ndtv", unload=TRUE)
+  detach("package:tsna", unload=TRUE)
+  detach("package:sna", unload=TRUE)
+  detach("package:networkDynamic", unload=TRUE)
   #stats for the social graph
   degd <- degree.distribution(h)
   wtc <- cluster_walktrap(h)
@@ -610,45 +684,6 @@ for(nextRun in 1:length(allTextFiles)){
     scale_y_continuous (limits = c(0,5)) 
   ggsave(paste("TLit/www/output/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
   write.csv(entgraph,file=paste("TLit/www/output/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
-  
-  ## matching static & social network
-  
-  library(networkDynamic)
-  library(ndtv)
-  library(tsna)
-  library(intergraph)
-  
-  hnetwork <- asNetwork(g)
-  
-  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
-                 displaylabels = T, label=hnetwork %v% "vertex.names",
-                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
-                 vertex.cex = .5, vertex.border="black",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched characters:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
-                 edge.lwd = .3,
-                 object.scale = 0.1,
-                 edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
-  
-  hnetwork <- asNetwork(h)
-  
-  socEdges2 <- socEdges
-  socEdges2 <- socEdges2[c("id2", "id1","label")]
-  names(socEdges2)[names(socEdges2) == "id2"] <- "haha"
-  names(socEdges2)[names(socEdges2) == "id1"] <- "id2"
-  names(socEdges2)[names(socEdges2) == "haha"] <- "id1"
-  
-  newsocEdges <- rbind(socEdges,socEdges2)
-  newsocEdges <- ddply(newsocEdges, .(id1),summarize, id2 = toString(id2))
-  
-  render.d3movie(hnetwork, filename=paste("TLit/www/output/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
-                 displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
-                 vertex.col="orange",edge.col="darkgray",label.cex=0.5,
-                 vertex.cex = .5, vertex.border="black",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched characters:</b>", (newsocEdges$id2)),
-                 edge.lwd = .3,
-                 object.scale = 0.1,
-                 edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
-
 }  
 
 write.csv2(allOutput,'TLit/www/output/allTexts.csv')
