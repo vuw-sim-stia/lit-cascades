@@ -39,6 +39,9 @@ library(networkDynamic)
 library(ndtv)
 library(tsna)
 library(intergraph)
+library(openNLP)
+library(cldr)
+library(RWeka)
 
 #housekeeping and helpers
 options(scipen = 999)
@@ -74,7 +77,7 @@ allOutput <- c()
 
 sliceSize <- 1000
 
-method <- "chars" # one of "chars" "ngram" "nouns"
+method <- "nouns" # one of "chars" "ngram" "nouns"
 
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
@@ -174,18 +177,35 @@ for(nextRun in 1:length(allTextFiles)){
     
     charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
     for(i in 1:length(words300A)){
-      slicematch <- list()
       s<-as.String(paste(unlist(words300A[i]),collapse=' '))
       
-      a2 <- annotate(s, list(sent_token_annotator, word_token_annotator))
-      a3 <- annotate(s, pos_tag_annotator, a2)
+      a2 <- NLP::annotate(s, list(sent_token_annotator, word_token_annotator))
+      a3 <- NLP::annotate(s, pos_tag_annotator, a2)
       a3w <- subset(a3, type == "word")
       tags <- sapply(a3w$features, `[[`, "POS")
       nNouns<-length(which(tags=='NN' | tags=='NNS'))
       nTags <- length(tags)
       nounsOnly <-s[a3w][which(tags=='NN' | tags=='NNS')]
-      matrix <- create_matrix(nounsOnly, stemWords=TRUE, removeStopwords=FALSE, minWordLength=3)
-      charDS <- rbind(charDS,data.frame(i,paste(colnames(matrix),collapse=', ')),stringsAsFactors=F)
+      matrix <- create_matrix(nounsOnly, stemWords=TRUE, removeStopwords=TRUE, minWordLength=3)
+      charDS <- rbind(charDS,data.frame(i,paste(unique(colnames(matrix)),collapse=', ')),stringsAsFactors=F)
+    }
+  } else if(method == "ngrams"){
+    nGramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 2, max = 2))
+    
+    charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
+    for(i in 1:length(words300A)){
+      a <- Corpus(VectorSource(c(as.String(paste(unlist(words300A[i]),collapse=' ')))))
+      a <- tm_map(a, removeNumbers)
+      a <- tm_map(a, removePunctuation)
+      a <- tm_map(a , stripWhitespace)
+      a <- tm_map(a, tolower)
+      a <- tm_map(a, removeWords, stopwords("english")) 
+      a <- tm_map(a, stemDocument, language = "english")
+      a <- tm_map(a, PlainTextDocument)
+      tdm <- TermDocumentMatrix(a, control = list(tokenize = nGramTokenizer))
+      #tdm <- removeSparseTerms(tdm, 0.75)
+      
+      charDS <- rbind(charDS,data.frame(i,paste(unique(tdm$dimnames$Terms),collapse=', ')),stringsAsFactors=F)
     }
   }
   
