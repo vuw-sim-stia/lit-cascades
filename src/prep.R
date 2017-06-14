@@ -74,6 +74,8 @@ allOutput <- c()
 
 sliceSize <- 1000
 
+method <- "chars" # one of "chars" "ngram" "nouns"
+
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
   allOutput <- c(allOutput,theSource)
@@ -105,63 +107,85 @@ for(nextRun in 1:length(allTextFiles)){
   }
   
   words300A <- words300B
-  
-  #character list
-  tmp <- readLines(paste0('../resources/Character Lists/',allCharFiles[nextRun]))
-  
-  #for short character lists
-  #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
-  
-  charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
-  chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
-  tmp <- c()
-  for(i in 1:length(chars)){
-    nextChar <- charIds[i]
-    allNames <- chars[[i]]
-    for(j in 1:length(allNames)){
-      tmp <- rbind(tmp,c(nextChar,allNames[j]))
+  if(method == "chars"){
+    #character list
+    tmp <- readLines(paste0('../resources/Character Lists/',allCharFiles[nextRun]))
+    
+    #for short character lists
+    #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
+    
+    charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
+    chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
+    tmp <- c()
+    for(i in 1:length(chars)){
+      nextChar <- charIds[i]
+      allNames <- chars[[i]]
+      for(j in 1:length(allNames)){
+        tmp <- rbind(tmp,c(nextChar,allNames[j]))
+      }
     }
-  }
-  chars <- data.frame(tmp,stringsAsFactors = F)
-  colnames(chars)<-c('id','name')
-  chars$len <- nchar(chars$name)
-  chars$len<-as.numeric(chars$len)
-  chars <- chars[ order(-chars[,3]), ]
-  
-  matches <- list()
-  for(j in 1:length(words300A)){
-    slicematch <- list()
-    for(k in 1:nrow(chars)){
-      needle <- chars[k,2]
-      matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
-      nWords <- sapply(gregexpr("\\W+", needle), length) +1
-      words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
-      if(matched != -1){
-        for(l in 1:length(matched)){
-          if(is.null(slicematch[[as.character(matched[l])]])){
-            slicematch[[as.character(matched[l])]] <- needle
-          } else{
-            if(length(slicematch[[as.character(matched[l])]]) < length(needle)){
+    chars <- data.frame(tmp,stringsAsFactors = F)
+    colnames(chars)<-c('id','name')
+    chars$len <- nchar(chars$name)
+    chars$len<-as.numeric(chars$len)
+    chars <- chars[ order(-chars[,3]), ]
+    
+    matches <- list()
+    for(j in 1:length(words300A)){
+      slicematch <- list()
+      for(k in 1:nrow(chars)){
+        needle <- chars[k,2]
+        matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
+        nWords <- sapply(gregexpr("\\W+", needle), length) +1
+        words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+        if(matched != -1){
+          for(l in 1:length(matched)){
+            if(is.null(slicematch[[as.character(matched[l])]])){
               slicematch[[as.character(matched[l])]] <- needle
+            } else{
+              if(length(slicematch[[as.character(matched[l])]]) < length(needle)){
+                slicematch[[as.character(matched[l])]] <- needle
+              }
             }
           }
         }
       }
+      matches[[j]]<-slicematch
     }
-    matches[[j]]<-slicematch
-  }
-  
-  charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
-  
-  for(i in 1:length(matches)){
-    if(length(matches[i][[1]])>0){
-      nextMatch <- unique(unlist(matches[i]))
-      nextMatchStr <- c()
-      for(j in 1:length(nextMatch)){
-        if(length(nextMatchStr) == 0) {nextMatchStr <- c(chars[which(chars[,2]==nextMatch[j]),1])}
-        else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
+    
+    charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
+    
+    for(i in 1:length(matches)){
+      if(length(matches[i][[1]])>0){
+        nextMatch <- unique(unlist(matches[i]))
+        nextMatchStr <- c()
+        for(j in 1:length(nextMatch)){
+          if(length(nextMatchStr) == 0) {nextMatchStr <- c(chars[which(chars[,2]==nextMatch[j]),1])}
+          else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
+        }
+        charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
       }
-      charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+    }
+  } else if(method == "nouns"){
+    ## Need sentence and word token annotations.
+    sent_token_annotator <- Maxent_Sent_Token_Annotator()
+    word_token_annotator <- Maxent_Word_Token_Annotator()
+    pos_tag_annotator <- Maxent_POS_Tag_Annotator()
+    
+    charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
+    for(i in 1:length(words300A)){
+      slicematch <- list()
+      s<-as.String(paste(unlist(words300A[i]),collapse=' '))
+      
+      a2 <- annotate(s, list(sent_token_annotator, word_token_annotator))
+      a3 <- annotate(s, pos_tag_annotator, a2)
+      a3w <- subset(a3, type == "word")
+      tags <- sapply(a3w$features, `[[`, "POS")
+      nNouns<-length(which(tags=='NN' | tags=='NNS'))
+      nTags <- length(tags)
+      nounsOnly <-s[a3w][which(tags=='NN' | tags=='NNS')]
+      matrix <- create_matrix(nounsOnly, stemWords=TRUE, removeStopwords=FALSE, minWordLength=3)
+      charDS <- rbind(charDS,data.frame(i,paste(colnames(matrix),collapse=', ')),stringsAsFactors=F)
     }
   }
   
@@ -206,14 +230,14 @@ for(nextRun in 1:length(allTextFiles)){
     sLinks <- ""
     if(length(sources)>0){
       for(aLink in 1:length(sources)){
-        sLinks <- paste0(sLinks," - <a href='#slice-",sources[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",sources[aLink],"</a>")
+        sLinks <- paste0(sLinks," - <a href='",theSource,"_textchunks.html#slice-",sources[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",sources[aLink],"</a>")
       }
     }
     
     tLinks <- ""
     if(length(targets)>0){
       for(aLink in 1:length(targets)){
-        tLinks <- paste0(tLinks," - <a href='#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
+        tLinks <- paste0(tLinks," - <a href='",theSource,"_textchunks.html#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
       }
     }
     htmlContent <- paste(htmlContent,"<p style='font-size: 0.8em; color:#ccc;'>is linked to from: ",sLinks,"</p><p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p><p style='font-size: 0.8em; color:#ccc;text-decoration: none;'>is linked to to: ",tLinks,"</p><hr>",sep='')

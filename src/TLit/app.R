@@ -34,7 +34,7 @@ allText <- read.csv2(file = "www/output/allTexts.csv")
 ui <- shinyUI(absolutePanel(
   width=1600,
   height=1000,
-  navbarPage("Novella Twist", ## come up with cool name for project lol ## 
+  navbarPage("SATIS Tool Prototype",
              tabPanel("Home",
                       titlePanel(
                         h1(strong("Towards a Computational",br("Literary Science")))),
