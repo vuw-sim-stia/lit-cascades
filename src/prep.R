@@ -77,7 +77,7 @@ allOutput <- c()
 
 sliceSize <- 1000
 
-method <- "nouns" # one of "chars" "ngram" "nouns"
+method <- "ngram" # one of "chars" "ngram" "nouns"
 
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
@@ -189,8 +189,8 @@ for(nextRun in 1:length(allTextFiles)){
       matrix <- create_matrix(nounsOnly, stemWords=TRUE, removeStopwords=TRUE, minWordLength=3)
       charDS <- rbind(charDS,data.frame(i,paste(unique(colnames(matrix)),collapse=', ')),stringsAsFactors=F)
     }
-  } else if(method == "ngrams"){
-    nGramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 2, max = 2))
+  } else if(method == "ngram"){
+    nGramTokenizer <- function(x) NGramTokenizer(x, Weka_control(min = 3, max = 3))
     
     charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
     for(i in 1:length(words300A)){
@@ -260,7 +260,7 @@ for(nextRun in 1:length(allTextFiles)){
         tLinks <- paste0(tLinks," - <a href='",theSource,"_textchunks.html#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
       }
     }
-    htmlContent <- paste(htmlContent,"<p style='font-size: 0.8em; color:#ccc;'>is linked to from: ",sLinks,"</p><p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p><p style='font-size: 0.8em; color:#ccc;text-decoration: none;'>is linked to to: ",tLinks,"</p><hr>",sep='')
+    htmlContent <- paste(htmlContent,"<p style='font-size: 0.8em; color:#ccc;'>Slice ",h," is linked from: ",sLinks,"</p><p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p><p style='font-size: 0.8em; color:#ccc;text-decoration: none;'>links to: ",tLinks,"</p><hr>",sep='')
   }
   write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',theSource,'_textchunks.html',sep=''))
   
@@ -308,7 +308,7 @@ for(nextRun in 1:length(allTextFiles)){
                  displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
                  vertex.col="orange",edge.col="darkgray",
                  vertex.cex = .5, vertex.border="black",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched characters:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched information:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = .3,
                  object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
@@ -329,7 +329,7 @@ for(nextRun in 1:length(allTextFiles)){
   g <- graph.data.frame(uniqueLinks,directed=TRUE)
   
   nLabels <- c()
-  for(z in 1:nrow(nodes)){
+  for(z in V(g)$name){
     nLabels <- c(nLabels,paste(unique(unlist(strsplit(paste(uniqueLinks[which(uniqueLinks$id1==z | uniqueLinks$id2==z),3],collapse = ', '),', '))),collapse = ', '))
   }
   
@@ -410,7 +410,7 @@ for(nextRun in 1:length(allTextFiles)){
                  displaylabels = T, label=hnetwork %v% "vertex.names",
                  vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                  vertex.cex = .5, vertex.border="black",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched characters:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched information:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
                  edge.lwd = .3,
                  object.scale = 0.1,
                  edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
@@ -578,7 +578,7 @@ for(nextRun in 1:length(allTextFiles)){
                  displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
                  vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                  vertex.cex = .5, vertex.border="black",
-                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched characters:</b>", (linkedChar2$links)),
+                 vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched information:</b>", (linkedChar2$links)),
                  edge.lwd = .3,
                  object.scale = 0.1,
                  edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
