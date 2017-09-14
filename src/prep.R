@@ -77,7 +77,7 @@ allOutput <- c()
 
 sliceSize <- 1000
 
-method <- "ngram" # one of "chars" "ngram" "nouns"
+method <- "chars" # one of "chars" "ngram" "nouns"
 
 for(nextRun in 1:length(allTextFiles)){
   theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
@@ -250,14 +250,14 @@ for(nextRun in 1:length(allTextFiles)){
     sLinks <- ""
     if(length(sources)>0){
       for(aLink in 1:length(sources)){
-        sLinks <- paste0(sLinks," - <a href='",theSource,"_textchunks.html#slice-",sources[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",sources[aLink],"</a>")
+        sLinks <- paste0(sLinks," - <a href='../",theSource,"_textchunks.html#slice-",sources[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",sources[aLink],"</a>")
       }
     }
     
     tLinks <- ""
     if(length(targets)>0){
       for(aLink in 1:length(targets)){
-        tLinks <- paste0(tLinks," - <a href='",theSource,"_textchunks.html#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
+        tLinks <- paste0(tLinks," - <a href='../",theSource,"_textchunks.html#slice-",targets[aLink],"' style='text-decoration: none; color: #ccc;'>Slice ",targets[aLink],"</a>")
       }
     }
     htmlContent <- paste(htmlContent,"<p style='font-size: 0.8em; color:#ccc;'>Slice ",h," is linked from: ",sLinks,"</p><p id='slice-",h,"'><a name='slice-",h,"'>",paste(unlist(words300B[h]),collapse=' '),"</a></p><p style='font-size: 0.8em; color:#ccc;text-decoration: none;'>links to: ",tLinks,"</p><hr>",sep='')
