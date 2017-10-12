@@ -1,1782 +1,1870 @@
 "","Character","Node","Appearances"
-"1","Adams",118,4
-"2","Adams",100,4
-"3","Adams",104,4
-"4","Adams",107,4
-"5","Agnes Wickfield",227,87
-"6","Agnes Wickfield",333,87
-"7","Agnes Wickfield",383,87
-"8","Agnes Wickfield",167,87
-"9","Agnes Wickfield",372,87
-"10","Agnes Wickfield",103,87
-"11","Agnes Wickfield",117,87
-"12","Agnes Wickfield",216,87
-"13","Agnes Wickfield",164,87
-"14","Agnes Wickfield",269,87
-"15","Agnes Wickfield",272,87
-"16","Agnes Wickfield",156,87
-"17","Agnes Wickfield",175,87
-"18","Agnes Wickfield",361,87
-"19","Agnes Wickfield",327,87
-"20","Agnes Wickfield",191,87
-"21","Agnes Wickfield",122,87
-"22","Agnes Wickfield",124,87
-"23","Agnes Wickfield",337,87
-"24","Agnes Wickfield",266,87
-"25","Agnes Wickfield",357,87
-"26","Agnes Wickfield",373,87
-"27","Agnes Wickfield",370,87
-"28","Agnes Wickfield",334,87
-"29","Agnes Wickfield",277,87
-"30","Agnes Wickfield",365,87
-"31","Agnes Wickfield",162,87
-"32","Agnes Wickfield",157,87
-"33","Agnes Wickfield",384,87
-"34","Agnes Wickfield",99,87
-"35","Agnes Wickfield",344,87
-"36","Agnes Wickfield",108,87
-"37","Agnes Wickfield",253,87
-"38","Agnes Wickfield",254,87
-"39","Agnes Wickfield",123,87
-"40","Agnes Wickfield",342,87
-"41","Agnes Wickfield",231,87
-"42","Agnes Wickfield",264,87
-"43","Agnes Wickfield",278,87
-"44","Agnes Wickfield",102,87
-"45","Agnes Wickfield",371,87
-"46","Agnes Wickfield",101,87
-"47","Agnes Wickfield",251,87
-"48","Agnes Wickfield",163,87
-"49","Agnes Wickfield",119,87
-"50","Agnes Wickfield",270,87
-"51","Agnes Wickfield",276,87
-"52","Agnes Wickfield",160,87
-"53","Agnes Wickfield",354,87
-"54","Agnes Wickfield",250,87
-"55","Agnes Wickfield",329,87
-"56","Agnes Wickfield",339,87
-"57","Agnes Wickfield",161,87
-"58","Agnes Wickfield",386,87
-"59","Agnes Wickfield",307,87
-"60","Agnes Wickfield",166,87
-"61","Agnes Wickfield",224,87
-"62","Agnes Wickfield",112,87
-"63","Agnes Wickfield",268,87
-"64","Agnes Wickfield",387,87
-"65","Agnes Wickfield",125,87
-"66","Agnes Wickfield",283,87
-"67","Agnes Wickfield",249,87
-"68","Agnes Wickfield",228,87
-"69","Agnes Wickfield",105,87
-"70","Agnes Wickfield",267,87
-"71","Agnes Wickfield",247,87
-"72","Agnes Wickfield",168,87
-"73","Agnes Wickfield",225,87
-"74","Agnes Wickfield",226,87
-"75","Agnes Wickfield",186,87
-"76","Agnes Wickfield",252,87
-"77","Agnes Wickfield",104,87
-"78","Agnes Wickfield",111,87
-"79","Agnes Wickfield",341,87
-"80","Agnes Wickfield",330,87
-"81","Agnes Wickfield",385,87
-"82","Agnes Wickfield",379,87
-"83","Agnes Wickfield",338,87
-"84","Agnes Wickfield",262,87
-"85","Agnes Wickfield",381,87
-"86","Agnes Wickfield",380,87
-"87","Agnes Wickfield",170,87
-"88","Agnes Wickfield",118,87
-"89","Agnes Wickfield",360,87
-"90","Agnes Wickfield",165,87
-"91","Agnes Wickfield",382,87
-"92","Annie Strong",269,23
-"93","Annie Strong",230,23
-"94","Annie Strong",124,23
-"95","Annie Strong",247,23
-"96","Annie Strong",106,23
-"97","Annie Strong",266,23
-"98","Annie Strong",107,23
-"99","Annie Strong",288,23
-"100","Annie Strong",286,23
-"101","Annie Strong",108,23
-"102","Annie Strong",270,23
-"103","Annie Strong",102,23
-"104","Annie Strong",290,23
-"105","Annie Strong",231,23
-"106","Annie Strong",105,23
-"107","Annie Strong",273,23
-"108","Annie Strong",289,23
-"109","Annie Strong",100,23
-"110","Annie Strong",123,23
-"111","Annie Strong",382,23
-"112","Annie Strong",291,23
-"113","Annie Strong",272,23
-"114","Annie Strong",229,23
-"115","Barkis",136,30
-"116","Barkis",48,30
-"117","Barkis",109,30
-"118","Barkis",151,30
-"119","Barkis",66,30
-"120","Barkis",193,30
-"121","Barkis",61,30
-"122","Barkis",195,30
-"123","Barkis",135,30
-"124","Barkis",196,30
-"125","Barkis",194,30
-"126","Barkis",64,30
-"127","Barkis",141,30
-"128","Barkis",236,30
-"129","Barkis",221,30
-"130","Barkis",197,30
-"131","Barkis",187,30
-"132","Barkis",324,30
-"133","Barkis",28,30
-"134","Barkis",203,30
-"135","Barkis",133,30
-"136","Barkis",62,30
-"137","Barkis",56,30
-"138","Barkis",219,30
-"139","Barkis",65,30
-"140","Barkis",218,30
-"141","Barkis",29,30
-"142","Barkis",49,30
-"143","Barkis",50,30
-"144","Barkis",54,30
-"145","Captain Bailey",119,1
-"146","Captain Hopkins",74,2
-"147","Captain Hopkins",75,2
-"148","Caroline Crewler",364,3
-"149","Caroline Crewler",365,3
-"150","Caroline Crewler",387,3
-"151","Charley Pyegrave",146,2
-"152","Charley Pyegrave",82,2
-"153","Clara Copperfield",20,37
-"154","Clara Copperfield",49,37
-"155","Clara Copperfield",8,37
-"156","Clara Copperfield",6,37
-"157","Clara Copperfield",93,37
-"158","Clara Copperfield",2,37
-"159","Clara Copperfield",9,37
-"160","Clara Copperfield",7,37
-"161","Clara Copperfield",23,37
-"162","Clara Copperfield",11,37
-"163","Clara Copperfield",190,37
-"164","Clara Copperfield",5,37
-"165","Clara Copperfield",92,37
-"166","Clara Copperfield",54,37
-"167","Clara Copperfield",21,37
-"168","Clara Copperfield",51,37
-"169","Clara Copperfield",14,37
-"170","Clara Copperfield",55,37
-"171","Clara Copperfield",25,37
-"172","Clara Copperfield",4,37
-"173","Clara Copperfield",53,37
-"174","Clara Copperfield",18,37
-"175","Clara Copperfield",27,37
-"176","Clara Copperfield",153,37
-"177","Clara Copperfield",34,37
-"178","Clara Copperfield",24,37
-"179","Clara Copperfield",52,37
-"180","Clara Copperfield",22,37
-"181","Clara Copperfield",19,37
-"182","Clara Copperfield",48,37
-"183","Clara Copperfield",15,37
-"184","Clara Copperfield",50,37
-"185","Clara Copperfield",58,37
-"186","Clara Copperfield",210,37
-"187","Clara Copperfield",10,37
-"188","Clara Copperfield",26,37
-"189","Clara Copperfield",3,37
-"190","Clara Peggotty",6,96
-"191","Clara Peggotty",45,96
-"192","Clara Peggotty",199,96
-"193","Clara Peggotty",12,96
-"194","Clara Peggotty",151,96
-"195","Clara Peggotty",386,96
-"196","Clara Peggotty",198,96
-"197","Clara Peggotty",218,96
-"198","Clara Peggotty",72,96
-"199","Clara Peggotty",4,96
-"200","Clara Peggotty",354,96
-"201","Clara Peggotty",35,96
-"202","Clara Peggotty",320,96
-"203","Clara Peggotty",46,96
-"204","Clara Peggotty",322,96
-"205","Clara Peggotty",9,96
-"206","Clara Peggotty",78,96
-"207","Clara Peggotty",142,96
-"208","Clara Peggotty",17,96
-"209","Clara Peggotty",368,96
-"210","Clara Peggotty",7,96
-"211","Clara Peggotty",55,96
-"212","Clara Peggotty",22,96
-"213","Clara Peggotty",63,96
-"214","Clara Peggotty",141,96
-"215","Clara Peggotty",343,96
-"216","Clara Peggotty",64,96
-"217","Clara Peggotty",62,96
-"218","Clara Peggotty",13,96
-"219","Clara Peggotty",209,96
-"220","Clara Peggotty",27,96
-"221","Clara Peggotty",121,96
-"222","Clara Peggotty",226,96
-"223","Clara Peggotty",19,96
-"224","Clara Peggotty",67,96
-"225","Clara Peggotty",65,96
-"226","Clara Peggotty",385,96
-"227","Clara Peggotty",109,96
-"228","Clara Peggotty",236,96
-"229","Clara Peggotty",28,96
-"230","Clara Peggotty",18,96
-"231","Clara Peggotty",194,96
-"232","Clara Peggotty",149,96
-"233","Clara Peggotty",347,96
-"234","Clara Peggotty",225,96
-"235","Clara Peggotty",206,96
-"236","Clara Peggotty",201,96
-"237","Clara Peggotty",216,96
-"238","Clara Peggotty",3,96
-"239","Clara Peggotty",197,96
-"240","Clara Peggotty",61,96
-"241","Clara Peggotty",15,96
-"242","Clara Peggotty",23,96
-"243","Clara Peggotty",345,96
-"244","Clara Peggotty",66,96
-"245","Clara Peggotty",26,96
-"246","Clara Peggotty",384,96
-"247","Clara Peggotty",147,96
-"248","Clara Peggotty",30,96
-"249","Clara Peggotty",256,96
-"250","Clara Peggotty",49,96
-"251","Clara Peggotty",31,96
-"252","Clara Peggotty",60,96
-"253","Clara Peggotty",135,96
-"254","Clara Peggotty",222,96
-"255","Clara Peggotty",48,96
-"256","Clara Peggotty",53,96
-"257","Clara Peggotty",275,96
-"258","Clara Peggotty",220,96
-"259","Clara Peggotty",208,96
-"260","Clara Peggotty",21,96
-"261","Clara Peggotty",87,96
-"262","Clara Peggotty",51,96
-"263","Clara Peggotty",14,96
-"264","Clara Peggotty",195,96
-"265","Clara Peggotty",382,96
-"266","Clara Peggotty",32,96
-"267","Clara Peggotty",11,96
-"268","Clara Peggotty",93,96
-"269","Clara Peggotty",8,96
-"270","Clara Peggotty",20,96
-"271","Clara Peggotty",136,96
-"272","Clara Peggotty",381,96
-"273","Clara Peggotty",148,96
-"274","Clara Peggotty",203,96
-"275","Clara Peggotty",324,96
-"276","Clara Peggotty",196,96
-"277","Clara Peggotty",58,96
-"278","Clara Peggotty",187,96
-"279","Clara Peggotty",277,96
-"280","Clara Peggotty",50,96
-"281","Clara Peggotty",210,96
-"282","Clara Peggotty",319,96
-"283","Clara Peggotty",227,96
-"284","Clara Peggotty",133,96
-"285","Clara Peggotty",59,96
-"286","Clarissa Spenlow",261,11
-"287","Clarissa Spenlow",260,11
-"288","Clarissa Spenlow",275,11
-"289","Clarissa Spenlow",305,11
-"290","Clarissa Spenlow",277,11
-"291","Clarissa Spenlow",262,11
-"292","Clarissa Spenlow",263,11
-"293","Clarissa Spenlow",245,11
-"294","Clarissa Spenlow",259,11
-"295","Clarissa Spenlow",266,11
-"296","Clarissa Spenlow",267,11
-"297","Daniel Peggotty",200,62
-"298","Daniel Peggotty",208,62
-"299","Daniel Peggotty",64,62
-"300","Daniel Peggotty",321,62
-"301","Daniel Peggotty",152,62
-"302","Daniel Peggotty",201,62
-"303","Daniel Peggotty",61,62
-"304","Daniel Peggotty",220,62
-"305","Daniel Peggotty",27,62
-"306","Daniel Peggotty",299,62
-"307","Daniel Peggotty",206,62
-"308","Daniel Peggotty",137,62
-"309","Daniel Peggotty",199,62
-"310","Daniel Peggotty",196,62
-"311","Daniel Peggotty",301,62
-"312","Daniel Peggotty",109,62
-"313","Daniel Peggotty",62,62
-"314","Daniel Peggotty",194,62
-"315","Daniel Peggotty",139,62
-"316","Daniel Peggotty",133,62
-"317","Daniel Peggotty",63,62
-"318","Daniel Peggotty",322,62
-"319","Daniel Peggotty",296,62
-"320","Daniel Peggotty",325,62
-"321","Daniel Peggotty",319,62
-"322","Daniel Peggotty",320,62
-"323","Daniel Peggotty",66,62
-"324","Daniel Peggotty",207,62
-"325","Daniel Peggotty",16,62
-"326","Daniel Peggotty",17,62
-"327","Daniel Peggotty",383,62
-"328","Daniel Peggotty",356,62
-"329","Daniel Peggotty",385,62
-"330","Daniel Peggotty",354,62
-"331","Daniel Peggotty",15,62
-"332","Daniel Peggotty",256,62
-"333","Daniel Peggotty",14,62
-"334","Daniel Peggotty",141,62
-"335","Daniel Peggotty",323,62
-"336","Daniel Peggotty",202,62
-"337","Daniel Peggotty",195,62
-"338","Daniel Peggotty",46,62
-"339","Daniel Peggotty",384,62
-"340","Daniel Peggotty",300,62
-"341","Daniel Peggotty",316,62
-"342","Daniel Peggotty",314,62
-"343","Daniel Peggotty",45,62
-"344","Daniel Peggotty",197,62
-"345","Daniel Peggotty",326,62
-"346","Daniel Peggotty",258,62
-"347","Daniel Peggotty",324,62
-"348","Daniel Peggotty",198,62
-"349","Daniel Peggotty",345,62
-"350","Daniel Peggotty",18,62
-"351","Daniel Peggotty",343,62
-"352","Daniel Peggotty",143,62
-"353","Daniel Peggotty",357,62
-"354","Daniel Peggotty",65,62
-"355","Daniel Peggotty",138,62
-"356","Daniel Peggotty",257,62
-"357","Daniel Peggotty",205,62
-"358","Daniel Peggotty",302,62
-"359","David Copperfield",186,234
-"360","David Copperfield",178,234
-"361","David Copperfield",94,234
-"362","David Copperfield",62,234
-"363","David Copperfield",335,234
-"364","David Copperfield",142,234
-"365","David Copperfield",243,234
-"366","David Copperfield",259,234
-"367","David Copperfield",251,234
-"368","David Copperfield",158,234
-"369","David Copperfield",224,234
-"370","David Copperfield",151,234
-"371","David Copperfield",374,234
-"372","David Copperfield",378,234
-"373","David Copperfield",249,234
-"374","David Copperfield",46,234
-"375","David Copperfield",234,234
-"376","David Copperfield",37,234
-"377","David Copperfield",242,234
-"378","David Copperfield",166,234
-"379","David Copperfield",67,234
-"380","David Copperfield",31,234
-"381","David Copperfield",7,234
-"382","David Copperfield",274,234
-"383","David Copperfield",205,234
-"384","David Copperfield",164,234
-"385","David Copperfield",114,234
-"386","David Copperfield",159,234
-"387","David Copperfield",10,234
-"388","David Copperfield",334,234
-"389","David Copperfield",115,234
-"390","David Copperfield",268,234
-"391","David Copperfield",42,234
-"392","David Copperfield",63,234
-"393","David Copperfield",25,234
-"394","David Copperfield",119,234
-"395","David Copperfield",355,234
-"396","David Copperfield",184,234
-"397","David Copperfield",53,234
-"398","David Copperfield",172,234
-"399","David Copperfield",104,234
-"400","David Copperfield",24,234
-"401","David Copperfield",244,234
-"402","David Copperfield",127,234
-"403","David Copperfield",69,234
-"404","David Copperfield",365,234
-"405","David Copperfield",199,234
-"406","David Copperfield",19,234
-"407","David Copperfield",213,234
-"408","David Copperfield",99,234
-"409","David Copperfield",255,234
-"410","David Copperfield",195,234
-"411","David Copperfield",214,234
-"412","David Copperfield",33,234
-"413","David Copperfield",156,234
-"414","David Copperfield",66,234
-"415","David Copperfield",241,234
-"416","David Copperfield",137,234
-"417","David Copperfield",102,234
-"418","David Copperfield",201,234
-"419","David Copperfield",318,234
-"420","David Copperfield",321,234
-"421","David Copperfield",17,234
-"422","David Copperfield",41,234
-"423","David Copperfield",297,234
-"424","David Copperfield",377,234
-"425","David Copperfield",9,234
-"426","David Copperfield",267,234
-"427","David Copperfield",327,234
-"428","David Copperfield",260,234
-"429","David Copperfield",149,234
-"430","David Copperfield",34,234
-"431","David Copperfield",375,234
-"432","David Copperfield",232,234
-"433","David Copperfield",27,234
-"434","David Copperfield",103,234
-"435","David Copperfield",266,234
-"436","David Copperfield",11,234
-"437","David Copperfield",146,234
-"438","David Copperfield",20,234
-"439","David Copperfield",168,234
-"440","David Copperfield",356,234
-"441","David Copperfield",154,234
-"442","David Copperfield",343,234
-"443","David Copperfield",136,234
-"444","David Copperfield",367,234
-"445","David Copperfield",110,234
-"446","David Copperfield",263,234
-"447","David Copperfield",122,234
-"448","David Copperfield",155,234
-"449","David Copperfield",106,234
-"450","David Copperfield",383,234
-"451","David Copperfield",272,234
-"452","David Copperfield",341,234
-"453","David Copperfield",310,234
-"454","David Copperfield",68,234
-"455","David Copperfield",273,234
-"456","David Copperfield",183,234
-"457","David Copperfield",181,234
-"458","David Copperfield",238,234
-"459","David Copperfield",191,234
-"460","David Copperfield",216,234
-"461","David Copperfield",101,234
-"462","David Copperfield",261,234
-"463","David Copperfield",79,234
-"464","David Copperfield",143,234
-"465","David Copperfield",233,234
-"466","David Copperfield",288,234
-"467","David Copperfield",177,234
-"468","David Copperfield",18,234
-"469","David Copperfield",298,234
-"470","David Copperfield",223,234
-"471","David Copperfield",354,234
-"472","David Copperfield",218,234
-"473","David Copperfield",226,234
-"474","David Copperfield",330,234
-"475","David Copperfield",60,234
-"476","David Copperfield",303,234
-"477","David Copperfield",50,234
-"478","David Copperfield",227,234
-"479","David Copperfield",269,234
-"480","David Copperfield",131,234
-"481","David Copperfield",139,234
-"482","David Copperfield",180,234
-"483","David Copperfield",176,234
-"484","David Copperfield",332,234
-"485","David Copperfield",52,234
-"486","David Copperfield",204,234
-"487","David Copperfield",256,234
-"488","David Copperfield",328,234
-"489","David Copperfield",248,234
-"490","David Copperfield",113,234
-"491","David Copperfield",230,234
-"492","David Copperfield",326,234
-"493","David Copperfield",282,234
-"494","David Copperfield",257,234
-"495","David Copperfield",295,234
-"496","David Copperfield",250,234
-"497","David Copperfield",258,234
-"498","David Copperfield",320,234
-"499","David Copperfield",78,234
-"500","David Copperfield",311,234
-"501","David Copperfield",301,234
-"502","David Copperfield",245,234
-"503","David Copperfield",73,234
-"504","David Copperfield",55,234
-"505","David Copperfield",312,234
-"506","David Copperfield",43,234
-"507","David Copperfield",185,234
-"508","David Copperfield",26,234
-"509","David Copperfield",252,234
-"510","David Copperfield",126,234
-"511","David Copperfield",212,234
-"512","David Copperfield",229,234
-"513","David Copperfield",76,234
-"514","David Copperfield",349,234
-"515","David Copperfield",280,234
-"516","David Copperfield",340,234
-"517","David Copperfield",380,234
-"518","David Copperfield",96,234
-"519","David Copperfield",153,234
-"520","David Copperfield",236,234
-"521","David Copperfield",28,234
-"522","David Copperfield",338,234
-"523","David Copperfield",187,234
-"524","David Copperfield",13,234
-"525","David Copperfield",147,234
-"526","David Copperfield",384,234
-"527","David Copperfield",342,234
-"528","David Copperfield",157,234
-"529","David Copperfield",253,234
-"530","David Copperfield",281,234
-"531","David Copperfield",163,234
-"532","David Copperfield",364,234
-"533","David Copperfield",319,234
-"534","David Copperfield",309,234
-"535","David Copperfield",225,234
-"536","David Copperfield",385,234
-"537","David Copperfield",370,234
-"538","David Copperfield",324,234
-"539","David Copperfield",262,234
-"540","David Copperfield",325,234
-"541","David Copperfield",128,234
-"542","David Copperfield",112,234
-"543","David Copperfield",210,234
-"544","David Copperfield",235,234
-"545","David Copperfield",287,234
-"546","David Copperfield",217,234
-"547","David Copperfield",329,234
-"548","David Copperfield",345,234
-"549","David Copperfield",381,234
-"550","David Copperfield",200,234
-"551","David Copperfield",111,234
-"552","David Copperfield",386,234
-"553","David Copperfield",121,234
-"554","David Copperfield",363,234
-"555","David Copperfield",49,234
-"556","David Copperfield",130,234
-"557","David Copperfield",294,234
-"558","David Copperfield",254,234
-"559","David Copperfield",38,234
-"560","David Copperfield",98,234
-"561","David Copperfield",77,234
-"562","David Copperfield",93,234
-"563","David Copperfield",337,234
-"564","David Copperfield",182,234
-"565","David Copperfield",270,234
-"566","David Copperfield",145,234
-"567","David Copperfield",296,234
-"568","David Copperfield",308,234
-"569","David Copperfield",148,234
-"570","David Copperfield",322,234
-"571","David Copperfield",333,234
-"572","David Copperfield",314,234
-"573","David Copperfield",51,234
-"574","David Copperfield",371,234
-"575","David Copperfield",152,234
-"576","David Copperfield",387,234
-"577","David Copperfield",85,234
-"578","David Copperfield",167,234
-"579","David Copperfield",161,234
-"580","David Copperfield",372,234
-"581","David Copperfield",188,234
-"582","David Copperfield",306,234
-"583","David Copperfield",220,234
-"584","David Copperfield",221,234
-"585","David Copperfield",160,234
-"586","David Copperfield",179,234
-"587","David Copperfield",45,234
-"588","David Copperfield",344,234
-"589","David Copperfield",276,234
-"590","David Copperfield",202,234
-"591","David Copperfield",162,234
-"592","David Copperfield",379,234
-"593","Doctor Strong",286,15
-"594","Doctor Strong",289,15
-"595","Doctor Strong",100,15
-"596","Doctor Strong",230,15
-"597","Doctor Strong",118,15
-"598","Doctor Strong",110,15
-"599","Doctor Strong",102,15
-"600","Doctor Strong",106,15
-"601","Doctor Strong",101,15
-"602","Doctor Strong",119,15
-"603","Doctor Strong",269,15
-"604","Doctor Strong",288,15
-"605","Doctor Strong",117,15
-"606","Doctor Strong",382,15
-"607","Doctor Strong",104,15
-"608","George Demple",47,3
-"609","George Demple",30,3
-"610","George Demple",34,3
-"611","Grainger",158,2
-"612","Grainger",159,2
-"613","Gregory",72,1
-"614","Ham Peggotty",16,42
-"615","Ham Peggotty",149,42
-"616","Ham Peggotty",137,42
-"617","Ham Peggotty",258,42
-"618","Ham Peggotty",46,42
-"619","Ham Peggotty",64,42
-"620","Ham Peggotty",63,42
-"621","Ham Peggotty",142,42
-"622","Ham Peggotty",17,42
-"623","Ham Peggotty",349,42
-"624","Ham Peggotty",347,42
-"625","Ham Peggotty",13,42
-"626","Ham Peggotty",18,42
-"627","Ham Peggotty",200,42
-"628","Ham Peggotty",255,42
-"629","Ham Peggotty",139,42
-"630","Ham Peggotty",109,42
-"631","Ham Peggotty",45,42
-"632","Ham Peggotty",195,42
-"633","Ham Peggotty",138,42
-"634","Ham Peggotty",147,42
-"635","Ham Peggotty",11,42
-"636","Ham Peggotty",199,42
-"637","Ham Peggotty",148,42
-"638","Ham Peggotty",15,42
-"639","Ham Peggotty",345,42
-"640","Ham Peggotty",324,42
-"641","Ham Peggotty",27,42
-"642","Ham Peggotty",236,42
-"643","Ham Peggotty",202,42
-"644","Ham Peggotty",66,42
-"645","Ham Peggotty",205,42
-"646","Ham Peggotty",4,42
-"647","Ham Peggotty",201,42
-"648","Ham Peggotty",322,42
-"649","Ham Peggotty",143,42
-"650","Ham Peggotty",65,42
-"651","Ham Peggotty",297,42
-"652","Ham Peggotty",257,42
-"653","Ham Peggotty",197,42
-"654","Ham Peggotty",203,42
-"655","Ham Peggotty",14,42
-"656","Jack Maldon",124,16
-"657","Jack Maldon",386,16
-"658","Jack Maldon",101,16
-"659","Jack Maldon",102,16
-"660","Jack Maldon",269,16
-"661","Jack Maldon",100,16
-"662","Jack Maldon",106,16
-"663","Jack Maldon",108,16
-"664","Jack Maldon",123,16
-"665","Jack Maldon",229,16
-"666","Jack Maldon",231,16
-"667","Jack Maldon",286,16
-"668","Jack Maldon",105,16
-"669","Jack Maldon",230,16
-"670","Jack Maldon",107,16
-"671","Jack Maldon",267,16
-"672","James Steerforth",129,70
-"673","James Steerforth",157,70
-"674","James Steerforth",190,70
-"675","James Steerforth",37,70
-"676","James Steerforth",293,70
-"677","James Steerforth",47,70
-"678","James Steerforth",50,70
-"679","James Steerforth",141,70
-"680","James Steerforth",156,70
-"681","James Steerforth",158,70
-"682","James Steerforth",42,70
-"683","James Steerforth",188,70
-"684","James Steerforth",142,70
-"685","James Steerforth",206,70
-"686","James Steerforth",131,70
-"687","James Steerforth",201,70
-"688","James Steerforth",145,70
-"689","James Steerforth",189,70
-"690","James Steerforth",186,70
-"691","James Steerforth",41,70
-"692","James Steerforth",146,70
-"693","James Steerforth",153,70
-"694","James Steerforth",45,70
-"695","James Steerforth",38,70
-"696","James Steerforth",46,70
-"697","James Steerforth",69,70
-"698","James Steerforth",44,70
-"699","James Steerforth",155,70
-"700","James Steerforth",191,70
-"701","James Steerforth",140,70
-"702","James Steerforth",128,70
-"703","James Steerforth",170,70
-"704","James Steerforth",207,70
-"705","James Steerforth",148,70
-"706","James Steerforth",133,70
-"707","James Steerforth",182,70
-"708","James Steerforth",200,70
-"709","James Steerforth",143,70
-"710","James Steerforth",187,70
-"711","James Steerforth",325,70
-"712","James Steerforth",54,70
-"713","James Steerforth",152,70
-"714","James Steerforth",127,70
-"715","James Steerforth",52,70
-"716","James Steerforth",40,70
-"717","James Steerforth",151,70
-"718","James Steerforth",165,70
-"719","James Steerforth",216,70
-"720","James Steerforth",55,70
-"721","James Steerforth",315,70
-"722","James Steerforth",117,70
-"723","James Steerforth",297,70
-"724","James Steerforth",183,70
-"725","James Steerforth",317,70
-"726","James Steerforth",162,70
-"727","James Steerforth",136,70
-"728","James Steerforth",130,70
-"729","James Steerforth",204,70
-"730","James Steerforth",147,70
-"731","James Steerforth",294,70
-"732","James Steerforth",35,70
-"733","James Steerforth",159,70
-"734","James Steerforth",137,70
-"735","James Steerforth",144,70
-"736","James Steerforth",139,70
-"737","James Steerforth",43,70
-"738","James Steerforth",295,70
-"739","James Steerforth",132,70
-"740","James Steerforth",160,70
-"741","James Steerforth",81,70
-"742","Jane Murdstone",24,38
-"743","Jane Murdstone",92,38
-"744","Jane Murdstone",175,38
-"745","Jane Murdstone",48,38
-"746","Jane Murdstone",242,38
-"747","Jane Murdstone",21,38
-"748","Jane Murdstone",49,38
-"749","Jane Murdstone",60,38
-"750","Jane Murdstone",25,38
-"751","Jane Murdstone",241,38
-"752","Jane Murdstone",54,38
-"753","Jane Murdstone",58,38
-"754","Jane Murdstone",52,38
-"755","Jane Murdstone",94,38
-"756","Jane Murdstone",27,38
-"757","Jane Murdstone",50,38
-"758","Jane Murdstone",173,38
-"759","Jane Murdstone",368,38
-"760","Jane Murdstone",91,38
-"761","Jane Murdstone",45,38
-"762","Jane Murdstone",243,38
-"763","Jane Murdstone",152,38
-"764","Jane Murdstone",109,38
-"765","Jane Murdstone",174,38
-"766","Jane Murdstone",23,38
-"767","Jane Murdstone",57,38
-"768","Jane Murdstone",66,38
-"769","Jane Murdstone",212,38
-"770","Jane Murdstone",35,38
-"771","Jane Murdstone",22,38
-"772","Jane Murdstone",172,38
-"773","Jane Murdstone",210,38
-"774","Jane Murdstone",68,38
-"775","Jane Murdstone",26,38
-"776","Jane Murdstone",53,38
-"777","Jane Murdstone",93,38
-"778","Jane Murdstone",77,38
-"779","Jane Murdstone",61,38
-"780","Janet",152,12
-"781","Janet",91,12
-"782","Janet",156,12
-"783","Janet",88,12
-"784","Janet",370,12
-"785","Janet",86,12
-"786","Janet",219,12
-"787","Janet",247,12
-"788","Janet",85,12
-"789","Janet",89,12
-"790","Janet",92,12
-"791","Janet",277,12
-"792","Julia Mills",268,17
-"793","Julia Mills",215,17
-"794","Julia Mills",247,17
-"795","Julia Mills",245,17
-"796","Julia Mills",246,17
-"797","Julia Mills",212,17
-"798","Julia Mills",386,17
-"799","Julia Mills",241,17
-"800","Julia Mills",237,17
-"801","Julia Mills",231,17
-"802","Julia Mills",213,17
-"803","Julia Mills",238,17
-"804","Julia Mills",305,17
-"805","Julia Mills",259,17
-"806","Julia Mills",214,17
-"807","Julia Mills",243,17
-"808","Julia Mills",244,17
-"809","Lavinia Spenlow",266,15
-"810","Lavinia Spenlow",276,15
-"811","Lavinia Spenlow",267,15
-"812","Lavinia Spenlow",263,15
-"813","Lavinia Spenlow",259,15
-"814","Lavinia Spenlow",268,15
-"815","Lavinia Spenlow",264,15
-"816","Lavinia Spenlow",261,15
-"817","Lavinia Spenlow",275,15
-"818","Lavinia Spenlow",245,15
-"819","Lavinia Spenlow",305,15
-"820","Lavinia Spenlow",265,15
-"821","Lavinia Spenlow",260,15
-"822","Lavinia Spenlow",262,15
-"823","Lavinia Spenlow",277,15
-"824","Littimer",183,15
-"825","Littimer",204,15
-"826","Littimer",133,15
-"827","Littimer",206,15
-"828","Littimer",182,15
-"829","Littimer",143,15
-"830","Littimer",296,15
-"831","Littimer",295,15
-"832","Littimer",144,15
-"833","Littimer",377,15
-"834","Littimer",205,15
-"835","Littimer",189,15
-"836","Littimer",132,15
-"837","Littimer",294,15
-"838","Littimer",151,15
-"839","Little Emily",17,59
-"840","Little Emily",199,59
-"841","Little Emily",142,59
-"842","Little Emily",371,59
-"843","Little Emily",147,59
-"844","Little Emily",383,59
-"845","Little Emily",62,59
-"846","Little Emily",16,59
-"847","Little Emily",200,59
-"848","Little Emily",134,59
-"849","Little Emily",29,59
-"850","Little Emily",193,59
-"851","Little Emily",349,59
-"852","Little Emily",198,59
-"853","Little Emily",323,59
-"854","Little Emily",384,59
-"855","Little Emily",256,59
-"856","Little Emily",149,59
-"857","Little Emily",14,59
-"858","Little Emily",64,59
-"859","Little Emily",139,59
-"860","Little Emily",46,59
-"861","Little Emily",20,59
-"862","Little Emily",317,59
-"863","Little Emily",173,59
-"864","Little Emily",321,59
-"865","Little Emily",18,59
-"866","Little Emily",358,59
-"867","Little Emily",187,59
-"868","Little Emily",203,59
-"869","Little Emily",138,59
-"870","Little Emily",60,59
-"871","Little Emily",45,59
-"872","Little Emily",258,59
-"873","Little Emily",320,59
-"874","Little Emily",15,59
-"875","Little Emily",319,59
-"876","Little Emily",63,59
-"877","Little Emily",255,59
-"878","Little Emily",316,59
-"879","Little Emily",65,59
-"880","Little Emily",135,59
-"881","Little Emily",197,59
-"882","Little Emily",324,59
-"883","Little Emily",148,59
-"884","Little Emily",297,59
-"885","Little Emily",137,59
-"886","Little Emily",41,59
-"887","Little Emily",109,59
-"888","Little Emily",27,59
-"889","Little Emily",345,59
-"890","Little Emily",151,59
-"891","Little Emily",146,59
-"892","Little Emily",194,59
-"893","Little Emily",195,59
-"894","Little Emily",102,59
-"895","Little Emily",385,59
-"896","Little Emily",326,59
-"897","Little Emily",257,59
-"898","Markham",158,3
-"899","Markham",161,3
-"900","Markham",159,3
-"901","Martha Endell",149,15
-"902","Martha Endell",314,15
-"903","Martha Endell",301,15
-"904","Martha Endell",256,15
-"905","Martha Endell",357,15
-"906","Martha Endell",315,15
-"907","Martha Endell",323,15
-"908","Martha Endell",384,15
-"909","Martha Endell",300,15
-"910","Martha Endell",194,15
-"911","Martha Endell",151,15
-"912","Martha Endell",255,15
-"913","Martha Endell",316,15
-"914","Martha Endell",148,15
-"915","Martha Endell",297,15
-"916","Mary Anne Paragon",280,3
-"917","Mary Anne Paragon",279,3
-"918","Mary Anne Paragon",281,3
-"919","Mealy Potatoes",79,5
-"920","Mealy Potatoes",72,5
-"921","Mealy Potatoes",69,5
-"922","Mealy Potatoes",101,5
-"923","Mealy Potatoes",70,5
-"924","Mick Walker",79,4
-"925","Mick Walker",101,4
-"926","Mick Walker",69,4
-"927","Mick Walker",72,4
-"928","Minnie Joram",194,12
-"929","Minnie Joram",323,12
-"930","Minnie Joram",58,12
-"931","Minnie Joram",202,12
-"932","Minnie Joram",57,12
-"933","Minnie Joram",56,12
-"934","Minnie Joram",193,12
-"935","Minnie Joram",203,12
-"936","Minnie Joram",135,12
-"937","Minnie Joram",134,12
-"938","Minnie Joram",324,12
-"939","Minnie Joram",133,12
-"940","Miss Betsey Trotwood",1,135
-"941","Miss Betsey Trotwood",278,135
-"942","Miss Betsey Trotwood",2,135
-"943","Miss Betsey Trotwood",229,135
-"944","Miss Betsey Trotwood",340,135
-"945","Miss Betsey Trotwood",3,135
-"946","Miss Betsey Trotwood",155,135
-"947","Miss Betsey Trotwood",372,135
-"948","Miss Betsey Trotwood",281,135
-"949","Miss Betsey Trotwood",4,135
-"950","Miss Betsey Trotwood",319,135
-"951","Miss Betsey Trotwood",141,135
-"952","Miss Betsey Trotwood",5,135
-"953","Miss Betsey Trotwood",285,135
-"954","Miss Betsey Trotwood",320,135
-"955","Miss Betsey Trotwood",78,135
-"956","Miss Betsey Trotwood",354,135
-"957","Miss Betsey Trotwood",232,135
-"958","Miss Betsey Trotwood",321,135
-"959","Miss Betsey Trotwood",259,135
-"960","Miss Betsey Trotwood",110,135
-"961","Miss Betsey Trotwood",79,135
-"962","Miss Betsey Trotwood",243,135
-"963","Miss Betsey Trotwood",322,135
-"964","Miss Betsey Trotwood",329,135
-"965","Miss Betsey Trotwood",343,135
-"966","Miss Betsey Trotwood",288,135
-"967","Miss Betsey Trotwood",109,135
-"968","Miss Betsey Trotwood",81,135
-"969","Miss Betsey Trotwood",159,135
-"970","Miss Betsey Trotwood",94,135
-"971","Miss Betsey Trotwood",83,135
-"972","Miss Betsey Trotwood",84,135
-"973","Miss Betsey Trotwood",89,135
-"974","Miss Betsey Trotwood",245,135
-"975","Miss Betsey Trotwood",85,135
-"976","Miss Betsey Trotwood",290,135
-"977","Miss Betsey Trotwood",111,135
-"978","Miss Betsey Trotwood",86,135
-"979","Miss Betsey Trotwood",236,135
-"980","Miss Betsey Trotwood",345,135
-"981","Miss Betsey Trotwood",87,135
-"982","Miss Betsey Trotwood",262,135
-"983","Miss Betsey Trotwood",112,135
-"984","Miss Betsey Trotwood",88,135
-"985","Miss Betsey Trotwood",237,135
-"986","Miss Betsey Trotwood",311,135
-"987","Miss Betsey Trotwood",239,135
-"988","Miss Betsey Trotwood",90,135
-"989","Miss Betsey Trotwood",240,135
-"990","Miss Betsey Trotwood",272,135
-"991","Miss Betsey Trotwood",176,135
-"992","Miss Betsey Trotwood",91,135
-"993","Miss Betsey Trotwood",264,135
-"994","Miss Betsey Trotwood",156,135
-"995","Miss Betsey Trotwood",273,135
-"996","Miss Betsey Trotwood",313,135
-"997","Miss Betsey Trotwood",328,135
-"998","Miss Betsey Trotwood",92,135
-"999","Miss Betsey Trotwood",289,135
-"1000","Miss Betsey Trotwood",95,135
-"1001","Miss Betsey Trotwood",103,135
-"1002","Miss Betsey Trotwood",287,135
-"1003","Miss Betsey Trotwood",355,135
-"1004","Miss Betsey Trotwood",219,135
-"1005","Miss Betsey Trotwood",93,135
-"1006","Miss Betsey Trotwood",151,135
-"1007","Miss Betsey Trotwood",244,135
-"1008","Miss Betsey Trotwood",356,135
-"1009","Miss Betsey Trotwood",121,135
-"1010","Miss Betsey Trotwood",336,135
-"1011","Miss Betsey Trotwood",330,135
-"1012","Miss Betsey Trotwood",382,135
-"1013","Miss Betsey Trotwood",122,135
-"1014","Miss Betsey Trotwood",221,135
-"1015","Miss Betsey Trotwood",119,135
-"1016","Miss Betsey Trotwood",96,135
-"1017","Miss Betsey Trotwood",341,135
-"1018","Miss Betsey Trotwood",338,135
-"1019","Miss Betsey Trotwood",97,135
-"1020","Miss Betsey Trotwood",195,135
-"1021","Miss Betsey Trotwood",154,135
-"1022","Miss Betsey Trotwood",127,135
-"1023","Miss Betsey Trotwood",98,135
-"1024","Miss Betsey Trotwood",170,135
-"1025","Miss Betsey Trotwood",224,135
-"1026","Miss Betsey Trotwood",286,135
-"1027","Miss Betsey Trotwood",369,135
-"1028","Miss Betsey Trotwood",99,135
-"1029","Miss Betsey Trotwood",222,135
-"1030","Miss Betsey Trotwood",335,135
-"1031","Miss Betsey Trotwood",277,135
-"1032","Miss Betsey Trotwood",310,135
-"1033","Miss Betsey Trotwood",148,135
-"1034","Miss Betsey Trotwood",327,135
-"1035","Miss Betsey Trotwood",291,135
-"1036","Miss Betsey Trotwood",339,135
-"1037","Miss Betsey Trotwood",365,135
-"1038","Miss Betsey Trotwood",128,135
-"1039","Miss Betsey Trotwood",218,135
-"1040","Miss Betsey Trotwood",280,135
-"1041","Miss Betsey Trotwood",302,135
-"1042","Miss Betsey Trotwood",337,135
-"1043","Miss Betsey Trotwood",210,135
-"1044","Miss Betsey Trotwood",333,135
-"1045","Miss Betsey Trotwood",252,135
-"1046","Miss Betsey Trotwood",385,135
-"1047","Miss Betsey Trotwood",225,135
-"1048","Miss Betsey Trotwood",153,135
-"1049","Miss Betsey Trotwood",370,135
-"1050","Miss Betsey Trotwood",368,135
-"1051","Miss Betsey Trotwood",292,135
-"1052","Miss Betsey Trotwood",308,135
-"1053","Miss Betsey Trotwood",226,135
-"1054","Miss Betsey Trotwood",325,135
-"1055","Miss Betsey Trotwood",263,135
-"1056","Miss Betsey Trotwood",357,135
-"1057","Miss Betsey Trotwood",117,135
-"1058","Miss Betsey Trotwood",386,135
-"1059","Miss Betsey Trotwood",227,135
-"1060","Miss Betsey Trotwood",255,135
-"1061","Miss Betsey Trotwood",50,135
-"1062","Miss Betsey Trotwood",307,135
-"1063","Miss Betsey Trotwood",371,135
-"1064","Miss Betsey Trotwood",220,135
-"1065","Miss Betsey Trotwood",342,135
-"1066","Miss Betsey Trotwood",303,135
-"1067","Miss Betsey Trotwood",344,135
-"1068","Miss Betsey Trotwood",152,135
-"1069","Miss Betsey Trotwood",379,135
-"1070","Miss Betsey Trotwood",362,135
-"1071","Miss Betsey Trotwood",312,135
-"1072","Miss Betsey Trotwood",275,135
-"1073","Miss Betsey Trotwood",381,135
-"1074","Miss Betsey Trotwood",247,135
-"1075","Miss Creakle",38,5
-"1076","Miss Creakle",43,5
-"1077","Miss Creakle",34,5
-"1078","Miss Creakle",36,5
-"1079","Miss Creakle",41,5
-"1080","Miss Kitt",215,1
-"1081","Miss Larkins",118,5
-"1082","Miss Larkins",162,5
-"1083","Miss Larkins",122,5
-"1084","Miss Larkins",372,5
-"1085","Miss Larkins",119,5
-"1086","Miss Micawber",180,6
-"1087","Miss Micawber",354,6
-"1088","Miss Micawber",70,6
-"1089","Miss Micawber",335,6
-"1090","Miss Micawber",77,6
-"1091","Miss Micawber",233,6
-"1092","Miss Mowcher",146,8
-"1093","Miss Mowcher",145,8
-"1094","Miss Mowcher",204,8
-"1095","Miss Mowcher",203,8
-"1096","Miss Mowcher",205,8
-"1097","Miss Mowcher",147,8
-"1098","Miss Mowcher",144,8
-"1099","Miss Mowcher",378,8
-"1100","Miss Shepherd",117,2
-"1101","Miss Shepherd",372,2
-"1102","Misses Nettingall",117,1
-"1103","Mithers",145,1
-"1104","Mr Chestle",119,1
-"1105","Mr Chillip",368,10
-"1106","Mr Chillip",141,10
-"1107","Mr Chillip",4,10
-"1108","Mr Chillip",7,10
-"1109","Mr Chillip",194,10
-"1110","Mr Chillip",5,10
-"1111","Mr Chillip",367,10
-"1112","Mr Chillip",366,10
-"1113","Mr Chillip",58,10
-"1114","Mr Chillip",66,10
-"1115","Mr Creakle",376,20
-"1116","Mr Creakle",40,20
-"1117","Mr Creakle",34,20
-"1118","Mr Creakle",37,20
-"1119","Mr Creakle",42,20
-"1120","Mr Creakle",47,20
-"1121","Mr Creakle",36,20
-"1122","Mr Creakle",50,20
-"1123","Mr Creakle",377,20
-"1124","Mr Creakle",54,20
-"1125","Mr Creakle",375,20
-"1126","Mr Creakle",41,20
-"1127","Mr Creakle",43,20
-"1128","Mr Creakle",45,20
-"1129","Mr Creakle",126,20
-"1130","Mr Creakle",378,20
-"1131","Mr Creakle",35,20
-"1132","Mr Creakle",44,20
-"1133","Mr Creakle",38,20
-"1134","Mr Creakle",55,20
-"1135","Mr Dick",240,51
-"1136","Mr Dick",90,51
-"1137","Mr Dick",92,51
-"1138","Mr Dick",87,51
-"1139","Mr Dick",122,51
-"1140","Mr Dick",99,51
-"1141","Mr Dick",89,51
-"1142","Mr Dick",382,51
-"1143","Mr Dick",220,51
-"1144","Mr Dick",255,51
-"1145","Mr Dick",341,51
-"1146","Mr Dick",121,51
-"1147","Mr Dick",334,51
-"1148","Mr Dick",225,51
-"1149","Mr Dick",95,51
-"1150","Mr Dick",154,51
-"1151","Mr Dick",286,51
-"1152","Mr Dick",96,51
-"1153","Mr Dick",231,51
-"1154","Mr Dick",292,51
-"1155","Mr Dick",327,51
-"1156","Mr Dick",308,51
-"1157","Mr Dick",218,51
-"1158","Mr Dick",219,51
-"1159","Mr Dick",232,51
-"1160","Mr Dick",328,51
-"1161","Mr Dick",119,51
-"1162","Mr Dick",273,51
-"1163","Mr Dick",91,51
-"1164","Mr Dick",259,51
-"1165","Mr Dick",93,51
-"1166","Mr Dick",335,51
-"1167","Mr Dick",152,51
-"1168","Mr Dick",291,51
-"1169","Mr Dick",368,51
-"1170","Mr Dick",288,51
-"1171","Mr Dick",236,51
-"1172","Mr Dick",94,51
-"1173","Mr Dick",111,51
-"1174","Mr Dick",85,51
-"1175","Mr Dick",252,51
-"1176","Mr Dick",381,51
-"1177","Mr Dick",109,51
-"1178","Mr Dick",110,51
-"1179","Mr Dick",277,51
-"1180","Mr Dick",86,51
-"1181","Mr Dick",370,51
-"1182","Mr Dick",117,51
-"1183","Mr Dick",287,51
-"1184","Mr Dick",289,51
-"1185","Mr Dick",312,51
-"1186","Mr Dolloby",80,1
-"1187","Mr Grayper",58,2
-"1188","Mr Grayper",141,2
-"1189","Mr Gulpidge",164,2
-"1190","Mr Gulpidge",165,2
-"1191","Mr Gummidge",198,5
-"1192","Mr Gummidge",139,5
-"1193","Mr Gummidge",64,5
-"1194","Mr Gummidge",20,5
-"1195","Mr Gummidge",18,5
-"1196","Mr Henry Spiker",163,3
-"1197","Mr Henry Spiker",165,3
-"1198","Mr Henry Spiker",164,3
-"1199","Mr Joram",134,10
-"1200","Mr Joram",133,10
-"1201","Mr Joram",194,10
-"1202","Mr Joram",147,10
-"1203","Mr Joram",204,10
-"1204","Mr Joram",323,10
-"1205","Mr Joram",151,10
-"1206","Mr Joram",193,10
-"1207","Mr Joram",351,10
-"1208","Mr Joram",57,10
-"1209","Mr Jorkins",155,9
-"1210","Mr Jorkins",189,9
-"1211","Mr Jorkins",153,9
-"1212","Mr Jorkins",245,9
-"1213","Mr Jorkins",154,9
-"1214","Mr Jorkins",210,9
-"1215","Mr Jorkins",170,9
-"1216","Mr Jorkins",223,9
-"1217","Mr Jorkins",247,9
-"1218","Mr Larkins",118,2
-"1219","Mr Larkins",119,2
-"1220","Mr Mell",34,12
-"1221","Mr Mell",385,12
-"1222","Mr Mell",42,12
-"1223","Mr Mell",38,12
-"1224","Mr Mell",41,12
-"1225","Mr Mell",37,12
-"1226","Mr Mell",43,12
-"1227","Mr Mell",44,12
-"1228","Mr Mell",35,12
-"1229","Mr Mell",36,12
-"1230","Mr Mell",45,12
-"1231","Mr Mell",33,12
-"1232","Mr Micawber",327,62
-"1233","Mr Micawber",73,62
-"1234","Mr Micawber",339,62
-"1235","Mr Micawber",182,62
-"1236","Mr Micawber",74,62
-"1237","Mr Micawber",113,62
-"1238","Mr Micawber",328,62
-"1239","Mr Micawber",384,62
-"1240","Mr Micawber",250,62
-"1241","Mr Micawber",341,62
-"1242","Mr Micawber",364,62
-"1243","Mr Micawber",332,62
-"1244","Mr Micawber",356,62
-"1245","Mr Micawber",311,62
-"1246","Mr Micawber",354,62
-"1247","Mr Micawber",77,62
-"1248","Mr Micawber",183,62
-"1249","Mr Micawber",115,62
-"1250","Mr Micawber",333,62
-"1251","Mr Micawber",330,62
-"1252","Mr Micawber",357,62
-"1253","Mr Micawber",248,62
-"1254","Mr Micawber",274,62
-"1255","Mr Micawber",179,62
-"1256","Mr Micawber",310,62
-"1257","Mr Micawber",180,62
-"1258","Mr Micawber",385,62
-"1259","Mr Micawber",185,62
-"1260","Mr Micawber",273,62
-"1261","Mr Micawber",78,62
-"1262","Mr Micawber",371,62
-"1263","Mr Micawber",232,62
-"1264","Mr Micawber",309,62
-"1265","Mr Micawber",70,62
-"1266","Mr Micawber",331,62
-"1267","Mr Micawber",235,62
-"1268","Mr Micawber",114,62
-"1269","Mr Micawber",71,62
-"1270","Mr Micawber",217,62
-"1271","Mr Micawber",329,62
-"1272","Mr Micawber",340,62
-"1273","Mr Micawber",76,62
-"1274","Mr Micawber",313,62
-"1275","Mr Micawber",342,62
-"1276","Mr Micawber",188,62
-"1277","Mr Micawber",75,62
-"1278","Mr Micawber",344,62
-"1279","Mr Micawber",186,62
-"1280","Mr Micawber",370,62
-"1281","Mr Micawber",80,62
-"1282","Mr Micawber",335,62
-"1283","Mr Micawber",233,62
-"1284","Mr Micawber",336,62
-"1285","Mr Micawber",355,62
-"1286","Mr Micawber",334,62
-"1287","Mr Micawber",343,62
-"1288","Mr Micawber",177,62
-"1289","Mr Micawber",181,62
-"1290","Mr Micawber",184,62
-"1291","Mr Micawber",312,62
-"1292","Mr Micawber",244,62
-"1293","Mr Micawber",234,62
-"1294","Mr Mills",214,3
-"1295","Mr Mills",236,3
-"1296","Mr Mills",259,3
-"1297","Mr Murdstone",49,36
-"1298","Mr Murdstone",35,36
-"1299","Mr Murdstone",10,36
-"1300","Mr Murdstone",109,36
-"1301","Mr Murdstone",24,36
-"1302","Mr Murdstone",75,36
-"1303","Mr Murdstone",173,36
-"1304","Mr Murdstone",11,36
-"1305","Mr Murdstone",48,36
-"1306","Mr Murdstone",25,36
-"1307","Mr Murdstone",70,36
-"1308","Mr Murdstone",20,36
-"1309","Mr Murdstone",9,36
-"1310","Mr Murdstone",210,36
-"1311","Mr Murdstone",32,36
-"1312","Mr Murdstone",66,36
-"1313","Mr Murdstone",367,36
-"1314","Mr Murdstone",93,36
-"1315","Mr Murdstone",92,36
-"1316","Mr Murdstone",22,36
-"1317","Mr Murdstone",27,36
-"1318","Mr Murdstone",91,36
-"1319","Mr Murdstone",209,36
-"1320","Mr Murdstone",31,36
-"1321","Mr Murdstone",54,36
-"1322","Mr Murdstone",68,36
-"1323","Mr Murdstone",58,36
-"1324","Mr Murdstone",52,36
-"1325","Mr Murdstone",19,36
-"1326","Mr Murdstone",368,36
-"1327","Mr Murdstone",53,36
-"1328","Mr Murdstone",67,36
-"1329","Mr Murdstone",23,36
-"1330","Mr Murdstone",77,36
-"1331","Mr Murdstone",94,36
-"1332","Mr Murdstone",57,36
-"1333","Mr Omer",58,14
-"1334","Mr Omer",193,14
-"1335","Mr Omer",133,14
-"1336","Mr Omer",56,14
-"1337","Mr Omer",202,14
-"1338","Mr Omer",195,14
-"1339","Mr Omer",135,14
-"1340","Mr Omer",323,14
-"1341","Mr Omer",134,14
-"1342","Mr Omer",197,14
-"1343","Mr Omer",194,14
-"1344","Mr Omer",57,14
-"1345","Mr Omer",324,14
-"1346","Mr Omer",322,14
-"1347","Mr Passnidge",10,1
-"1348","Mr Quinion",69,8
-"1349","Mr Quinion",10,8
-"1350","Mr Quinion",79,8
-"1351","Mr Quinion",70,8
-"1352","Mr Quinion",67,8
-"1353","Mr Quinion",77,8
-"1354","Mr Quinion",72,8
-"1355","Mr Quinion",68,8
-"1356","Mr Sharp",55,5
-"1357","Mr Sharp",38,5
-"1358","Mr Sharp",43,5
-"1359","Mr Sharp",37,5
-"1360","Mr Sharp",41,5
-"1361","Mr Spenlow",174,26
-"1362","Mr Spenlow",189,26
-"1363","Mr Spenlow",212,26
-"1364","Mr Spenlow",222,26
-"1365","Mr Spenlow",209,26
-"1366","Mr Spenlow",263,26
-"1367","Mr Spenlow",172,26
-"1368","Mr Spenlow",247,26
-"1369","Mr Spenlow",154,26
-"1370","Mr Spenlow",241,26
-"1371","Mr Spenlow",170,26
-"1372","Mr Spenlow",155,26
-"1373","Mr Spenlow",215,26
-"1374","Mr Spenlow",261,26
-"1375","Mr Spenlow",245,26
-"1376","Mr Spenlow",214,26
-"1377","Mr Spenlow",242,26
-"1378","Mr Spenlow",210,26
-"1379","Mr Spenlow",243,26
-"1380","Mr Spenlow",171,26
-"1381","Mr Spenlow",240,26
-"1382","Mr Spenlow",260,26
-"1383","Mr Spenlow",213,26
-"1384","Mr Spenlow",223,26
-"1385","Mr Spenlow",211,26
-"1386","Mr Spenlow",175,26
-"1387","Mr Tiffey",243,7
-"1388","Mr Tiffey",209,7
-"1389","Mr Tiffey",210,7
-"1390","Mr Tiffey",245,7
-"1391","Mr Tiffey",244,7
-"1392","Mr Tiffey",222,7
-"1393","Mr Tiffey",171,7
-"1394","Mr Waterbrook",163,5
-"1395","Mr Waterbrook",164,5
-"1396","Mr Waterbrook",178,5
-"1397","Mr Waterbrook",165,5
-"1398","Mr Waterbrook",161,5
-"1399","Mr Wickfield",122,37
-"1400","Mr Wickfield",266,37
-"1401","Mr Wickfield",99,37
-"1402","Mr Wickfield",108,37
-"1403","Mr Wickfield",251,37
-"1404","Mr Wickfield",123,37
-"1405","Mr Wickfield",253,37
-"1406","Mr Wickfield",333,37
-"1407","Mr Wickfield",250,37
-"1408","Mr Wickfield",224,37
-"1409","Mr Wickfield",112,37
-"1410","Mr Wickfield",97,37
-"1411","Mr Wickfield",330,37
-"1412","Mr Wickfield",101,37
-"1413","Mr Wickfield",341,37
-"1414","Mr Wickfield",311,37
-"1415","Mr Wickfield",124,37
-"1416","Mr Wickfield",290,37
-"1417","Mr Wickfield",102,37
-"1418","Mr Wickfield",269,37
-"1419","Mr Wickfield",342,37
-"1420","Mr Wickfield",271,37
-"1421","Mr Wickfield",111,37
-"1422","Mr Wickfield",105,37
-"1423","Mr Wickfield",227,37
-"1424","Mr Wickfield",372,37
-"1425","Mr Wickfield",226,37
-"1426","Mr Wickfield",106,37
-"1427","Mr Wickfield",166,37
-"1428","Mr Wickfield",252,37
-"1429","Mr Wickfield",100,37
-"1430","Mr Wickfield",329,37
-"1431","Mr Wickfield",96,37
-"1432","Mr Wickfield",167,37
-"1433","Mr Wickfield",103,37
-"1434","Mr Wickfield",270,37
-"1435","Mr Wickfield",98,37
-"1436","Mrs Chillip",368,1
-"1437","Mrs Creakle",34,5
-"1438","Mrs Creakle",36,5
-"1439","Mrs Creakle",38,5
-"1440","Mrs Creakle",55,5
-"1441","Mrs Creakle",43,5
-"1442","Mrs Crewler",365,3
-"1443","Mrs Crewler",364,3
-"1444","Mrs Crewler",260,3
-"1445","Mrs Crupp",224,20
-"1446","Mrs Crupp",181,20
-"1447","Mrs Crupp",156,20
-"1448","Mrs Crupp",166,20
-"1449","Mrs Crupp",236,20
-"1450","Mrs Crupp",157,20
-"1451","Mrs Crupp",158,20
-"1452","Mrs Crupp",176,20
-"1453","Mrs Crupp",226,20
-"1454","Mrs Crupp",213,20
-"1455","Mrs Crupp",206,20
-"1456","Mrs Crupp",160,20
-"1457","Mrs Crupp",170,20
-"1458","Mrs Crupp",220,20
-"1459","Mrs Crupp",218,20
-"1460","Mrs Crupp",182,20
-"1461","Mrs Crupp",216,20
-"1462","Mrs Crupp",169,20
-"1463","Mrs Crupp",175,20
-"1464","Mrs Crupp",168,20
-"1465","Mrs Fibbitson",32,2
-"1466","Mrs Fibbitson",33,2
-"1467","Mrs Grayper",11,2
-"1468","Mrs Grayper",141,2
-"1469","Mrs Gulpidge",164,1
-"1470","Mrs Gummidge",17,31
-"1471","Mrs Gummidge",384,31
-"1472","Mrs Gummidge",139,31
-"1473","Mrs Gummidge",198,31
-"1474","Mrs Gummidge",325,31
-"1475","Mrs Gummidge",66,31
-"1476","Mrs Gummidge",138,31
-"1477","Mrs Gummidge",324,31
-"1478","Mrs Gummidge",357,31
-"1479","Mrs Gummidge",202,31
-"1480","Mrs Gummidge",62,31
-"1481","Mrs Gummidge",20,31
-"1482","Mrs Gummidge",200,31
-"1483","Mrs Gummidge",21,31
-"1484","Mrs Gummidge",201,31
-"1485","Mrs Gummidge",45,31
-"1486","Mrs Gummidge",63,31
-"1487","Mrs Gummidge",142,31
-"1488","Mrs Gummidge",27,31
-"1489","Mrs Gummidge",16,31
-"1490","Mrs Gummidge",109,31
-"1491","Mrs Gummidge",15,31
-"1492","Mrs Gummidge",68,31
-"1493","Mrs Gummidge",257,31
-"1494","Mrs Gummidge",65,31
-"1495","Mrs Gummidge",64,31
-"1496","Mrs Gummidge",18,31
-"1497","Mrs Gummidge",137,31
-"1498","Mrs Gummidge",322,31
-"1499","Mrs Gummidge",326,31
-"1500","Mrs Gummidge",205,31
-"1501","Mrs Heep",330,9
-"1502","Mrs Heep",334,9
-"1503","Mrs Heep",251,9
-"1504","Mrs Heep",266,9
-"1505","Mrs Heep",250,9
-"1506","Mrs Heep",112,9
-"1507","Mrs Heep",332,9
-"1508","Mrs Heep",224,9
-"1509","Mrs Heep",113,9
-"1510","Mrs Henry Spiker",163,3
-"1511","Mrs Henry Spiker",165,3
-"1512","Mrs Henry Spiker",164,3
-"1513","Mrs Markleham",386,14
-"1514","Mrs Markleham",288,14
-"1515","Mrs Markleham",272,14
-"1516","Mrs Markleham",273,14
-"1517","Mrs Markleham",107,14
-"1518","Mrs Markleham",106,14
-"1519","Mrs Markleham",105,14
-"1520","Mrs Markleham",124,14
-"1521","Mrs Markleham",108,14
-"1522","Mrs Markleham",123,14
-"1523","Mrs Markleham",289,14
-"1524","Mrs Markleham",286,14
-"1525","Mrs Markleham",291,14
-"1526","Mrs Markleham",290,14
-"1527","Mrs Mell",38,1
-"1528","Mrs Micawber",182,43
-"1529","Mrs Micawber",248,43
-"1530","Mrs Micawber",333,43
-"1531","Mrs Micawber",77,43
-"1532","Mrs Micawber",183,43
-"1533","Mrs Micawber",114,43
-"1534","Mrs Micawber",310,43
-"1535","Mrs Micawber",186,43
-"1536","Mrs Micawber",311,43
-"1537","Mrs Micawber",313,43
-"1538","Mrs Micawber",336,43
-"1539","Mrs Micawber",179,43
-"1540","Mrs Micawber",115,43
-"1541","Mrs Micawber",357,43
-"1542","Mrs Micawber",340,43
-"1543","Mrs Micawber",180,43
-"1544","Mrs Micawber",331,43
-"1545","Mrs Micawber",71,43
-"1546","Mrs Micawber",74,43
-"1547","Mrs Micawber",334,43
-"1548","Mrs Micawber",309,43
-"1549","Mrs Micawber",356,43
-"1550","Mrs Micawber",76,43
-"1551","Mrs Micawber",78,43
-"1552","Mrs Micawber",235,43
-"1553","Mrs Micawber",113,43
-"1554","Mrs Micawber",233,43
-"1555","Mrs Micawber",70,43
-"1556","Mrs Micawber",75,43
-"1557","Mrs Micawber",354,43
-"1558","Mrs Micawber",181,43
-"1559","Mrs Micawber",343,43
-"1560","Mrs Micawber",73,43
-"1561","Mrs Micawber",177,43
-"1562","Mrs Micawber",312,43
-"1563","Mrs Micawber",185,43
-"1564","Mrs Micawber",217,43
-"1565","Mrs Micawber",355,43
-"1566","Mrs Micawber",234,43
-"1567","Mrs Micawber",335,43
-"1568","Mrs Micawber",339,43
-"1569","Mrs Micawber",80,43
-"1570","Mrs Micawber",184,43
-"1571","Mrs Steerforth",144,14
-"1572","Mrs Steerforth",352,14
-"1573","Mrs Steerforth",296,14
-"1574","Mrs Steerforth",191,14
-"1575","Mrs Steerforth",133,14
-"1576","Mrs Steerforth",189,14
-"1577","Mrs Steerforth",157,14
-"1578","Mrs Steerforth",131,14
-"1579","Mrs Steerforth",190,14
-"1580","Mrs Steerforth",130,14
-"1581","Mrs Steerforth",206,14
-"1582","Mrs Steerforth",129,14
-"1583","Mrs Steerforth",351,14
-"1584","Mrs Steerforth",229,14
-"1585","Mrs Waterbrook",164,2
-"1586","Mrs Waterbrook",163,2
-"1587","Reverend Crewler",364,3
-"1588","Reverend Crewler",387,3
-"1589","Reverend Crewler",260,3
-"1590","Rosa Dartle",189,26
-"1591","Rosa Dartle",191,26
-"1592","Rosa Dartle",229,26
-"1593","Rosa Dartle",295,26
-"1594","Rosa Dartle",129,26
-"1595","Rosa Dartle",133,26
-"1596","Rosa Dartle",157,26
-"1597","Rosa Dartle",207,26
-"1598","Rosa Dartle",206,26
-"1599","Rosa Dartle",353,26
-"1600","Rosa Dartle",386,26
-"1601","Rosa Dartle",130,26
-"1602","Rosa Dartle",293,26
-"1603","Rosa Dartle",139,26
-"1604","Rosa Dartle",351,26
-"1605","Rosa Dartle",144,26
-"1606","Rosa Dartle",294,26
-"1607","Rosa Dartle",190,26
-"1608","Rosa Dartle",352,26
-"1609","Rosa Dartle",317,26
-"1610","Rosa Dartle",188,26
-"1611","Rosa Dartle",315,26
-"1612","Rosa Dartle",296,26
-"1613","Rosa Dartle",131,26
-"1614","Rosa Dartle",314,26
-"1615","Rosa Dartle",316,26
-"1616","Sarah Crewler",260,2
-"1617","Sarah Crewler",217,2
-"1618","Sophy Crewler",363,14
-"1619","Sophy Crewler",387,14
-"1620","Sophy Crewler",375,14
-"1621","Sophy Crewler",282,14
-"1622","Sophy Crewler",259,14
-"1623","Sophy Crewler",365,14
-"1624","Sophy Crewler",374,14
-"1625","Sophy Crewler",277,14
-"1626","Sophy Crewler",382,14
-"1627","Sophy Crewler",263,14
-"1628","Sophy Crewler",276,14
-"1629","Sophy Crewler",260,14
-"1630","Sophy Crewler",217,14
-"1631","Sophy Crewler",364,14
-"1632","Tipp",77,3
-"1633","Tipp",72,3
-"1634","Tipp",79,3
-"1635","Tom Jones",24,2
-"1636","Tom Jones",25,2
-"1637","Tommy Traddles",34,82
-"1638","Tommy Traddles",232,82
-"1639","Tommy Traddles",311,82
-"1640","Tommy Traddles",376,82
-"1641","Tommy Traddles",334,82
-"1642","Tommy Traddles",183,82
-"1643","Tommy Traddles",69,82
-"1644","Tommy Traddles",188,82
-"1645","Tommy Traddles",375,82
-"1646","Tommy Traddles",46,82
-"1647","Tommy Traddles",365,82
-"1648","Tommy Traddles",44,82
-"1649","Tommy Traddles",47,82
-"1650","Tommy Traddles",276,82
-"1651","Tommy Traddles",378,82
-"1652","Tommy Traddles",164,82
-"1653","Tommy Traddles",81,82
-"1654","Tommy Traddles",341,82
-"1655","Tommy Traddles",387,82
-"1656","Tommy Traddles",40,82
-"1657","Tommy Traddles",231,82
-"1658","Tommy Traddles",332,82
-"1659","Tommy Traddles",45,82
-"1660","Tommy Traddles",310,82
-"1661","Tommy Traddles",309,82
-"1662","Tommy Traddles",263,82
-"1663","Tommy Traddles",329,82
-"1664","Tommy Traddles",177,82
-"1665","Tommy Traddles",41,82
-"1666","Tommy Traddles",182,82
-"1667","Tommy Traddles",339,82
-"1668","Tommy Traddles",178,82
-"1669","Tommy Traddles",262,82
-"1670","Tommy Traddles",234,82
-"1671","Tommy Traddles",328,82
-"1672","Tommy Traddles",386,82
-"1673","Tommy Traddles",282,82
-"1674","Tommy Traddles",342,82
-"1675","Tommy Traddles",165,82
-"1676","Tommy Traddles",364,82
-"1677","Tommy Traddles",240,82
-"1678","Tommy Traddles",312,82
-"1679","Tommy Traddles",306,82
-"1680","Tommy Traddles",327,82
-"1681","Tommy Traddles",38,82
-"1682","Tommy Traddles",43,82
-"1683","Tommy Traddles",308,82
-"1684","Tommy Traddles",235,82
-"1685","Tommy Traddles",363,82
-"1686","Tommy Traddles",330,82
-"1687","Tommy Traddles",374,82
-"1688","Tommy Traddles",277,82
-"1689","Tommy Traddles",187,82
-"1690","Tommy Traddles",343,82
-"1691","Tommy Traddles",180,82
-"1692","Tommy Traddles",335,82
-"1693","Tommy Traddles",56,82
-"1694","Tommy Traddles",275,82
-"1695","Tommy Traddles",131,82
-"1696","Tommy Traddles",362,82
-"1697","Tommy Traddles",382,82
-"1698","Tommy Traddles",354,82
-"1699","Tommy Traddles",344,82
-"1700","Tommy Traddles",333,82
-"1701","Tommy Traddles",179,82
-"1702","Tommy Traddles",184,82
-"1703","Tommy Traddles",366,82
-"1704","Tommy Traddles",185,82
-"1705","Tommy Traddles",360,82
-"1706","Tommy Traddles",261,82
-"1707","Tommy Traddles",186,82
-"1708","Tommy Traddles",259,82
-"1709","Tommy Traddles",218,82
-"1710","Tommy Traddles",42,82
-"1711","Tommy Traddles",331,82
-"1712","Tommy Traddles",181,82
-"1713","Tommy Traddles",355,82
-"1714","Tommy Traddles",217,82
-"1715","Tommy Traddles",233,82
-"1716","Tommy Traddles",216,82
-"1717","Tommy Traddles",260,82
-"1718","Tommy Traddles",37,82
-"1719","Topsawyer",29,1
-"1720","Tungay",38,6
-"1721","Tungay",45,6
-"1722","Tungay",44,6
-"1723","Tungay",43,6
-"1724","Tungay",40,6
-"1725","Tungay",42,6
-"1726","Uriah",333,54
-"1727","Uriah",222,54
-"1728","Uriah",272,54
-"1729","Uriah",163,54
-"1730","Uriah",113,54
-"1731","Uriah",334,54
-"1732","Uriah",98,54
-"1733","Uriah",273,54
-"1734","Uriah",253,54
-"1735","Uriah",270,54
-"1736","Uriah",122,54
-"1737","Uriah",166,54
-"1738","Uriah",115,54
-"1739","Uriah",227,54
-"1740","Uriah",335,54
-"1741","Uriah",271,54
-"1742","Uriah",248,54
-"1743","Uriah",226,54
-"1744","Uriah",341,54
-"1745","Uriah",310,54
-"1746","Uriah",97,54
-"1747","Uriah",164,54
-"1748","Uriah",329,54
-"1749","Uriah",331,54
-"1750","Uriah",112,54
-"1751","Uriah",168,54
-"1752","Uriah",371,54
-"1753","Uriah",224,54
-"1754","Uriah",251,54
-"1755","Uriah",332,54
-"1756","Uriah",266,54
-"1757","Uriah",254,54
-"1758","Uriah",99,54
-"1759","Uriah",170,54
-"1760","Uriah",162,54
-"1761","Uriah",234,54
-"1762","Uriah",377,54
-"1763","Uriah",250,54
-"1764","Uriah",125,54
-"1765","Uriah",330,54
-"1766","Uriah",269,54
-"1767","Uriah",289,54
-"1768","Uriah",267,54
-"1769","Uriah",111,54
-"1770","Uriah",104,54
-"1771","Uriah",101,54
-"1772","Uriah",342,54
-"1773","Uriah",167,54
-"1774","Uriah",376,54
-"1775","Uriah",252,54
-"1776","Uriah",103,54
-"1777","Uriah",343,54
-"1778","Uriah",165,54
-"1779","Uriah",328,54
-"1780","William",125,1
-"1781","Yawler",178,1
+"1","Adams",100,4
+"2","Adams",107,4
+"3","Adams",118,4
+"4","Adams",104,4
+"5","Agnes Wickfield",102,87
+"6","Agnes Wickfield",337,87
+"7","Agnes Wickfield",249,87
+"8","Agnes Wickfield",231,87
+"9","Agnes Wickfield",384,87
+"10","Agnes Wickfield",216,87
+"11","Agnes Wickfield",164,87
+"12","Agnes Wickfield",247,87
+"13","Agnes Wickfield",338,87
+"14","Agnes Wickfield",99,87
+"15","Agnes Wickfield",268,87
+"16","Agnes Wickfield",119,87
+"17","Agnes Wickfield",118,87
+"18","Agnes Wickfield",125,87
+"19","Agnes Wickfield",122,87
+"20","Agnes Wickfield",379,87
+"21","Agnes Wickfield",262,87
+"22","Agnes Wickfield",111,87
+"23","Agnes Wickfield",342,87
+"24","Agnes Wickfield",385,87
+"25","Agnes Wickfield",253,87
+"26","Agnes Wickfield",361,87
+"27","Agnes Wickfield",383,87
+"28","Agnes Wickfield",168,87
+"29","Agnes Wickfield",267,87
+"30","Agnes Wickfield",329,87
+"31","Agnes Wickfield",170,87
+"32","Agnes Wickfield",166,87
+"33","Agnes Wickfield",252,87
+"34","Agnes Wickfield",344,87
+"35","Agnes Wickfield",165,87
+"36","Agnes Wickfield",112,87
+"37","Agnes Wickfield",167,87
+"38","Agnes Wickfield",270,87
+"39","Agnes Wickfield",156,87
+"40","Agnes Wickfield",251,87
+"41","Agnes Wickfield",365,87
+"42","Agnes Wickfield",386,87
+"43","Agnes Wickfield",307,87
+"44","Agnes Wickfield",228,87
+"45","Agnes Wickfield",124,87
+"46","Agnes Wickfield",162,87
+"47","Agnes Wickfield",157,87
+"48","Agnes Wickfield",276,87
+"49","Agnes Wickfield",334,87
+"50","Agnes Wickfield",163,87
+"51","Agnes Wickfield",381,87
+"52","Agnes Wickfield",360,87
+"53","Agnes Wickfield",373,87
+"54","Agnes Wickfield",380,87
+"55","Agnes Wickfield",333,87
+"56","Agnes Wickfield",382,87
+"57","Agnes Wickfield",272,87
+"58","Agnes Wickfield",269,87
+"59","Agnes Wickfield",357,87
+"60","Agnes Wickfield",226,87
+"61","Agnes Wickfield",264,87
+"62","Agnes Wickfield",266,87
+"63","Agnes Wickfield",278,87
+"64","Agnes Wickfield",191,87
+"65","Agnes Wickfield",105,87
+"66","Agnes Wickfield",101,87
+"67","Agnes Wickfield",354,87
+"68","Agnes Wickfield",225,87
+"69","Agnes Wickfield",277,87
+"70","Agnes Wickfield",254,87
+"71","Agnes Wickfield",104,87
+"72","Agnes Wickfield",160,87
+"73","Agnes Wickfield",103,87
+"74","Agnes Wickfield",117,87
+"75","Agnes Wickfield",108,87
+"76","Agnes Wickfield",370,87
+"77","Agnes Wickfield",227,87
+"78","Agnes Wickfield",339,87
+"79","Agnes Wickfield",330,87
+"80","Agnes Wickfield",161,87
+"81","Agnes Wickfield",371,87
+"82","Agnes Wickfield",123,87
+"83","Agnes Wickfield",387,87
+"84","Agnes Wickfield",372,87
+"85","Agnes Wickfield",250,87
+"86","Agnes Wickfield",224,87
+"87","Agnes Wickfield",175,87
+"88","Agnes Wickfield",327,87
+"89","Agnes Wickfield",186,87
+"90","Agnes Wickfield",283,87
+"91","Agnes Wickfield",341,87
+"92","Annie Strong",272,24
+"93","Annie Strong",289,24
+"94","Annie Strong",124,24
+"95","Annie Strong",229,24
+"96","Annie Strong",231,24
+"97","Annie Strong",269,24
+"98","Annie Strong",266,24
+"99","Annie Strong",270,24
+"100","Annie Strong",106,24
+"101","Annie Strong",291,24
+"102","Annie Strong",286,24
+"103","Annie Strong",108,24
+"104","Annie Strong",288,24
+"105","Annie Strong",290,24
+"106","Annie Strong",123,24
+"107","Annie Strong",230,24
+"108","Annie Strong",105,24
+"109","Annie Strong",273,24
+"110","Annie Strong",107,24
+"111","Annie Strong",307,24
+"112","Annie Strong",247,24
+"113","Annie Strong",100,24
+"114","Annie Strong",382,24
+"115","Annie Strong",102,24
+"116","Barkis",62,33
+"117","Barkis",151,33
+"118","Barkis",324,33
+"119","Barkis",196,33
+"120","Barkis",193,33
+"121","Barkis",194,33
+"122","Barkis",219,33
+"123","Barkis",141,33
+"124","Barkis",54,33
+"125","Barkis",49,33
+"126","Barkis",78,33
+"127","Barkis",135,33
+"128","Barkis",29,33
+"129","Barkis",221,33
+"130","Barkis",203,33
+"131","Barkis",48,33
+"132","Barkis",28,33
+"133","Barkis",50,33
+"134","Barkis",218,33
+"135","Barkis",148,33
+"136","Barkis",109,33
+"137","Barkis",56,33
+"138","Barkis",236,33
+"139","Barkis",136,33
+"140","Barkis",64,33
+"141","Barkis",195,33
+"142","Barkis",61,33
+"143","Barkis",209,33
+"144","Barkis",66,33
+"145","Barkis",65,33
+"146","Barkis",187,33
+"147","Barkis",133,33
+"148","Barkis",197,33
+"149","Captain Bailey",119,1
+"150","Captain Hopkins",75,2
+"151","Captain Hopkins",74,2
+"152","Caroline Crewler",364,3
+"153","Caroline Crewler",387,3
+"154","Caroline Crewler",365,3
+"155","Charley Pyegrave",146,2
+"156","Charley Pyegrave",82,2
+"157","Clara Copperfield",25,40
+"158","Clara Copperfield",92,40
+"159","Clara Copperfield",3,40
+"160","Clara Copperfield",15,40
+"161","Clara Copperfield",50,40
+"162","Clara Copperfield",93,40
+"163","Clara Copperfield",4,40
+"164","Clara Copperfield",27,40
+"165","Clara Copperfield",8,40
+"166","Clara Copperfield",6,40
+"167","Clara Copperfield",34,40
+"168","Clara Copperfield",48,40
+"169","Clara Copperfield",21,40
+"170","Clara Copperfield",7,40
+"171","Clara Copperfield",22,40
+"172","Clara Copperfield",53,40
+"173","Clara Copperfield",14,40
+"174","Clara Copperfield",49,40
+"175","Clara Copperfield",9,40
+"176","Clara Copperfield",58,40
+"177","Clara Copperfield",19,40
+"178","Clara Copperfield",55,40
+"179","Clara Copperfield",10,40
+"180","Clara Copperfield",2,40
+"181","Clara Copperfield",11,40
+"182","Clara Copperfield",37,40
+"183","Clara Copperfield",51,40
+"184","Clara Copperfield",26,40
+"185","Clara Copperfield",18,40
+"186","Clara Copperfield",57,40
+"187","Clara Copperfield",153,40
+"188","Clara Copperfield",5,40
+"189","Clara Copperfield",210,40
+"190","Clara Copperfield",24,40
+"191","Clara Copperfield",190,40
+"192","Clara Copperfield",54,40
+"193","Clara Copperfield",23,40
+"194","Clara Copperfield",52,40
+"195","Clara Copperfield",20,40
+"196","Clara Copperfield",28,40
+"197","Clara Peggotty",19,103
+"198","Clara Peggotty",45,103
+"199","Clara Peggotty",87,103
+"200","Clara Peggotty",30,103
+"201","Clara Peggotty",49,103
+"202","Clara Peggotty",208,103
+"203","Clara Peggotty",381,103
+"204","Clara Peggotty",55,103
+"205","Clara Peggotty",6,103
+"206","Clara Peggotty",324,103
+"207","Clara Peggotty",343,103
+"208","Clara Peggotty",109,103
+"209","Clara Peggotty",61,103
+"210","Clara Peggotty",97,103
+"211","Clara Peggotty",200,103
+"212","Clara Peggotty",203,103
+"213","Clara Peggotty",63,103
+"214","Clara Peggotty",354,103
+"215","Clara Peggotty",59,103
+"216","Clara Peggotty",31,103
+"217","Clara Peggotty",27,103
+"218","Clara Peggotty",385,103
+"219","Clara Peggotty",65,103
+"220","Clara Peggotty",15,103
+"221","Clara Peggotty",42,103
+"222","Clara Peggotty",216,103
+"223","Clara Peggotty",193,103
+"224","Clara Peggotty",62,103
+"225","Clara Peggotty",57,103
+"226","Clara Peggotty",12,103
+"227","Clara Peggotty",151,103
+"228","Clara Peggotty",17,103
+"229","Clara Peggotty",206,103
+"230","Clara Peggotty",218,103
+"231","Clara Peggotty",3,103
+"232","Clara Peggotty",275,103
+"233","Clara Peggotty",149,103
+"234","Clara Peggotty",382,103
+"235","Clara Peggotty",187,103
+"236","Clara Peggotty",227,103
+"237","Clara Peggotty",23,103
+"238","Clara Peggotty",141,103
+"239","Clara Peggotty",256,103
+"240","Clara Peggotty",60,103
+"241","Clara Peggotty",225,103
+"242","Clara Peggotty",236,103
+"243","Clara Peggotty",384,103
+"244","Clara Peggotty",7,103
+"245","Clara Peggotty",11,103
+"246","Clara Peggotty",121,103
+"247","Clara Peggotty",226,103
+"248","Clara Peggotty",8,103
+"249","Clara Peggotty",148,103
+"250","Clara Peggotty",35,103
+"251","Clara Peggotty",26,103
+"252","Clara Peggotty",319,103
+"253","Clara Peggotty",222,103
+"254","Clara Peggotty",322,103
+"255","Clara Peggotty",347,103
+"256","Clara Peggotty",48,103
+"257","Clara Peggotty",133,103
+"258","Clara Peggotty",14,103
+"259","Clara Peggotty",195,103
+"260","Clara Peggotty",277,103
+"261","Clara Peggotty",210,103
+"262","Clara Peggotty",18,103
+"263","Clara Peggotty",64,103
+"264","Clara Peggotty",201,103
+"265","Clara Peggotty",66,103
+"266","Clara Peggotty",72,103
+"267","Clara Peggotty",53,103
+"268","Clara Peggotty",28,103
+"269","Clara Peggotty",21,103
+"270","Clara Peggotty",142,103
+"271","Clara Peggotty",320,103
+"272","Clara Peggotty",197,103
+"273","Clara Peggotty",78,103
+"274","Clara Peggotty",22,103
+"275","Clara Peggotty",13,103
+"276","Clara Peggotty",32,103
+"277","Clara Peggotty",51,103
+"278","Clara Peggotty",9,103
+"279","Clara Peggotty",199,103
+"280","Clara Peggotty",147,103
+"281","Clara Peggotty",209,103
+"282","Clara Peggotty",196,103
+"283","Clara Peggotty",368,103
+"284","Clara Peggotty",220,103
+"285","Clara Peggotty",198,103
+"286","Clara Peggotty",58,103
+"287","Clara Peggotty",37,103
+"288","Clara Peggotty",194,103
+"289","Clara Peggotty",67,103
+"290","Clara Peggotty",136,103
+"291","Clara Peggotty",50,103
+"292","Clara Peggotty",93,103
+"293","Clara Peggotty",20,103
+"294","Clara Peggotty",46,103
+"295","Clara Peggotty",135,103
+"296","Clara Peggotty",34,103
+"297","Clara Peggotty",345,103
+"298","Clara Peggotty",386,103
+"299","Clara Peggotty",4,103
+"300","Clarissa Spenlow",260,11
+"301","Clarissa Spenlow",262,11
+"302","Clarissa Spenlow",261,11
+"303","Clarissa Spenlow",259,11
+"304","Clarissa Spenlow",267,11
+"305","Clarissa Spenlow",275,11
+"306","Clarissa Spenlow",263,11
+"307","Clarissa Spenlow",277,11
+"308","Clarissa Spenlow",245,11
+"309","Clarissa Spenlow",305,11
+"310","Clarissa Spenlow",266,11
+"311","Clickett",73,1
+"312","Daniel Peggotty",63,68
+"313","Daniel Peggotty",257,68
+"314","Daniel Peggotty",141,68
+"315","Daniel Peggotty",256,68
+"316","Daniel Peggotty",323,68
+"317","Daniel Peggotty",324,68
+"318","Daniel Peggotty",137,68
+"319","Daniel Peggotty",383,68
+"320","Daniel Peggotty",201,68
+"321","Daniel Peggotty",15,68
+"322","Daniel Peggotty",205,68
+"323","Daniel Peggotty",17,68
+"324","Daniel Peggotty",354,68
+"325","Daniel Peggotty",16,68
+"326","Daniel Peggotty",206,68
+"327","Daniel Peggotty",62,68
+"328","Daniel Peggotty",198,68
+"329","Daniel Peggotty",326,68
+"330","Daniel Peggotty",301,68
+"331","Daniel Peggotty",299,68
+"332","Daniel Peggotty",385,68
+"333","Daniel Peggotty",343,68
+"334","Daniel Peggotty",314,68
+"335","Daniel Peggotty",200,68
+"336","Daniel Peggotty",66,68
+"337","Daniel Peggotty",129,68
+"338","Daniel Peggotty",322,68
+"339","Daniel Peggotty",29,68
+"340","Daniel Peggotty",199,68
+"341","Daniel Peggotty",208,68
+"342","Daniel Peggotty",109,68
+"343","Daniel Peggotty",138,68
+"344","Daniel Peggotty",133,68
+"345","Daniel Peggotty",195,68
+"346","Daniel Peggotty",64,68
+"347","Daniel Peggotty",207,68
+"348","Daniel Peggotty",321,68
+"349","Daniel Peggotty",356,68
+"350","Daniel Peggotty",18,68
+"351","Daniel Peggotty",136,68
+"352","Daniel Peggotty",194,68
+"353","Daniel Peggotty",61,68
+"354","Daniel Peggotty",152,68
+"355","Daniel Peggotty",302,68
+"356","Daniel Peggotty",202,68
+"357","Daniel Peggotty",258,68
+"358","Daniel Peggotty",316,68
+"359","Daniel Peggotty",143,68
+"360","Daniel Peggotty",384,68
+"361","Daniel Peggotty",197,68
+"362","Daniel Peggotty",139,68
+"363","Daniel Peggotty",27,68
+"364","Daniel Peggotty",325,68
+"365","Daniel Peggotty",65,68
+"366","Daniel Peggotty",46,68
+"367","Daniel Peggotty",320,68
+"368","Daniel Peggotty",296,68
+"369","Daniel Peggotty",140,68
+"370","Daniel Peggotty",357,68
+"371","Daniel Peggotty",319,68
+"372","Daniel Peggotty",345,68
+"373","Daniel Peggotty",220,68
+"374","Daniel Peggotty",45,68
+"375","Daniel Peggotty",14,68
+"376","Daniel Peggotty",142,68
+"377","Daniel Peggotty",300,68
+"378","Daniel Peggotty",104,68
+"379","Daniel Peggotty",196,68
+"380","David Copperfield",255,236
+"381","David Copperfield",41,236
+"382","David Copperfield",326,236
+"383","David Copperfield",94,236
+"384","David Copperfield",127,236
+"385","David Copperfield",241,236
+"386","David Copperfield",18,236
+"387","David Copperfield",154,236
+"388","David Copperfield",301,236
+"389","David Copperfield",51,236
+"390","David Copperfield",50,236
+"391","David Copperfield",55,236
+"392","David Copperfield",276,236
+"393","David Copperfield",230,236
+"394","David Copperfield",365,236
+"395","David Copperfield",272,236
+"396","David Copperfield",172,236
+"397","David Copperfield",43,236
+"398","David Copperfield",37,236
+"399","David Copperfield",250,236
+"400","David Copperfield",27,236
+"401","David Copperfield",148,236
+"402","David Copperfield",186,236
+"403","David Copperfield",259,236
+"404","David Copperfield",38,236
+"405","David Copperfield",10,236
+"406","David Copperfield",349,236
+"407","David Copperfield",333,236
+"408","David Copperfield",226,236
+"409","David Copperfield",93,236
+"410","David Copperfield",185,236
+"411","David Copperfield",364,236
+"412","David Copperfield",155,236
+"413","David Copperfield",252,236
+"414","David Copperfield",153,236
+"415","David Copperfield",334,236
+"416","David Copperfield",24,236
+"417","David Copperfield",60,236
+"418","David Copperfield",342,236
+"419","David Copperfield",76,236
+"420","David Copperfield",261,236
+"421","David Copperfield",25,236
+"422","David Copperfield",104,236
+"423","David Copperfield",111,236
+"424","David Copperfield",213,236
+"425","David Copperfield",355,236
+"426","David Copperfield",9,236
+"427","David Copperfield",28,236
+"428","David Copperfield",62,236
+"429","David Copperfield",238,236
+"430","David Copperfield",330,236
+"431","David Copperfield",158,236
+"432","David Copperfield",199,236
+"433","David Copperfield",344,236
+"434","David Copperfield",324,236
+"435","David Copperfield",19,236
+"436","David Copperfield",216,236
+"437","David Copperfield",79,236
+"438","David Copperfield",379,236
+"439","David Copperfield",166,236
+"440","David Copperfield",160,236
+"441","David Copperfield",139,236
+"442","David Copperfield",325,236
+"443","David Copperfield",13,236
+"444","David Copperfield",167,236
+"445","David Copperfield",2,236
+"446","David Copperfield",179,236
+"447","David Copperfield",371,236
+"448","David Copperfield",218,236
+"449","David Copperfield",123,236
+"450","David Copperfield",341,236
+"451","David Copperfield",73,236
+"452","David Copperfield",267,236
+"453","David Copperfield",321,236
+"454","David Copperfield",181,236
+"455","David Copperfield",288,236
+"456","David Copperfield",328,236
+"457","David Copperfield",268,236
+"458","David Copperfield",354,236
+"459","David Copperfield",254,236
+"460","David Copperfield",34,236
+"461","David Copperfield",53,236
+"462","David Copperfield",7,236
+"463","David Copperfield",68,236
+"464","David Copperfield",77,236
+"465","David Copperfield",329,236
+"466","David Copperfield",205,236
+"467","David Copperfield",42,236
+"468","David Copperfield",303,236
+"469","David Copperfield",270,236
+"470","David Copperfield",367,236
+"471","David Copperfield",385,236
+"472","David Copperfield",248,236
+"473","David Copperfield",223,236
+"474","David Copperfield",106,236
+"475","David Copperfield",176,236
+"476","David Copperfield",113,236
+"477","David Copperfield",159,236
+"478","David Copperfield",224,236
+"479","David Copperfield",200,236
+"480","David Copperfield",386,236
+"481","David Copperfield",101,236
+"482","David Copperfield",178,236
+"483","David Copperfield",318,236
+"484","David Copperfield",380,236
+"485","David Copperfield",201,236
+"486","David Copperfield",233,236
+"487","David Copperfield",147,236
+"488","David Copperfield",168,236
+"489","David Copperfield",274,236
+"490","David Copperfield",31,236
+"491","David Copperfield",162,236
+"492","David Copperfield",311,236
+"493","David Copperfield",297,236
+"494","David Copperfield",188,236
+"495","David Copperfield",33,236
+"496","David Copperfield",235,236
+"497","David Copperfield",253,236
+"498","David Copperfield",227,236
+"499","David Copperfield",312,236
+"500","David Copperfield",110,236
+"501","David Copperfield",204,236
+"502","David Copperfield",17,236
+"503","David Copperfield",269,236
+"504","David Copperfield",229,236
+"505","David Copperfield",281,236
+"506","David Copperfield",119,236
+"507","David Copperfield",221,236
+"508","David Copperfield",136,236
+"509","David Copperfield",183,236
+"510","David Copperfield",191,236
+"511","David Copperfield",137,236
+"512","David Copperfield",256,236
+"513","David Copperfield",263,236
+"514","David Copperfield",378,236
+"515","David Copperfield",280,236
+"516","David Copperfield",121,236
+"517","David Copperfield",145,236
+"518","David Copperfield",296,236
+"519","David Copperfield",20,236
+"520","David Copperfield",232,236
+"521","David Copperfield",309,236
+"522","David Copperfield",114,236
+"523","David Copperfield",217,236
+"524","David Copperfield",345,236
+"525","David Copperfield",319,236
+"526","David Copperfield",381,236
+"527","David Copperfield",225,236
+"528","David Copperfield",310,236
+"529","David Copperfield",234,236
+"530","David Copperfield",202,236
+"531","David Copperfield",375,236
+"532","David Copperfield",210,236
+"533","David Copperfield",195,236
+"534","David Copperfield",327,236
+"535","David Copperfield",85,236
+"536","David Copperfield",52,236
+"537","David Copperfield",66,236
+"538","David Copperfield",96,236
+"539","David Copperfield",374,236
+"540","David Copperfield",322,236
+"541","David Copperfield",67,236
+"542","David Copperfield",46,236
+"543","David Copperfield",164,236
+"544","David Copperfield",257,236
+"545","David Copperfield",11,236
+"546","David Copperfield",384,236
+"547","David Copperfield",143,236
+"548","David Copperfield",26,236
+"549","David Copperfield",69,236
+"550","David Copperfield",214,236
+"551","David Copperfield",151,236
+"552","David Copperfield",356,236
+"553","David Copperfield",99,236
+"554","David Copperfield",130,236
+"555","David Copperfield",306,236
+"556","David Copperfield",78,236
+"557","David Copperfield",182,236
+"558","David Copperfield",363,236
+"559","David Copperfield",177,236
+"560","David Copperfield",49,236
+"561","David Copperfield",294,236
+"562","David Copperfield",146,236
+"563","David Copperfield",273,236
+"564","David Copperfield",122,236
+"565","David Copperfield",295,236
+"566","David Copperfield",115,236
+"567","David Copperfield",245,236
+"568","David Copperfield",161,236
+"569","David Copperfield",387,236
+"570","David Copperfield",184,236
+"571","David Copperfield",149,236
+"572","David Copperfield",102,236
+"573","David Copperfield",180,236
+"574","David Copperfield",260,236
+"575","David Copperfield",372,236
+"576","David Copperfield",163,236
+"577","David Copperfield",370,236
+"578","David Copperfield",383,236
+"579","David Copperfield",298,236
+"580","David Copperfield",243,236
+"581","David Copperfield",126,236
+"582","David Copperfield",220,236
+"583","David Copperfield",340,236
+"584","David Copperfield",63,236
+"585","David Copperfield",337,236
+"586","David Copperfield",187,236
+"587","David Copperfield",157,236
+"588","David Copperfield",128,236
+"589","David Copperfield",314,236
+"590","David Copperfield",262,236
+"591","David Copperfield",377,236
+"592","David Copperfield",112,236
+"593","David Copperfield",103,236
+"594","David Copperfield",45,236
+"595","David Copperfield",266,236
+"596","David Copperfield",212,236
+"597","David Copperfield",142,236
+"598","David Copperfield",332,236
+"599","David Copperfield",236,236
+"600","David Copperfield",308,236
+"601","David Copperfield",258,236
+"602","David Copperfield",244,236
+"603","David Copperfield",282,236
+"604","David Copperfield",242,236
+"605","David Copperfield",343,236
+"606","David Copperfield",131,236
+"607","David Copperfield",335,236
+"608","David Copperfield",156,236
+"609","David Copperfield",251,236
+"610","David Copperfield",287,236
+"611","David Copperfield",152,236
+"612","David Copperfield",320,236
+"613","David Copperfield",338,236
+"614","David Copperfield",98,236
+"615","David Copperfield",249,236
+"616","Doctor Strong",104,21
+"617","Doctor Strong",106,21
+"618","Doctor Strong",109,21
+"619","Doctor Strong",289,21
+"620","Doctor Strong",113,21
+"621","Doctor Strong",105,21
+"622","Doctor Strong",288,21
+"623","Doctor Strong",121,21
+"624","Doctor Strong",269,21
+"625","Doctor Strong",118,21
+"626","Doctor Strong",101,21
+"627","Doctor Strong",117,21
+"628","Doctor Strong",119,21
+"629","Doctor Strong",100,21
+"630","Doctor Strong",382,21
+"631","Doctor Strong",286,21
+"632","Doctor Strong",102,21
+"633","Doctor Strong",230,21
+"634","Doctor Strong",115,21
+"635","Doctor Strong",114,21
+"636","Doctor Strong",110,21
+"637","George Demple",34,3
+"638","George Demple",47,3
+"639","George Demple",30,3
+"640","Grainger",158,2
+"641","Grainger",159,2
+"642","Gregory",72,1
+"643","Ham Peggotty",16,42
+"644","Ham Peggotty",64,42
+"645","Ham Peggotty",13,42
+"646","Ham Peggotty",18,42
+"647","Ham Peggotty",143,42
+"648","Ham Peggotty",255,42
+"649","Ham Peggotty",199,42
+"650","Ham Peggotty",149,42
+"651","Ham Peggotty",148,42
+"652","Ham Peggotty",109,42
+"653","Ham Peggotty",137,42
+"654","Ham Peggotty",45,42
+"655","Ham Peggotty",66,42
+"656","Ham Peggotty",205,42
+"657","Ham Peggotty",258,42
+"658","Ham Peggotty",195,42
+"659","Ham Peggotty",345,42
+"660","Ham Peggotty",27,42
+"661","Ham Peggotty",65,42
+"662","Ham Peggotty",349,42
+"663","Ham Peggotty",324,42
+"664","Ham Peggotty",11,42
+"665","Ham Peggotty",15,42
+"666","Ham Peggotty",46,42
+"667","Ham Peggotty",17,42
+"668","Ham Peggotty",138,42
+"669","Ham Peggotty",297,42
+"670","Ham Peggotty",203,42
+"671","Ham Peggotty",200,42
+"672","Ham Peggotty",147,42
+"673","Ham Peggotty",347,42
+"674","Ham Peggotty",257,42
+"675","Ham Peggotty",139,42
+"676","Ham Peggotty",322,42
+"677","Ham Peggotty",197,42
+"678","Ham Peggotty",202,42
+"679","Ham Peggotty",63,42
+"680","Ham Peggotty",14,42
+"681","Ham Peggotty",4,42
+"682","Ham Peggotty",236,42
+"683","Ham Peggotty",201,42
+"684","Ham Peggotty",142,42
+"685","Jack Maldon",101,16
+"686","Jack Maldon",230,16
+"687","Jack Maldon",231,16
+"688","Jack Maldon",229,16
+"689","Jack Maldon",107,16
+"690","Jack Maldon",124,16
+"691","Jack Maldon",123,16
+"692","Jack Maldon",386,16
+"693","Jack Maldon",286,16
+"694","Jack Maldon",267,16
+"695","Jack Maldon",269,16
+"696","Jack Maldon",100,16
+"697","Jack Maldon",105,16
+"698","Jack Maldon",106,16
+"699","Jack Maldon",102,16
+"700","Jack Maldon",108,16
+"701","James Steerforth",158,73
+"702","James Steerforth",55,73
+"703","James Steerforth",130,73
+"704","James Steerforth",48,73
+"705","James Steerforth",156,73
+"706","James Steerforth",315,73
+"707","James Steerforth",297,73
+"708","James Steerforth",165,73
+"709","James Steerforth",38,73
+"710","James Steerforth",191,73
+"711","James Steerforth",153,73
+"712","James Steerforth",188,73
+"713","James Steerforth",140,73
+"714","James Steerforth",200,73
+"715","James Steerforth",317,73
+"716","James Steerforth",129,73
+"717","James Steerforth",144,73
+"718","James Steerforth",52,73
+"719","James Steerforth",80,73
+"720","James Steerforth",45,73
+"721","James Steerforth",50,73
+"722","James Steerforth",131,73
+"723","James Steerforth",170,73
+"724","James Steerforth",148,73
+"725","James Steerforth",155,73
+"726","James Steerforth",162,73
+"727","James Steerforth",117,73
+"728","James Steerforth",187,73
+"729","James Steerforth",152,73
+"730","James Steerforth",151,73
+"731","James Steerforth",139,73
+"732","James Steerforth",141,73
+"733","James Steerforth",136,73
+"734","James Steerforth",204,73
+"735","James Steerforth",182,73
+"736","James Steerforth",216,73
+"737","James Steerforth",47,73
+"738","James Steerforth",128,73
+"739","James Steerforth",143,73
+"740","James Steerforth",35,73
+"741","James Steerforth",69,73
+"742","James Steerforth",186,73
+"743","James Steerforth",132,73
+"744","James Steerforth",44,73
+"745","James Steerforth",207,73
+"746","James Steerforth",46,73
+"747","James Steerforth",133,73
+"748","James Steerforth",137,73
+"749","James Steerforth",37,73
+"750","James Steerforth",145,73
+"751","James Steerforth",138,73
+"752","James Steerforth",159,73
+"753","James Steerforth",54,73
+"754","James Steerforth",325,73
+"755","James Steerforth",42,73
+"756","James Steerforth",40,73
+"757","James Steerforth",157,73
+"758","James Steerforth",146,73
+"759","James Steerforth",147,73
+"760","James Steerforth",41,73
+"761","James Steerforth",160,73
+"762","James Steerforth",81,73
+"763","James Steerforth",142,73
+"764","James Steerforth",127,73
+"765","James Steerforth",190,73
+"766","James Steerforth",295,73
+"767","James Steerforth",189,73
+"768","James Steerforth",183,73
+"769","James Steerforth",43,73
+"770","James Steerforth",201,73
+"771","James Steerforth",206,73
+"772","James Steerforth",294,73
+"773","James Steerforth",293,73
+"774","Jane Murdstone",23,38
+"775","Jane Murdstone",174,38
+"776","Jane Murdstone",94,38
+"777","Jane Murdstone",27,38
+"778","Jane Murdstone",54,38
+"779","Jane Murdstone",26,38
+"780","Jane Murdstone",35,38
+"781","Jane Murdstone",210,38
+"782","Jane Murdstone",368,38
+"783","Jane Murdstone",22,38
+"784","Jane Murdstone",93,38
+"785","Jane Murdstone",53,38
+"786","Jane Murdstone",91,38
+"787","Jane Murdstone",175,38
+"788","Jane Murdstone",243,38
+"789","Jane Murdstone",45,38
+"790","Jane Murdstone",92,38
+"791","Jane Murdstone",24,38
+"792","Jane Murdstone",109,38
+"793","Jane Murdstone",49,38
+"794","Jane Murdstone",50,38
+"795","Jane Murdstone",241,38
+"796","Jane Murdstone",242,38
+"797","Jane Murdstone",77,38
+"798","Jane Murdstone",173,38
+"799","Jane Murdstone",48,38
+"800","Jane Murdstone",21,38
+"801","Jane Murdstone",61,38
+"802","Jane Murdstone",58,38
+"803","Jane Murdstone",60,38
+"804","Jane Murdstone",68,38
+"805","Jane Murdstone",66,38
+"806","Jane Murdstone",57,38
+"807","Jane Murdstone",25,38
+"808","Jane Murdstone",52,38
+"809","Jane Murdstone",152,38
+"810","Jane Murdstone",212,38
+"811","Jane Murdstone",172,38
+"812","Janet",91,12
+"813","Janet",92,12
+"814","Janet",88,12
+"815","Janet",86,12
+"816","Janet",277,12
+"817","Janet",247,12
+"818","Janet",219,12
+"819","Janet",89,12
+"820","Janet",370,12
+"821","Janet",152,12
+"822","Janet",85,12
+"823","Janet",156,12
+"824","Julia Mills",386,18
+"825","Julia Mills",305,18
+"826","Julia Mills",244,18
+"827","Julia Mills",268,18
+"828","Julia Mills",215,18
+"829","Julia Mills",247,18
+"830","Julia Mills",237,18
+"831","Julia Mills",212,18
+"832","Julia Mills",243,18
+"833","Julia Mills",213,18
+"834","Julia Mills",246,18
+"835","Julia Mills",245,18
+"836","Julia Mills",236,18
+"837","Julia Mills",259,18
+"838","Julia Mills",231,18
+"839","Julia Mills",241,18
+"840","Julia Mills",214,18
+"841","Julia Mills",238,18
+"842","Lady Mithers",145,1
+"843","Lavinia Spenlow",267,16
+"844","Lavinia Spenlow",260,16
+"845","Lavinia Spenlow",263,16
+"846","Lavinia Spenlow",266,16
+"847","Lavinia Spenlow",275,16
+"848","Lavinia Spenlow",262,16
+"849","Lavinia Spenlow",245,16
+"850","Lavinia Spenlow",265,16
+"851","Lavinia Spenlow",277,16
+"852","Lavinia Spenlow",305,16
+"853","Lavinia Spenlow",278,16
+"854","Lavinia Spenlow",268,16
+"855","Lavinia Spenlow",264,16
+"856","Lavinia Spenlow",261,16
+"857","Lavinia Spenlow",259,16
+"858","Lavinia Spenlow",276,16
+"859","Littimer",294,15
+"860","Littimer",204,15
+"861","Littimer",206,15
+"862","Littimer",205,15
+"863","Littimer",182,15
+"864","Littimer",189,15
+"865","Littimer",296,15
+"866","Littimer",133,15
+"867","Littimer",295,15
+"868","Littimer",132,15
+"869","Littimer",183,15
+"870","Littimer",151,15
+"871","Littimer",143,15
+"872","Littimer",144,15
+"873","Littimer",377,15
+"874","Little Emily",134,63
+"875","Little Emily",323,63
+"876","Little Emily",60,63
+"877","Little Emily",198,63
+"878","Little Emily",297,63
+"879","Little Emily",216,63
+"880","Little Emily",18,63
+"881","Little Emily",200,63
+"882","Little Emily",358,63
+"883","Little Emily",62,63
+"884","Little Emily",15,63
+"885","Little Emily",16,63
+"886","Little Emily",319,63
+"887","Little Emily",195,63
+"888","Little Emily",45,63
+"889","Little Emily",320,63
+"890","Little Emily",102,63
+"891","Little Emily",383,63
+"892","Little Emily",324,63
+"893","Little Emily",256,63
+"894","Little Emily",139,63
+"895","Little Emily",197,63
+"896","Little Emily",20,63
+"897","Little Emily",149,63
+"898","Little Emily",46,63
+"899","Little Emily",203,63
+"900","Little Emily",151,63
+"901","Little Emily",64,63
+"902","Little Emily",258,63
+"903","Little Emily",349,63
+"904","Little Emily",17,63
+"905","Little Emily",385,63
+"906","Little Emily",148,63
+"907","Little Emily",316,63
+"908","Little Emily",138,63
+"909","Little Emily",187,63
+"910","Little Emily",206,63
+"911","Little Emily",109,63
+"912","Little Emily",314,63
+"913","Little Emily",146,63
+"914","Little Emily",29,63
+"915","Little Emily",345,63
+"916","Little Emily",199,63
+"917","Little Emily",255,63
+"918","Little Emily",137,63
+"919","Little Emily",142,63
+"920","Little Emily",65,63
+"921","Little Emily",147,63
+"922","Little Emily",321,63
+"923","Little Emily",317,63
+"924","Little Emily",173,63
+"925","Little Emily",193,63
+"926","Little Emily",371,63
+"927","Little Emily",357,63
+"928","Little Emily",194,63
+"929","Little Emily",257,63
+"930","Little Emily",384,63
+"931","Little Emily",41,63
+"932","Little Emily",27,63
+"933","Little Emily",326,63
+"934","Little Emily",135,63
+"935","Little Emily",63,63
+"936","Little Emily",14,63
+"937","Louisa Crewler",364,1
+"938","Markham",158,3
+"939","Markham",161,3
+"940","Markham",159,3
+"941","Martha Endell",384,16
+"942","Martha Endell",256,16
+"943","Martha Endell",148,16
+"944","Martha Endell",314,16
+"945","Martha Endell",323,16
+"946","Martha Endell",255,16
+"947","Martha Endell",301,16
+"948","Martha Endell",151,16
+"949","Martha Endell",150,16
+"950","Martha Endell",315,16
+"951","Martha Endell",316,16
+"952","Martha Endell",357,16
+"953","Martha Endell",194,16
+"954","Martha Endell",300,16
+"955","Martha Endell",297,16
+"956","Martha Endell",149,16
+"957","Mary Anne Paragon",281,3
+"958","Mary Anne Paragon",279,3
+"959","Mary Anne Paragon",280,3
+"960","Mealy Potatoes",101,5
+"961","Mealy Potatoes",69,5
+"962","Mealy Potatoes",79,5
+"963","Mealy Potatoes",72,5
+"964","Mealy Potatoes",70,5
+"965","Mick Walker",72,4
+"966","Mick Walker",101,4
+"967","Mick Walker",79,4
+"968","Mick Walker",69,4
+"969","Minnie Joram",323,12
+"970","Minnie Joram",194,12
+"971","Minnie Joram",135,12
+"972","Minnie Joram",56,12
+"973","Minnie Joram",57,12
+"974","Minnie Joram",134,12
+"975","Minnie Joram",58,12
+"976","Minnie Joram",193,12
+"977","Minnie Joram",133,12
+"978","Minnie Joram",202,12
+"979","Minnie Joram",324,12
+"980","Minnie Joram",203,12
+"981","Miss Betsey Trotwood",1,140
+"982","Miss Betsey Trotwood",325,140
+"983","Miss Betsey Trotwood",381,140
+"984","Miss Betsey Trotwood",2,140
+"985","Miss Betsey Trotwood",243,140
+"986","Miss Betsey Trotwood",310,140
+"987","Miss Betsey Trotwood",3,140
+"988","Miss Betsey Trotwood",218,140
+"989","Miss Betsey Trotwood",382,140
+"990","Miss Betsey Trotwood",327,140
+"991","Miss Betsey Trotwood",4,140
+"992","Miss Betsey Trotwood",83,140
+"993","Miss Betsey Trotwood",170,140
+"994","Miss Betsey Trotwood",5,140
+"995","Miss Betsey Trotwood",219,140
+"996","Miss Betsey Trotwood",103,140
+"997","Miss Betsey Trotwood",148,140
+"998","Miss Betsey Trotwood",245,140
+"999","Miss Betsey Trotwood",86,140
+"1000","Miss Betsey Trotwood",220,140
+"1001","Miss Betsey Trotwood",110,140
+"1002","Miss Betsey Trotwood",313,140
+"1003","Miss Betsey Trotwood",329,140
+"1004","Miss Betsey Trotwood",302,140
+"1005","Miss Betsey Trotwood",221,140
+"1006","Miss Betsey Trotwood",128,140
+"1007","Miss Betsey Trotwood",222,140
+"1008","Miss Betsey Trotwood",303,140
+"1009","Miss Betsey Trotwood",336,140
+"1010","Miss Betsey Trotwood",330,140
+"1011","Miss Betsey Trotwood",385,140
+"1012","Miss Betsey Trotwood",151,140
+"1013","Miss Betsey Trotwood",78,140
+"1014","Miss Betsey Trotwood",176,140
+"1015","Miss Betsey Trotwood",307,140
+"1016","Miss Betsey Trotwood",272,140
+"1017","Miss Betsey Trotwood",224,140
+"1018","Miss Betsey Trotwood",308,140
+"1019","Miss Betsey Trotwood",79,140
+"1020","Miss Betsey Trotwood",152,140
+"1021","Miss Betsey Trotwood",386,140
+"1022","Miss Betsey Trotwood",273,140
+"1023","Miss Betsey Trotwood",345,140
+"1024","Miss Betsey Trotwood",153,140
+"1025","Miss Betsey Trotwood",225,140
+"1026","Miss Betsey Trotwood",319,140
+"1027","Miss Betsey Trotwood",81,140
+"1028","Miss Betsey Trotwood",154,140
+"1029","Miss Betsey Trotwood",234,140
+"1030","Miss Betsey Trotwood",226,140
+"1031","Miss Betsey Trotwood",311,140
+"1032","Miss Betsey Trotwood",94,140
+"1033","Miss Betsey Trotwood",84,140
+"1034","Miss Betsey Trotwood",109,140
+"1035","Miss Betsey Trotwood",95,140
+"1036","Miss Betsey Trotwood",85,140
+"1037","Miss Betsey Trotwood",227,140
+"1038","Miss Betsey Trotwood",312,140
+"1039","Miss Betsey Trotwood",342,140
+"1040","Miss Betsey Trotwood",156,140
+"1041","Miss Betsey Trotwood",91,140
+"1042","Miss Betsey Trotwood",97,140
+"1043","Miss Betsey Trotwood",87,140
+"1044","Miss Betsey Trotwood",229,140
+"1045","Miss Betsey Trotwood",255,140
+"1046","Miss Betsey Trotwood",88,140
+"1047","Miss Betsey Trotwood",343,140
+"1048","Miss Betsey Trotwood",89,140
+"1049","Miss Betsey Trotwood",262,140
+"1050","Miss Betsey Trotwood",90,140
+"1051","Miss Betsey Trotwood",278,140
+"1052","Miss Betsey Trotwood",240,140
+"1053","Miss Betsey Trotwood",368,140
+"1054","Miss Betsey Trotwood",93,140
+"1055","Miss Betsey Trotwood",231,140
+"1056","Miss Betsey Trotwood",280,140
+"1057","Miss Betsey Trotwood",121,140
+"1058","Miss Betsey Trotwood",338,140
+"1059","Miss Betsey Trotwood",159,140
+"1060","Miss Betsey Trotwood",92,140
+"1061","Miss Betsey Trotwood",122,140
+"1062","Miss Betsey Trotwood",370,140
+"1063","Miss Betsey Trotwood",321,140
+"1064","Miss Betsey Trotwood",285,140
+"1065","Miss Betsey Trotwood",259,140
+"1066","Miss Betsey Trotwood",362,140
+"1067","Miss Betsey Trotwood",322,140
+"1068","Miss Betsey Trotwood",286,140
+"1069","Miss Betsey Trotwood",292,140
+"1070","Miss Betsey Trotwood",371,140
+"1071","Miss Betsey Trotwood",320,140
+"1072","Miss Betsey Trotwood",244,140
+"1073","Miss Betsey Trotwood",210,140
+"1074","Miss Betsey Trotwood",117,140
+"1075","Miss Betsey Trotwood",155,140
+"1076","Miss Betsey Trotwood",119,140
+"1077","Miss Betsey Trotwood",288,140
+"1078","Miss Betsey Trotwood",96,140
+"1079","Miss Betsey Trotwood",354,140
+"1080","Miss Betsey Trotwood",239,140
+"1081","Miss Betsey Trotwood",263,140
+"1082","Miss Betsey Trotwood",50,140
+"1083","Miss Betsey Trotwood",236,140
+"1084","Miss Betsey Trotwood",127,140
+"1085","Miss Betsey Trotwood",355,140
+"1086","Miss Betsey Trotwood",98,140
+"1087","Miss Betsey Trotwood",264,140
+"1088","Miss Betsey Trotwood",237,140
+"1089","Miss Betsey Trotwood",232,140
+"1090","Miss Betsey Trotwood",328,140
+"1091","Miss Betsey Trotwood",99,140
+"1092","Miss Betsey Trotwood",291,140
+"1093","Miss Betsey Trotwood",112,140
+"1094","Miss Betsey Trotwood",340,140
+"1095","Miss Betsey Trotwood",223,140
+"1096","Miss Betsey Trotwood",344,140
+"1097","Miss Betsey Trotwood",335,140
+"1098","Miss Betsey Trotwood",357,140
+"1099","Miss Betsey Trotwood",379,140
+"1100","Miss Betsey Trotwood",287,140
+"1101","Miss Betsey Trotwood",339,140
+"1102","Miss Betsey Trotwood",141,140
+"1103","Miss Betsey Trotwood",290,140
+"1104","Miss Betsey Trotwood",372,140
+"1105","Miss Betsey Trotwood",356,140
+"1106","Miss Betsey Trotwood",195,140
+"1107","Miss Betsey Trotwood",374,140
+"1108","Miss Betsey Trotwood",341,140
+"1109","Miss Betsey Trotwood",337,140
+"1110","Miss Betsey Trotwood",333,140
+"1111","Miss Betsey Trotwood",252,140
+"1112","Miss Betsey Trotwood",365,140
+"1113","Miss Betsey Trotwood",173,140
+"1114","Miss Betsey Trotwood",369,140
+"1115","Miss Betsey Trotwood",247,140
+"1116","Miss Betsey Trotwood",275,140
+"1117","Miss Betsey Trotwood",111,140
+"1118","Miss Betsey Trotwood",281,140
+"1119","Miss Betsey Trotwood",277,140
+"1120","Miss Betsey Trotwood",289,140
+"1121","Miss Creakle",34,5
+"1122","Miss Creakle",43,5
+"1123","Miss Creakle",41,5
+"1124","Miss Creakle",36,5
+"1125","Miss Creakle",38,5
+"1126","Miss Kitt",215,1
+"1127","Miss Larkins",119,6
+"1128","Miss Larkins",122,6
+"1129","Miss Larkins",372,6
+"1130","Miss Larkins",162,6
+"1131","Miss Larkins",120,6
+"1132","Miss Larkins",118,6
+"1133","Miss Micawber",77,6
+"1134","Miss Micawber",354,6
+"1135","Miss Micawber",70,6
+"1136","Miss Micawber",180,6
+"1137","Miss Micawber",233,6
+"1138","Miss Micawber",335,6
+"1139","Miss Mowcher",204,8
+"1140","Miss Mowcher",205,8
+"1141","Miss Mowcher",145,8
+"1142","Miss Mowcher",146,8
+"1143","Miss Mowcher",203,8
+"1144","Miss Mowcher",144,8
+"1145","Miss Mowcher",378,8
+"1146","Miss Mowcher",147,8
+"1147","Miss Shepherd",117,2
+"1148","Miss Shepherd",372,2
+"1149","Misses Nettingall",117,1
+"1150","Mithers",145,1
+"1151","Mr Chestle",119,1
+"1152","Mr Chillip",367,11
+"1153","Mr Chillip",58,11
+"1154","Mr Chillip",66,11
+"1155","Mr Chillip",4,11
+"1156","Mr Chillip",368,11
+"1157","Mr Chillip",141,11
+"1158","Mr Chillip",366,11
+"1159","Mr Chillip",5,11
+"1160","Mr Chillip",194,11
+"1161","Mr Chillip",197,11
+"1162","Mr Chillip",7,11
+"1163","Mr Creakle",45,24
+"1164","Mr Creakle",376,24
+"1165","Mr Creakle",54,24
+"1166","Mr Creakle",35,24
+"1167","Mr Creakle",40,24
+"1168","Mr Creakle",377,24
+"1169","Mr Creakle",104,24
+"1170","Mr Creakle",44,24
+"1171","Mr Creakle",47,24
+"1172","Mr Creakle",34,24
+"1173","Mr Creakle",55,24
+"1174","Mr Creakle",42,24
+"1175","Mr Creakle",41,24
+"1176","Mr Creakle",43,24
+"1177","Mr Creakle",37,24
+"1178","Mr Creakle",375,24
+"1179","Mr Creakle",50,24
+"1180","Mr Creakle",378,24
+"1181","Mr Creakle",36,24
+"1182","Mr Creakle",130,24
+"1183","Mr Creakle",86,24
+"1184","Mr Creakle",126,24
+"1185","Mr Creakle",81,24
+"1186","Mr Creakle",38,24
+"1187","Mr Dick",95,52
+"1188","Mr Dick",219,52
+"1189","Mr Dick",90,52
+"1190","Mr Dick",96,52
+"1191","Mr Dick",122,52
+"1192","Mr Dick",109,52
+"1193","Mr Dick",86,52
+"1194","Mr Dick",302,52
+"1195","Mr Dick",85,52
+"1196","Mr Dick",152,52
+"1197","Mr Dick",99,52
+"1198","Mr Dick",111,52
+"1199","Mr Dick",87,52
+"1200","Mr Dick",312,52
+"1201","Mr Dick",288,52
+"1202","Mr Dick",381,52
+"1203","Mr Dick",291,52
+"1204","Mr Dick",110,52
+"1205","Mr Dick",277,52
+"1206","Mr Dick",240,52
+"1207","Mr Dick",273,52
+"1208","Mr Dick",89,52
+"1209","Mr Dick",119,52
+"1210","Mr Dick",334,52
+"1211","Mr Dick",117,52
+"1212","Mr Dick",289,52
+"1213","Mr Dick",92,52
+"1214","Mr Dick",232,52
+"1215","Mr Dick",328,52
+"1216","Mr Dick",341,52
+"1217","Mr Dick",382,52
+"1218","Mr Dick",220,52
+"1219","Mr Dick",327,52
+"1220","Mr Dick",255,52
+"1221","Mr Dick",94,52
+"1222","Mr Dick",286,52
+"1223","Mr Dick",292,52
+"1224","Mr Dick",287,52
+"1225","Mr Dick",225,52
+"1226","Mr Dick",335,52
+"1227","Mr Dick",231,52
+"1228","Mr Dick",93,52
+"1229","Mr Dick",308,52
+"1230","Mr Dick",154,52
+"1231","Mr Dick",91,52
+"1232","Mr Dick",370,52
+"1233","Mr Dick",218,52
+"1234","Mr Dick",236,52
+"1235","Mr Dick",259,52
+"1236","Mr Dick",252,52
+"1237","Mr Dick",121,52
+"1238","Mr Dick",368,52
+"1239","Mr Dolloby",80,2
+"1240","Mr Dolloby",81,2
+"1241","Mr Grayper",141,2
+"1242","Mr Grayper",58,2
+"1243","Mr Gulpidge",164,2
+"1244","Mr Gulpidge",165,2
+"1245","Mr Gummidge",64,5
+"1246","Mr Gummidge",139,5
+"1247","Mr Gummidge",20,5
+"1248","Mr Gummidge",198,5
+"1249","Mr Gummidge",18,5
+"1250","Mr Henry Spiker",164,3
+"1251","Mr Henry Spiker",165,3
+"1252","Mr Henry Spiker",163,3
+"1253","Mr Joram",134,12
+"1254","Mr Joram",193,12
+"1255","Mr Joram",204,12
+"1256","Mr Joram",323,12
+"1257","Mr Joram",147,12
+"1258","Mr Joram",351,12
+"1259","Mr Joram",194,12
+"1260","Mr Joram",324,12
+"1261","Mr Joram",133,12
+"1262","Mr Joram",151,12
+"1263","Mr Joram",57,12
+"1264","Mr Joram",322,12
+"1265","Mr Jorkins",223,10
+"1266","Mr Jorkins",156,10
+"1267","Mr Jorkins",210,10
+"1268","Mr Jorkins",155,10
+"1269","Mr Jorkins",170,10
+"1270","Mr Jorkins",245,10
+"1271","Mr Jorkins",247,10
+"1272","Mr Jorkins",154,10
+"1273","Mr Jorkins",153,10
+"1274","Mr Jorkins",189,10
+"1275","Mr Larkins",119,2
+"1276","Mr Larkins",118,2
+"1277","Mr Mell",45,12
+"1278","Mr Mell",35,12
+"1279","Mr Mell",43,12
+"1280","Mr Mell",36,12
+"1281","Mr Mell",385,12
+"1282","Mr Mell",42,12
+"1283","Mr Mell",34,12
+"1284","Mr Mell",37,12
+"1285","Mr Mell",38,12
+"1286","Mr Mell",44,12
+"1287","Mr Mell",33,12
+"1288","Mr Mell",41,12
+"1289","Mr Micawber",356,64
+"1290","Mr Micawber",330,64
+"1291","Mr Micawber",328,64
+"1292","Mr Micawber",248,64
+"1293","Mr Micawber",364,64
+"1294","Mr Micawber",188,64
+"1295","Mr Micawber",183,64
+"1296","Mr Micawber",314,64
+"1297","Mr Micawber",336,64
+"1298","Mr Micawber",181,64
+"1299","Mr Micawber",75,64
+"1300","Mr Micawber",343,64
+"1301","Mr Micawber",329,64
+"1302","Mr Micawber",332,64
+"1303","Mr Micawber",74,64
+"1304","Mr Micawber",342,64
+"1305","Mr Micawber",341,64
+"1306","Mr Micawber",309,64
+"1307","Mr Micawber",78,64
+"1308","Mr Micawber",339,64
+"1309","Mr Micawber",371,64
+"1310","Mr Micawber",355,64
+"1311","Mr Micawber",327,64
+"1312","Mr Micawber",334,64
+"1313","Mr Micawber",235,64
+"1314","Mr Micawber",333,64
+"1315","Mr Micawber",244,64
+"1316","Mr Micawber",73,64
+"1317","Mr Micawber",114,64
+"1318","Mr Micawber",335,64
+"1319","Mr Micawber",182,64
+"1320","Mr Micawber",71,64
+"1321","Mr Micawber",180,64
+"1322","Mr Micawber",77,64
+"1323","Mr Micawber",384,64
+"1324","Mr Micawber",310,64
+"1325","Mr Micawber",233,64
+"1326","Mr Micawber",273,64
+"1327","Mr Micawber",312,64
+"1328","Mr Micawber",274,64
+"1329","Mr Micawber",250,64
+"1330","Mr Micawber",185,64
+"1331","Mr Micawber",313,64
+"1332","Mr Micawber",70,64
+"1333","Mr Micawber",115,64
+"1334","Mr Micawber",385,64
+"1335","Mr Micawber",234,64
+"1336","Mr Micawber",232,64
+"1337","Mr Micawber",76,64
+"1338","Mr Micawber",344,64
+"1339","Mr Micawber",311,64
+"1340","Mr Micawber",184,64
+"1341","Mr Micawber",72,64
+"1342","Mr Micawber",217,64
+"1343","Mr Micawber",179,64
+"1344","Mr Micawber",357,64
+"1345","Mr Micawber",113,64
+"1346","Mr Micawber",177,64
+"1347","Mr Micawber",354,64
+"1348","Mr Micawber",80,64
+"1349","Mr Micawber",370,64
+"1350","Mr Micawber",186,64
+"1351","Mr Micawber",331,64
+"1352","Mr Micawber",340,64
+"1353","Mr Mills",236,4
+"1354","Mr Mills",214,4
+"1355","Mr Mills",243,4
+"1356","Mr Mills",259,4
+"1357","Mr Murdstone",54,39
+"1358","Mr Murdstone",367,39
+"1359","Mr Murdstone",23,39
+"1360","Mr Murdstone",10,39
+"1361","Mr Murdstone",210,39
+"1362","Mr Murdstone",77,39
+"1363","Mr Murdstone",68,39
+"1364","Mr Murdstone",109,39
+"1365","Mr Murdstone",66,39
+"1366","Mr Murdstone",35,39
+"1367","Mr Murdstone",92,39
+"1368","Mr Murdstone",32,39
+"1369","Mr Murdstone",20,39
+"1370","Mr Murdstone",9,39
+"1371","Mr Murdstone",49,39
+"1372","Mr Murdstone",209,39
+"1373","Mr Murdstone",11,39
+"1374","Mr Murdstone",58,39
+"1375","Mr Murdstone",91,39
+"1376","Mr Murdstone",31,39
+"1377","Mr Murdstone",70,39
+"1378","Mr Murdstone",25,39
+"1379","Mr Murdstone",26,39
+"1380","Mr Murdstone",94,39
+"1381","Mr Murdstone",27,39
+"1382","Mr Murdstone",24,39
+"1383","Mr Murdstone",52,39
+"1384","Mr Murdstone",67,39
+"1385","Mr Murdstone",173,39
+"1386","Mr Murdstone",48,39
+"1387","Mr Murdstone",368,39
+"1388","Mr Murdstone",93,39
+"1389","Mr Murdstone",60,39
+"1390","Mr Murdstone",57,39
+"1391","Mr Murdstone",75,39
+"1392","Mr Murdstone",53,39
+"1393","Mr Murdstone",19,39
+"1394","Mr Murdstone",50,39
+"1395","Mr Murdstone",22,39
+"1396","Mr Omer",195,15
+"1397","Mr Omer",323,15
+"1398","Mr Omer",322,15
+"1399","Mr Omer",197,15
+"1400","Mr Omer",58,15
+"1401","Mr Omer",202,15
+"1402","Mr Omer",57,15
+"1403","Mr Omer",148,15
+"1404","Mr Omer",194,15
+"1405","Mr Omer",324,15
+"1406","Mr Omer",56,15
+"1407","Mr Omer",134,15
+"1408","Mr Omer",133,15
+"1409","Mr Omer",135,15
+"1410","Mr Omer",193,15
+"1411","Mr Passnidge",10,1
+"1412","Mr Quinion",67,8
+"1413","Mr Quinion",77,8
+"1414","Mr Quinion",70,8
+"1415","Mr Quinion",79,8
+"1416","Mr Quinion",69,8
+"1417","Mr Quinion",68,8
+"1418","Mr Quinion",72,8
+"1419","Mr Quinion",10,8
+"1420","Mr Sharp",55,5
+"1421","Mr Sharp",43,5
+"1422","Mr Sharp",38,5
+"1423","Mr Sharp",37,5
+"1424","Mr Sharp",41,5
+"1425","Mr Spenlow",175,28
+"1426","Mr Spenlow",212,28
+"1427","Mr Spenlow",211,28
+"1428","Mr Spenlow",154,28
+"1429","Mr Spenlow",215,28
+"1430","Mr Spenlow",243,28
+"1431","Mr Spenlow",172,28
+"1432","Mr Spenlow",223,28
+"1433","Mr Spenlow",213,28
+"1434","Mr Spenlow",247,28
+"1435","Mr Spenlow",240,28
+"1436","Mr Spenlow",179,28
+"1437","Mr Spenlow",171,28
+"1438","Mr Spenlow",261,28
+"1439","Mr Spenlow",209,28
+"1440","Mr Spenlow",170,28
+"1441","Mr Spenlow",245,28
+"1442","Mr Spenlow",242,28
+"1443","Mr Spenlow",189,28
+"1444","Mr Spenlow",214,28
+"1445","Mr Spenlow",174,28
+"1446","Mr Spenlow",263,28
+"1447","Mr Spenlow",260,28
+"1448","Mr Spenlow",210,28
+"1449","Mr Spenlow",155,28
+"1450","Mr Spenlow",262,28
+"1451","Mr Spenlow",222,28
+"1452","Mr Spenlow",241,28
+"1453","Mr Tiffey",210,7
+"1454","Mr Tiffey",243,7
+"1455","Mr Tiffey",222,7
+"1456","Mr Tiffey",245,7
+"1457","Mr Tiffey",171,7
+"1458","Mr Tiffey",244,7
+"1459","Mr Tiffey",209,7
+"1460","Mr Waterbrook",164,5
+"1461","Mr Waterbrook",165,5
+"1462","Mr Waterbrook",178,5
+"1463","Mr Waterbrook",161,5
+"1464","Mr Waterbrook",163,5
+"1465","Mr Wickfield",105,46
+"1466","Mr Wickfield",96,46
+"1467","Mr Wickfield",271,46
+"1468","Mr Wickfield",330,46
+"1469","Mr Wickfield",291,46
+"1470","Mr Wickfield",248,46
+"1471","Mr Wickfield",266,46
+"1472","Mr Wickfield",112,46
+"1473","Mr Wickfield",227,46
+"1474","Mr Wickfield",342,46
+"1475","Mr Wickfield",250,46
+"1476","Mr Wickfield",328,46
+"1477","Mr Wickfield",99,46
+"1478","Mr Wickfield",111,46
+"1479","Mr Wickfield",108,46
+"1480","Mr Wickfield",270,46
+"1481","Mr Wickfield",103,46
+"1482","Mr Wickfield",253,46
+"1483","Mr Wickfield",156,46
+"1484","Mr Wickfield",122,46
+"1485","Mr Wickfield",269,46
+"1486","Mr Wickfield",341,46
+"1487","Mr Wickfield",102,46
+"1488","Mr Wickfield",226,46
+"1489","Mr Wickfield",372,46
+"1490","Mr Wickfield",101,46
+"1491","Mr Wickfield",123,46
+"1492","Mr Wickfield",97,46
+"1493","Mr Wickfield",98,46
+"1494","Mr Wickfield",344,46
+"1495","Mr Wickfield",124,46
+"1496","Mr Wickfield",329,46
+"1497","Mr Wickfield",252,46
+"1498","Mr Wickfield",166,46
+"1499","Mr Wickfield",339,46
+"1500","Mr Wickfield",224,46
+"1501","Mr Wickfield",251,46
+"1502","Mr Wickfield",118,46
+"1503","Mr Wickfield",272,46
+"1504","Mr Wickfield",311,46
+"1505","Mr Wickfield",290,46
+"1506","Mr Wickfield",167,46
+"1507","Mr Wickfield",100,46
+"1508","Mr Wickfield",106,46
+"1509","Mr Wickfield",333,46
+"1510","Mr Wickfield",337,46
+"1511","Mrs Chillip",368,1
+"1512","Mrs Creakle",43,5
+"1513","Mrs Creakle",38,5
+"1514","Mrs Creakle",34,5
+"1515","Mrs Creakle",36,5
+"1516","Mrs Creakle",55,5
+"1517","Mrs Crewler",260,4
+"1518","Mrs Crewler",365,4
+"1519","Mrs Crewler",387,4
+"1520","Mrs Crewler",364,4
+"1521","Mrs Crupp",226,22
+"1522","Mrs Crupp",181,22
+"1523","Mrs Crupp",166,22
+"1524","Mrs Crupp",169,22
+"1525","Mrs Crupp",160,22
+"1526","Mrs Crupp",236,22
+"1527","Mrs Crupp",279,22
+"1528","Mrs Crupp",206,22
+"1529","Mrs Crupp",220,22
+"1530","Mrs Crupp",213,22
+"1531","Mrs Crupp",182,22
+"1532","Mrs Crupp",157,22
+"1533","Mrs Crupp",177,22
+"1534","Mrs Crupp",175,22
+"1535","Mrs Crupp",216,22
+"1536","Mrs Crupp",168,22
+"1537","Mrs Crupp",156,22
+"1538","Mrs Crupp",170,22
+"1539","Mrs Crupp",158,22
+"1540","Mrs Crupp",176,22
+"1541","Mrs Crupp",218,22
+"1542","Mrs Crupp",224,22
+"1543","Mrs Fibbitson",32,2
+"1544","Mrs Fibbitson",33,2
+"1545","Mrs Grayper",141,2
+"1546","Mrs Grayper",11,2
+"1547","Mrs Gulpidge",164,1
+"1548","Mrs Gummidge",109,31
+"1549","Mrs Gummidge",62,31
+"1550","Mrs Gummidge",21,31
+"1551","Mrs Gummidge",45,31
+"1552","Mrs Gummidge",27,31
+"1553","Mrs Gummidge",15,31
+"1554","Mrs Gummidge",63,31
+"1555","Mrs Gummidge",205,31
+"1556","Mrs Gummidge",20,31
+"1557","Mrs Gummidge",200,31
+"1558","Mrs Gummidge",384,31
+"1559","Mrs Gummidge",257,31
+"1560","Mrs Gummidge",357,31
+"1561","Mrs Gummidge",325,31
+"1562","Mrs Gummidge",326,31
+"1563","Mrs Gummidge",68,31
+"1564","Mrs Gummidge",16,31
+"1565","Mrs Gummidge",64,31
+"1566","Mrs Gummidge",202,31
+"1567","Mrs Gummidge",138,31
+"1568","Mrs Gummidge",324,31
+"1569","Mrs Gummidge",18,31
+"1570","Mrs Gummidge",198,31
+"1571","Mrs Gummidge",139,31
+"1572","Mrs Gummidge",201,31
+"1573","Mrs Gummidge",66,31
+"1574","Mrs Gummidge",322,31
+"1575","Mrs Gummidge",17,31
+"1576","Mrs Gummidge",137,31
+"1577","Mrs Gummidge",65,31
+"1578","Mrs Gummidge",142,31
+"1579","Mrs Heep",250,10
+"1580","Mrs Heep",112,10
+"1581","Mrs Heep",332,10
+"1582","Mrs Heep",224,10
+"1583","Mrs Heep",330,10
+"1584","Mrs Heep",251,10
+"1585","Mrs Heep",334,10
+"1586","Mrs Heep",113,10
+"1587","Mrs Heep",266,10
+"1588","Mrs Heep",115,10
+"1589","Mrs Henry Spiker",163,3
+"1590","Mrs Henry Spiker",165,3
+"1591","Mrs Henry Spiker",164,3
+"1592","Mrs Markleham",288,14
+"1593","Mrs Markleham",289,14
+"1594","Mrs Markleham",107,14
+"1595","Mrs Markleham",123,14
+"1596","Mrs Markleham",272,14
+"1597","Mrs Markleham",124,14
+"1598","Mrs Markleham",386,14
+"1599","Mrs Markleham",106,14
+"1600","Mrs Markleham",291,14
+"1601","Mrs Markleham",273,14
+"1602","Mrs Markleham",290,14
+"1603","Mrs Markleham",108,14
+"1604","Mrs Markleham",286,14
+"1605","Mrs Markleham",105,14
+"1606","Mrs Mell",38,1
+"1607","Mrs Micawber",181,46
+"1608","Mrs Micawber",74,46
+"1609","Mrs Micawber",336,46
+"1610","Mrs Micawber",312,46
+"1611","Mrs Micawber",77,46
+"1612","Mrs Micawber",116,46
+"1613","Mrs Micawber",335,46
+"1614","Mrs Micawber",343,46
+"1615","Mrs Micawber",183,46
+"1616","Mrs Micawber",355,46
+"1617","Mrs Micawber",182,46
+"1618","Mrs Micawber",76,46
+"1619","Mrs Micawber",334,46
+"1620","Mrs Micawber",235,46
+"1621","Mrs Micawber",114,46
+"1622","Mrs Micawber",78,46
+"1623","Mrs Micawber",217,46
+"1624","Mrs Micawber",357,46
+"1625","Mrs Micawber",71,46
+"1626","Mrs Micawber",184,46
+"1627","Mrs Micawber",309,46
+"1628","Mrs Micawber",310,46
+"1629","Mrs Micawber",340,46
+"1630","Mrs Micawber",113,46
+"1631","Mrs Micawber",73,46
+"1632","Mrs Micawber",354,46
+"1633","Mrs Micawber",311,46
+"1634","Mrs Micawber",80,46
+"1635","Mrs Micawber",333,46
+"1636","Mrs Micawber",75,46
+"1637","Mrs Micawber",274,46
+"1638","Mrs Micawber",177,46
+"1639","Mrs Micawber",233,46
+"1640","Mrs Micawber",331,46
+"1641","Mrs Micawber",313,46
+"1642","Mrs Micawber",70,46
+"1643","Mrs Micawber",234,46
+"1644","Mrs Micawber",356,46
+"1645","Mrs Micawber",72,46
+"1646","Mrs Micawber",115,46
+"1647","Mrs Micawber",248,46
+"1648","Mrs Micawber",185,46
+"1649","Mrs Micawber",180,46
+"1650","Mrs Micawber",339,46
+"1651","Mrs Micawber",179,46
+"1652","Mrs Micawber",186,46
+"1653","Mrs Steerforth",293,16
+"1654","Mrs Steerforth",206,16
+"1655","Mrs Steerforth",191,16
+"1656","Mrs Steerforth",190,16
+"1657","Mrs Steerforth",229,16
+"1658","Mrs Steerforth",144,16
+"1659","Mrs Steerforth",352,16
+"1660","Mrs Steerforth",296,16
+"1661","Mrs Steerforth",131,16
+"1662","Mrs Steerforth",189,16
+"1663","Mrs Steerforth",351,16
+"1664","Mrs Steerforth",130,16
+"1665","Mrs Steerforth",157,16
+"1666","Mrs Steerforth",132,16
+"1667","Mrs Steerforth",133,16
+"1668","Mrs Steerforth",129,16
+"1669","Mrs Waterbrook",164,2
+"1670","Mrs Waterbrook",163,2
+"1671","Reverend Crewler",260,3
+"1672","Reverend Crewler",387,3
+"1673","Reverend Crewler",364,3
+"1674","Rosa Dartle",191,27
+"1675","Rosa Dartle",315,27
+"1676","Rosa Dartle",190,27
+"1677","Rosa Dartle",129,27
+"1678","Rosa Dartle",386,27
+"1679","Rosa Dartle",295,27
+"1680","Rosa Dartle",314,27
+"1681","Rosa Dartle",294,27
+"1682","Rosa Dartle",317,27
+"1683","Rosa Dartle",157,27
+"1684","Rosa Dartle",144,27
+"1685","Rosa Dartle",316,27
+"1686","Rosa Dartle",139,27
+"1687","Rosa Dartle",131,27
+"1688","Rosa Dartle",206,27
+"1689","Rosa Dartle",229,27
+"1690","Rosa Dartle",207,27
+"1691","Rosa Dartle",132,27
+"1692","Rosa Dartle",188,27
+"1693","Rosa Dartle",189,27
+"1694","Rosa Dartle",296,27
+"1695","Rosa Dartle",293,27
+"1696","Rosa Dartle",351,27
+"1697","Rosa Dartle",130,27
+"1698","Rosa Dartle",133,27
+"1699","Rosa Dartle",352,27
+"1700","Rosa Dartle",353,27
+"1701","Sarah Crewler",217,3
+"1702","Sarah Crewler",260,3
+"1703","Sarah Crewler",364,3
+"1704","Sophy Crewler",375,15
+"1705","Sophy Crewler",374,15
+"1706","Sophy Crewler",282,15
+"1707","Sophy Crewler",263,15
+"1708","Sophy Crewler",218,15
+"1709","Sophy Crewler",382,15
+"1710","Sophy Crewler",387,15
+"1711","Sophy Crewler",217,15
+"1712","Sophy Crewler",277,15
+"1713","Sophy Crewler",276,15
+"1714","Sophy Crewler",365,15
+"1715","Sophy Crewler",259,15
+"1716","Sophy Crewler",363,15
+"1717","Sophy Crewler",260,15
+"1718","Sophy Crewler",364,15
+"1719","Tipp",77,3
+"1720","Tipp",72,3
+"1721","Tipp",79,3
+"1722","Tom Jones",25,2
+"1723","Tom Jones",24,2
+"1724","Tommy Traddles",364,83
+"1725","Tommy Traddles",332,83
+"1726","Tommy Traddles",382,83
+"1727","Tommy Traddles",335,83
+"1728","Tommy Traddles",341,83
+"1729","Tommy Traddles",40,83
+"1730","Tommy Traddles",45,83
+"1731","Tommy Traddles",376,83
+"1732","Tommy Traddles",183,83
+"1733","Tommy Traddles",277,83
+"1734","Tommy Traddles",188,83
+"1735","Tommy Traddles",69,83
+"1736","Tommy Traddles",180,83
+"1737","Tommy Traddles",217,83
+"1738","Tommy Traddles",365,83
+"1739","Tommy Traddles",262,83
+"1740","Tommy Traddles",181,83
+"1741","Tommy Traddles",47,83
+"1742","Tommy Traddles",261,83
+"1743","Tommy Traddles",343,83
+"1744","Tommy Traddles",37,83
+"1745","Tommy Traddles",386,83
+"1746","Tommy Traddles",308,83
+"1747","Tommy Traddles",309,83
+"1748","Tommy Traddles",360,83
+"1749","Tommy Traddles",327,83
+"1750","Tommy Traddles",260,83
+"1751","Tommy Traddles",334,83
+"1752","Tommy Traddles",344,83
+"1753","Tommy Traddles",384,83
+"1754","Tommy Traddles",216,83
+"1755","Tommy Traddles",218,83
+"1756","Tommy Traddles",234,83
+"1757","Tommy Traddles",330,83
+"1758","Tommy Traddles",311,83
+"1759","Tommy Traddles",355,83
+"1760","Tommy Traddles",232,83
+"1761","Tommy Traddles",259,83
+"1762","Tommy Traddles",363,83
+"1763","Tommy Traddles",310,83
+"1764","Tommy Traddles",56,83
+"1765","Tommy Traddles",164,83
+"1766","Tommy Traddles",178,83
+"1767","Tommy Traddles",42,83
+"1768","Tommy Traddles",34,83
+"1769","Tommy Traddles",179,83
+"1770","Tommy Traddles",276,83
+"1771","Tommy Traddles",38,83
+"1772","Tommy Traddles",366,83
+"1773","Tommy Traddles",375,83
+"1774","Tommy Traddles",165,83
+"1775","Tommy Traddles",184,83
+"1776","Tommy Traddles",182,83
+"1777","Tommy Traddles",43,83
+"1778","Tommy Traddles",177,83
+"1779","Tommy Traddles",329,83
+"1780","Tommy Traddles",185,83
+"1781","Tommy Traddles",81,83
+"1782","Tommy Traddles",387,83
+"1783","Tommy Traddles",233,83
+"1784","Tommy Traddles",328,83
+"1785","Tommy Traddles",331,83
+"1786","Tommy Traddles",231,83
+"1787","Tommy Traddles",275,83
+"1788","Tommy Traddles",306,83
+"1789","Tommy Traddles",131,83
+"1790","Tommy Traddles",333,83
+"1791","Tommy Traddles",41,83
+"1792","Tommy Traddles",187,83
+"1793","Tommy Traddles",378,83
+"1794","Tommy Traddles",240,83
+"1795","Tommy Traddles",46,83
+"1796","Tommy Traddles",263,83
+"1797","Tommy Traddles",374,83
+"1798","Tommy Traddles",312,83
+"1799","Tommy Traddles",362,83
+"1800","Tommy Traddles",354,83
+"1801","Tommy Traddles",342,83
+"1802","Tommy Traddles",282,83
+"1803","Tommy Traddles",339,83
+"1804","Tommy Traddles",44,83
+"1805","Tommy Traddles",186,83
+"1806","Tommy Traddles",235,83
+"1807","Topsawyer",29,1
+"1808","Tungay",44,6
+"1809","Tungay",43,6
+"1810","Tungay",45,6
+"1811","Tungay",42,6
+"1812","Tungay",40,6
+"1813","Tungay",38,6
+"1814","Uriah",103,54
+"1815","Uriah",224,54
+"1816","Uriah",266,54
+"1817","Uriah",254,54
+"1818","Uriah",99,54
+"1819","Uriah",111,54
+"1820","Uriah",166,54
+"1821","Uriah",248,54
+"1822","Uriah",270,54
+"1823","Uriah",328,54
+"1824","Uriah",376,54
+"1825","Uriah",329,54
+"1826","Uriah",267,54
+"1827","Uriah",97,54
+"1828","Uriah",227,54
+"1829","Uriah",112,54
+"1830","Uriah",330,54
+"1831","Uriah",343,54
+"1832","Uriah",341,54
+"1833","Uriah",250,54
+"1834","Uriah",163,54
+"1835","Uriah",170,54
+"1836","Uriah",222,54
+"1837","Uriah",273,54
+"1838","Uriah",162,54
+"1839","Uriah",289,54
+"1840","Uriah",115,54
+"1841","Uriah",272,54
+"1842","Uriah",167,54
+"1843","Uriah",377,54
+"1844","Uriah",226,54
+"1845","Uriah",125,54
+"1846","Uriah",333,54
+"1847","Uriah",335,54
+"1848","Uriah",269,54
+"1849","Uriah",342,54
+"1850","Uriah",122,54
+"1851","Uriah",168,54
+"1852","Uriah",251,54
+"1853","Uriah",104,54
+"1854","Uriah",252,54
+"1855","Uriah",98,54
+"1856","Uriah",164,54
+"1857","Uriah",271,54
+"1858","Uriah",253,54
+"1859","Uriah",331,54
+"1860","Uriah",113,54
+"1861","Uriah",165,54
+"1862","Uriah",334,54
+"1863","Uriah",332,54
+"1864","Uriah",371,54
+"1865","Uriah",234,54
+"1866","Uriah",310,54
+"1867","Uriah",101,54
+"1868","William",125,1
+"1869","Yawler",178,1

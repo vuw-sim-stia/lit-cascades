@@ -1,6 +1,6 @@
 "Character","Node"
 "Alphonse",2
-"Arthur Gride",33
+"Arthur Gride",34
 "Augustus Borum",1
 "Baron Von Koeldwethout",5
 "Baron Von Swillenhausen",2
@@ -19,7 +19,7 @@
 "Doctor Lumbey",3
 "Dorker",1
 "Edwin Cheeryble",35
-"Fanny Squeers",22
+"Fanny Squeers",23
 "Fluggers",1
 "Frank Cheeryble",26
 "Graymarsh",2
@@ -29,34 +29,34 @@
 "Horatio Peltirogus",1
 "Jane Dibabs",2
 "John Browdie",34
-"Julia Wititterly",10
-"Kate Nickleby",124
+"Julia Wititterly",12
+"Kate Nickleby",126
 "Lord Frederick Verisopht",16
 "Lukin",1
-"Madame Mantalini",21
+"Madame Mantalini",24
 "Madeline Bray",36
 "Matilda Price",3
 "Miss Belvawney",2
-"Miss Bravassa",6
+"Miss Bravassa",7
 "Miss Browndock",1
 "Miss Cropley",1
 "Miss Gazingi",1
 "Miss Knag",18
-"Miss La Creevy",36
+"Miss La Creevy",37
 "Miss Lane",1
 "Miss Ledrook",8
 "Miss Simmonds",1
-"Miss Snevellicci",17
+"Miss Snevellicci",18
 "Mobbs",2
 "Morleena Kenwigs",13
 "Mortimer Knag",2
 "Mr Bobster",1
 "Mr Bonney",3
 "Mr Borum",1
-"Mr Brooker",5
+"Mr Brooker",6
 "Mr Bulph",2
 "Mr Crowl",6
-"Mr Crummles",30
+"Mr Crummles",31
 "Mr Curdle",2
 "Mr Cutler",1
 "Mr Folair",11
@@ -73,7 +73,7 @@
 "Mr Pugstyles",2
 "Mr Pyke",18
 "Mr Scaley",1
-"Mr Snawley",14
+"Mr Snawley",16
 "Mr Snevellicci",2
 "Mr Snobb",2
 "Mr Trimmers",2
@@ -81,6 +81,7 @@
 "Mr Westwood",2
 "Mrs Blockson",2
 "Mrs Borum",2
+"Mrs Clark",1
 "Mrs Crummles",19
 "Mrs Curdle",2
 "Mrs Cutler",1
@@ -88,22 +89,23 @@
 "Mrs Grudden",11
 "Mrs Kenwigs",16
 "Mrs Lenville",2
-"Mrs Nickleby",79
+"Mrs Nickleby",80
 "Mrs Snawley",2
 "Mrs Snevellicci",3
 "Mrs Squeers",27
 "Muntle",1
 "Newman Noggs",81
-"Nicholas Nickleby",227
+"Nicholas Nickleby",228
 "Ninetta Crummles",4
 "Peg Sliderskew",17
 "Phoebe",2
-"Ralph Nickleby",144
+"Pitcher",1
+"Ralph Nickleby",147
 "Sir Matthew Pupker",3
 "Sir Mulberry Hawk",34
 "Sir Thomas Grimble",1
 "Sir Tumley Snuffim",4
-"Smike",77
+"Smike",81
 "Snittle Timberry",5
 "The African Swallower",3
 "The Hawkinses",1
@@ -113,7 +115,7 @@
 "Thomas",1
 "Tim Linkinwater",41
 "Tom Tix",2
-"Wackford Squeers",74
-"Wackford SqueersJunior",12
-"Walter Bray",7
+"Wackford Squeers",77
+"Wackford SqueersJunior",13
+"Walter Bray",8
 "William",2

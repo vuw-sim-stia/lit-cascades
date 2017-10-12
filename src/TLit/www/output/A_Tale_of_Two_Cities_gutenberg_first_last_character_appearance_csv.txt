@@ -3,22 +3,22 @@
 "2","Charles St EvrŽmonde",159,"Last Appearance",54
 "3","Doctor Manette",9,"First Appearance",55
 "4","Doctor Manette",151,"Last Appearance",55
-"5","Ernest Defarge",15,"First Appearance",34
-"6","Ernest Defarge",159,"Last Appearance",34
+"5","Ernest Defarge",15,"First Appearance",36
+"6","Ernest Defarge",159,"Last Appearance",36
 "7","Foulon",96,"Last Appearance",3
 "8","Foulon",94,"First Appearance",3
 "9","Gaspard",14,"First Appearance",3
 "10","Gaspard",78,"Last Appearance",3
 "11","Jacques",15,"First Appearance",15
 "12","Jacques",154,"Last Appearance",15
-"13","Jarvis Lorry",4,"First Appearance",71
-"14","Jarvis Lorry",156,"Last Appearance",71
+"13","Jarvis Lorry",4,"First Appearance",73
+"14","Jarvis Lorry",156,"Last Appearance",73
 "15","Jerry Cruncher",157,"Last Appearance",28
 "16","Jerry Cruncher",4,"First Appearance",28
 "17","Joe",3,"First Appearance",2
 "18","Joe",4,"Last Appearance",2
-"19","Lucie Manette",34,"First Appearance",41
-"20","Lucie Manette",155,"Last Appearance",41
+"19","Lucie Manette",34,"First Appearance",42
+"20","Lucie Manette",155,"Last Appearance",42
 "21","Marquis St EvrŽmonde I",139,"First Appearance",3
 "22","Marquis St EvrŽmonde I",141,"Last Appearance",3
 "23","Marquis St EvrŽmonde II",145,"Last Appearance",28
@@ -27,8 +27,8 @@
 "26","Miss Pross",40,"First Appearance",29
 "27","Mr Stryver",32,"First Appearance",17
 "28","Mr Stryver",103,"Last Appearance",17
-"29","Mrs Cruncher",66,"First Appearance",6
-"30","Mrs Cruncher",155,"Last Appearance",6
+"29","Mrs Cruncher",24,"First Appearance",7
+"30","Mrs Cruncher",155,"Last Appearance",7
 "31","Mrs Stryver",89,"First Appearance",1
 "32","Mrs Stryver",89,"Last Appearance",1
 "33","Roger Cly",159,"Last Appearance",7
@@ -39,10 +39,10 @@
 "38","Sydney Carton",159,"Last Appearance",35
 "39","The Vengeance",94,"First Appearance",12
 "40","The Vengeance",159,"Last Appearance",12
-"41","ThŽophile Gabelle",122,"Last Appearance",8
-"42","ThŽophile Gabelle",49,"First Appearance",8
-"43","ThŽrse Defarge",14,"First Appearance",28
-"44","ThŽrse Defarge",158,"Last Appearance",28
+"41","ThŽophile Gabelle",122,"Last Appearance",10
+"42","ThŽophile Gabelle",49,"First Appearance",10
+"43","ThŽrse Defarge",14,"First Appearance",29
+"44","ThŽrse Defarge",158,"Last Appearance",29
 "45","Tom",3,"First Appearance",1
 "46","Tom",3,"Last Appearance",1
 "47","Young Jerry Cruncher",24,"First Appearance",2

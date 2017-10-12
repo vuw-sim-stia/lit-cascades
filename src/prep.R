@@ -601,7 +601,7 @@ for(nextRun in 1:length(allTextFiles)){
   jpeg(paste("TLit/www/output/",theSource,"_gutenberg_links_targets.jpg",sep=''))
   plot(count(unlist(links[,2]))$freq,type='l')
   dev.off()
-  write.csv(cbind(unlist(links[,2]),links[,3]),file=paste('../gutenberg_targets.txt',sep=''))
+  write.csv(cbind(unlist(links[,2]),links[,3]),file=paste("TLit/www/output/",theSource,'_gutenberg_targets.txt',sep=''))
   
   jpeg(paste("TLit/www/output/",theSource,"_gutenberg_links_sources.jpg",sep=''))
   plot(count(unlist(links[,1]))$freq,type='l')
