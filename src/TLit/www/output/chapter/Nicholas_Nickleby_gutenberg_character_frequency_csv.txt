@@ -1,0 +1,676 @@
+"","Character","Node","Appearances"
+"1","Alphonse",22,2
+"2","Alphonse",29,2
+"3","Arthur Gride",53,10
+"4","Arthur Gride",54,10
+"5","Arthur Gride",63,10
+"6","Arthur Gride",58,10
+"7","Arthur Gride",48,10
+"8","Arthur Gride",66,10
+"9","Arthur Gride",60,10
+"10","Arthur Gride",57,10
+"11","Arthur Gride",55,10
+"12","Arthur Gride",52,10
+"13","Augustus Borum",25,1
+"14","Baron Von Koeldwethout",65,2
+"15","Baron Von Koeldwethout",7,2
+"16","Baron Von Swillenhausen",7,1
+"17","Baroness Von Koeldwethout",7,1
+"18","Baroness Von Swillenhausen",7,1
+"19","Belling",5,2
+"20","Belling",6,2
+"21","Bolder",9,3
+"22","Bolder",8,3
+"23","Bolder",10,3
+"24","Captain Adams",51,1
+"25","Cecilia Bobster",52,2
+"26","Cecilia Bobster",41,2
+"27","Charles Cheeryble",1,16
+"28","Charles Cheeryble",61,16
+"29","Charles Cheeryble",60,16
+"30","Charles Cheeryble",36,16
+"31","Charles Cheeryble",52,16
+"32","Charles Cheeryble",44,16
+"33","Charles Cheeryble",49,16
+"34","Charles Cheeryble",41,16
+"35","Charles Cheeryble",50,16
+"36","Charles Cheeryble",56,16
+"37","Charles Cheeryble",62,16
+"38","Charles Cheeryble",38,16
+"39","Charles Cheeryble",65,16
+"40","Charles Cheeryble",64,16
+"41","Charles Cheeryble",66,16
+"42","Charles Cheeryble",47,16
+"43","Charlotte Borum",25,1
+"44","Cobbey",58,2
+"45","Cobbey",9,2
+"46","Colonel Chowser",20,2
+"47","Colonel Chowser",51,2
+"48","David",38,1
+"49","Dick",62,3
+"50","Dick",66,3
+"51","Dick",38,3
+"52","Doctor Lumbey",37,1
+"53","Dorker",5,1
+"54","Edwin Cheeryble",49,15
+"55","Edwin Cheeryble",36,15
+"56","Edwin Cheeryble",52,15
+"57","Edwin Cheeryble",1,15
+"58","Edwin Cheeryble",66,15
+"59","Edwin Cheeryble",62,15
+"60","Edwin Cheeryble",50,15
+"61","Edwin Cheeryble",56,15
+"62","Edwin Cheeryble",41,15
+"63","Edwin Cheeryble",60,15
+"64","Edwin Cheeryble",65,15
+"65","Edwin Cheeryble",47,15
+"66","Edwin Cheeryble",38,15
+"67","Edwin Cheeryble",44,15
+"68","Edwin Cheeryble",64,15
+"69","Fanny Squeers",10,8
+"70","Fanny Squeers",13,8
+"71","Fanny Squeers",14,8
+"72","Fanny Squeers",21,8
+"73","Fanny Squeers",40,8
+"74","Fanny Squeers",65,8
+"75","Fanny Squeers",43,8
+"76","Fanny Squeers",31,8
+"77","Fluggers",31,1
+"78","Frank Cheeryble",58,11
+"79","Frank Cheeryble",50,11
+"80","Frank Cheeryble",64,11
+"81","Frank Cheeryble",60,11
+"82","Frank Cheeryble",62,11
+"83","Frank Cheeryble",47,11
+"84","Frank Cheeryble",56,11
+"85","Frank Cheeryble",65,11
+"86","Frank Cheeryble",44,11
+"87","Frank Cheeryble",49,11
+"88","Frank Cheeryble",66,11
+"89","Graymarsh",8,2
+"90","Graymarsh",9,2
+"91","Hannah",4,1
+"92","Henrietta Petowker",31,7
+"93","Henrietta Petowker",17,7
+"94","Henrietta Petowker",53,7
+"95","Henrietta Petowker",16,7
+"96","Henrietta Petowker",26,7
+"97","Henrietta Petowker",37,7
+"98","Henrietta Petowker",15,7
+"99","Henry Wititterly",28,4
+"100","Henry Wititterly",29,4
+"101","Henry Wititterly",34,4
+"102","Henry Wititterly",22,4
+"103","Horatio Peltirogus",56,1
+"104","Jane Dibabs",56,2
+"105","Jane Dibabs",19,2
+"106","John Browdie",43,13
+"107","John Browdie",41,13
+"108","John Browdie",10,13
+"109","John Browdie",1,13
+"110","John Browdie",9,13
+"111","John Browdie",14,13
+"112","John Browdie",13,13
+"113","John Browdie",44,13
+"114","John Browdie",40,13
+"115","John Browdie",32,13
+"116","John Browdie",46,13
+"117","John Browdie",65,13
+"118","John Browdie",30,13
+"119","Julia Wititterly",34,4
+"120","Julia Wititterly",29,4
+"121","Julia Wititterly",28,4
+"122","Julia Wititterly",22,4
+"123","Kate Nickleby",30,36
+"124","Kate Nickleby",46,36
+"125","Kate Nickleby",4,36
+"126","Kate Nickleby",19,36
+"127","Kate Nickleby",20,36
+"128","Kate Nickleby",66,36
+"129","Kate Nickleby",27,36
+"130","Kate Nickleby",41,36
+"131","Kate Nickleby",6,36
+"132","Kate Nickleby",12,36
+"133","Kate Nickleby",64,36
+"134","Kate Nickleby",62,36
+"135","Kate Nickleby",23,36
+"136","Kate Nickleby",56,36
+"137","Kate Nickleby",44,36
+"138","Kate Nickleby",29,36
+"139","Kate Nickleby",32,36
+"140","Kate Nickleby",2,36
+"141","Kate Nickleby",39,36
+"142","Kate Nickleby",18,36
+"143","Kate Nickleby",55,36
+"144","Kate Nickleby",34,36
+"145","Kate Nickleby",35,36
+"146","Kate Nickleby",33,36
+"147","Kate Nickleby",9,36
+"148","Kate Nickleby",22,36
+"149","Kate Nickleby",21,36
+"150","Kate Nickleby",38,36
+"151","Kate Nickleby",50,36
+"152","Kate Nickleby",51,36
+"153","Kate Nickleby",65,36
+"154","Kate Nickleby",59,36
+"155","Kate Nickleby",28,36
+"156","Kate Nickleby",42,36
+"157","Kate Nickleby",11,36
+"158","Kate Nickleby",36,36
+"159","Lord Frederick Verisopht",20,7
+"160","Lord Frederick Verisopht",29,7
+"161","Lord Frederick Verisopht",51,7
+"162","Lord Frederick Verisopht",27,7
+"163","Lord Frederick Verisopht",33,7
+"164","Lord Frederick Verisopht",39,7
+"165","Lord Frederick Verisopht",28,7
+"166","Lukin",42,1
+"167","Madame Mantalini",22,10
+"168","Madame Mantalini",18,10
+"169","Madame Mantalini",33,10
+"170","Madame Mantalini",11,10
+"171","Madame Mantalini",21,10
+"172","Madame Mantalini",45,10
+"173","Madame Mantalini",19,10
+"174","Madame Mantalini",12,10
+"175","Madame Mantalini",35,10
+"176","Madame Mantalini",65,10
+"177","Madeline Bray",48,15
+"178","Madeline Bray",50,15
+"179","Madeline Bray",65,15
+"180","Madeline Bray",54,15
+"181","Madeline Bray",66,15
+"182","Madeline Bray",56,15
+"183","Madeline Bray",61,15
+"184","Madeline Bray",49,15
+"185","Madeline Bray",62,15
+"186","Madeline Bray",60,15
+"187","Madeline Bray",52,15
+"188","Madeline Bray",64,15
+"189","Madeline Bray",55,15
+"190","Madeline Bray",53,15
+"191","Madeline Bray",47,15
+"192","Matilda Price",13,2
+"193","Matilda Price",10,2
+"194","Miss Belvawney",25,2
+"195","Miss Belvawney",30,2
+"196","Miss Bravassa",30,5
+"197","Miss Bravassa",31,5
+"198","Miss Bravassa",26,5
+"199","Miss Bravassa",25,5
+"200","Miss Bravassa",24,5
+"201","Miss Browndock",18,1
+"202","Miss Cropley",34,1
+"203","Miss Gazingi",24,1
+"204","Miss Knag",21,8
+"205","Miss Knag",18,8
+"206","Miss Knag",22,8
+"207","Miss Knag",20,8
+"208","Miss Knag",19,8
+"209","Miss Knag",45,8
+"210","Miss Knag",11,8
+"211","Miss Knag",35,8
+"212","Miss La Creevy",21,17
+"213","Miss La Creevy",34,17
+"214","Miss La Creevy",64,17
+"215","Miss La Creevy",32,17
+"216","Miss La Creevy",4,17
+"217","Miss La Creevy",46,17
+"218","Miss La Creevy",62,17
+"219","Miss La Creevy",33,17
+"220","Miss La Creevy",20,17
+"221","Miss La Creevy",6,17
+"222","Miss La Creevy",12,17
+"223","Miss La Creevy",50,17
+"224","Miss La Creevy",11,17
+"225","Miss La Creevy",39,17
+"226","Miss La Creevy",66,17
+"227","Miss La Creevy",36,17
+"228","Miss La Creevy",28,17
+"229","Miss Lane",25,1
+"230","Miss Ledrook",24,3
+"231","Miss Ledrook",31,3
+"232","Miss Ledrook",26,3
+"233","Miss Simmonds",18,1
+"234","Miss Snevellicci",24,6
+"235","Miss Snevellicci",25,6
+"236","Miss Snevellicci",31,6
+"237","Miss Snevellicci",26,6
+"238","Miss Snevellicci",49,6
+"239","Miss Snevellicci",30,6
+"240","Mobbs",9,1
+"241","Morleena Kenwigs",15,5
+"242","Morleena Kenwigs",16,5
+"243","Morleena Kenwigs",37,5
+"244","Morleena Kenwigs",17,5
+"245","Morleena Kenwigs",53,5
+"246","Mortimer Knag",19,1
+"247","Mr Bobster",41,1
+"248","Mr Bonney",3,1
+"249","Mr Borum",25,1
+"250","Mr Brooker",52,5
+"251","Mr Brooker",45,5
+"252","Mr Brooker",61,5
+"253","Mr Brooker",66,5
+"254","Mr Brooker",62,5
+"255","Mr Bulph",24,2
+"256","Mr Bulph",31,2
+"257","Mr Crowl",15,3
+"258","Mr Crowl",33,3
+"259","Mr Crowl",16,3
+"260","Mr Crummles",24,8
+"261","Mr Crummles",26,8
+"262","Mr Crummles",25,8
+"263","Mr Crummles",30,8
+"264","Mr Crummles",49,8
+"265","Mr Crummles",23,8
+"266","Mr Crummles",36,8
+"267","Mr Crummles",31,8
+"268","Mr Curdle",25,2
+"269","Mr Curdle",26,2
+"270","Mr Cutler",15,1
+"271","Mr Folair",24,5
+"272","Mr Folair",30,5
+"273","Mr Folair",25,5
+"274","Mr Folair",31,5
+"275","Mr Folair",26,5
+"276","Mr Gallanbile",17,1
+"277","Mr Glavormelly",31,1
+"278","Mr Godfrey Nickleby",2,1
+"279","Mr Gregsbury",17,1
+"280","Mr Kenwigs",16,5
+"281","Mr Kenwigs",15,5
+"282","Mr Kenwigs",37,5
+"283","Mr Kenwigs",53,5
+"284","Mr Kenwigs",17,5
+"285","Mr Lenville",25,4
+"286","Mr Lenville",24,4
+"287","Mr Lenville",31,4
+"288","Mr Lenville",30,4
+"289","Mr Lillyvick",49,8
+"290","Mr Lillyvick",26,8
+"291","Mr Lillyvick",37,8
+"292","Mr Lillyvick",16,8
+"293","Mr Lillyvick",17,8
+"294","Mr Lillyvick",15,8
+"295","Mr Lillyvick",53,8
+"296","Mr Lillyvick",31,8
+"297","Mr Mantalini",11,6
+"298","Mr Mantalini",35,6
+"299","Mr Mantalini",18,6
+"300","Mr Mantalini",45,6
+"301","Mr Mantalini",22,6
+"302","Mr Mantalini",65,6
+"303","Mr Nickleby",2,1
+"304","Mr Pluck",20,6
+"305","Mr Pluck",39,6
+"306","Mr Pluck",51,6
+"307","Mr Pluck",29,6
+"308","Mr Pluck",28,6
+"309","Mr Pluck",34,6
+"310","Mr Pugstyles",17,1
+"311","Mr Pyke",39,8
+"312","Mr Pyke",28,8
+"313","Mr Pyke",29,8
+"314","Mr Pyke",34,8
+"315","Mr Pyke",20,8
+"316","Mr Pyke",51,8
+"317","Mr Pyke",35,8
+"318","Mr Pyke",36,8
+"319","Mr Scaley",22,1
+"320","Mr Snawley",39,8
+"321","Mr Snawley",50,8
+"322","Mr Snawley",5,8
+"323","Mr Snawley",40,8
+"324","Mr Snawley",57,8
+"325","Mr Snawley",6,8
+"326","Mr Snawley",46,8
+"327","Mr Snawley",60,8
+"328","Mr Snevellicci",31,1
+"329","Mr Snobb",20,1
+"330","Mr Trimmers",36,2
+"331","Mr Trimmers",62,2
+"332","Mr Watkins",19,1
+"333","Mr Westwood",51,1
+"334","Mrs Blockson",19,1
+"335","Mrs Borum",25,1
+"336","Mrs Clark",17,1
+"337","Mrs Crummles",26,6
+"338","Mrs Crummles",31,6
+"339","Mrs Crummles",24,6
+"340","Mrs Crummles",49,6
+"341","Mrs Crummles",25,6
+"342","Mrs Crummles",30,6
+"343","Mrs Curdle",25,1
+"344","Mrs Cutler",15,1
+"345","Mrs Gallanbile",17,1
+"346","Mrs Grudden",31,7
+"347","Mrs Grudden",49,7
+"348","Mrs Grudden",24,7
+"349","Mrs Grudden",26,7
+"350","Mrs Grudden",36,7
+"351","Mrs Grudden",25,7
+"352","Mrs Grudden",30,7
+"353","Mrs Kenwigs",16,5
+"354","Mrs Kenwigs",15,5
+"355","Mrs Kenwigs",17,5
+"356","Mrs Kenwigs",37,5
+"357","Mrs Kenwigs",53,5
+"358","Mrs Lenville",30,2
+"359","Mrs Lenville",24,2
+"360","Mrs Nickleby",56,29
+"361","Mrs Nickleby",30,29
+"362","Mrs Nickleby",50,29
+"363","Mrs Nickleby",36,29
+"364","Mrs Nickleby",41,29
+"365","Mrs Nickleby",66,29
+"366","Mrs Nickleby",28,29
+"367","Mrs Nickleby",38,29
+"368","Mrs Nickleby",21,29
+"369","Mrs Nickleby",29,29
+"370","Mrs Nickleby",2,29
+"371","Mrs Nickleby",33,29
+"372","Mrs Nickleby",32,29
+"373","Mrs Nickleby",19,29
+"374","Mrs Nickleby",34,29
+"375","Mrs Nickleby",39,29
+"376","Mrs Nickleby",20,29
+"377","Mrs Nickleby",22,29
+"378","Mrs Nickleby",12,29
+"379","Mrs Nickleby",64,29
+"380","Mrs Nickleby",4,29
+"381","Mrs Nickleby",27,29
+"382","Mrs Nickleby",46,29
+"383","Mrs Nickleby",6,29
+"384","Mrs Nickleby",18,29
+"385","Mrs Nickleby",44,29
+"386","Mrs Nickleby",42,29
+"387","Mrs Nickleby",62,29
+"388","Mrs Nickleby",11,29
+"389","Mrs Snawley",39,2
+"390","Mrs Snawley",60,2
+"391","Mrs Snevellicci",31,1
+"392","Mrs Squeers",9,13
+"393","Mrs Squeers",35,13
+"394","Mrs Squeers",8,13
+"395","Mrs Squeers",58,13
+"396","Mrs Squeers",5,13
+"397","Mrs Squeers",14,13
+"398","Mrs Squeers",6,13
+"399","Mrs Squeers",39,13
+"400","Mrs Squeers",57,13
+"401","Mrs Squeers",10,13
+"402","Mrs Squeers",65,13
+"403","Mrs Squeers",7,13
+"404","Mrs Squeers",61,13
+"405","Muntle",11,1
+"406","Newman Noggs",3,33
+"407","Newman Noggs",24,33
+"408","Newman Noggs",48,33
+"409","Newman Noggs",5,33
+"410","Newman Noggs",8,33
+"411","Newman Noggs",16,33
+"412","Newman Noggs",6,33
+"413","Newman Noggs",36,33
+"414","Newman Noggs",30,33
+"415","Newman Noggs",53,33
+"416","Newman Noggs",41,33
+"417","Newman Noggs",57,33
+"418","Newman Noggs",17,33
+"419","Newman Noggs",66,33
+"420","Newman Noggs",35,33
+"421","Newman Noggs",60,33
+"422","Newman Noggs",45,33
+"423","Newman Noggs",27,33
+"424","Newman Noggs",34,33
+"425","Newman Noggs",31,33
+"426","Newman Noggs",23,33
+"427","Newman Noggs",12,33
+"428","Newman Noggs",21,33
+"429","Newman Noggs",33,33
+"430","Newman Noggs",58,33
+"431","Newman Noggs",64,33
+"432","Newman Noggs",29,33
+"433","Newman Noggs",52,33
+"434","Newman Noggs",15,33
+"435","Newman Noggs",26,33
+"436","Newman Noggs",20,33
+"437","Newman Noggs",4,33
+"438","Newman Noggs",32,33
+"439","Nicholas Nickleby",64,58
+"440","Nicholas Nickleby",52,58
+"441","Nicholas Nickleby",28,58
+"442","Nicholas Nickleby",13,58
+"443","Nicholas Nickleby",11,58
+"444","Nicholas Nickleby",57,58
+"445","Nicholas Nickleby",63,58
+"446","Nicholas Nickleby",7,58
+"447","Nicholas Nickleby",2,58
+"448","Nicholas Nickleby",51,58
+"449","Nicholas Nickleby",49,58
+"450","Nicholas Nickleby",54,58
+"451","Nicholas Nickleby",24,58
+"452","Nicholas Nickleby",45,58
+"453","Nicholas Nickleby",26,58
+"454","Nicholas Nickleby",17,58
+"455","Nicholas Nickleby",50,58
+"456","Nicholas Nickleby",10,58
+"457","Nicholas Nickleby",44,58
+"458","Nicholas Nickleby",47,58
+"459","Nicholas Nickleby",4,58
+"460","Nicholas Nickleby",9,58
+"461","Nicholas Nickleby",27,58
+"462","Nicholas Nickleby",34,58
+"463","Nicholas Nickleby",29,58
+"464","Nicholas Nickleby",5,58
+"465","Nicholas Nickleby",30,58
+"466","Nicholas Nickleby",25,58
+"467","Nicholas Nickleby",55,58
+"468","Nicholas Nickleby",38,58
+"469","Nicholas Nickleby",21,58
+"470","Nicholas Nickleby",60,58
+"471","Nicholas Nickleby",65,58
+"472","Nicholas Nickleby",31,58
+"473","Nicholas Nickleby",43,58
+"474","Nicholas Nickleby",41,58
+"475","Nicholas Nickleby",33,58
+"476","Nicholas Nickleby",8,58
+"477","Nicholas Nickleby",39,58
+"478","Nicholas Nickleby",61,58
+"479","Nicholas Nickleby",48,58
+"480","Nicholas Nickleby",32,58
+"481","Nicholas Nickleby",53,58
+"482","Nicholas Nickleby",14,58
+"483","Nicholas Nickleby",59,58
+"484","Nicholas Nickleby",42,58
+"485","Nicholas Nickleby",36,58
+"486","Nicholas Nickleby",16,58
+"487","Nicholas Nickleby",56,58
+"488","Nicholas Nickleby",46,58
+"489","Nicholas Nickleby",18,58
+"490","Nicholas Nickleby",37,58
+"491","Nicholas Nickleby",6,58
+"492","Nicholas Nickleby",23,58
+"493","Nicholas Nickleby",62,58
+"494","Nicholas Nickleby",1,58
+"495","Nicholas Nickleby",35,58
+"496","Nicholas Nickleby",66,58
+"497","Ninetta Crummles",26,3
+"498","Ninetta Crummles",24,3
+"499","Ninetta Crummles",31,3
+"500","Peg Sliderskew",55,7
+"501","Peg Sliderskew",57,7
+"502","Peg Sliderskew",58,7
+"503","Peg Sliderskew",60,7
+"504","Peg Sliderskew",52,7
+"505","Peg Sliderskew",54,7
+"506","Peg Sliderskew",66,7
+"507","Phoebe",13,1
+"508","Pitcher",8,1
+"509","Ralph Nickleby",34,46
+"510","Ralph Nickleby",20,46
+"511","Ralph Nickleby",58,46
+"512","Ralph Nickleby",12,46
+"513","Ralph Nickleby",66,46
+"514","Ralph Nickleby",27,46
+"515","Ralph Nickleby",46,46
+"516","Ralph Nickleby",33,46
+"517","Ralph Nickleby",60,46
+"518","Ralph Nickleby",45,46
+"519","Ralph Nickleby",30,46
+"520","Ralph Nickleby",64,46
+"521","Ralph Nickleby",54,46
+"522","Ralph Nickleby",3,46
+"523","Ralph Nickleby",52,46
+"524","Ralph Nickleby",35,46
+"525","Ralph Nickleby",62,46
+"526","Ralph Nickleby",44,46
+"527","Ralph Nickleby",29,46
+"528","Ralph Nickleby",41,46
+"529","Ralph Nickleby",57,46
+"530","Ralph Nickleby",6,46
+"531","Ralph Nickleby",22,46
+"532","Ralph Nickleby",39,46
+"533","Ralph Nickleby",13,46
+"534","Ralph Nickleby",55,46
+"535","Ralph Nickleby",10,46
+"536","Ralph Nickleby",7,46
+"537","Ralph Nickleby",2,46
+"538","Ralph Nickleby",38,46
+"539","Ralph Nickleby",9,46
+"540","Ralph Nickleby",63,46
+"541","Ralph Nickleby",61,46
+"542","Ralph Nickleby",28,46
+"543","Ralph Nickleby",5,46
+"544","Ralph Nickleby",32,46
+"545","Ralph Nickleby",16,46
+"546","Ralph Nickleby",47,46
+"547","Ralph Nickleby",48,46
+"548","Ralph Nickleby",53,46
+"549","Ralph Nickleby",56,46
+"550","Ralph Nickleby",43,46
+"551","Ralph Nickleby",17,46
+"552","Ralph Nickleby",21,46
+"553","Ralph Nickleby",4,46
+"554","Ralph Nickleby",11,46
+"555","Sir Matthew Pupker",3,1
+"556","Sir Mulberry Hawk",35,11
+"557","Sir Mulberry Hawk",20,11
+"558","Sir Mulberry Hawk",27,11
+"559","Sir Mulberry Hawk",29,11
+"560","Sir Mulberry Hawk",66,11
+"561","Sir Mulberry Hawk",33,11
+"562","Sir Mulberry Hawk",39,11
+"563","Sir Mulberry Hawk",28,11
+"564","Sir Mulberry Hawk",36,11
+"565","Sir Mulberry Hawk",51,11
+"566","Sir Mulberry Hawk",34,11
+"567","Sir Thomas Grimble",36,1
+"568","Sir Tumley Snuffim",22,3
+"569","Sir Tumley Snuffim",34,3
+"570","Sir Tumley Snuffim",29,3
+"571","Smike",34,33
+"572","Smike",57,33
+"573","Smike",49,33
+"574","Smike",36,33
+"575","Smike",40,33
+"576","Smike",59,33
+"577","Smike",14,33
+"578","Smike",17,33
+"579","Smike",30,33
+"580","Smike",24,33
+"581","Smike",47,33
+"582","Smike",44,33
+"583","Smike",43,33
+"584","Smike",33,33
+"585","Smike",41,33
+"586","Smike",39,33
+"587","Smike",23,33
+"588","Smike",50,33
+"589","Smike",38,33
+"590","Smike",16,33
+"591","Smike",42,33
+"592","Smike",61,33
+"593","Smike",46,33
+"594","Smike",25,33
+"595","Smike",9,33
+"596","Smike",60,33
+"597","Smike",8,33
+"598","Smike",21,33
+"599","Smike",31,33
+"600","Smike",26,33
+"601","Smike",13,33
+"602","Smike",65,33
+"603","Smike",56,33
+"604","Snittle Timberry",49,1
+"605","The African Swallower",49,1
+"606","The Hawkinses",36,1
+"607","The Little Kenwigses",17,6
+"608","The Little Kenwigses",16,6
+"609","The Little Kenwigses",37,6
+"610","The Little Kenwigses",26,6
+"611","The Little Kenwigses",53,6
+"612","The Little Kenwigses",15,6
+"613","The Master Crummleses",49,6
+"614","The Master Crummleses",25,6
+"615","The Master Crummleses",24,6
+"616","The Master Crummleses",23,6
+"617","The Master Crummleses",26,6
+"618","The Master Crummleses",31,6
+"619","The Miss Dowdles",27,1
+"620","Thomas",19,1
+"621","Tim Linkinwater",47,15
+"622","Tim Linkinwater",46,15
+"623","Tim Linkinwater",64,15
+"624","Tim Linkinwater",44,15
+"625","Tim Linkinwater",36,15
+"626","Tim Linkinwater",66,15
+"627","Tim Linkinwater",61,15
+"628","Tim Linkinwater",60,15
+"629","Tim Linkinwater",41,15
+"630","Tim Linkinwater",50,15
+"631","Tim Linkinwater",56,15
+"632","Tim Linkinwater",38,15
+"633","Tim Linkinwater",62,15
+"634","Tim Linkinwater",49,15
+"635","Tim Linkinwater",65,15
+"636","Tom Tix",22,1
+"637","Wackford Squeers",30,25
+"638","Wackford Squeers",46,25
+"639","Wackford Squeers",41,25
+"640","Wackford Squeers",58,25
+"641","Wackford Squeers",8,25
+"642","Wackford Squeers",40,25
+"643","Wackford Squeers",61,25
+"644","Wackford Squeers",66,25
+"645","Wackford Squeers",16,25
+"646","Wackford Squeers",35,25
+"647","Wackford Squeers",10,25
+"648","Wackford Squeers",1,25
+"649","Wackford Squeers",9,25
+"650","Wackford Squeers",65,25
+"651","Wackford Squeers",57,25
+"652","Wackford Squeers",45,25
+"653","Wackford Squeers",60,25
+"654","Wackford Squeers",39,25
+"655","Wackford Squeers",7,25
+"656","Wackford Squeers",43,25
+"657","Wackford Squeers",13,25
+"658","Wackford Squeers",4,25
+"659","Wackford Squeers",5,25
+"660","Wackford Squeers",6,25
+"661","Wackford Squeers",14,25
+"662","Wackford SqueersJunior",65,8
+"663","Wackford SqueersJunior",43,8
+"664","Wackford SqueersJunior",40,8
+"665","Wackford SqueersJunior",46,8
+"666","Wackford SqueersJunior",35,8
+"667","Wackford SqueersJunior",61,8
+"668","Wackford SqueersJunior",10,8
+"669","Wackford SqueersJunior",39,8
+"670","Walter Bray",55,4
+"671","Walter Bray",48,4
+"672","Walter Bray",54,4
+"673","Walter Bray",47,4
+"674","William",33,2
+"675","William",6,2

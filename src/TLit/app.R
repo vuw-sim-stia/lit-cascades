@@ -29,7 +29,7 @@ library(plyr)
 library(shiny)
 library(plotly)
 
-allText <- read.csv2(file = "www/output/allTexts.csv")
+allText <- read.csv2(file = "www/output/1000/allTexts.csv")
 
 ui <- shinyUI(absolutePanel(
   width=1600,
@@ -128,7 +128,7 @@ server <- function(input, output) {
   
   #dynamic slider range for characters
   slider <- reactive({
-    paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt")
+    paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt")
   })
   
   output$characterrange <- renderUI ({
@@ -140,11 +140,11 @@ server <- function(input, output) {
   
   #statistics
   stat1 <- reactive({
-    paste0("www/output/",gsub(" ","_",input$textSelect),"_netstat.csv")
+    paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_netstat.csv")
   })
   
   stat2 <- reactive({
-    paste0("www/output/",gsub(" ","_",input$textSelect),"_socnetstat.csv")
+    paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_socnetstat.csv")
   })
   
   output$statistics <- renderTable ({
@@ -162,7 +162,7 @@ server <- function(input, output) {
   
   #entropy plot
   entrop <- reactive({
-    paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_entropy_csv.txt")
+    paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_entropy_csv.txt")
   })
   
   output$plot_entropy <- renderPlotly({
@@ -178,7 +178,7 @@ server <- function(input, output) {
   
   plotname_char_first_last <- reactive({
     
-    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotname_char_first_last <- read.csv(file = paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_first_last %>%
@@ -189,7 +189,7 @@ server <- function(input, output) {
   
   output$plot_character_appearance_first_last <- renderPlotly({
     
-    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotname_char_first_last <- read.csv(file = paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
     plotheight <- nrow(count(unique(plotname_char_first_last$Character)))
     
    ggplotly((ggplot(plotname_char_first_last(), aes(x = Node, y = Character, col = Type)) + theme(legend.position = c(300,3)) + geom_point() + scale_color_manual(values=c("#33CC33","#FF0000")) + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0))),height=plotheight*18, width = 1200)
@@ -200,7 +200,7 @@ server <- function(input, output) {
   
   plotname_char_all <- reactive({
     
-    plotname_char_all <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt"), sep = ',')
+    plotname_char_all <- read.csv(file = paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_character_frequency_csv.txt"), sep = ',')
     
     if(!is.null(input$charrange)){
       filteredData <- plotname_char_all %>%
@@ -211,7 +211,7 @@ server <- function(input, output) {
   
   output$plot_character_appearance_all <- renderPlotly({
     
-    plotname_char_first_last <- read.csv(file = paste0("www/output/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
+    plotname_char_first_last <- read.csv(file = paste0("www/output/1000/",gsub(" ","_",input$textSelect),"_gutenberg_first_last_character_appearance_csv.txt"), sep = ',')
     plotheight <- nrow(count(unique(plotname_char_first_last$Character)))
     
     ggplotly((ggplot(plotname_char_all(), aes(x = Node, y = Character)) + geom_point() + scale_x_continuous (limits = c(input$noderange), minor_breaks = seq(0 , 400, 1), breaks = seq(0, 400, 10), expand = c(0.02,0))),height=plotheight*18, width = 1200)

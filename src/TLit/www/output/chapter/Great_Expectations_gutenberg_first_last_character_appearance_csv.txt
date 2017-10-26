@@ -1,0 +1,93 @@
+"","Character","Node","Type","Appearances"
+"1","Abel Magwitch",1,"First Appearance",22
+"2","Abel Magwitch",56,"Last Appearance",22
+"3","Avenger",2,"First Appearance",6
+"4","Avenger",40,"Last Appearance",6
+"5","Bentley Drummle",11,"First Appearance",10
+"6","Bentley Drummle",48,"Last Appearance",10
+"7","Biddy",59,"Last Appearance",17
+"8","Biddy",7,"First Appearance",17
+"9","Black Bill",32,"First Appearance",1
+"10","Black Bill",32,"Last Appearance",1
+"11","Camilla",11,"First Appearance",6
+"12","Camilla",57,"Last Appearance",6
+"13","Clara Barley",30,"First Appearance",9
+"14","Clara Barley",59,"Last Appearance",9
+"15","Compeyson",55,"Last Appearance",13
+"16","Compeyson",5,"First Appearance",13
+"17","Dunstable",23,"Last Appearance",2
+"18","Dunstable",4,"First Appearance",2
+"19","Estella",8,"First Appearance",34
+"20","Estella",59,"Last Appearance",34
+"21","Flopson",22,"First Appearance",3
+"22","Flopson",33,"Last Appearance",3
+"23","Georiana Pocket",57,"Last Appearance",4
+"24","Georiana Pocket",11,"First Appearance",4
+"25","Herbert Pocket",59,"Last Appearance",38
+"26","Herbert Pocket",11,"First Appearance",38
+"27","Jack",47,"First Appearance",2
+"28","Jack",54,"Last Appearance",2
+"29","Joe Gargery",1,"First Appearance",35
+"30","Joe Gargery",59,"Last Appearance",35
+"31","John Wemmick",20,"First Appearance",19
+"32","John Wemmick",55,"Last Appearance",19
+"33","Mary Anne",45,"Last Appearance",1
+"34","Mary Anne",45,"First Appearance",1
+"35","Mike",20,"First Appearance",2
+"36","Mike",51,"Last Appearance",2
+"37","Millers",22,"First Appearance",3
+"38","Millers",33,"Last Appearance",3
+"39","Miss Havisham",7,"First Appearance",37
+"40","Miss Havisham",57,"Last Appearance",37
+"41","Miss Skiffins",55,"Last Appearance",4
+"42","Miss Skiffins",37,"First Appearance",4
+"43","Molly",48,"Last Appearance",2
+"44","Molly",26,"First Appearance",2
+"45","Mr Camilla",11,"First Appearance",3
+"46","Mr Camilla",25,"Last Appearance",3
+"47","Mr Clarriker",37,"First Appearance",5
+"48","Mr Clarriker",58,"Last Appearance",5
+"49","Mr Havisham",42,"Last Appearance",2
+"50","Mr Havisham",22,"First Appearance",2
+"51","Mr Hubble",35,"Last Appearance",3
+"52","Mr Hubble",4,"First Appearance",3
+"53","Mr Jaggers",18,"First Appearance",25
+"54","Mr Jaggers",56,"Last Appearance",25
+"55","Mr Pocket",11,"First Appearance",16
+"56","Mr Pocket",57,"Last Appearance",16
+"57","Mr Trabb",19,"First Appearance",6
+"58","Mr Trabb",53,"Last Appearance",6
+"59","Mr Wopsle",47,"Last Appearance",15
+"60","Mr Wopsle",4,"First Appearance",15
+"61","Mrs Brandley",38,"First Appearance",2
+"62","Mrs Brandley",43,"Last Appearance",2
+"63","Mrs Coiler",23,"First Appearance",1
+"64","Mrs Coiler",23,"Last Appearance",1
+"65","Mrs Hubble",4,"First Appearance",3
+"66","Mrs Hubble",35,"Last Appearance",3
+"67","Mrs Joe Gargery",58,"Last Appearance",21
+"68","Mrs Joe Gargery",1,"First Appearance",21
+"69","Mrs Pocket",34,"Last Appearance",6
+"70","Mrs Pocket",22,"First Appearance",6
+"71","Old Barley",46,"First Appearance",5
+"72","Old Barley",58,"Last Appearance",5
+"73","Orlick Dolge",15,"First Appearance",9
+"74","Orlick Dolge",57,"Last Appearance",9
+"75","Pip",59,"Last Appearance",49
+"76","Pip",1,"First Appearance",49
+"77","Sarah Pocket",57,"Last Appearance",7
+"78","Sarah Pocket",11,"First Appearance",7
+"79","Skiffins",37,"First Appearance",2
+"80","Skiffins",52,"Last Appearance",2
+"81","Sophia",23,"First Appearance",1
+"82","Sophia",23,"Last Appearance",1
+"83","Startop",23,"First Appearance",7
+"84","Startop",54,"Last Appearance",7
+"85","The Aged",55,"Last Appearance",7
+"86","The Aged",25,"First Appearance",7
+"87","Trabb's Boy",19,"First Appearance",4
+"88","Trabb's Boy",53,"Last Appearance",4
+"89","Uncle Pumblechook",4,"First Appearance",20
+"90","Uncle Pumblechook",58,"Last Appearance",20
+"91","William Potkins",58,"First Appearance",1
+"92","William Potkins",58,"Last Appearance",1

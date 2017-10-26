@@ -1,0 +1,69 @@
+"","Character","Node","Type","Appearances"
+"1","Bazzard",46,"First Appearance",7
+"2","Bazzard",98,"Last Appearance",7
+"3","Deputy",18,"First Appearance",8
+"4","Deputy",108,"Last Appearance",8
+"5","Dick Datchery",82,"First Appearance",8
+"6","Dick Datchery",109,"Last Appearance",8
+"7","Durdles",16,"First Appearance",15
+"8","Durdles",107,"Last Appearance",15
+"9","Edwin Drood",5,"First Appearance",38
+"10","Edwin Drood",107,"Last Appearance",38
+"11","Helena Landless",22,"First Appearance",27
+"12","Helena Landless",103,"Last Appearance",27
+"13","Hiram Grewgious",34,"First Appearance",33
+"14","Hiram Grewgious",103,"Last Appearance",33
+"15","Jack Chinaman",1,"First Appearance",2
+"16","Jack Chinaman",103,"Last Appearance",2
+"17","Joe",90,"Last Appearance",3
+"18","Joe",23,"First Appearance",3
+"19","John Jasper",4,"First Appearance",57
+"20","John Jasper",108,"Last Appearance",57
+"21","Lieutenant Tartar",80,"First Appearance",8
+"22","Lieutenant Tartar",100,"Last Appearance",8
+"23","Lobley",99,"First Appearance",2
+"24","Lobley",100,"Last Appearance",2
+"25","Luke Honeythunder",78,"Last Appearance",9
+"26","Luke Honeythunder",21,"First Appearance",9
+"27","Miss Brobity",15,"First Appearance",1
+"28","Miss Brobity",15,"Last Appearance",1
+"29","Miss Dean",4,"First Appearance",1
+"30","Miss Dean",4,"Last Appearance",1
+"31","Miss Ferdinand",34,"First Appearance",3
+"32","Miss Ferdinand",57,"Last Appearance",3
+"33","Miss Giggles",34,"First Appearance",2
+"34","Miss Giggles",57,"Last Appearance",2
+"35","Miss Jennings",34,"First Appearance",1
+"36","Miss Jennings",34,"Last Appearance",1
+"37","Miss Reynolds",34,"First Appearance",1
+"38","Miss Reynolds",34,"Last Appearance",1
+"39","Miss Rickitts",57,"First Appearance",1
+"40","Miss Rickitts",57,"Last Appearance",1
+"41","Miss Twinkleton",9,"First Appearance",26
+"42","Miss Twinkleton",102,"Last Appearance",26
+"43","Mr Porters",10,"Last Appearance",2
+"44","Mr Porters",9,"First Appearance",2
+"45","Mr Tope",4,"First Appearance",11
+"46","Mr Tope",108,"Last Appearance",11
+"47","Mrs Billickin",98,"First Appearance",5
+"48","Mrs Billickin",102,"Last Appearance",5
+"49","Mrs Crisparkle",21,"First Appearance",11
+"50","Mrs Crisparkle",78,"Last Appearance",11
+"51","Mrs Dean",4,"Last Appearance",1
+"52","Mrs Dean",4,"First Appearance",1
+"53","Mrs Tisher",10,"First Appearance",8
+"54","Mrs Tisher",86,"Last Appearance",8
+"55","Mrs Tope",5,"First Appearance",7
+"56","Mrs Tope",109,"Last Appearance",7
+"57","Neville Landless",22,"First Appearance",36
+"58","Neville Landless",103,"Last Appearance",36
+"59","Princess Puffer",108,"First Appearance",1
+"60","Princess Puffer",108,"Last Appearance",1
+"61","Rosa Bud",10,"First Appearance",40
+"62","Rosa Bud",103,"Last Appearance",40
+"63","Septimus Crisparkle",4,"First Appearance",44
+"64","Septimus Crisparkle",108,"Last Appearance",44
+"65","The Dean",4,"First Appearance",10
+"66","The Dean",108,"Last Appearance",10
+"67","Thomas Sapsea",14,"First Appearance",19
+"68","Thomas Sapsea",88,"Last Appearance",19

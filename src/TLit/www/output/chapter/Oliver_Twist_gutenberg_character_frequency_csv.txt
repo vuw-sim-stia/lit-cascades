@@ -1,0 +1,330 @@
+"","Character","Node","Appearances"
+"1","Anny",24,1
+"2","Artful Dodger",16,13
+"3","Artful Dodger",8,13
+"4","Artful Dodger",47,13
+"5","Artful Dodger",25,13
+"6","Artful Dodger",9,13
+"7","Artful Dodger",26,13
+"8","Artful Dodger",10,13
+"9","Artful Dodger",43,13
+"10","Artful Dodger",13,13
+"11","Artful Dodger",39,13
+"12","Artful Dodger",12,13
+"13","Artful Dodger",19,13
+"14","Artful Dodger",18,13
+"15","Barney",45,5
+"16","Barney",15,5
+"17","Barney",22,5
+"18","Barney",42,5
+"19","Barney",26,5
+"20","Bet",47,5
+"21","Bet",9,5
+"22","Bet",18,5
+"23","Bet",16,5
+"24","Bet",25,5
+"25","Bill Sikes",20,21
+"26","Bill Sikes",18,21
+"27","Bill Sikes",47,21
+"28","Bill Sikes",22,21
+"29","Bill Sikes",28,21
+"30","Bill Sikes",48,21
+"31","Bill Sikes",15,21
+"32","Bill Sikes",21,21
+"33","Bill Sikes",42,21
+"34","Bill Sikes",16,21
+"35","Bill Sikes",25,21
+"36","Bill Sikes",13,21
+"37","Bill Sikes",44,21
+"38","Bill Sikes",40,21
+"39","Bill Sikes",53,21
+"40","Bill Sikes",52,21
+"41","Bill Sikes",26,21
+"42","Bill Sikes",50,21
+"43","Bill Sikes",19,21
+"44","Bill Sikes",32,21
+"45","Bill Sikes",39,21
+"46","Blathers",41,2
+"47","Blathers",31,2
+"48","Brittles",30,5
+"49","Brittles",29,5
+"50","Brittles",31,5
+"51","Brittles",53,5
+"52","Brittles",28,5
+"53","Charley Bates",10,12
+"54","Charley Bates",39,12
+"55","Charley Bates",43,12
+"56","Charley Bates",9,12
+"57","Charley Bates",47,12
+"58","Charley Bates",25,12
+"59","Charley Bates",50,12
+"60","Charley Bates",16,12
+"61","Charley Bates",12,12
+"62","Charley Bates",53,12
+"63","Charley Bates",13,12
+"64","Charley Bates",18,12
+"65","Charlotte",4,7
+"66","Charlotte",6,7
+"67","Charlotte",53,7
+"68","Charlotte",5,7
+"69","Charlotte",27,7
+"70","Charlotte",7,7
+"71","Charlotte",42,7
+"72","Conkey Chickweed",31,1
+"73","Dick",51,4
+"74","Dick",17,4
+"75","Dick",15,4
+"76","Dick",7,4
+"77","Duff",31,3
+"78","Duff",35,3
+"79","Duff",41,3
+"80","Edward Leeford",41,11
+"81","Edward Leeford",51,11
+"82","Edward Leeford",46,11
+"83","Edward Leeford",39,11
+"84","Edward Leeford",40,11
+"85","Edward Leeford",47,11
+"86","Edward Leeford",49,11
+"87","Edward Leeford",52,11
+"88","Edward Leeford",26,11
+"89","Edward Leeford",53,11
+"90","Edward Leeford",38,11
+"91","Fagin",16,26
+"92","Fagin",47,26
+"93","Fagin",9,26
+"94","Fagin",12,26
+"95","Fagin",53,26
+"96","Fagin",25,26
+"97","Fagin",43,26
+"98","Fagin",39,26
+"99","Fagin",45,26
+"100","Fagin",32,26
+"101","Fagin",44,26
+"102","Fagin",48,26
+"103","Fagin",18,26
+"104","Fagin",50,26
+"105","Fagin",26,26
+"106","Fagin",8,26
+"107","Fagin",15,26
+"108","Fagin",40,26
+"109","Fagin",20,26
+"110","Fagin",46,26
+"111","Fagin",42,26
+"112","Fagin",19,26
+"113","Fagin",52,26
+"114","Fagin",13,26
+"115","Fagin",51,26
+"116","Fagin",22,26
+"117","Grannett",23,1
+"118","Harry Maylie",35,7
+"119","Harry Maylie",34,7
+"120","Harry Maylie",51,7
+"121","Harry Maylie",33,7
+"122","Harry Maylie",36,7
+"123","Harry Maylie",41,7
+"124","Harry Maylie",53,7
+"125","Jem Spyers",31,1
+"126","Kags",50,1
+"127","Martha",24,1
+"128","Morris Bolter",43,3
+"129","Morris Bolter",42,3
+"130","Morris Bolter",45,3
+"131","Mr Brownlow",11,12
+"132","Mr Brownlow",12,12
+"133","Mr Brownlow",41,12
+"134","Mr Brownlow",16,12
+"135","Mr Brownlow",53,12
+"136","Mr Brownlow",49,12
+"137","Mr Brownlow",52,12
+"138","Mr Brownlow",17,12
+"139","Mr Brownlow",51,12
+"140","Mr Brownlow",14,12
+"141","Mr Brownlow",46,12
+"142","Mr Brownlow",32,12
+"143","Mr Bumble",5,14
+"144","Mr Bumble",7,14
+"145","Mr Bumble",23,14
+"146","Mr Bumble",51,14
+"147","Mr Bumble",37,14
+"148","Mr Bumble",53,14
+"149","Mr Bumble",38,14
+"150","Mr Bumble",6,14
+"151","Mr Bumble",2,14
+"152","Mr Bumble",14,14
+"153","Mr Bumble",3,14
+"154","Mr Bumble",4,14
+"155","Mr Bumble",17,14
+"156","Mr Bumble",27,14
+"157","Mr Fang",13,2
+"158","Mr Fang",11,2
+"159","Mr Gamfield",51,2
+"160","Mr Gamfield",3,2
+"161","Mr Giles",31,10
+"162","Mr Giles",29,10
+"163","Mr Giles",35,10
+"164","Mr Giles",36,10
+"165","Mr Giles",53,10
+"166","Mr Giles",41,10
+"167","Mr Giles",34,10
+"168","Mr Giles",30,10
+"169","Mr Giles",32,10
+"170","Mr Giles",28,10
+"171","Mr Grimwig",41,5
+"172","Mr Grimwig",14,5
+"173","Mr Grimwig",17,5
+"174","Mr Grimwig",51,5
+"175","Mr Grimwig",53,5
+"176","Mr Limbkins",2,2
+"177","Mr Limbkins",3,2
+"178","Mr Lively",26,1
+"179","Mr Losberne",35,12
+"180","Mr Losberne",49,12
+"181","Mr Losberne",29,12
+"182","Mr Losberne",32,12
+"183","Mr Losberne",41,12
+"184","Mr Losberne",30,12
+"185","Mr Losberne",53,12
+"186","Mr Losberne",51,12
+"187","Mr Losberne",31,12
+"188","Mr Losberne",34,12
+"189","Mr Losberne",33,12
+"190","Mr Losberne",36,12
+"191","Mr Mann",17,1
+"192","Mr Slout",27,1
+"193","Mr Sowerberry",4,8
+"194","Mr Sowerberry",5,8
+"195","Mr Sowerberry",7,8
+"196","Mr Sowerberry",42,8
+"197","Mr Sowerberry",6,8
+"198","Mr Sowerberry",51,8
+"199","Mr Sowerberry",8,8
+"200","Mr Sowerberry",27,8
+"201","Mrs Bedwin",14,7
+"202","Mrs Bedwin",41,7
+"203","Mrs Bedwin",51,7
+"204","Mrs Bedwin",32,7
+"205","Mrs Bedwin",12,7
+"206","Mrs Bedwin",17,7
+"207","Mrs Bedwin",15,7
+"208","Mrs Bolter",42,1
+"209","Mrs Corney",37,4
+"210","Mrs Corney",24,4
+"211","Mrs Corney",27,4
+"212","Mrs Corney",23,4
+"213","Mrs Mann",2,2
+"214","Mrs Mann",17,2
+"215","Mrs Maylie",53,10
+"216","Mrs Maylie",29,10
+"217","Mrs Maylie",30,10
+"218","Mrs Maylie",32,10
+"219","Mrs Maylie",33,10
+"220","Mrs Maylie",34,10
+"221","Mrs Maylie",31,10
+"222","Mrs Maylie",35,10
+"223","Mrs Maylie",51,10
+"224","Mrs Maylie",41,10
+"225","Mrs Sowerberry",5,5
+"226","Mrs Sowerberry",4,5
+"227","Mrs Sowerberry",27,5
+"228","Mrs Sowerberry",6,5
+"229","Mrs Sowerberry",7,5
+"230","Nancy",20,15
+"231","Nancy",41,15
+"232","Nancy",42,15
+"233","Nancy",16,15
+"234","Nancy",18,15
+"235","Nancy",15,15
+"236","Nancy",9,15
+"237","Nancy",40,15
+"238","Nancy",19,15
+"239","Nancy",47,15
+"240","Nancy",46,15
+"241","Nancy",39,15
+"242","Nancy",44,15
+"243","Nancy",26,15
+"244","Nancy",13,15
+"245","Ned",19,2
+"246","Ned",21,2
+"247","Noah Claypole",47,10
+"248","Noah Claypole",43,10
+"249","Noah Claypole",6,10
+"250","Noah Claypole",42,10
+"251","Noah Claypole",7,10
+"252","Noah Claypole",53,10
+"253","Noah Claypole",46,10
+"254","Noah Claypole",5,10
+"255","Noah Claypole",45,10
+"256","Noah Claypole",27,10
+"257","Oliver Twist",1,41
+"258","Oliver Twist",16,41
+"259","Oliver Twist",9,41
+"260","Oliver Twist",41,41
+"261","Oliver Twist",2,41
+"262","Oliver Twist",10,41
+"263","Oliver Twist",5,41
+"264","Oliver Twist",30,41
+"265","Oliver Twist",3,41
+"266","Oliver Twist",17,41
+"267","Oliver Twist",19,41
+"268","Oliver Twist",34,41
+"269","Oliver Twist",25,41
+"270","Oliver Twist",4,41
+"271","Oliver Twist",12,41
+"272","Oliver Twist",20,41
+"273","Oliver Twist",18,41
+"274","Oliver Twist",31,41
+"275","Oliver Twist",21,41
+"276","Oliver Twist",7,41
+"277","Oliver Twist",15,41
+"278","Oliver Twist",13,41
+"279","Oliver Twist",22,41
+"280","Oliver Twist",8,41
+"281","Oliver Twist",28,41
+"282","Oliver Twist",6,41
+"283","Oliver Twist",14,41
+"284","Oliver Twist",23,41
+"285","Oliver Twist",24,41
+"286","Oliver Twist",46,41
+"287","Oliver Twist",40,41
+"288","Oliver Twist",35,41
+"289","Oliver Twist",36,41
+"290","Oliver Twist",27,41
+"291","Oliver Twist",53,41
+"292","Oliver Twist",11,41
+"293","Oliver Twist",37,41
+"294","Oliver Twist",32,41
+"295","Oliver Twist",33,41
+"296","Oliver Twist",51,41
+"297","Oliver Twist",52,41
+"298","Phil Barker",26,1
+"299","Rose Maylie",33,14
+"300","Rose Maylie",34,14
+"301","Rose Maylie",36,14
+"302","Rose Maylie",42,14
+"303","Rose Maylie",35,14
+"304","Rose Maylie",51,14
+"305","Rose Maylie",40,14
+"306","Rose Maylie",32,14
+"307","Rose Maylie",46,14
+"308","Rose Maylie",29,14
+"309","Rose Maylie",53,14
+"310","Rose Maylie",41,14
+"311","Rose Maylie",30,14
+"312","Rose Maylie",31,14
+"313","Sally",24,5
+"314","Sally",37,5
+"315","Sally",38,5
+"316","Sally",23,5
+"317","Sally",51,5
+"318","Toby Crackit",39,8
+"319","Toby Crackit",50,8
+"320","Toby Crackit",22,8
+"321","Toby Crackit",25,8
+"322","Toby Crackit",19,8
+"323","Toby Crackit",26,8
+"324","Toby Crackit",28,8
+"325","Toby Crackit",27,8
+"326","Tom Chitling",25,4
+"327","Tom Chitling",50,4
+"328","Tom Chitling",18,4
+"329","Tom Chitling",39,4
