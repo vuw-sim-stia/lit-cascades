@@ -19,8 +19,8 @@
 "18","Clara Copperfield",2,"First Appearance",40
 "19","Clara Peggotty",3,"First Appearance",103
 "20","Clara Peggotty",386,"Last Appearance",103
-"21","Clarissa Spenlow",305,"Last Appearance",11
-"22","Clarissa Spenlow",245,"First Appearance",11
+"21","Clarissa Spenlow",305,"Last Appearance",14
+"22","Clarissa Spenlow",245,"First Appearance",14
 "23","Clickett",73,"Last Appearance",1
 "24","Clickett",73,"First Appearance",1
 "25","Daniel Peggotty",385,"Last Appearance",68

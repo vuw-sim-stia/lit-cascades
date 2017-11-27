@@ -32,6 +32,7 @@
 "Miss Tite Barnacles",1
 "Miss Wade",21
 "Mr Cripples",3
+"Mr F.'s Aunt",18
 "Mr Frederick Dorrit",13
 "Mr John Chivery",26
 "Mr Meagles",51

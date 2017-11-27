@@ -43,6 +43,9 @@ library(openNLP)
 library(cldr)
 library(RWeka)
 library(vegan)
+library(poweRlaw)
+library(plyr)
+library(vegan)
 
 #housekeeping and helpers
 options(scipen = 999)
@@ -146,8 +149,14 @@ for(sliceSize in slice_sizes){
         for(k in 1:nrow(chars)){
           needle <- chars[k,2]
           matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
-          nWords <- sapply(gregexpr("\\W+", needle), length) +1
-          words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+          multiple <- F
+          if(k+1<=nrow(chars)){
+            if(length(which(chars[k+1:nrow(chars),2]==needle))>0) multiple <- T
+          }
+          if(!multiple){
+            nWords <- sapply(gregexpr("\\W+", needle), length) +1
+            words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+          }
           if(matched != -1){
             for(l in 1:length(matched)){
               if(is.null(slicematch[[as.character(matched[l])]])){
@@ -876,8 +885,16 @@ for(sliceSize in slice_sizes){
         for(k in 1:nrow(chars)){
           needle <- chars[k,2]
           matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
-          nWords <- sapply(gregexpr("\\W+", needle), length) +1
-          words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+          
+          multiple <- F
+          if(k+1<=nrow(chars)){
+            if(length(which(chars[k+1:nrow(chars),2]==needle))>0) multiple <- T
+          }
+          if(!multiple){
+            nWords <- sapply(gregexpr("\\W+", needle), length) +1
+            words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+          }
+          
           if(matched != -1){
             for(l in 1:length(matched)){
               if(is.null(slicematch[[as.character(matched[l])]])){
@@ -969,9 +986,47 @@ for(sliceSize in slice_sizes){
       }
       
     }
+    
+    links <- data.frame(source=unlist(links[,1]),target=unlist(links[,2]),tag=unlist(links[,3]),stringsAsFactors = F)
     colnames(nodes) <- c('node_id','tags','dpub')
     colnames(links) <- c('source','target','tag')
     colnames(roots) <- c('root_node_id','tag')
+    
+    linksDelta <- as.integer(links$target)-as.integer(links$source)
+    jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta.jpg"))
+    plot(linksDelta,type='l')
+    abline(h=mean(linksDelta),col="red")
+    abline(h=median(linksDelta),col="blue")
+    dev.off()
+    
+    linksDelta.count <- count(linksDelta)
+    jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta_distri.jpg"))
+    plot(linksDelta.count$x,linksDelta.count$freq,pch=20)
+    dev.off()
+    
+    jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta_distri_loglog.jpg"))
+    plot(linksDelta.count$x,linksDelta.count$freq,pch=20,log="xy")
+    dev.off()
+    
+    #power law?
+    
+    m_bl = displ$new(linksDelta)
+    est = estimate_xmin(m_bl)
+    m_bl$setXmin(est)
+    m_ln = dislnorm$new(linksDelta)
+    est = estimate_xmin(m_ln)
+    m_ln$setXmin(est)
+    m_pois = dispois$new(linksDelta)
+    est = estimate_xmin(m_pois)
+    m_pois$setXmin(est)
+    
+    jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta_distri_plaw.jpg"))
+    plot(m_bl, ylab="CDF")
+    text(100,0.15,bquote(x[min] ~ .(paste0("=")) ~ .(m_bl$xmin) ~ .(paste0(", ")) ~ alpha ~ .(paste0("=")) ~ .(m_bl$pars)))
+    lines(m_bl, col=2)
+    lines(m_ln, col=3)
+    lines(m_pois, col=4)
+    dev.off()
     
     
     #export text as HTML file to allow jumoing to respective slice
@@ -1203,29 +1258,6 @@ for(sliceSize in slice_sizes){
     socEdges$shadow <- FALSE
     socEdges$color <- "gray"
     
-    ## old social network-2
-    #netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
-    #  visOptions(highlightNearest = TRUE) %>%
-    #  visInteraction(dragNodes = FALSE, dragView = FALSE, zoomView = TRUE) %>% 
-    #  visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
-    #visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_social-network2.html",sep=''))
-    
-    #todo: fix this to replace igraphVis
-    #tmpNodes <- V(h)$names
-    #tmpEdges <- data.frame(source=head_of(h,E(h))$name,target=tail_of(h,E(h))$name)
-    #tmpSoc <- network(tmpEdges, vertex.attr=tmpNodes, matrix.type="edgelist", loops=F, multiple=F, ignore.eval = F)
-    #compute.animation(tmpSoc, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
-    #render.d3movie(tmpSoc, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_social-network2.html",sep=''),launchBrowser=T,
-    #displaylabels=F,label=tmpSoc %v% "vertex.names",
-    #vertex.col="white",edge.col="darkgray",label.cex=.6,
-    #vertex.cex=function(slice){degree(slice)/10},
-    #edge.lwd=function(slice){degree(slice)/10},
-    #vertex.tooltip = paste("<spanstyle='font-size:10px;'><b>Slice:</b>",(tmpSoc %v% "name"),"</br>","<b>Matched characters:</b>",(net3 %v% "title")),
-    #vertex.border="#000000",
-    #edge.lwd = (net3 %e% "width"),
-    #edge.len = 5, uselen = T,object.scale = 0.1)
-    #edge.tooltip = paste("<b>Source:</b>", (net3 %e% "set"),"</br>","<b>Target:</b>", (net3 %e% "target"), "</span>"))
-    
     pdf(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
     plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
     dev.off()
@@ -1363,47 +1395,61 @@ for(sliceSize in slice_sizes){
     
     for(z in 1:nrow(nodes)){
       #entropy
-      if(z==1){
-        ent <- rbind(ent,c(0,1,0,1))
+      #if(z==1){
+      #  ent <- rbind(ent,c(0,1,0,1))
+      #  wien <- rbind(wien,c(0,0))
+      #}
+      #if(length(links[which(links[,2]==nodes[z,1]),3])>0){
+      #print(nodes[z,1])
+      #inter <- rbind(inter,paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '))
+      inter <- rbind(inter,paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '))
+      #nextI <- digest(paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '),algo="md5")
+      nextI <- digest(paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '),algo="md5")
+      if(length(spec)==0){
+        coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),0,0))
+        spec[[nextI]] <- c(0,0)
       }
-      if(length(links[which(links[,2]==nodes[z,1]),3])>0){
-        print(nodes[z,1])
-        inter <- rbind(inter,paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '))
-        nextI <- digest(paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '),algo="md5")
-        if(length(spec)==0){
-          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),0,0))
-          spec[[nextI]] <- c(0,0)
-        }
-        else{
-          if(is.null(spec[[nextI]])){
-            spec[[nextI]] <- c(0,div)
-            coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
-            div <- div+1
-          }else{
-            spec[[nextI]] <- c(spec[[nextI]][1]+1,spec[[nextI]][2])
-            coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],spec[[nextI]][2]))
-          }
-        }
-        
-        interact <- list()
-        for(v in 1:nrow(inter)){
-          interactions <- strsplit(unlist(inter[v,1]),', ')
-          for( m in 1:length(interactions)){
-            if(is.null(interact[[interactions[[1]][m]]])) interact[[interactions[[1]][m]]] <- 1
-            else interact[[interactions[[1]][m]]] <- interact[[interactions[[1]][m]]] + 1
-          }
-        }
-        df <- data.frame(unlist(interact))
-        tmp<-df[,1]/colSums(df)
-        df$loga<-log(tmp)
-        df$piloga<-tmp*log(tmp)
-        if(is.nan((-1*(colSums(df)[3]))/log(nrow(df)))){
-          ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),1,-1*(colSums(df)[3]),1))
-        } else{
-          ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),(-1*(colSums(df)[3]))/log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
+      else{
+        if(is.null(spec[[nextI]])){
+          spec[[nextI]] <- c(0,div)
+          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
+          div <- div+1
+        }else{
+          spec[[nextI]] <- c(spec[[nextI]][1]+1,spec[[nextI]][2])
+          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],spec[[nextI]][2]))
         }
       }
+      
+      interact <- list()
+      for(v in 1:nrow(inter)){
+        interactions <- strsplit(unlist(inter[v,1]),', ')
+        for( m in 1:length(interactions)){
+          if(is.null(interact[[interactions[[1]][m]]])) interact[[interactions[[1]][m]]] <- 1
+          else interact[[interactions[[1]][m]]] <- interact[[interactions[[1]][m]]] + 1
+        }
+      }
+      df <- data.frame(unlist(interact))
+      tmp<-df[,1]/colSums(df)
+      df$loga<-log(tmp)
+      df$piloga<-tmp*log(tmp)
+      if(is.nan((-1*(colSums(df)[3]))/log(nrow(df)))){
+        ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),1,-1*(colSums(df)[3]),1))
+      } else{
+        ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),(-1*(colSums(df)[3]))/log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
+      }
+      
+      if(nrow(df)==1){
+        wien <- rbind(wien,c(0,0,1))
+      } else{
+        H <- vegan::diversity(df[,1])
+        S <- nrow(df)
+        J <- H/log(S)
+        wien <- rbind(wien,c(H,J,S))
+      }
+      
+      #}
       colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
+      colnames(wien)<-c('ShannonWiener','Pielou','Richness')
     }
     colnames(coordinates) <- c("t","specificity","diversity")
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_coordinates.jpg",sep=''))
@@ -1416,6 +1462,17 @@ for(sliceSize in slice_sizes){
     dev.off()
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_evenness.jpg",sep=''))
     plot(ent[,2],type="l")
+    dev.off()
+    
+    write.csv(wien,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_diversity.txt",sep=''))
+    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_shannonwiener.jpg",sep=''))
+    plot(wien[,1],type="l")
+    dev.off()
+    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_pielou.jpg",sep=''))
+    plot(wien[,2],type="l")
+    dev.off()
+    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_richness.jpg",sep=''))
+    plot(wien[,3],type="l")
     dev.off()
     
     # scatterplot for character frequency

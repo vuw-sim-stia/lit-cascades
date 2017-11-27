@@ -65,8 +65,8 @@
 "64","Martin Sr",18,"First Appearance",66
 "65","Mary",210,"First Appearance",5
 "66","Mary",351,"Last Appearance",5
-"67","Mercy Pecksniff",252,"First Appearance",1
-"68","Mercy Pecksniff",252,"Last Appearance",1
+"67","Mercy Pecksniff",7,"First Appearance",62
+"68","Mercy Pecksniff",364,"Last Appearance",62
 "69","Miss Codger",238,"Last Appearance",1
 "70","Miss Codger",238,"First Appearance",1
 "71","Miss Toppit",238,"Last Appearance",1

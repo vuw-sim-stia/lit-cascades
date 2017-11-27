@@ -50,7 +50,7 @@ Mrs Norris: Mrs Norris
 Major Pawkins: Major Pawkins
 Mrs Pawkins: Mrs Pawkins
 Charity Pecksniff: Charity
-Mercy Pecksniff: Merry
+Mercy Pecksniff: Mercy
 Seth Pecksniff: Mr Pecksniff
 Ruth Pinch: _Ruth, Miss Pinch
 Tom Pinch: _Tom, Mr Pinch

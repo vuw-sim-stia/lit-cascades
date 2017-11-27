@@ -1,58 +1,58 @@
 "","Character","Node","Appearances"
-"1","Charles St EvrŽmonde",119,54
-"2","Charles St EvrŽmonde",78,54
-"3","Charles St EvrŽmonde",113,54
-"4","Charles St EvrŽmonde",56,54
-"5","Charles St EvrŽmonde",124,54
-"6","Charles St EvrŽmonde",27,54
-"7","Charles St EvrŽmonde",35,54
-"8","Charles St EvrŽmonde",34,54
-"9","Charles St EvrŽmonde",153,54
-"10","Charles St EvrŽmonde",122,54
-"11","Charles St EvrŽmonde",36,54
-"12","Charles St EvrŽmonde",87,54
-"13","Charles St EvrŽmonde",143,54
-"14","Charles St EvrŽmonde",121,54
-"15","Charles St EvrŽmonde",123,54
-"16","Charles St EvrŽmonde",53,54
-"17","Charles St EvrŽmonde",106,54
-"18","Charles St EvrŽmonde",93,54
-"19","Charles St EvrŽmonde",80,54
-"20","Charles St EvrŽmonde",104,54
-"21","Charles St EvrŽmonde",100,54
-"22","Charles St EvrŽmonde",51,54
-"23","Charles St EvrŽmonde",112,54
-"24","Charles St EvrŽmonde",90,54
-"25","Charles St EvrŽmonde",134,54
-"26","Charles St EvrŽmonde",57,54
-"27","Charles St EvrŽmonde",88,54
-"28","Charles St EvrŽmonde",149,54
-"29","Charles St EvrŽmonde",43,54
-"30","Charles St EvrŽmonde",151,54
-"31","Charles St EvrŽmonde",145,54
-"32","Charles St EvrŽmonde",79,54
-"33","Charles St EvrŽmonde",111,54
-"34","Charles St EvrŽmonde",142,54
-"35","Charles St EvrŽmonde",107,54
-"36","Charles St EvrŽmonde",125,54
-"37","Charles St EvrŽmonde",159,54
-"38","Charles St EvrŽmonde",128,54
-"39","Charles St EvrŽmonde",58,54
-"40","Charles St EvrŽmonde",50,54
-"41","Charles St EvrŽmonde",150,54
-"42","Charles St EvrŽmonde",108,54
-"43","Charles St EvrŽmonde",118,54
-"44","Charles St EvrŽmonde",155,54
-"45","Charles St EvrŽmonde",105,54
-"46","Charles St EvrŽmonde",102,54
-"47","Charles St EvrŽmonde",115,54
-"48","Charles St EvrŽmonde",81,54
-"49","Charles St EvrŽmonde",148,54
-"50","Charles St EvrŽmonde",103,54
-"51","Charles St EvrŽmonde",158,54
-"52","Charles St EvrŽmonde",116,54
-"53","Charles St EvrŽmonde",101,54
-"54","Charles St EvrŽmonde",44,54
+"1","Charles St Evrémonde",119,54
+"2","Charles St Evrémonde",78,54
+"3","Charles St Evrémonde",113,54
+"4","Charles St Evrémonde",56,54
+"5","Charles St Evrémonde",124,54
+"6","Charles St Evrémonde",27,54
+"7","Charles St Evrémonde",35,54
+"8","Charles St Evrémonde",34,54
+"9","Charles St Evrémonde",153,54
+"10","Charles St Evrémonde",122,54
+"11","Charles St Evrémonde",36,54
+"12","Charles St Evrémonde",87,54
+"13","Charles St Evrémonde",143,54
+"14","Charles St Evrémonde",121,54
+"15","Charles St Evrémonde",123,54
+"16","Charles St Evrémonde",53,54
+"17","Charles St Evrémonde",106,54
+"18","Charles St Evrémonde",93,54
+"19","Charles St Evrémonde",80,54
+"20","Charles St Evrémonde",104,54
+"21","Charles St Evrémonde",100,54
+"22","Charles St Evrémonde",51,54
+"23","Charles St Evrémonde",112,54
+"24","Charles St Evrémonde",90,54
+"25","Charles St Evrémonde",134,54
+"26","Charles St Evrémonde",57,54
+"27","Charles St Evrémonde",88,54
+"28","Charles St Evrémonde",149,54
+"29","Charles St Evrémonde",43,54
+"30","Charles St Evrémonde",151,54
+"31","Charles St Evrémonde",145,54
+"32","Charles St Evrémonde",79,54
+"33","Charles St Evrémonde",111,54
+"34","Charles St Evrémonde",142,54
+"35","Charles St Evrémonde",107,54
+"36","Charles St Evrémonde",125,54
+"37","Charles St Evrémonde",159,54
+"38","Charles St Evrémonde",128,54
+"39","Charles St Evrémonde",58,54
+"40","Charles St Evrémonde",50,54
+"41","Charles St Evrémonde",150,54
+"42","Charles St Evrémonde",108,54
+"43","Charles St Evrémonde",118,54
+"44","Charles St Evrémonde",155,54
+"45","Charles St Evrémonde",105,54
+"46","Charles St Evrémonde",102,54
+"47","Charles St Evrémonde",115,54
+"48","Charles St Evrémonde",81,54
+"49","Charles St Evrémonde",148,54
+"50","Charles St Evrémonde",103,54
+"51","Charles St Evrémonde",158,54
+"52","Charles St Evrémonde",116,54
+"53","Charles St Evrémonde",101,54
+"54","Charles St Evrémonde",44,54
 "55","Doctor Manette",30,55
 "56","Doctor Manette",60,55
 "57","Doctor Manette",34,55
@@ -310,37 +310,37 @@
 "309","Lucie Manette",124,42
 "310","Lucie Manette",42,42
 "311","Lucie Manette",148,42
-"312","Marquis St EvrŽmonde I",139,3
-"313","Marquis St EvrŽmonde I",141,3
-"314","Marquis St EvrŽmonde I",140,3
-"315","Marquis St EvrŽmonde II",48,28
-"316","Marquis St EvrŽmonde II",98,28
-"317","Marquis St EvrŽmonde II",78,28
-"318","Marquis St EvrŽmonde II",145,28
-"319","Marquis St EvrŽmonde II",75,28
-"320","Marquis St EvrŽmonde II",46,28
-"321","Marquis St EvrŽmonde II",50,28
-"322","Marquis St EvrŽmonde II",53,28
-"323","Marquis St EvrŽmonde II",99,28
-"324","Marquis St EvrŽmonde II",101,28
-"325","Marquis St EvrŽmonde II",110,28
-"326","Marquis St EvrŽmonde II",47,28
-"327","Marquis St EvrŽmonde II",52,28
-"328","Marquis St EvrŽmonde II",70,28
-"329","Marquis St EvrŽmonde II",72,28
-"330","Marquis St EvrŽmonde II",102,28
-"331","Marquis St EvrŽmonde II",120,28
-"332","Marquis St EvrŽmonde II",71,28
-"333","Marquis St EvrŽmonde II",45,28
-"334","Marquis St EvrŽmonde II",137,28
-"335","Marquis St EvrŽmonde II",112,28
-"336","Marquis St EvrŽmonde II",103,28
-"337","Marquis St EvrŽmonde II",49,28
-"338","Marquis St EvrŽmonde II",55,28
-"339","Marquis St EvrŽmonde II",97,28
-"340","Marquis St EvrŽmonde II",51,28
-"341","Marquis St EvrŽmonde II",100,28
-"342","Marquis St EvrŽmonde II",54,28
+"312","Marquis St Evrémonde I",139,3
+"313","Marquis St Evrémonde I",141,3
+"314","Marquis St Evrémonde I",140,3
+"315","Marquis St Evrémonde II",48,28
+"316","Marquis St Evrémonde II",98,28
+"317","Marquis St Evrémonde II",78,28
+"318","Marquis St Evrémonde II",145,28
+"319","Marquis St Evrémonde II",75,28
+"320","Marquis St Evrémonde II",46,28
+"321","Marquis St Evrémonde II",50,28
+"322","Marquis St Evrémonde II",53,28
+"323","Marquis St Evrémonde II",99,28
+"324","Marquis St Evrémonde II",101,28
+"325","Marquis St Evrémonde II",110,28
+"326","Marquis St Evrémonde II",47,28
+"327","Marquis St Evrémonde II",52,28
+"328","Marquis St Evrémonde II",70,28
+"329","Marquis St Evrémonde II",72,28
+"330","Marquis St Evrémonde II",102,28
+"331","Marquis St Evrémonde II",120,28
+"332","Marquis St Evrémonde II",71,28
+"333","Marquis St Evrémonde II",45,28
+"334","Marquis St Evrémonde II",137,28
+"335","Marquis St Evrémonde II",112,28
+"336","Marquis St Evrémonde II",103,28
+"337","Marquis St Evrémonde II",49,28
+"338","Marquis St Evrémonde II",55,28
+"339","Marquis St Evrémonde II",97,28
+"340","Marquis St Evrémonde II",51,28
+"341","Marquis St Evrémonde II",100,28
+"342","Marquis St Evrémonde II",54,28
 "343","Miss Pross",41,29
 "344","Miss Pross",128,29
 "345","Miss Pross",113,29
@@ -466,45 +466,45 @@
 "465","The Vengeance",159,12
 "466","The Vengeance",114,12
 "467","The Vengeance",119,12
-"468","ThŽophile Gabelle",103,10
-"469","ThŽophile Gabelle",121,10
-"470","ThŽophile Gabelle",98,10
-"471","ThŽophile Gabelle",122,10
-"472","ThŽophile Gabelle",49,10
-"473","ThŽophile Gabelle",50,10
-"474","ThŽophile Gabelle",99,10
-"475","ThŽophile Gabelle",54,10
-"476","ThŽophile Gabelle",106,10
-"477","ThŽophile Gabelle",105,10
-"478","ThŽrse Defarge",119,29
-"479","ThŽrse Defarge",74,29
-"480","ThŽrse Defarge",15,29
-"481","ThŽrse Defarge",153,29
-"482","ThŽrse Defarge",135,29
-"483","ThŽrse Defarge",129,29
-"484","ThŽrse Defarge",75,29
-"485","ThŽrse Defarge",92,29
-"486","ThŽrse Defarge",145,29
-"487","ThŽrse Defarge",141,29
-"488","ThŽrse Defarge",70,29
-"489","ThŽrse Defarge",76,29
-"490","ThŽrse Defarge",154,29
-"491","ThŽrse Defarge",155,29
-"492","ThŽrse Defarge",144,29
-"493","ThŽrse Defarge",113,29
-"494","ThŽrse Defarge",21,29
-"495","ThŽrse Defarge",158,29
-"496","ThŽrse Defarge",73,29
-"497","ThŽrse Defarge",114,29
-"498","ThŽrse Defarge",78,29
-"499","ThŽrse Defarge",146,29
-"500","ThŽrse Defarge",95,29
-"501","ThŽrse Defarge",156,29
-"502","ThŽrse Defarge",14,29
-"503","ThŽrse Defarge",91,29
-"504","ThŽrse Defarge",94,29
-"505","ThŽrse Defarge",157,29
-"506","ThŽrse Defarge",77,29
+"468","Théophile Gabelle",103,10
+"469","Théophile Gabelle",121,10
+"470","Théophile Gabelle",98,10
+"471","Théophile Gabelle",122,10
+"472","Théophile Gabelle",49,10
+"473","Théophile Gabelle",50,10
+"474","Théophile Gabelle",99,10
+"475","Théophile Gabelle",54,10
+"476","Théophile Gabelle",106,10
+"477","Théophile Gabelle",105,10
+"478","Thérèse Defarge",119,29
+"479","Thérèse Defarge",74,29
+"480","Thérèse Defarge",15,29
+"481","Thérèse Defarge",153,29
+"482","Thérèse Defarge",135,29
+"483","Thérèse Defarge",129,29
+"484","Thérèse Defarge",75,29
+"485","Thérèse Defarge",92,29
+"486","Thérèse Defarge",145,29
+"487","Thérèse Defarge",141,29
+"488","Thérèse Defarge",70,29
+"489","Thérèse Defarge",76,29
+"490","Thérèse Defarge",154,29
+"491","Thérèse Defarge",155,29
+"492","Thérèse Defarge",144,29
+"493","Thérèse Defarge",113,29
+"494","Thérèse Defarge",21,29
+"495","Thérèse Defarge",158,29
+"496","Thérèse Defarge",73,29
+"497","Thérèse Defarge",114,29
+"498","Thérèse Defarge",78,29
+"499","Thérèse Defarge",146,29
+"500","Thérèse Defarge",95,29
+"501","Thérèse Defarge",156,29
+"502","Thérèse Defarge",14,29
+"503","Thérèse Defarge",91,29
+"504","Thérèse Defarge",94,29
+"505","Thérèse Defarge",157,29
+"506","Thérèse Defarge",77,29
 "507","Tom",3,1
 "508","Young Jerry Cruncher",25,2
 "509","Young Jerry Cruncher",24,2

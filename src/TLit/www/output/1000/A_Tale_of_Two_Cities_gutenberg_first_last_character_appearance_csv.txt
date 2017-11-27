@@ -1,6 +1,6 @@
 "","Character","Node","Type","Appearances"
-"1","Charles St EvrŽmonde",27,"First Appearance",54
-"2","Charles St EvrŽmonde",159,"Last Appearance",54
+"1","Charles St Evrémonde",27,"First Appearance",54
+"2","Charles St Evrémonde",159,"Last Appearance",54
 "3","Doctor Manette",9,"First Appearance",55
 "4","Doctor Manette",151,"Last Appearance",55
 "5","Ernest Defarge",15,"First Appearance",36
@@ -19,10 +19,10 @@
 "18","Joe",4,"Last Appearance",2
 "19","Lucie Manette",34,"First Appearance",42
 "20","Lucie Manette",155,"Last Appearance",42
-"21","Marquis St EvrŽmonde I",139,"First Appearance",3
-"22","Marquis St EvrŽmonde I",141,"Last Appearance",3
-"23","Marquis St EvrŽmonde II",145,"Last Appearance",28
-"24","Marquis St EvrŽmonde II",45,"First Appearance",28
+"21","Marquis St Evrémonde I",139,"First Appearance",3
+"22","Marquis St Evrémonde I",141,"Last Appearance",3
+"23","Marquis St Evrémonde II",145,"Last Appearance",28
+"24","Marquis St Evrémonde II",45,"First Appearance",28
 "25","Miss Pross",157,"Last Appearance",29
 "26","Miss Pross",40,"First Appearance",29
 "27","Mr Stryver",32,"First Appearance",17
@@ -39,10 +39,10 @@
 "38","Sydney Carton",159,"Last Appearance",35
 "39","The Vengeance",94,"First Appearance",12
 "40","The Vengeance",159,"Last Appearance",12
-"41","ThŽophile Gabelle",122,"Last Appearance",10
-"42","ThŽophile Gabelle",49,"First Appearance",10
-"43","ThŽrse Defarge",14,"First Appearance",29
-"44","ThŽrse Defarge",158,"Last Appearance",29
+"41","Théophile Gabelle",122,"Last Appearance",10
+"42","Théophile Gabelle",49,"First Appearance",10
+"43","Thérèse Defarge",14,"First Appearance",29
+"44","Thérèse Defarge",158,"Last Appearance",29
 "45","Tom",3,"First Appearance",1
 "46","Tom",3,"Last Appearance",1
 "47","Young Jerry Cruncher",24,"First Appearance",2

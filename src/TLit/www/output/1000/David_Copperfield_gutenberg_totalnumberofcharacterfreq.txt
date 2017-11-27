@@ -9,7 +9,7 @@
 "Charley Pyegrave",2
 "Clara Copperfield",40
 "Clara Peggotty",103
-"Clarissa Spenlow",11
+"Clarissa Spenlow",14
 "Clickett",1
 "Daniel Peggotty",68
 "David Copperfield",236
