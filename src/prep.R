@@ -602,7 +602,7 @@ for(sliceSize in slice_sizes){
                    displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
                    vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                    vertex.cex = .5, vertex.border="black",
-                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched information:</b>", (linkedChar2$links)),
+                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Co-occurring characters:</b>", (linkedChar2$links)),
                    edge.lwd = .3,
                    object.scale = 0.1,
                    edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
@@ -1349,7 +1349,7 @@ for(sliceSize in slice_sizes){
                    displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
                    vertex.col="orange",edge.col="darkgray",label.cex=0.5,
                    vertex.cex = .5, vertex.border="black",
-                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Matched information:</b>", (linkedChar2$links)),
+                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Co-occurring characters:</b>", (linkedChar2$links)),
                    edge.lwd = .3,
                    object.scale = 0.1,
                    edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))

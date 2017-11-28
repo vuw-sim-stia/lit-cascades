@@ -36,24 +36,25 @@ ui <- shinyUI(absolutePanel(
   height=1000,
   navbarPage("SATIS Tool Prototype",
              tabPanel("Home",
-                      titlePanel(
-                        h1(strong("Towards a Computational",br("Literary Science")))),
+                      #titlePanel(
+                        #h1(strong("Towards a Computational",br("Literary Science")))),
                       sidebarLayout(
                       sidebarPanel(
-                        h4("How to Read the Graphs and Plots"),
-                        h5("Node"),
+                        h4("Project Overview"),
+                        p("The programme creates network maps of characters in Charles Dickens's novels. Each node (or dot) represents a 1,000 word chunk of the novel. The programme scans the chunks sequentially and identifies which characters appear in each chunk. Two nodes are connected if they share sequential appearances of any character."),
+                        p("The Dynamic Flow Character Network shows how the network is created as the novel unfolds from beginning to end."),
+                        p("The Static Flow Character Network provides a view of the completed network."),
+                        p("The Static Social Network shows how all of the characters are connected--in this visualisation, each node represents a character and not a chunk of the text."),
+                        br(),
+                        h5(a(href="https://vuw-fair.github.io/dickens-and-data-science/", target='_blank',"View the Research Methodology and Findings")),
+                        br(),
+                        h5("How to Read the Graphs and Plots"),
+                        h6("Node"),
                           p("A node (or circle/dot) on a graph or plot indicates a 1000-word slice of the book. Clicking or hovering over the node will reveal more detail about, such as matched characters, or type of character appearance."),
-                        h5("Edge"),
+                        h6("Edge"),
                           p("An edge (or line between two nodes) on a graph or plot indicates a connection between two 1000-word slices of the book due to character co-occurrence. Click or hover over an edge for more detail, such as the matched characters between two nodes.")),
                       mainPanel(
-                        br(),
-                          img(src='net5.png', height = 500, width = 1000, align = "center"),
-                        h4("Project Overview"),
-                          p("The programme creates a network map of characters in the novel. Each node (or dot) represents a 1,000 word chunk of the novel. The programme scans the chunks sequentially and identifies which characters appear in each chunk. Two nodes are connected if they share sequential appearances of any character."),
-                          p("The Dynamic Flow Character Network shows how the network is created as the novel unfolds from beginning to end."),
-                          p("The Static Flow Character Network provides a view of the completed network."),
-                          p("The Static Social Network shows how all of the characters are connected--in this visualisation, each node represents a character and not a chunk of the text."),
-                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Research Methodology and Findings"))
+                        img(src='net5.png', height = 700, align = "center")
                         ))),
              tabPanel("Network Visualisations",
                       sidebarPanel(
@@ -90,8 +91,6 @@ ui <- shinyUI(absolutePanel(
                                  fluidRow(column(width = 12,
                                                  plotlyOutput("plot_character_appearance_all", height = 800))))))),
             tabPanel("About",
-                     titlePanel(
-                        h1(strong("Towards a Computational",br("Literary Science")))),
                       sidebarLayout(
                       sidebarPanel(
                         h4("Team"),
@@ -103,11 +102,9 @@ ui <- shinyUI(absolutePanel(
                         h5("Research Assistants"),
                           p("Tom Goldfinch", br("Emma Fenton"))),
                      mainPanel(
-                        br(),
-                          img(src='net5.png', height = 500, width = 1000, align = "center"),
                         h4("Project Abstract"),
                           p("Data-driven analysis has emerged as a growing methodology, if not sub-discipline within literary studies. This approach, broadly described as “distant reading”, has harnessed available technology to open new avenues for how we understand literary texts, both individually and in the aggregate. Whereas traditional literary scholarship is generally grounded in the interpretation of the specific language of a text or body of texts, macroanalytic approaches have offered new ways of seeing texts. This interdisciplinary research project at the Victoria University of Wellington is an attempt to theorise the relationship between macroanalytic and microanalytic (distant and close) readings of individual works."),
-                        h5(a(href="https://vuw-sim-stia.github.io/computational-literary-science/", target='_blank',"View the Project on GitHub"))
+                        h5(a(href="https://vuw-fair.github.io/dickens-and-data-science/", target='_blank',"More"))
                         ))))))
 
 server <- function(input, output) {
@@ -115,15 +112,15 @@ server <- function(input, output) {
   addResourcePath("locpath", "./www/output")
   
   loadchars <- reactive({
-    paste0("output/",gsub(" ","_",input$dynSelect),"_dynamic-network.html")
+    paste0("output/1000/",gsub(" ","_",input$dynSelect),"_dynamic-network.html")
   })
   
   loadstatchars <- reactive({
-    paste0("output/",gsub(" ","_",input$dynSelect),"_static-network.html")
+    paste0("output/1000/",gsub(" ","_",input$dynSelect),"_static-network.html")
   })
   
   loadsoc <- reactive({
-    paste0("output/",gsub(" ","_",input$dynSelect),"_social-network.html")
+    paste0("output/1000/",gsub(" ","_",input$dynSelect),"_social-network.html")
   })
   
   #dynamic slider range for characters

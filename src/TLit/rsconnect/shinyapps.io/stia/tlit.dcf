@@ -2,7 +2,8 @@ name: tlit
 title:
 account: stia
 server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
 appId: 171374
-bundleId: 970677
+bundleId: 1099772
 url: https://stia.shinyapps.io/tlit/
-when: 1504748169.5057
+when: 1511817919.2214
