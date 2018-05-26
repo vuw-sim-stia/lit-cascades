@@ -37,8 +37,8 @@ Captain Hawden: Nemo, Hawdon
 Mademoiselle Hortense: Hortense, mademoiselle
 John Jarndyce: cousin John, John Jarndyce, Mr. Jarndyce
 Caroline Caddy: Caddy, Caroline
-Mrs Jellby: Mrs. Jellby
-Mr Jellby: Mr. Jellyby
+Mrs Jellyby: Mrs. Jellyby
+Mr Jellyby: Mr. Jellyby
 Peepy Jellby: Peepy
 Jenny: Jenny
 Jo: Jo, Toughey, crossing-sweeping boy

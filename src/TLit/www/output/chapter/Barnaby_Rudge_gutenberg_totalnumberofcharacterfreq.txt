@@ -1,0 +1,35 @@
+"Character","Node"
+"Akerman",2
+"Barnaby Rudge",37
+"Dolly Varden",25
+"Edward Chester",20
+"Emma Haredale",17
+"Gabriel Varden",28
+"Gashford",20
+"General Conway",1
+"Geoffrey Haredale",31
+"Herbert",1
+"Hugh",45
+"Joe Willet",27
+"John Chester",20
+"John Fielding",2
+"John Grueby",8
+"John Willet",49
+"Lord Algernon Percy",1
+"Lord George Gordon",17
+"Mark Gilbert",2
+"Martha Varden",20
+"Mary Jones",10
+"Miggs",21
+"Mr Rudge",10
+"Mrs Rudge",6
+"Ned Dennis",32
+"Peak",2
+"Phil Parkes",6
+"Philips",1
+"Simon Tappertit",18
+"Solomon Daisy",11
+"Stagg",6
+"The Black Lion",6
+"Tom Cobb",7
+"Tom Green",1

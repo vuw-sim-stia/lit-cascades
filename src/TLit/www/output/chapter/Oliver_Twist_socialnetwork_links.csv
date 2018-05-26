@@ -1,0 +1,407 @@
+"id1" "id2" "label"
+"1" "Anny" "Martha" 1
+"2" "Anny" "Mrs Corney" 1
+"3" "Anny" "Oliver Twist" 1
+"4" "Anny" "Sally" 1
+"5" "Artful Dodger" "Barney" 1
+"6" "Artful Dodger" "Bet" 5
+"7" "Artful Dodger" "Bill Sikes" 8
+"8" "Artful Dodger" "Charley Bates" 10
+"9" "Artful Dodger" "Edward Leeford" 3
+"10" "Artful Dodger" "Fagin" 12
+"11" "Artful Dodger" "Morris Bolter" 1
+"12" "Artful Dodger" "Mr Brownlow" 2
+"13" "Artful Dodger" "Mr Fang" 1
+"14" "Artful Dodger" "Mr Lively" 1
+"15" "Artful Dodger" "Mr Sowerberry" 1
+"16" "Artful Dodger" "Mrs Bedwin" 1
+"17" "Artful Dodger" "Nancy" 8
+"18" "Artful Dodger" "Ned" 1
+"19" "Artful Dodger" "Noah Claypole" 2
+"20" "Artful Dodger" "Oliver Twist" 9
+"21" "Artful Dodger" "Phil Barker" 1
+"22" "Artful Dodger" "Toby Crackit" 4
+"23" "Artful Dodger" "Tom Chitling" 3
+"24" "Barney" "Bill Sikes" 4
+"25" "Barney" "Charlotte" 1
+"26" "Barney" "Dick" 1
+"27" "Barney" "Edward Leeford" 1
+"28" "Barney" "Fagin" 5
+"29" "Barney" "Morris Bolter" 2
+"30" "Barney" "Mr Lively" 1
+"31" "Barney" "Mr Sowerberry" 1
+"32" "Barney" "Mrs Bedwin" 1
+"33" "Barney" "Mrs Bolter" 1
+"34" "Barney" "Nancy" 3
+"35" "Barney" "Noah Claypole" 2
+"36" "Barney" "Oliver Twist" 2
+"37" "Barney" "Phil Barker" 1
+"38" "Barney" "Rose Maylie" 1
+"39" "Barney" "Toby Crackit" 2
+"40" "Bet" "Bill Sikes" 4
+"41" "Bet" "Charley Bates" 5
+"42" "Bet" "Edward Leeford" 1
+"43" "Bet" "Fagin" 5
+"44" "Bet" "Mr Brownlow" 1
+"45" "Bet" "Nancy" 4
+"46" "Bet" "Noah Claypole" 1
+"47" "Bet" "Oliver Twist" 4
+"48" "Bet" "Toby Crackit" 1
+"49" "Bet" "Tom Chitling" 2
+"50" "Bill Sikes" "Brittles" 2
+"51" "Bill Sikes" "Charley Bates" 8
+"52" "Bill Sikes" "Charlotte" 2
+"53" "Bill Sikes" "Dick" 1
+"54" "Bill Sikes" "Edward Leeford" 6
+"55" "Bill Sikes" "Fagin" 19
+"56" "Bill Sikes" "Harry Maylie" 1
+"57" "Bill Sikes" "Kags" 1
+"58" "Bill Sikes" "Morris Bolter" 1
+"59" "Bill Sikes" "Mr Brownlow" 4
+"60" "Bill Sikes" "Mr Bumble" 1
+"61" "Bill Sikes" "Mr Fang" 1
+"62" "Bill Sikes" "Mr Giles" 3
+"63" "Bill Sikes" "Mr Grimwig" 1
+"64" "Bill Sikes" "Mr Lively" 1
+"65" "Bill Sikes" "Mr Losberne" 2
+"66" "Bill Sikes" "Mr Sowerberry" 1
+"67" "Bill Sikes" "Mrs Bedwin" 2
+"68" "Bill Sikes" "Mrs Bolter" 1
+"69" "Bill Sikes" "Mrs Maylie" 2
+"70" "Bill Sikes" "Nancy" 12
+"71" "Bill Sikes" "Ned" 2
+"72" "Bill Sikes" "Noah Claypole" 3
+"73" "Bill Sikes" "Oliver Twist" 14
+"74" "Bill Sikes" "Phil Barker" 1
+"75" "Bill Sikes" "Rose Maylie" 4
+"76" "Bill Sikes" "Toby Crackit" 7
+"77" "Bill Sikes" "Tom Chitling" 4
+"78" "Blathers" "Brittles" 1
+"79" "Blathers" "Conkey Chickweed" 1
+"80" "Blathers" "Duff" 2
+"81" "Blathers" "Edward Leeford" 1
+"82" "Blathers" "Harry Maylie" 1
+"83" "Blathers" "Jem Spyers" 1
+"84" "Blathers" "Mr Brownlow" 1
+"85" "Blathers" "Mr Giles" 2
+"86" "Blathers" "Mr Grimwig" 1
+"87" "Blathers" "Mr Losberne" 2
+"88" "Blathers" "Mrs Bedwin" 1
+"89" "Blathers" "Mrs Maylie" 2
+"90" "Blathers" "Nancy" 1
+"91" "Blathers" "Oliver Twist" 2
+"92" "Blathers" "Rose Maylie" 2
+"93" "Brittles" "Charley Bates" 1
+"94" "Brittles" "Charlotte" 1
+"95" "Brittles" "Conkey Chickweed" 1
+"96" "Brittles" "Duff" 1
+"97" "Brittles" "Edward Leeford" 1
+"98" "Brittles" "Fagin" 1
+"99" "Brittles" "Harry Maylie" 1
+"100" "Brittles" "Jem Spyers" 1
+"101" "Brittles" "Mr Brownlow" 1
+"102" "Brittles" "Mr Bumble" 1
+"103" "Brittles" "Mr Giles" 5
+"104" "Brittles" "Mr Grimwig" 1
+"105" "Brittles" "Mr Losberne" 4
+"106" "Brittles" "Mrs Maylie" 4
+"107" "Brittles" "Noah Claypole" 1
+"108" "Brittles" "Oliver Twist" 4
+"109" "Brittles" "Rose Maylie" 4
+"110" "Brittles" "Toby Crackit" 1
+"111" "Charley Bates" "Charlotte" 1
+"112" "Charley Bates" "Edward Leeford" 3
+"113" "Charley Bates" "Fagin" 11
+"114" "Charley Bates" "Harry Maylie" 1
+"115" "Charley Bates" "Kags" 1
+"116" "Charley Bates" "Morris Bolter" 1
+"117" "Charley Bates" "Mr Brownlow" 3
+"118" "Charley Bates" "Mr Bumble" 1
+"119" "Charley Bates" "Mr Fang" 1
+"120" "Charley Bates" "Mr Giles" 1
+"121" "Charley Bates" "Mr Grimwig" 1
+"122" "Charley Bates" "Mr Losberne" 1
+"123" "Charley Bates" "Mrs Bedwin" 1
+"124" "Charley Bates" "Mrs Maylie" 1
+"125" "Charley Bates" "Nancy" 6
+"126" "Charley Bates" "Noah Claypole" 3
+"127" "Charley Bates" "Oliver Twist" 8
+"128" "Charley Bates" "Rose Maylie" 1
+"129" "Charley Bates" "Toby Crackit" 3
+"130" "Charley Bates" "Tom Chitling" 4
+"131" "Charlotte" "Dick" 1
+"132" "Charlotte" "Edward Leeford" 1
+"133" "Charlotte" "Fagin" 2
+"134" "Charlotte" "Harry Maylie" 1
+"135" "Charlotte" "Morris Bolter" 1
+"136" "Charlotte" "Mr Brownlow" 1
+"137" "Charlotte" "Mr Bumble" 6
+"138" "Charlotte" "Mr Giles" 1
+"139" "Charlotte" "Mr Grimwig" 1
+"140" "Charlotte" "Mr Losberne" 1
+"141" "Charlotte" "Mr Slout" 1
+"142" "Charlotte" "Mr Sowerberry" 6
+"143" "Charlotte" "Mrs Bolter" 1
+"144" "Charlotte" "Mrs Corney" 1
+"145" "Charlotte" "Mrs Maylie" 1
+"146" "Charlotte" "Mrs Sowerberry" 5
+"147" "Charlotte" "Nancy" 1
+"148" "Charlotte" "Noah Claypole" 6
+"149" "Charlotte" "Oliver Twist" 6
+"150" "Charlotte" "Rose Maylie" 2
+"151" "Charlotte" "Toby Crackit" 1
+"152" "Conkey Chickweed" "Duff" 1
+"153" "Conkey Chickweed" "Jem Spyers" 1
+"154" "Conkey Chickweed" "Mr Giles" 1
+"155" "Conkey Chickweed" "Mr Losberne" 1
+"156" "Conkey Chickweed" "Mrs Maylie" 1
+"157" "Conkey Chickweed" "Oliver Twist" 1
+"158" "Conkey Chickweed" "Rose Maylie" 1
+"159" "Dick" "Edward Leeford" 1
+"160" "Dick" "Fagin" 2
+"161" "Dick" "Harry Maylie" 1
+"162" "Dick" "Mr Brownlow" 2
+"163" "Dick" "Mr Bumble" 3
+"164" "Dick" "Mr Gamfield" 1
+"165" "Dick" "Mr Grimwig" 2
+"166" "Dick" "Mr Losberne" 1
+"167" "Dick" "Mr Mann" 1
+"168" "Dick" "Mr Sowerberry" 2
+"169" "Dick" "Mrs Bedwin" 3
+"170" "Dick" "Mrs Mann" 1
+"171" "Dick" "Mrs Maylie" 1
+"172" "Dick" "Mrs Sowerberry" 1
+"173" "Dick" "Nancy" 1
+"174" "Dick" "Noah Claypole" 1
+"175" "Dick" "Oliver Twist" 4
+"176" "Dick" "Rose Maylie" 1
+"177" "Dick" "Sally" 1
+"178" "Duff" "Edward Leeford" 1
+"179" "Duff" "Harry Maylie" 2
+"180" "Duff" "Jem Spyers" 1
+"181" "Duff" "Mr Brownlow" 1
+"182" "Duff" "Mr Giles" 3
+"183" "Duff" "Mr Grimwig" 1
+"184" "Duff" "Mr Losberne" 3
+"185" "Duff" "Mrs Bedwin" 1
+"186" "Duff" "Mrs Maylie" 3
+"187" "Duff" "Nancy" 1
+"188" "Duff" "Oliver Twist" 3
+"189" "Duff" "Rose Maylie" 3
+"190" "Edward Leeford" "Fagin" 8
+"191" "Edward Leeford" "Harry Maylie" 3
+"192" "Edward Leeford" "Mr Brownlow" 6
+"193" "Edward Leeford" "Mr Bumble" 3
+"194" "Edward Leeford" "Mr Gamfield" 1
+"195" "Edward Leeford" "Mr Giles" 2
+"196" "Edward Leeford" "Mr Grimwig" 3
+"197" "Edward Leeford" "Mr Lively" 1
+"198" "Edward Leeford" "Mr Losberne" 4
+"199" "Edward Leeford" "Mr Sowerberry" 1
+"200" "Edward Leeford" "Mrs Bedwin" 2
+"201" "Edward Leeford" "Mrs Maylie" 3
+"202" "Edward Leeford" "Nancy" 6
+"203" "Edward Leeford" "Noah Claypole" 3
+"204" "Edward Leeford" "Oliver Twist" 6
+"205" "Edward Leeford" "Phil Barker" 1
+"206" "Edward Leeford" "Rose Maylie" 5
+"207" "Edward Leeford" "Sally" 2
+"208" "Edward Leeford" "Toby Crackit" 2
+"209" "Edward Leeford" "Tom Chitling" 1
+"210" "Fagin" "Harry Maylie" 2
+"211" "Fagin" "Kags" 1
+"212" "Fagin" "Morris Bolter" 3
+"213" "Fagin" "Mr Brownlow" 7
+"214" "Fagin" "Mr Bumble" 2
+"215" "Fagin" "Mr Fang" 1
+"216" "Fagin" "Mr Gamfield" 1
+"217" "Fagin" "Mr Giles" 2
+"218" "Fagin" "Mr Grimwig" 2
+"219" "Fagin" "Mr Lively" 1
+"220" "Fagin" "Mr Losberne" 3
+"221" "Fagin" "Mr Sowerberry" 3
+"222" "Fagin" "Mrs Bedwin" 4
+"223" "Fagin" "Mrs Bolter" 1
+"224" "Fagin" "Mrs Maylie" 3
+"225" "Fagin" "Nancy" 14
+"226" "Fagin" "Ned" 1
+"227" "Fagin" "Noah Claypole" 6
+"228" "Fagin" "Oliver Twist" 17
+"229" "Fagin" "Phil Barker" 1
+"230" "Fagin" "Rose Maylie" 6
+"231" "Fagin" "Sally" 1
+"232" "Fagin" "Toby Crackit" 6
+"233" "Fagin" "Tom Chitling" 4
+"234" "Grannett" "Mr Bumble" 1
+"235" "Grannett" "Mrs Corney" 1
+"236" "Grannett" "Oliver Twist" 1
+"237" "Grannett" "Sally" 1
+"238" "Harry Maylie" "Mr Brownlow" 3
+"239" "Harry Maylie" "Mr Bumble" 2
+"240" "Harry Maylie" "Mr Gamfield" 1
+"241" "Harry Maylie" "Mr Giles" 5
+"242" "Harry Maylie" "Mr Grimwig" 3
+"243" "Harry Maylie" "Mr Losberne" 7
+"244" "Harry Maylie" "Mr Sowerberry" 1
+"245" "Harry Maylie" "Mrs Bedwin" 2
+"246" "Harry Maylie" "Mrs Maylie" 6
+"247" "Harry Maylie" "Nancy" 1
+"248" "Harry Maylie" "Noah Claypole" 1
+"249" "Harry Maylie" "Oliver Twist" 7
+"250" "Harry Maylie" "Rose Maylie" 7
+"251" "Harry Maylie" "Sally" 1
+"252" "Jem Spyers" "Mr Giles" 1
+"253" "Jem Spyers" "Mr Losberne" 1
+"254" "Jem Spyers" "Mrs Maylie" 1
+"255" "Jem Spyers" "Oliver Twist" 1
+"256" "Jem Spyers" "Rose Maylie" 1
+"257" "Kags" "Toby Crackit" 1
+"258" "Kags" "Tom Chitling" 1
+"259" "Martha" "Mrs Corney" 1
+"260" "Martha" "Oliver Twist" 1
+"261" "Martha" "Sally" 1
+"262" "Morris Bolter" "Mr Sowerberry" 1
+"263" "Morris Bolter" "Mrs Bolter" 1
+"264" "Morris Bolter" "Nancy" 1
+"265" "Morris Bolter" "Noah Claypole" 3
+"266" "Morris Bolter" "Rose Maylie" 1
+"267" "Mr Brownlow" "Mr Bumble" 4
+"268" "Mr Brownlow" "Mr Fang" 1
+"269" "Mr Brownlow" "Mr Gamfield" 1
+"270" "Mr Brownlow" "Mr Giles" 3
+"271" "Mr Brownlow" "Mr Grimwig" 5
+"272" "Mr Brownlow" "Mr Losberne" 5
+"273" "Mr Brownlow" "Mr Mann" 1
+"274" "Mr Brownlow" "Mr Sowerberry" 1
+"275" "Mr Brownlow" "Mrs Bedwin" 6
+"276" "Mr Brownlow" "Mrs Mann" 1
+"277" "Mr Brownlow" "Mrs Maylie" 4
+"278" "Mr Brownlow" "Nancy" 3
+"279" "Mr Brownlow" "Noah Claypole" 2
+"280" "Mr Brownlow" "Oliver Twist" 11
+"281" "Mr Brownlow" "Rose Maylie" 5
+"282" "Mr Brownlow" "Sally" 1
+"283" "Mr Bumble" "Mr Gamfield" 2
+"284" "Mr Bumble" "Mr Giles" 1
+"285" "Mr Bumble" "Mr Grimwig" 4
+"286" "Mr Bumble" "Mr Limbkins" 2
+"287" "Mr Bumble" "Mr Losberne" 2
+"288" "Mr Bumble" "Mr Mann" 1
+"289" "Mr Bumble" "Mr Slout" 1
+"290" "Mr Bumble" "Mr Sowerberry" 6
+"291" "Mr Bumble" "Mrs Bedwin" 3
+"292" "Mr Bumble" "Mrs Corney" 3
+"293" "Mr Bumble" "Mrs Mann" 2
+"294" "Mr Bumble" "Mrs Maylie" 2
+"295" "Mr Bumble" "Mrs Sowerberry" 5
+"296" "Mr Bumble" "Noah Claypole" 5
+"297" "Mr Bumble" "Oliver Twist" 13
+"298" "Mr Bumble" "Rose Maylie" 2
+"299" "Mr Bumble" "Sally" 4
+"300" "Mr Bumble" "Toby Crackit" 1
+"301" "Mr Fang" "Nancy" 1
+"302" "Mr Fang" "Oliver Twist" 2
+"303" "Mr Gamfield" "Mr Grimwig" 1
+"304" "Mr Gamfield" "Mr Limbkins" 1
+"305" "Mr Gamfield" "Mr Losberne" 1
+"306" "Mr Gamfield" "Mr Sowerberry" 1
+"307" "Mr Gamfield" "Mrs Bedwin" 1
+"308" "Mr Gamfield" "Mrs Maylie" 1
+"309" "Mr Gamfield" "Oliver Twist" 2
+"310" "Mr Gamfield" "Rose Maylie" 1
+"311" "Mr Gamfield" "Sally" 1
+"312" "Mr Giles" "Mr Grimwig" 2
+"313" "Mr Giles" "Mr Losberne" 9
+"314" "Mr Giles" "Mrs Bedwin" 2
+"315" "Mr Giles" "Mrs Maylie" 8
+"316" "Mr Giles" "Nancy" 1
+"317" "Mr Giles" "Noah Claypole" 1
+"318" "Mr Giles" "Oliver Twist" 9
+"319" "Mr Giles" "Rose Maylie" 9
+"320" "Mr Giles" "Toby Crackit" 1
+"321" "Mr Grimwig" "Mr Losberne" 3
+"322" "Mr Grimwig" "Mr Mann" 1
+"323" "Mr Grimwig" "Mr Sowerberry" 1
+"324" "Mr Grimwig" "Mrs Bedwin" 4
+"325" "Mr Grimwig" "Mrs Mann" 1
+"326" "Mr Grimwig" "Mrs Maylie" 3
+"327" "Mr Grimwig" "Nancy" 1
+"328" "Mr Grimwig" "Noah Claypole" 1
+"329" "Mr Grimwig" "Oliver Twist" 5
+"330" "Mr Grimwig" "Rose Maylie" 3
+"331" "Mr Grimwig" "Sally" 1
+"332" "Mr Limbkins" "Mrs Mann" 1
+"333" "Mr Limbkins" "Oliver Twist" 2
+"334" "Mr Lively" "Nancy" 1
+"335" "Mr Lively" "Phil Barker" 1
+"336" "Mr Lively" "Toby Crackit" 1
+"337" "Mr Losberne" "Mr Sowerberry" 1
+"338" "Mr Losberne" "Mrs Bedwin" 3
+"339" "Mr Losberne" "Mrs Maylie" 10
+"340" "Mr Losberne" "Nancy" 1
+"341" "Mr Losberne" "Noah Claypole" 1
+"342" "Mr Losberne" "Oliver Twist" 10
+"343" "Mr Losberne" "Rose Maylie" 11
+"344" "Mr Losberne" "Sally" 1
+"345" "Mr Mann" "Mrs Bedwin" 1
+"346" "Mr Mann" "Mrs Mann" 1
+"347" "Mr Mann" "Oliver Twist" 1
+"348" "Mr Slout" "Mr Sowerberry" 1
+"349" "Mr Slout" "Mrs Corney" 1
+"350" "Mr Slout" "Mrs Sowerberry" 1
+"351" "Mr Slout" "Noah Claypole" 1
+"352" "Mr Slout" "Oliver Twist" 1
+"353" "Mr Slout" "Toby Crackit" 1
+"354" "Mr Sowerberry" "Mrs Bedwin" 1
+"355" "Mr Sowerberry" "Mrs Bolter" 1
+"356" "Mr Sowerberry" "Mrs Corney" 1
+"357" "Mr Sowerberry" "Mrs Maylie" 1
+"358" "Mr Sowerberry" "Mrs Sowerberry" 5
+"359" "Mr Sowerberry" "Nancy" 1
+"360" "Mr Sowerberry" "Noah Claypole" 5
+"361" "Mr Sowerberry" "Oliver Twist" 7
+"362" "Mr Sowerberry" "Rose Maylie" 2
+"363" "Mr Sowerberry" "Sally" 1
+"364" "Mr Sowerberry" "Toby Crackit" 1
+"365" "Mrs Bedwin" "Mrs Mann" 1
+"366" "Mrs Bedwin" "Mrs Maylie" 3
+"367" "Mrs Bedwin" "Nancy" 2
+"368" "Mrs Bedwin" "Oliver Twist" 7
+"369" "Mrs Bedwin" "Rose Maylie" 3
+"370" "Mrs Bedwin" "Sally" 1
+"371" "Mrs Bolter" "Nancy" 1
+"372" "Mrs Bolter" "Noah Claypole" 1
+"373" "Mrs Bolter" "Rose Maylie" 1
+"374" "Mrs Corney" "Mrs Sowerberry" 1
+"375" "Mrs Corney" "Noah Claypole" 1
+"376" "Mrs Corney" "Oliver Twist" 4
+"377" "Mrs Corney" "Sally" 3
+"378" "Mrs Corney" "Toby Crackit" 1
+"379" "Mrs Mann" "Oliver Twist" 2
+"380" "Mrs Maylie" "Nancy" 1
+"381" "Mrs Maylie" "Noah Claypole" 1
+"382" "Mrs Maylie" "Oliver Twist" 9
+"383" "Mrs Maylie" "Rose Maylie" 10
+"384" "Mrs Maylie" "Sally" 1
+"385" "Mrs Sowerberry" "Noah Claypole" 4
+"386" "Mrs Sowerberry" "Oliver Twist" 5
+"387" "Mrs Sowerberry" "Toby Crackit" 1
+"388" "Nancy" "Ned" 1
+"389" "Nancy" "Noah Claypole" 3
+"390" "Nancy" "Oliver Twist" 10
+"391" "Nancy" "Phil Barker" 1
+"392" "Nancy" "Rose Maylie" 4
+"393" "Nancy" "Toby Crackit" 3
+"394" "Nancy" "Tom Chitling" 2
+"395" "Ned" "Oliver Twist" 2
+"396" "Ned" "Toby Crackit" 1
+"397" "Noah Claypole" "Oliver Twist" 6
+"398" "Noah Claypole" "Rose Maylie" 3
+"399" "Noah Claypole" "Toby Crackit" 1
+"400" "Oliver Twist" "Rose Maylie" 12
+"401" "Oliver Twist" "Sally" 4
+"402" "Oliver Twist" "Toby Crackit" 5
+"403" "Oliver Twist" "Tom Chitling" 2
+"404" "Phil Barker" "Toby Crackit" 1
+"405" "Rose Maylie" "Sally" 1
+"406" "Toby Crackit" "Tom Chitling" 3

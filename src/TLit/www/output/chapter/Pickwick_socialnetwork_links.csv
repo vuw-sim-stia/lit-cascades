@@ -1,0 +1,2093 @@
+"id1" "id2" "label"
+"1" "Alfred Jingle" "Arabella Allen" 3
+"2" "Alfred Jingle" "Augustus Snodgrass" 9
+"3" "Alfred Jingle" "Benjamin Allen" 2
+"4" "Alfred Jingle" "Bob Sawyer" 2
+"5" "Alfred Jingle" "Bullman" 1
+"6" "Alfred Jingle" "Chancery Prisoner" 2
+"7" "Alfred Jingle" "Charley" 1
+"8" "Alfred Jingle" "Clergyman" 2
+"9" "Alfred Jingle" "Colonel Bulder" 1
+"10" "Alfred Jingle" "Count Smorltork" 1
+"11" "Alfred Jingle" "Daniel Grummer" 1
+"12" "Alfred Jingle" "Doctor Payne" 1
+"13" "Alfred Jingle" "Doctor Slammer" 1
+"14" "Alfred Jingle" "Dodson" 7
+"15" "Alfred Jingle" "Dubbley" 1
+"16" "Alfred Jingle" "Emily Wardle" 3
+"17" "Alfred Jingle" "Emma" 1
+"18" "Alfred Jingle" "Fogg" 7
+"19" "Alfred Jingle" "Goodwin" 1
+"20" "Alfred Jingle" "Hon Snipe" 1
+"21" "Alfred Jingle" "Horatio Fizkin" 1
+"22" "Alfred Jingle" "Isabella Wardle" 4
+"23" "Alfred Jingle" "Jack Bamber" 1
+"24" "Alfred Jingle" "Jackson" 1
+"25" "Alfred Jingle" "Job Trotter" 8
+"26" "Alfred Jingle" "Joe" 3
+"27" "Alfred Jingle" "Lady Clubber" 1
+"28" "Alfred Jingle" "Lieutenant Tappleton" 1
+"29" "Alfred Jingle" "Martha Bardell" 6
+"30" "Alfred Jingle" "Mary" 3
+"31" "Alfred Jingle" "Miss Bulder" 1
+"32" "Alfred Jingle" "Miss Gwynn" 1
+"33" "Alfred Jingle" "Miss Nupkins" 1
+"34" "Alfred Jingle" "Miss Smithers" 2
+"35" "Alfred Jingle" "Miss Tomkins" 1
+"36" "Alfred Jingle" "Misses Clubber" 1
+"37" "Alfred Jingle" "Misses Smithie" 1
+"38" "Alfred Jingle" "Mr Dumkins" 1
+"39" "Alfred Jingle" "Mr Grundy" 1
+"40" "Alfred Jingle" "Mr Hunter" 1
+"41" "Alfred Jingle" "Mr Jinks" 1
+"42" "Alfred Jingle" "Mr Lowten" 3
+"43" "Alfred Jingle" "Mr Luffey" 1
+"44" "Alfred Jingle" "Mr Mivins" 2
+"45" "Alfred Jingle" "Mr Nupkins" 1
+"46" "Alfred Jingle" "Mr Perker" 7
+"47" "Alfred Jingle" "Mr Podder" 1
+"48" "Alfred Jingle" "Mr Porkenham" 1
+"49" "Alfred Jingle" "Mr Pott" 2
+"50" "Alfred Jingle" "Mr Simpson" 1
+"51" "Alfred Jingle" "Mr Smangle" 2
+"52" "Alfred Jingle" "Mr Smithies" 1
+"53" "Alfred Jingle" "Mr Snicks" 1
+"54" "Alfred Jingle" "Mr Staple" 1
+"55" "Alfred Jingle" "Mr Stiggins" 1
+"56" "Alfred Jingle" "Mr Struggles" 1
+"57" "Alfred Jingle" "Mr Trundle" 4
+"58" "Alfred Jingle" "Mr Wardle" 7
+"59" "Alfred Jingle" "Mr Wicks" 1
+"60" "Alfred Jingle" "Mrs Budger" 1
+"61" "Alfred Jingle" "Mrs Bulder" 1
+"62" "Alfred Jingle" "Mrs Cluppins" 1
+"63" "Alfred Jingle" "Mrs Hunter" 1
+"64" "Alfred Jingle" "Mrs Nupkins" 1
+"65" "Alfred Jingle" "Mrs Porkenham" 1
+"66" "Alfred Jingle" "Mrs Pott" 2
+"67" "Alfred Jingle" "Mrs Sanders" 1
+"68" "Alfred Jingle" "Mrs Smithe" 1
+"69" "Alfred Jingle" "Mrs Tomlinson" 1
+"70" "Alfred Jingle" "Mrs Wardle" 5
+"71" "Alfred Jingle" "Mrs Weller" 2
+"72" "Alfred Jingle" "Muzzle" 1
+"73" "Alfred Jingle" "Nathaniel Winkle" 9
+"74" "Alfred Jingle" "Neddy" 1
+"75" "Alfred Jingle" "Quanko Samba" 1
+"76" "Alfred Jingle" "Rachael Wardle" 5
+"77" "Alfred Jingle" "Sam" 1
+"78" "Alfred Jingle" "Sam Weller" 11
+"79" "Alfred Jingle" "Samuel Pickwick" 16
+"80" "Alfred Jingle" "Sir Geoffrey Manning" 1
+"81" "Alfred Jingle" "Sir Thomas Blazo" 1
+"82" "Alfred Jingle" "Sololomon Lucas" 1
+"83" "Alfred Jingle" "Solomon Pell" 1
+"84" "Alfred Jingle" "Thomas Clubber" 1
+"85" "Alfred Jingle" "Tom Bardell" 1
+"86" "Alfred Jingle" "Tom Martin" 1
+"87" "Alfred Jingle" "Tom Roker" 2
+"88" "Alfred Jingle" "Tommy" 1
+"89" "Alfred Jingle" "Tony Weller" 11
+"90" "Alfred Jingle" "Tracy Tupman" 11
+"91" "Angelo Cyrus Bantam" "Augustus Snodgrass" 1
+"92" "Angelo Cyrus Bantam" "Dowager Snuphanuph" 1
+"93" "Angelo Cyrus Bantam" "Harris" 1
+"94" "Angelo Cyrus Bantam" "John Smauker" 1
+"95" "Angelo Cyrus Bantam" "Lord Mutanhed" 1
+"96" "Angelo Cyrus Bantam" "Miss Bolo" 1
+"97" "Angelo Cyrus Bantam" "Misses Matinter" 1
+"98" "Angelo Cyrus Bantam" "Mr Crawley" 1
+"99" "Angelo Cyrus Bantam" "Mr Crushton" 1
+"100" "Angelo Cyrus Bantam" "Mr Dowler" 2
+"101" "Angelo Cyrus Bantam" "Mr Perker" 1
+"102" "Angelo Cyrus Bantam" "Mr Tuckle" 1
+"103" "Angelo Cyrus Bantam" "Mr Whiffers" 1
+"104" "Angelo Cyrus Bantam" "Mrs Craddock" 1
+"105" "Angelo Cyrus Bantam" "Mrs Dowler" 1
+"106" "Angelo Cyrus Bantam" "Mrs Wugsby" 1
+"107" "Angelo Cyrus Bantam" "Nathaniel Winkle" 2
+"108" "Angelo Cyrus Bantam" "Sam Weller" 2
+"109" "Angelo Cyrus Bantam" "Samuel Pickwick" 2
+"110" "Angelo Cyrus Bantam" "Tony Weller" 2
+"111" "Angelo Cyrus Bantam" "Tracy Tupman" 1
+"112" "Anthony Humm" "Brother Mordlin" 1
+"113" "Anthony Humm" "Brother Tadger" 1
+"114" "Anthony Humm" "Henry Beller" 1
+"115" "Anthony Humm" "Jonas Mudge" 1
+"116" "Anthony Humm" "Martha Bardell" 1
+"117" "Anthony Humm" "Mary" 1
+"118" "Anthony Humm" "Mr Nupkins" 1
+"119" "Anthony Humm" "Mr Perker" 1
+"120" "Anthony Humm" "Mr Stiggins" 1
+"121" "Anthony Humm" "Sam Weller" 1
+"122" "Anthony Humm" "Samuel Pickwick" 1
+"123" "Anthony Humm" "Thomas Burton" 1
+"124" "Anthony Humm" "Tom Wildspark" 1
+"125" "Anthony Humm" "Tony Weller" 1
+"126" "Arabella Allen" "Augustus Snodgrass" 6
+"127" "Arabella Allen" "Benjamin Allen" 7
+"128" "Arabella Allen" "Betsy" 1
+"129" "Arabella Allen" "Bob Sawyer" 8
+"130" "Arabella Allen" "Clergyman" 1
+"131" "Arabella Allen" "Dodson" 4
+"132" "Arabella Allen" "Emily Wardle" 5
+"133" "Arabella Allen" "Emma" 1
+"134" "Arabella Allen" "Fogg" 4
+"135" "Arabella Allen" "Gabriel Grub" 1
+"136" "Arabella Allen" "Isabella Wardle" 3
+"137" "Arabella Allen" "Jack Hopkins" 1
+"138" "Arabella Allen" "Job Trotter" 3
+"139" "Arabella Allen" "Joe" 4
+"140" "Arabella Allen" "Martha Bardell" 3
+"141" "Arabella Allen" "Mary" 6
+"142" "Arabella Allen" "Mr Dowler" 2
+"143" "Arabella Allen" "Mr Gunter" 1
+"144" "Arabella Allen" "Mr Lowten" 3
+"145" "Arabella Allen" "Mr Noddy" 1
+"146" "Arabella Allen" "Mr Nupkins" 1
+"147" "Arabella Allen" "Mr Perker" 4
+"148" "Arabella Allen" "Mr Raddle" 1
+"149" "Arabella Allen" "Mr Slasher" 1
+"150" "Arabella Allen" "Mr Snicks" 1
+"151" "Arabella Allen" "Mr Stiggins" 1
+"152" "Arabella Allen" "Mr Trundle" 4
+"153" "Arabella Allen" "Mr Wardle" 4
+"154" "Arabella Allen" "Mrs Dowler" 1
+"155" "Arabella Allen" "Mrs Raddle" 1
+"156" "Arabella Allen" "Mrs Wardle" 4
+"157" "Arabella Allen" "Mrs Weller" 1
+"158" "Arabella Allen" "Muzzle" 1
+"159" "Arabella Allen" "Nathaniel Winkle" 11
+"160" "Arabella Allen" "Pruffle" 1
+"161" "Arabella Allen" "Sam Weller" 9
+"162" "Arabella Allen" "Samuel Pickwick" 12
+"163" "Arabella Allen" "Sir Thomas Blazo" 1
+"164" "Arabella Allen" "Solomon Pell" 1
+"165" "Arabella Allen" "Tom Cripps" 2
+"166" "Arabella Allen" "Tom Smart" 1
+"167" "Arabella Allen" "Tony Weller" 9
+"168" "Arabella Allen" "Tracy Tupman" 5
+"169" "Augustus Snodgrass" "Benjamin Allen" 5
+"170" "Augustus Snodgrass" "Betsy" 1
+"171" "Augustus Snodgrass" "Bob Sawyer" 4
+"172" "Augustus Snodgrass" "Brooks" 1
+"173" "Augustus Snodgrass" "Chancery Prisoner" 1
+"174" "Augustus Snodgrass" "Clergyman" 5
+"175" "Augustus Snodgrass" "Colonel Bulder" 2
+"176" "Augustus Snodgrass" "Count Smorltork" 1
+"177" "Augustus Snodgrass" "Daniel Grummer" 2
+"178" "Augustus Snodgrass" "Doctor Payne" 2
+"179" "Augustus Snodgrass" "Doctor Slammer" 2
+"180" "Augustus Snodgrass" "Dodson" 6
+"181" "Augustus Snodgrass" "Dowager Snuphanuph" 1
+"182" "Augustus Snodgrass" "Dubbley" 2
+"183" "Augustus Snodgrass" "Emily Wardle" 9
+"184" "Augustus Snodgrass" "Emma" 3
+"185" "Augustus Snodgrass" "Fogg" 6
+"186" "Augustus Snodgrass" "Gabriel Grub" 1
+"187" "Augustus Snodgrass" "Goodwin" 1
+"188" "Augustus Snodgrass" "Hon Slumkey" 1
+"189" "Augustus Snodgrass" "Hon Snipe" 1
+"190" "Augustus Snodgrass" "Horatio Fizkin" 2
+"191" "Augustus Snodgrass" "Isabella Wardle" 8
+"192" "Augustus Snodgrass" "Jack Hopkins" 1
+"193" "Augustus Snodgrass" "Jackson" 2
+"194" "Augustus Snodgrass" "Jane1" 1
+"195" "Augustus Snodgrass" "Jem Hutley" 1
+"196" "Augustus Snodgrass" "Job Trotter" 3
+"197" "Augustus Snodgrass" "Joe" 7
+"198" "Augustus Snodgrass" "Joe Smiggers" 1
+"199" "Augustus Snodgrass" "John Edmunds" 1
+"200" "Augustus Snodgrass" "Lady Clubber" 1
+"201" "Augustus Snodgrass" "Lieutenant Tappleton" 2
+"202" "Augustus Snodgrass" "Lord Mutanhed" 1
+"203" "Augustus Snodgrass" "Martha Bardell" 7
+"204" "Augustus Snodgrass" "Mary" 6
+"205" "Augustus Snodgrass" "Miss Bolo" 1
+"206" "Augustus Snodgrass" "Miss Bulder" 1
+"207" "Augustus Snodgrass" "Miss Nupkins" 1
+"208" "Augustus Snodgrass" "Miss Witherfield" 1
+"209" "Augustus Snodgrass" "Misses Clubber" 1
+"210" "Augustus Snodgrass" "Misses Matinter" 1
+"211" "Augustus Snodgrass" "Misses Smithie" 1
+"212" "Augustus Snodgrass" "Mr Blotton" 1
+"213" "Augustus Snodgrass" "Mr Crawley" 1
+"214" "Augustus Snodgrass" "Mr Crushton" 1
+"215" "Augustus Snodgrass" "Mr Dowler" 1
+"216" "Augustus Snodgrass" "Mr Dumkins" 1
+"217" "Augustus Snodgrass" "Mr Gunter" 1
+"218" "Augustus Snodgrass" "Mr Hunter" 1
+"219" "Augustus Snodgrass" "Mr Jinkins" 1
+"220" "Augustus Snodgrass" "Mr Jinks" 2
+"221" "Augustus Snodgrass" "Mr Lowten" 4
+"222" "Augustus Snodgrass" "Mr Luffey" 1
+"223" "Augustus Snodgrass" "Mr Mallard" 2
+"224" "Augustus Snodgrass" "Mr Miller" 1
+"225" "Augustus Snodgrass" "Mr Mivins" 1
+"226" "Augustus Snodgrass" "Mr Noddy" 1
+"227" "Augustus Snodgrass" "Mr Nupkins" 2
+"228" "Augustus Snodgrass" "Mr Perker" 9
+"229" "Augustus Snodgrass" "Mr Phunky" 2
+"230" "Augustus Snodgrass" "Mr Podder" 1
+"231" "Augustus Snodgrass" "Mr Porkenham" 1
+"232" "Augustus Snodgrass" "Mr Pott" 4
+"233" "Augustus Snodgrass" "Mr Raddle" 1
+"234" "Augustus Snodgrass" "Mr Skimpin" 1
+"235" "Augustus Snodgrass" "Mr Slasher" 1
+"236" "Augustus Snodgrass" "Mr Smangle" 1
+"237" "Augustus Snodgrass" "Mr Smithies" 1
+"238" "Augustus Snodgrass" "Mr Snicks" 1
+"239" "Augustus Snodgrass" "Mr Staple" 1
+"240" "Augustus Snodgrass" "Mr Stareleigh" 1
+"241" "Augustus Snodgrass" "Mr Struggles" 1
+"242" "Augustus Snodgrass" "Mr Trundle" 10
+"243" "Augustus Snodgrass" "Mr Wardle" 12
+"244" "Augustus Snodgrass" "Mr Watty" 1
+"245" "Augustus Snodgrass" "Mrs Budger" 1
+"246" "Augustus Snodgrass" "Mrs Bulder" 1
+"247" "Augustus Snodgrass" "Mrs Bunkin" 1
+"248" "Augustus Snodgrass" "Mrs Cluppins" 2
+"249" "Augustus Snodgrass" "Mrs Dowler" 1
+"250" "Augustus Snodgrass" "Mrs Hunter" 1
+"251" "Augustus Snodgrass" "Mrs Mudberry" 1
+"252" "Augustus Snodgrass" "Mrs Nupkins" 1
+"253" "Augustus Snodgrass" "Mrs Porkenham" 1
+"254" "Augustus Snodgrass" "Mrs Pott" 4
+"255" "Augustus Snodgrass" "Mrs Raddle" 1
+"256" "Augustus Snodgrass" "Mrs Sanders" 2
+"257" "Augustus Snodgrass" "Mrs Smithe" 1
+"258" "Augustus Snodgrass" "Mrs Tomlinson" 1
+"259" "Augustus Snodgrass" "Mrs Wardle" 8
+"260" "Augustus Snodgrass" "Mrs Wugsby" 1
+"261" "Augustus Snodgrass" "Muzzle" 2
+"262" "Augustus Snodgrass" "Nathaniel Winkle" 27
+"263" "Augustus Snodgrass" "Neddy" 1
+"264" "Augustus Snodgrass" "Peter Magnus" 1
+"265" "Augustus Snodgrass" "Quanko Samba" 1
+"266" "Augustus Snodgrass" "Rachael Wardle" 4
+"267" "Augustus Snodgrass" "Richard Upwitch" 1
+"268" "Augustus Snodgrass" "Sam" 1
+"269" "Augustus Snodgrass" "Sam Weller" 16
+"270" "Augustus Snodgrass" "Samuel Pickwick" 28
+"271" "Augustus Snodgrass" "Serjeant Buzfuz" 1
+"272" "Augustus Snodgrass" "Serjeant Snubbin" 2
+"273" "Augustus Snodgrass" "Sir Geoffrey Manning" 2
+"274" "Augustus Snodgrass" "Sololomon Lucas" 1
+"275" "Augustus Snodgrass" "Solomon Pell" 1
+"276" "Augustus Snodgrass" "Thomas Clubber" 1
+"277" "Augustus Snodgrass" "Thomas Groffin" 1
+"278" "Augustus Snodgrass" "Tom Bardell" 3
+"279" "Augustus Snodgrass" "Tom Roker" 1
+"280" "Augustus Snodgrass" "Tom Smart" 1
+"281" "Augustus Snodgrass" "Tommy" 1
+"282" "Augustus Snodgrass" "Tony Weller" 17
+"283" "Augustus Snodgrass" "Tracy Tupman" 27
+"284" "Augustus Snodgrass" "Wilkins" 1
+"285" "Benjamin Allen" "Betsy" 1
+"286" "Benjamin Allen" "Bob Sawyer" 8
+"287" "Benjamin Allen" "Dodson" 3
+"288" "Benjamin Allen" "Emily Wardle" 3
+"289" "Benjamin Allen" "Fogg" 3
+"290" "Benjamin Allen" "Hon Slumkey" 1
+"291" "Benjamin Allen" "Isabella Wardle" 2
+"292" "Benjamin Allen" "Jack Hopkins" 1
+"293" "Benjamin Allen" "Job Trotter" 2
+"294" "Benjamin Allen" "Joe" 2
+"295" "Benjamin Allen" "Martha Bardell" 3
+"296" "Benjamin Allen" "Mary" 3
+"297" "Benjamin Allen" "Mr Dowler" 1
+"298" "Benjamin Allen" "Mr Gunter" 1
+"299" "Benjamin Allen" "Mr Lowten" 2
+"300" "Benjamin Allen" "Mr Noddy" 1
+"301" "Benjamin Allen" "Mr Perker" 3
+"302" "Benjamin Allen" "Mr Pott" 1
+"303" "Benjamin Allen" "Mr Raddle" 1
+"304" "Benjamin Allen" "Mr Slasher" 1
+"305" "Benjamin Allen" "Mr Snicks" 1
+"306" "Benjamin Allen" "Mr Trundle" 3
+"307" "Benjamin Allen" "Mr Wardle" 3
+"308" "Benjamin Allen" "Mrs Dowler" 1
+"309" "Benjamin Allen" "Mrs Pott" 1
+"310" "Benjamin Allen" "Mrs Raddle" 1
+"311" "Benjamin Allen" "Mrs Wardle" 3
+"312" "Benjamin Allen" "Nathaniel Winkle" 9
+"313" "Benjamin Allen" "Neddy" 1
+"314" "Benjamin Allen" "Sam Weller" 8
+"315" "Benjamin Allen" "Samuel Pickwick" 10
+"316" "Benjamin Allen" "Solomon Pell" 2
+"317" "Benjamin Allen" "Tom Cripps" 3
+"318" "Benjamin Allen" "Tom Roker" 1
+"319" "Benjamin Allen" "Tom Smart" 1
+"320" "Benjamin Allen" "Tony Weller" 8
+"321" "Benjamin Allen" "Tracy Tupman" 4
+"322" "Betsy" "Bob Sawyer" 1
+"323" "Betsy" "Dodson" 1
+"324" "Betsy" "Fogg" 1
+"325" "Betsy" "Jack Hopkins" 1
+"326" "Betsy" "Jackson" 1
+"327" "Betsy" "Job Trotter" 1
+"328" "Betsy" "Martha Bardell" 1
+"329" "Betsy" "Mary" 1
+"330" "Betsy" "Mr Gunter" 1
+"331" "Betsy" "Mr Noddy" 1
+"332" "Betsy" "Mr Perker" 1
+"333" "Betsy" "Mr Raddle" 2
+"334" "Betsy" "Mr Slasher" 1
+"335" "Betsy" "Mrs Cluppins" 1
+"336" "Betsy" "Mrs Raddle" 2
+"337" "Betsy" "Mrs Rogers" 1
+"338" "Betsy" "Mrs Sanders" 1
+"339" "Betsy" "Nathaniel Winkle" 1
+"340" "Betsy" "Sam Weller" 1
+"341" "Betsy" "Samuel Pickwick" 2
+"342" "Betsy" "Tom Bardell" 1
+"343" "Betsy" "Tracy Tupman" 1
+"344" "Bill" "Dodson" 1
+"345" "Bill" "Fogg" 1
+"346" "Bill" "Mary" 1
+"347" "Bill" "Mr Mivins" 1
+"348" "Bill" "Mr Smangle" 1
+"349" "Bill" "Sam Weller" 1
+"350" "Bill" "Samuel Pickwick" 1
+"351" "Bill" "Tom Roker" 1
+"352" "Bill" "Tony Weller" 1
+"353" "Bob Sawyer" "Dodson" 3
+"354" "Bob Sawyer" "Emily Wardle" 2
+"355" "Bob Sawyer" "Fogg" 3
+"356" "Bob Sawyer" "Hon Slumkey" 1
+"357" "Bob Sawyer" "Isabella Wardle" 1
+"358" "Bob Sawyer" "Jack Hopkins" 1
+"359" "Bob Sawyer" "Job Trotter" 2
+"360" "Bob Sawyer" "Joe" 1
+"361" "Bob Sawyer" "Martha Bardell" 3
+"362" "Bob Sawyer" "Mary" 4
+"363" "Bob Sawyer" "Mr Dowler" 2
+"364" "Bob Sawyer" "Mr Gunter" 1
+"365" "Bob Sawyer" "Mr Lowten" 1
+"366" "Bob Sawyer" "Mr Noddy" 1
+"367" "Bob Sawyer" "Mr Nupkins" 1
+"368" "Bob Sawyer" "Mr Perker" 2
+"369" "Bob Sawyer" "Mr Pott" 1
+"370" "Bob Sawyer" "Mr Raddle" 1
+"371" "Bob Sawyer" "Mr Slasher" 1
+"372" "Bob Sawyer" "Mr Snicks" 1
+"373" "Bob Sawyer" "Mr Stiggins" 1
+"374" "Bob Sawyer" "Mr Trundle" 2
+"375" "Bob Sawyer" "Mr Wardle" 2
+"376" "Bob Sawyer" "Mrs Dowler" 1
+"377" "Bob Sawyer" "Mrs Pott" 1
+"378" "Bob Sawyer" "Mrs Raddle" 1
+"379" "Bob Sawyer" "Mrs Wardle" 3
+"380" "Bob Sawyer" "Mrs Weller" 1
+"381" "Bob Sawyer" "Muzzle" 1
+"382" "Bob Sawyer" "Nathaniel Winkle" 9
+"383" "Bob Sawyer" "Pruffle" 1
+"384" "Bob Sawyer" "Sam Weller" 9
+"385" "Bob Sawyer" "Samuel Pickwick" 10
+"386" "Bob Sawyer" "Solomon Pell" 1
+"387" "Bob Sawyer" "Tom Cripps" 3
+"388" "Bob Sawyer" "Tom Smart" 1
+"389" "Bob Sawyer" "Tony Weller" 9
+"390" "Bob Sawyer" "Tracy Tupman" 4
+"391" "Boffer" "Frank Simmery" 1
+"392" "Boffer" "Mrs Weller" 1
+"393" "Boffer" "Sam Weller" 1
+"394" "Boffer" "Solomon Pell" 1
+"395" "Boffer" "Tony Weller" 1
+"396" "Boffer" "Wilkins Flasher" 1
+"397" "Brooks" "Mr Trundle" 1
+"398" "Brooks" "Mr Wardle" 1
+"399" "Brooks" "Nathaniel Winkle" 1
+"400" "Brooks" "Sam Weller" 1
+"401" "Brooks" "Samuel Pickwick" 1
+"402" "Brooks" "Sir Geoffrey Manning" 1
+"403" "Brooks" "Tony Weller" 1
+"404" "Brooks" "Tracy Tupman" 1
+"405" "Brooks" "Wilkins" 1
+"406" "Brother Mordlin" "Brother Tadger" 1
+"407" "Brother Mordlin" "Henry Beller" 1
+"408" "Brother Mordlin" "Jonas Mudge" 1
+"409" "Brother Mordlin" "Martha Bardell" 1
+"410" "Brother Mordlin" "Mary" 1
+"411" "Brother Mordlin" "Mr Nupkins" 1
+"412" "Brother Mordlin" "Mr Perker" 1
+"413" "Brother Mordlin" "Mr Stiggins" 1
+"414" "Brother Mordlin" "Sam Weller" 1
+"415" "Brother Mordlin" "Samuel Pickwick" 1
+"416" "Brother Mordlin" "Thomas Burton" 1
+"417" "Brother Mordlin" "Tom Wildspark" 1
+"418" "Brother Mordlin" "Tony Weller" 1
+"419" "Brother Tadger" "Henry Beller" 1
+"420" "Brother Tadger" "Jonas Mudge" 1
+"421" "Brother Tadger" "Martha Bardell" 1
+"422" "Brother Tadger" "Mary" 1
+"423" "Brother Tadger" "Mr Nupkins" 1
+"424" "Brother Tadger" "Mr Perker" 1
+"425" "Brother Tadger" "Mr Stiggins" 1
+"426" "Brother Tadger" "Sam Weller" 1
+"427" "Brother Tadger" "Samuel Pickwick" 1
+"428" "Brother Tadger" "Thomas Burton" 1
+"429" "Brother Tadger" "Tom Wildspark" 1
+"430" "Brother Tadger" "Tony Weller" 1
+"431" "Bullman" "Charley" 1
+"432" "Bullman" "Dodson" 1
+"433" "Bullman" "Fogg" 1
+"434" "Bullman" "Jack Bamber" 1
+"435" "Bullman" "Jackson" 1
+"436" "Bullman" "Job Trotter" 1
+"437" "Bullman" "Martha Bardell" 1
+"438" "Bullman" "Miss Smithers" 1
+"439" "Bullman" "Mr Grundy" 1
+"440" "Bullman" "Mr Lowten" 1
+"441" "Bullman" "Mr Perker" 1
+"442" "Bullman" "Mr Wicks" 1
+"443" "Bullman" "Sam Weller" 1
+"444" "Bullman" "Samuel Pickwick" 1
+"445" "Bullman" "Tony Weller" 1
+"446" "Chancery Prisoner" "Dodson" 1
+"447" "Chancery Prisoner" "Fogg" 1
+"448" "Chancery Prisoner" "Job Trotter" 2
+"449" "Chancery Prisoner" "Martha Bardell" 1
+"450" "Chancery Prisoner" "Mr Mivins" 3
+"451" "Chancery Prisoner" "Mr Perker" 1
+"452" "Chancery Prisoner" "Mr Simpson" 1
+"453" "Chancery Prisoner" "Mr Smangle" 3
+"454" "Chancery Prisoner" "Mr Stiggins" 1
+"455" "Chancery Prisoner" "Mrs Weller" 1
+"456" "Chancery Prisoner" "Nathaniel Winkle" 1
+"457" "Chancery Prisoner" "Neddy" 2
+"458" "Chancery Prisoner" "Sam Weller" 3
+"459" "Chancery Prisoner" "Samuel Pickwick" 3
+"460" "Chancery Prisoner" "Tom Martin" 1
+"461" "Chancery Prisoner" "Tom Roker" 3
+"462" "Chancery Prisoner" "Tony Weller" 3
+"463" "Chancery Prisoner" "Tracy Tupman" 2
+"464" "Charley" "Dodson" 1
+"465" "Charley" "Fogg" 1
+"466" "Charley" "Jack Bamber" 1
+"467" "Charley" "Jackson" 1
+"468" "Charley" "Job Trotter" 1
+"469" "Charley" "Martha Bardell" 1
+"470" "Charley" "Miss Smithers" 1
+"471" "Charley" "Mr Grundy" 1
+"472" "Charley" "Mr Lowten" 1
+"473" "Charley" "Mr Perker" 1
+"474" "Charley" "Mr Wicks" 1
+"475" "Charley" "Sam Weller" 1
+"476" "Charley" "Samuel Pickwick" 1
+"477" "Charley" "Tony Weller" 1
+"478" "Clergyman" "Dodson" 1
+"479" "Clergyman" "Emily Wardle" 3
+"480" "Clergyman" "Emma" 1
+"481" "Clergyman" "Fogg" 1
+"482" "Clergyman" "Gabriel Grub" 2
+"483" "Clergyman" "Goodwin" 1
+"484" "Clergyman" "Horatio Fizkin" 1
+"485" "Clergyman" "Isabella Wardle" 4
+"486" "Clergyman" "Joe" 2
+"487" "Clergyman" "John Edmunds" 1
+"488" "Clergyman" "Martha Bardell" 1
+"489" "Clergyman" "Mr Blotton" 1
+"490" "Clergyman" "Mr Dumkins" 1
+"491" "Clergyman" "Mr Luffey" 1
+"492" "Clergyman" "Mr Miller" 1
+"493" "Clergyman" "Mr Perker" 1
+"494" "Clergyman" "Mr Podder" 1
+"495" "Clergyman" "Mr Pott" 1
+"496" "Clergyman" "Mr Staple" 1
+"497" "Clergyman" "Mr Struggles" 1
+"498" "Clergyman" "Mr Trundle" 4
+"499" "Clergyman" "Mr Wardle" 5
+"500" "Clergyman" "Mrs Pott" 1
+"501" "Clergyman" "Mrs Wardle" 3
+"502" "Clergyman" "Nathaniel Winkle" 5
+"503" "Clergyman" "Quanko Samba" 1
+"504" "Clergyman" "Rachael Wardle" 2
+"505" "Clergyman" "Sam Weller" 2
+"506" "Clergyman" "Samuel Pickwick" 5
+"507" "Clergyman" "Sir Geoffrey Manning" 1
+"508" "Clergyman" "Tony Weller" 2
+"509" "Clergyman" "Tracy Tupman" 5
+"510" "Colonel Bulder" "Doctor Payne" 1
+"511" "Colonel Bulder" "Doctor Slammer" 1
+"512" "Colonel Bulder" "Emily Wardle" 1
+"513" "Colonel Bulder" "Hon Snipe" 1
+"514" "Colonel Bulder" "Isabella Wardle" 1
+"515" "Colonel Bulder" "Joe" 1
+"516" "Colonel Bulder" "Lady Clubber" 1
+"517" "Colonel Bulder" "Lieutenant Tappleton" 1
+"518" "Colonel Bulder" "Miss Bulder" 1
+"519" "Colonel Bulder" "Misses Clubber" 1
+"520" "Colonel Bulder" "Misses Smithie" 1
+"521" "Colonel Bulder" "Mr Smithies" 1
+"522" "Colonel Bulder" "Mr Trundle" 1
+"523" "Colonel Bulder" "Mr Wardle" 1
+"524" "Colonel Bulder" "Mrs Budger" 1
+"525" "Colonel Bulder" "Mrs Bulder" 1
+"526" "Colonel Bulder" "Mrs Smithe" 1
+"527" "Colonel Bulder" "Mrs Tomlinson" 1
+"528" "Colonel Bulder" "Nathaniel Winkle" 2
+"529" "Colonel Bulder" "Rachael Wardle" 1
+"530" "Colonel Bulder" "Sam" 1
+"531" "Colonel Bulder" "Samuel Pickwick" 2
+"532" "Colonel Bulder" "Thomas Clubber" 1
+"533" "Colonel Bulder" "Tommy" 1
+"534" "Colonel Bulder" "Tracy Tupman" 2
+"535" "Count Smorltork" "Mr Hunter" 1
+"536" "Count Smorltork" "Mr Pott" 1
+"537" "Count Smorltork" "Mrs Hunter" 1
+"538" "Count Smorltork" "Mrs Pott" 1
+"539" "Count Smorltork" "Nathaniel Winkle" 1
+"540" "Count Smorltork" "Sam Weller" 1
+"541" "Count Smorltork" "Samuel Pickwick" 1
+"542" "Count Smorltork" "Sololomon Lucas" 1
+"543" "Count Smorltork" "Tony Weller" 1
+"544" "Count Smorltork" "Tracy Tupman" 1
+"545" "Crookey" "Mr Ayresleigh" 1
+"546" "Crookey" "Mr Lowten" 1
+"547" "Crookey" "Mr Namby" 1
+"548" "Crookey" "Mr Perker" 1
+"549" "Crookey" "Mr Price" 1
+"550" "Crookey" "Mr Smouch" 1
+"551" "Crookey" "Sam Weller" 1
+"552" "Crookey" "Samuel Pickwick" 1
+"553" "Crookey" "Tony Weller" 1
+"554" "Daniel Grummer" "Dubbley" 2
+"555" "Daniel Grummer" "Job Trotter" 1
+"556" "Daniel Grummer" "Mary" 1
+"557" "Daniel Grummer" "Miss Nupkins" 1
+"558" "Daniel Grummer" "Miss Witherfield" 1
+"559" "Daniel Grummer" "Mr Jinks" 2
+"560" "Daniel Grummer" "Mr Nupkins" 2
+"561" "Daniel Grummer" "Mr Porkenham" 1
+"562" "Daniel Grummer" "Mrs Nupkins" 1
+"563" "Daniel Grummer" "Mrs Porkenham" 1
+"564" "Daniel Grummer" "Muzzle" 2
+"565" "Daniel Grummer" "Nathaniel Winkle" 2
+"566" "Daniel Grummer" "Peter Magnus" 1
+"567" "Daniel Grummer" "Sam Weller" 2
+"568" "Daniel Grummer" "Samuel Pickwick" 2
+"569" "Daniel Grummer" "Tony Weller" 2
+"570" "Daniel Grummer" "Tracy Tupman" 2
+"571" "Doctor Payne" "Doctor Slammer" 2
+"572" "Doctor Payne" "Hon Snipe" 1
+"573" "Doctor Payne" "Jem Hutley" 1
+"574" "Doctor Payne" "Lady Clubber" 1
+"575" "Doctor Payne" "Lieutenant Tappleton" 2
+"576" "Doctor Payne" "Miss Bulder" 1
+"577" "Doctor Payne" "Misses Clubber" 1
+"578" "Doctor Payne" "Misses Smithie" 1
+"579" "Doctor Payne" "Mr Smithies" 1
+"580" "Doctor Payne" "Mrs Budger" 1
+"581" "Doctor Payne" "Mrs Bulder" 1
+"582" "Doctor Payne" "Mrs Smithe" 1
+"583" "Doctor Payne" "Mrs Tomlinson" 1
+"584" "Doctor Payne" "Nathaniel Winkle" 2
+"585" "Doctor Payne" "Sam" 1
+"586" "Doctor Payne" "Samuel Pickwick" 2
+"587" "Doctor Payne" "Thomas Clubber" 1
+"588" "Doctor Payne" "Tommy" 1
+"589" "Doctor Payne" "Tracy Tupman" 2
+"590" "Doctor Slammer" "Hon Snipe" 1
+"591" "Doctor Slammer" "Jem Hutley" 1
+"592" "Doctor Slammer" "Lady Clubber" 1
+"593" "Doctor Slammer" "Lieutenant Tappleton" 2
+"594" "Doctor Slammer" "Miss Bulder" 1
+"595" "Doctor Slammer" "Misses Clubber" 1
+"596" "Doctor Slammer" "Misses Smithie" 1
+"597" "Doctor Slammer" "Mr Smithies" 1
+"598" "Doctor Slammer" "Mrs Budger" 1
+"599" "Doctor Slammer" "Mrs Bulder" 1
+"600" "Doctor Slammer" "Mrs Smithe" 1
+"601" "Doctor Slammer" "Mrs Tomlinson" 1
+"602" "Doctor Slammer" "Nathaniel Winkle" 2
+"603" "Doctor Slammer" "Sam" 1
+"604" "Doctor Slammer" "Samuel Pickwick" 2
+"605" "Doctor Slammer" "Thomas Clubber" 1
+"606" "Doctor Slammer" "Tommy" 1
+"607" "Doctor Slammer" "Tracy Tupman" 2
+"608" "Dodson" "Emily Wardle" 1
+"609" "Dodson" "Fogg" 13
+"610" "Dodson" "Goodwin" 1
+"611" "Dodson" "Horatio Fizkin" 1
+"612" "Dodson" "Isabella Wardle" 2
+"613" "Dodson" "Jack Bamber" 1
+"614" "Dodson" "Jackson" 4
+"615" "Dodson" "Job Trotter" 6
+"616" "Dodson" "Martha Bardell" 9
+"617" "Dodson" "Mary" 4
+"618" "Dodson" "Miss Smithers" 1
+"619" "Dodson" "Mr Dowler" 1
+"620" "Dodson" "Mr Grundy" 1
+"621" "Dodson" "Mr Lowten" 5
+"622" "Dodson" "Mr Mallard" 2
+"623" "Dodson" "Mr Mivins" 2
+"624" "Dodson" "Mr Perker" 9
+"625" "Dodson" "Mr Phunky" 2
+"626" "Dodson" "Mr Pott" 1
+"627" "Dodson" "Mr Raddle" 1
+"628" "Dodson" "Mr Skimpin" 1
+"629" "Dodson" "Mr Smangle" 2
+"630" "Dodson" "Mr Snicks" 1
+"631" "Dodson" "Mr Stareleigh" 1
+"632" "Dodson" "Mr Stiggins" 1
+"633" "Dodson" "Mr Trundle" 2
+"634" "Dodson" "Mr Wardle" 2
+"635" "Dodson" "Mr Watty" 1
+"636" "Dodson" "Mr Wicks" 1
+"637" "Dodson" "Mrs Bunkin" 1
+"638" "Dodson" "Mrs Cluppins" 3
+"639" "Dodson" "Mrs Dowler" 1
+"640" "Dodson" "Mrs Mudberry" 1
+"641" "Dodson" "Mrs Pott" 1
+"642" "Dodson" "Mrs Raddle" 1
+"643" "Dodson" "Mrs Rogers" 1
+"644" "Dodson" "Mrs Sanders" 3
+"645" "Dodson" "Mrs Wardle" 3
+"646" "Dodson" "Mrs Weller" 2
+"647" "Dodson" "Nathaniel Winkle" 7
+"648" "Dodson" "Peter Magnus" 1
+"649" "Dodson" "Rachael Wardle" 1
+"650" "Dodson" "Richard Upwitch" 1
+"651" "Dodson" "Sam Weller" 12
+"652" "Dodson" "Samuel Pickwick" 13
+"653" "Dodson" "Serjeant Buzfuz" 1
+"654" "Dodson" "Serjeant Snubbin" 2
+"655" "Dodson" "Sir Geoffrey Manning" 1
+"656" "Dodson" "Sir Thomas Blazo" 1
+"657" "Dodson" "Solomon Pell" 1
+"658" "Dodson" "Thomas Groffin" 1
+"659" "Dodson" "Tom Bardell" 3
+"660" "Dodson" "Tom Cripps" 1
+"661" "Dodson" "Tom Roker" 2
+"662" "Dodson" "Tony Weller" 11
+"663" "Dodson" "Tracy Tupman" 7
+"664" "Dowager Snuphanuph" "Lord Mutanhed" 2
+"665" "Dowager Snuphanuph" "Lud Hudibaras" 1
+"666" "Dowager Snuphanuph" "Miss Bolo" 1
+"667" "Dowager Snuphanuph" "Misses Matinter" 1
+"668" "Dowager Snuphanuph" "Mr Crawley" 1
+"669" "Dowager Snuphanuph" "Mr Crushton" 2
+"670" "Dowager Snuphanuph" "Mr Dowler" 2
+"671" "Dowager Snuphanuph" "Mr Perker" 1
+"672" "Dowager Snuphanuph" "Mrs Craddock" 1
+"673" "Dowager Snuphanuph" "Mrs Dowler" 2
+"674" "Dowager Snuphanuph" "Mrs Wugsby" 2
+"675" "Dowager Snuphanuph" "Nathaniel Winkle" 2
+"676" "Dowager Snuphanuph" "Prince Bladud" 1
+"677" "Dowager Snuphanuph" "Sam Weller" 1
+"678" "Dowager Snuphanuph" "Samuel Pickwick" 2
+"679" "Dowager Snuphanuph" "Tony Weller" 2
+"680" "Dowager Snuphanuph" "Tracy Tupman" 1
+"681" "Dubbley" "Job Trotter" 1
+"682" "Dubbley" "Mary" 1
+"683" "Dubbley" "Miss Nupkins" 1
+"684" "Dubbley" "Miss Witherfield" 1
+"685" "Dubbley" "Mr Jinks" 2
+"686" "Dubbley" "Mr Nupkins" 2
+"687" "Dubbley" "Mr Porkenham" 1
+"688" "Dubbley" "Mrs Nupkins" 1
+"689" "Dubbley" "Mrs Porkenham" 1
+"690" "Dubbley" "Muzzle" 2
+"691" "Dubbley" "Nathaniel Winkle" 2
+"692" "Dubbley" "Peter Magnus" 1
+"693" "Dubbley" "Sam Weller" 2
+"694" "Dubbley" "Samuel Pickwick" 2
+"695" "Dubbley" "Tony Weller" 2
+"696" "Dubbley" "Tracy Tupman" 2
+"697" "Emily Wardle" "Emma" 2
+"698" "Emily Wardle" "Fogg" 1
+"699" "Emily Wardle" "Gabriel Grub" 1
+"700" "Emily Wardle" "Isabella Wardle" 5
+"701" "Emily Wardle" "Job Trotter" 1
+"702" "Emily Wardle" "Joe" 7
+"703" "Emily Wardle" "John Edmunds" 1
+"704" "Emily Wardle" "Martha Bardell" 1
+"705" "Emily Wardle" "Mary" 4
+"706" "Emily Wardle" "Mr Blotton" 1
+"707" "Emily Wardle" "Mr Jinkins" 1
+"708" "Emily Wardle" "Mr Lowten" 1
+"709" "Emily Wardle" "Mr Miller" 1
+"710" "Emily Wardle" "Mr Perker" 3
+"711" "Emily Wardle" "Mr Pott" 1
+"712" "Emily Wardle" "Mr Trundle" 8
+"713" "Emily Wardle" "Mr Wardle" 9
+"714" "Emily Wardle" "Mrs Pott" 1
+"715" "Emily Wardle" "Mrs Wardle" 7
+"716" "Emily Wardle" "Nathaniel Winkle" 10
+"717" "Emily Wardle" "Rachael Wardle" 3
+"718" "Emily Wardle" "Sam Weller" 4
+"719" "Emily Wardle" "Samuel Pickwick" 11
+"720" "Emily Wardle" "Tom Smart" 1
+"721" "Emily Wardle" "Tony Weller" 5
+"722" "Emily Wardle" "Tracy Tupman" 9
+"723" "Emma" "Gabriel Grub" 1
+"724" "Emma" "Isabella Wardle" 2
+"725" "Emma" "Jane1" 1
+"726" "Emma" "Joe" 3
+"727" "Emma" "Mary" 1
+"728" "Emma" "Mr Trundle" 2
+"729" "Emma" "Mr Wardle" 3
+"730" "Emma" "Mrs Wardle" 2
+"731" "Emma" "Nathaniel Winkle" 3
+"732" "Emma" "Rachael Wardle" 1
+"733" "Emma" "Sam Weller" 1
+"734" "Emma" "Samuel Pickwick" 3
+"735" "Emma" "Tony Weller" 1
+"736" "Emma" "Tracy Tupman" 3
+"737" "Fogg" "Goodwin" 1
+"738" "Fogg" "Horatio Fizkin" 1
+"739" "Fogg" "Isabella Wardle" 2
+"740" "Fogg" "Jack Bamber" 1
+"741" "Fogg" "Jackson" 4
+"742" "Fogg" "Job Trotter" 6
+"743" "Fogg" "Martha Bardell" 9
+"744" "Fogg" "Mary" 4
+"745" "Fogg" "Miss Smithers" 1
+"746" "Fogg" "Mr Dowler" 1
+"747" "Fogg" "Mr Grundy" 1
+"748" "Fogg" "Mr Lowten" 5
+"749" "Fogg" "Mr Mallard" 2
+"750" "Fogg" "Mr Mivins" 2
+"751" "Fogg" "Mr Perker" 9
+"752" "Fogg" "Mr Phunky" 2
+"753" "Fogg" "Mr Pott" 1
+"754" "Fogg" "Mr Raddle" 1
+"755" "Fogg" "Mr Skimpin" 1
+"756" "Fogg" "Mr Smangle" 2
+"757" "Fogg" "Mr Snicks" 1
+"758" "Fogg" "Mr Stareleigh" 1
+"759" "Fogg" "Mr Stiggins" 1
+"760" "Fogg" "Mr Trundle" 2
+"761" "Fogg" "Mr Wardle" 2
+"762" "Fogg" "Mr Watty" 1
+"763" "Fogg" "Mr Wicks" 1
+"764" "Fogg" "Mrs Bunkin" 1
+"765" "Fogg" "Mrs Cluppins" 3
+"766" "Fogg" "Mrs Dowler" 1
+"767" "Fogg" "Mrs Mudberry" 1
+"768" "Fogg" "Mrs Pott" 1
+"769" "Fogg" "Mrs Raddle" 1
+"770" "Fogg" "Mrs Rogers" 1
+"771" "Fogg" "Mrs Sanders" 3
+"772" "Fogg" "Mrs Wardle" 3
+"773" "Fogg" "Mrs Weller" 2
+"774" "Fogg" "Nathaniel Winkle" 7
+"775" "Fogg" "Peter Magnus" 1
+"776" "Fogg" "Rachael Wardle" 1
+"777" "Fogg" "Richard Upwitch" 1
+"778" "Fogg" "Sam Weller" 12
+"779" "Fogg" "Samuel Pickwick" 13
+"780" "Fogg" "Serjeant Buzfuz" 1
+"781" "Fogg" "Serjeant Snubbin" 2
+"782" "Fogg" "Sir Geoffrey Manning" 1
+"783" "Fogg" "Sir Thomas Blazo" 1
+"784" "Fogg" "Solomon Pell" 1
+"785" "Fogg" "Thomas Groffin" 1
+"786" "Fogg" "Tom Bardell" 3
+"787" "Fogg" "Tom Cripps" 1
+"788" "Fogg" "Tom Roker" 2
+"789" "Fogg" "Tony Weller" 11
+"790" "Fogg" "Tracy Tupman" 7
+"791" "Frank Simmery" "Mrs Weller" 1
+"792" "Frank Simmery" "Sam Weller" 1
+"793" "Frank Simmery" "Solomon Pell" 1
+"794" "Frank Simmery" "Tony Weller" 1
+"795" "Frank Simmery" "Wilkins Flasher" 1
+"796" "Gabriel Grub" "Isabella Wardle" 1
+"797" "Gabriel Grub" "Joe" 1
+"798" "Gabriel Grub" "Mr Trundle" 1
+"799" "Gabriel Grub" "Mr Wardle" 1
+"800" "Gabriel Grub" "Mrs Wardle" 1
+"801" "Gabriel Grub" "Nathaniel Winkle" 1
+"802" "Gabriel Grub" "Sam Weller" 1
+"803" "Gabriel Grub" "Samuel Pickwick" 1
+"804" "Gabriel Grub" "Tony Weller" 1
+"805" "Gabriel Grub" "Tracy Tupman" 1
+"806" "George Heyling" "Jack Bamber" 1
+"807" "George Heyling" "Mary" 1
+"808" "George Heyling" "Mr Lowten" 1
+"809" "George Heyling" "Samuel Pickwick" 1
+"810" "George Heyling" "Tony Weller" 1
+"811" "Goodwin" "Horatio Fizkin" 1
+"812" "Goodwin" "Isabella Wardle" 1
+"813" "Goodwin" "Martha Bardell" 1
+"814" "Goodwin" "Mr Pott" 1
+"815" "Goodwin" "Mr Trundle" 1
+"816" "Goodwin" "Mr Wardle" 1
+"817" "Goodwin" "Mrs Pott" 1
+"818" "Goodwin" "Nathaniel Winkle" 1
+"819" "Goodwin" "Rachael Wardle" 1
+"820" "Goodwin" "Sam Weller" 1
+"821" "Goodwin" "Samuel Pickwick" 1
+"822" "Goodwin" "Sir Geoffrey Manning" 1
+"823" "Goodwin" "Tony Weller" 1
+"824" "Goodwin" "Tracy Tupman" 1
+"825" "Harris" "John Smauker" 1
+"826" "Harris" "Mr Dowler" 1
+"827" "Harris" "Mr Tuckle" 1
+"828" "Harris" "Mr Whiffers" 1
+"829" "Harris" "Mrs Craddock" 1
+"830" "Harris" "Nathaniel Winkle" 1
+"831" "Harris" "Sam Weller" 1
+"832" "Harris" "Samuel Pickwick" 1
+"833" "Harris" "Tony Weller" 1
+"834" "Henry Beller" "Jonas Mudge" 1
+"835" "Henry Beller" "Martha Bardell" 1
+"836" "Henry Beller" "Mary" 1
+"837" "Henry Beller" "Mr Nupkins" 1
+"838" "Henry Beller" "Mr Perker" 1
+"839" "Henry Beller" "Mr Stiggins" 1
+"840" "Henry Beller" "Sam Weller" 1
+"841" "Henry Beller" "Samuel Pickwick" 1
+"842" "Henry Beller" "Thomas Burton" 1
+"843" "Henry Beller" "Tom Wildspark" 1
+"844" "Henry Beller" "Tony Weller" 1
+"845" "Hon Slumkey" "Horatio Fizkin" 1
+"846" "Hon Slumkey" "Mr Perker" 1
+"847" "Hon Slumkey" "Mr Pott" 2
+"848" "Hon Slumkey" "Mrs Pott" 2
+"849" "Hon Slumkey" "Nathaniel Winkle" 2
+"850" "Hon Slumkey" "Sam Weller" 2
+"851" "Hon Slumkey" "Samuel Pickwick" 2
+"852" "Hon Slumkey" "Tony Weller" 2
+"853" "Hon Slumkey" "Tracy Tupman" 1
+"854" "Hon Snipe" "Lady Clubber" 1
+"855" "Hon Snipe" "Lieutenant Tappleton" 1
+"856" "Hon Snipe" "Miss Bulder" 1
+"857" "Hon Snipe" "Misses Clubber" 1
+"858" "Hon Snipe" "Misses Smithie" 1
+"859" "Hon Snipe" "Mr Smithies" 1
+"860" "Hon Snipe" "Mrs Budger" 1
+"861" "Hon Snipe" "Mrs Bulder" 1
+"862" "Hon Snipe" "Mrs Smithe" 1
+"863" "Hon Snipe" "Mrs Tomlinson" 1
+"864" "Hon Snipe" "Nathaniel Winkle" 1
+"865" "Hon Snipe" "Sam" 1
+"866" "Hon Snipe" "Samuel Pickwick" 1
+"867" "Hon Snipe" "Thomas Clubber" 1
+"868" "Hon Snipe" "Tommy" 1
+"869" "Hon Snipe" "Tracy Tupman" 1
+"870" "Horatio Fizkin" "Isabella Wardle" 1
+"871" "Horatio Fizkin" "Martha Bardell" 1
+"872" "Horatio Fizkin" "Mr Perker" 1
+"873" "Horatio Fizkin" "Mr Pott" 2
+"874" "Horatio Fizkin" "Mr Trundle" 1
+"875" "Horatio Fizkin" "Mr Wardle" 1
+"876" "Horatio Fizkin" "Mrs Pott" 2
+"877" "Horatio Fizkin" "Nathaniel Winkle" 2
+"878" "Horatio Fizkin" "Rachael Wardle" 1
+"879" "Horatio Fizkin" "Sam Weller" 2
+"880" "Horatio Fizkin" "Samuel Pickwick" 2
+"881" "Horatio Fizkin" "Sir Geoffrey Manning" 1
+"882" "Horatio Fizkin" "Tony Weller" 2
+"883" "Horatio Fizkin" "Tracy Tupman" 2
+"884" "Isabella Wardle" "Job Trotter" 1
+"885" "Isabella Wardle" "Joe" 5
+"886" "Isabella Wardle" "John Edmunds" 1
+"887" "Isabella Wardle" "Martha Bardell" 2
+"888" "Isabella Wardle" "Mary" 2
+"889" "Isabella Wardle" "Mr Dumkins" 1
+"890" "Isabella Wardle" "Mr Lowten" 2
+"891" "Isabella Wardle" "Mr Luffey" 1
+"892" "Isabella Wardle" "Mr Miller" 1
+"893" "Isabella Wardle" "Mr Perker" 2
+"894" "Isabella Wardle" "Mr Podder" 1
+"895" "Isabella Wardle" "Mr Pott" 1
+"896" "Isabella Wardle" "Mr Snicks" 1
+"897" "Isabella Wardle" "Mr Staple" 1
+"898" "Isabella Wardle" "Mr Struggles" 1
+"899" "Isabella Wardle" "Mr Trundle" 6
+"900" "Isabella Wardle" "Mr Wardle" 7
+"901" "Isabella Wardle" "Mrs Pott" 1
+"902" "Isabella Wardle" "Mrs Wardle" 3
+"903" "Isabella Wardle" "Nathaniel Winkle" 8
+"904" "Isabella Wardle" "Quanko Samba" 1
+"905" "Isabella Wardle" "Rachael Wardle" 4
+"906" "Isabella Wardle" "Sam Weller" 3
+"907" "Isabella Wardle" "Samuel Pickwick" 8
+"908" "Isabella Wardle" "Sir Geoffrey Manning" 1
+"909" "Isabella Wardle" "Solomon Pell" 1
+"910" "Isabella Wardle" "Tony Weller" 3
+"911" "Isabella Wardle" "Tracy Tupman" 7
+"912" "Jack Bamber" "Jackson" 1
+"913" "Jack Bamber" "Job Trotter" 1
+"914" "Jack Bamber" "Martha Bardell" 1
+"915" "Jack Bamber" "Mary" 1
+"916" "Jack Bamber" "Miss Smithers" 1
+"917" "Jack Bamber" "Mr Grundy" 1
+"918" "Jack Bamber" "Mr Lowten" 2
+"919" "Jack Bamber" "Mr Perker" 1
+"920" "Jack Bamber" "Mr Wicks" 1
+"921" "Jack Bamber" "Sam Weller" 1
+"922" "Jack Bamber" "Samuel Pickwick" 2
+"923" "Jack Bamber" "Tony Weller" 2
+"924" "Jack Hopkins" "Mr Gunter" 1
+"925" "Jack Hopkins" "Mr Noddy" 1
+"926" "Jack Hopkins" "Mr Raddle" 1
+"927" "Jack Hopkins" "Mr Slasher" 1
+"928" "Jack Hopkins" "Mrs Raddle" 1
+"929" "Jack Hopkins" "Nathaniel Winkle" 1
+"930" "Jack Hopkins" "Samuel Pickwick" 1
+"931" "Jack Hopkins" "Tracy Tupman" 1
+"932" "Jack Martin" "Marquess of Filletoville" 1
+"933" "Jack Martin" "Tom Smart" 1
+"934" "Jackson" "Job Trotter" 2
+"935" "Jackson" "Martha Bardell" 4
+"936" "Jackson" "Mary" 1
+"937" "Jackson" "Miss Smithers" 1
+"938" "Jackson" "Mr Grundy" 1
+"939" "Jackson" "Mr Lowten" 3
+"940" "Jackson" "Mr Mallard" 2
+"941" "Jackson" "Mr Perker" 4
+"942" "Jackson" "Mr Phunky" 2
+"943" "Jackson" "Mr Raddle" 1
+"944" "Jackson" "Mr Skimpin" 1
+"945" "Jackson" "Mr Stareleigh" 1
+"946" "Jackson" "Mr Watty" 1
+"947" "Jackson" "Mr Wicks" 1
+"948" "Jackson" "Mrs Bunkin" 1
+"949" "Jackson" "Mrs Cluppins" 2
+"950" "Jackson" "Mrs Mudberry" 1
+"951" "Jackson" "Mrs Raddle" 1
+"952" "Jackson" "Mrs Rogers" 1
+"953" "Jackson" "Mrs Sanders" 2
+"954" "Jackson" "Mrs Wardle" 1
+"955" "Jackson" "Nathaniel Winkle" 2
+"956" "Jackson" "Richard Upwitch" 1
+"957" "Jackson" "Sam Weller" 4
+"958" "Jackson" "Samuel Pickwick" 4
+"959" "Jackson" "Serjeant Buzfuz" 1
+"960" "Jackson" "Serjeant Snubbin" 2
+"961" "Jackson" "Thomas Groffin" 1
+"962" "Jackson" "Tom Bardell" 2
+"963" "Jackson" "Tony Weller" 3
+"964" "Jackson" "Tracy Tupman" 2
+"965" "Jane1" "Joe" 1
+"966" "Jane1" "Mary" 1
+"967" "Jane1" "Mr Wardle" 1
+"968" "Jane1" "Nathaniel Winkle" 1
+"969" "Jane1" "Samuel Pickwick" 1
+"970" "Jane1" "Tracy Tupman" 1
+"971" "Jem Hutley" "Lieutenant Tappleton" 1
+"972" "Jem Hutley" "Nathaniel Winkle" 1
+"973" "Jem Hutley" "Samuel Pickwick" 1
+"974" "Jem Hutley" "Tracy Tupman" 1
+"975" "Job Trotter" "Martha Bardell" 5
+"976" "Job Trotter" "Mary" 4
+"977" "Job Trotter" "Miss Gwynn" 1
+"978" "Job Trotter" "Miss Nupkins" 1
+"979" "Job Trotter" "Miss Smithers" 2
+"980" "Job Trotter" "Miss Tomkins" 1
+"981" "Job Trotter" "Mr Grundy" 1
+"982" "Job Trotter" "Mr Jinks" 1
+"983" "Job Trotter" "Mr Lowten" 3
+"984" "Job Trotter" "Mr Mivins" 2
+"985" "Job Trotter" "Mr Nupkins" 1
+"986" "Job Trotter" "Mr Perker" 6
+"987" "Job Trotter" "Mr Porkenham" 1
+"988" "Job Trotter" "Mr Raddle" 1
+"989" "Job Trotter" "Mr Simpson" 1
+"990" "Job Trotter" "Mr Smangle" 2
+"991" "Job Trotter" "Mr Snicks" 1
+"992" "Job Trotter" "Mr Stiggins" 1
+"993" "Job Trotter" "Mr Trundle" 2
+"994" "Job Trotter" "Mr Wardle" 2
+"995" "Job Trotter" "Mr Wicks" 1
+"996" "Job Trotter" "Mrs Cluppins" 1
+"997" "Job Trotter" "Mrs Nupkins" 1
+"998" "Job Trotter" "Mrs Porkenham" 1
+"999" "Job Trotter" "Mrs Raddle" 1
+"1000" "Job Trotter" "Mrs Rogers" 1
+"1001" "Job Trotter" "Mrs Sanders" 1
+"1002" "Job Trotter" "Mrs Wardle" 2
+"1003" "Job Trotter" "Mrs Weller" 1
+"1004" "Job Trotter" "Muzzle" 1
+"1005" "Job Trotter" "Nathaniel Winkle" 4
+"1006" "Job Trotter" "Neddy" 1
+"1007" "Job Trotter" "Sam Weller" 9
+"1008" "Job Trotter" "Samuel Pickwick" 10
+"1009" "Job Trotter" "Sir Thomas Blazo" 1
+"1010" "Job Trotter" "Solomon Pell" 1
+"1011" "Job Trotter" "Tom Bardell" 1
+"1012" "Job Trotter" "Tom Martin" 1
+"1013" "Job Trotter" "Tom Roker" 2
+"1014" "Job Trotter" "Tony Weller" 8
+"1015" "Job Trotter" "Tracy Tupman" 4
+"1016" "Joe" "Mary" 3
+"1017" "Joe" "Mr Dumkins" 1
+"1018" "Joe" "Mr Lowten" 1
+"1019" "Joe" "Mr Luffey" 1
+"1020" "Joe" "Mr Perker" 1
+"1021" "Joe" "Mr Podder" 1
+"1022" "Joe" "Mr Staple" 1
+"1023" "Joe" "Mr Struggles" 1
+"1024" "Joe" "Mr Trundle" 5
+"1025" "Joe" "Mr Wardle" 8
+"1026" "Joe" "Mrs Wardle" 4
+"1027" "Joe" "Nathaniel Winkle" 8
+"1028" "Joe" "Quanko Samba" 1
+"1029" "Joe" "Rachael Wardle" 4
+"1030" "Joe" "Sam Weller" 3
+"1031" "Joe" "Samuel Pickwick" 9
+"1032" "Joe" "Tony Weller" 3
+"1033" "Joe" "Tracy Tupman" 7
+"1034" "Joe Smiggers" "Nathaniel Winkle" 1
+"1035" "Joe Smiggers" "Samuel Pickwick" 1
+"1036" "Joe Smiggers" "Tracy Tupman" 1
+"1037" "John Edmunds" "Mr Miller" 1
+"1038" "John Edmunds" "Mr Trundle" 1
+"1039" "John Edmunds" "Mr Wardle" 1
+"1040" "John Edmunds" "Mrs Wardle" 1
+"1041" "John Edmunds" "Nathaniel Winkle" 1
+"1042" "John Edmunds" "Samuel Pickwick" 1
+"1043" "John Edmunds" "Tracy Tupman" 1
+"1044" "John Smauker" "Mr Dowler" 1
+"1045" "John Smauker" "Mr Tuckle" 1
+"1046" "John Smauker" "Mr Whiffers" 1
+"1047" "John Smauker" "Mrs Craddock" 1
+"1048" "John Smauker" "Nathaniel Winkle" 1
+"1049" "John Smauker" "Sam Weller" 1
+"1050" "John Smauker" "Samuel Pickwick" 1
+"1051" "John Smauker" "Tony Weller" 1
+"1052" "Jonas Mudge" "Martha Bardell" 1
+"1053" "Jonas Mudge" "Mary" 1
+"1054" "Jonas Mudge" "Mr Nupkins" 1
+"1055" "Jonas Mudge" "Mr Perker" 1
+"1056" "Jonas Mudge" "Mr Stiggins" 1
+"1057" "Jonas Mudge" "Sam Weller" 1
+"1058" "Jonas Mudge" "Samuel Pickwick" 1
+"1059" "Jonas Mudge" "Thomas Burton" 1
+"1060" "Jonas Mudge" "Tom Wildspark" 1
+"1061" "Jonas Mudge" "Tony Weller" 1
+"1062" "Kate" "Maria Lobbs" 1
+"1063" "Kate" "Mr Trundle" 1
+"1064" "Kate" "Mr Wardle" 1
+"1065" "Kate" "Nathaniel Pipkin" 1
+"1066" "Kate" "Nathaniel Winkle" 1
+"1067" "Kate" "Old Lobbs" 1
+"1068" "Kate" "Sam Weller" 1
+"1069" "Kate" "Samuel Pickwick" 1
+"1070" "Kate" "Tony Weller" 1
+"1071" "Lady Clubber" "Lieutenant Tappleton" 1
+"1072" "Lady Clubber" "Miss Bulder" 1
+"1073" "Lady Clubber" "Misses Clubber" 1
+"1074" "Lady Clubber" "Misses Smithie" 1
+"1075" "Lady Clubber" "Mr Smithies" 1
+"1076" "Lady Clubber" "Mrs Budger" 1
+"1077" "Lady Clubber" "Mrs Bulder" 1
+"1078" "Lady Clubber" "Mrs Smithe" 1
+"1079" "Lady Clubber" "Mrs Tomlinson" 1
+"1080" "Lady Clubber" "Nathaniel Winkle" 1
+"1081" "Lady Clubber" "Sam" 1
+"1082" "Lady Clubber" "Samuel Pickwick" 1
+"1083" "Lady Clubber" "Thomas Clubber" 1
+"1084" "Lady Clubber" "Tommy" 1
+"1085" "Lady Clubber" "Tracy Tupman" 1
+"1086" "Lieutenant Tappleton" "Miss Bulder" 1
+"1087" "Lieutenant Tappleton" "Misses Clubber" 1
+"1088" "Lieutenant Tappleton" "Misses Smithie" 1
+"1089" "Lieutenant Tappleton" "Mr Smithies" 1
+"1090" "Lieutenant Tappleton" "Mrs Budger" 1
+"1091" "Lieutenant Tappleton" "Mrs Bulder" 1
+"1092" "Lieutenant Tappleton" "Mrs Smithe" 1
+"1093" "Lieutenant Tappleton" "Mrs Tomlinson" 1
+"1094" "Lieutenant Tappleton" "Nathaniel Winkle" 2
+"1095" "Lieutenant Tappleton" "Sam" 1
+"1096" "Lieutenant Tappleton" "Samuel Pickwick" 2
+"1097" "Lieutenant Tappleton" "Thomas Clubber" 1
+"1098" "Lieutenant Tappleton" "Tommy" 1
+"1099" "Lieutenant Tappleton" "Tracy Tupman" 2
+"1100" "Lord Mutanhed" "Lud Hudibaras" 1
+"1101" "Lord Mutanhed" "Miss Bolo" 1
+"1102" "Lord Mutanhed" "Misses Matinter" 1
+"1103" "Lord Mutanhed" "Mr Crawley" 1
+"1104" "Lord Mutanhed" "Mr Crushton" 2
+"1105" "Lord Mutanhed" "Mr Dowler" 2
+"1106" "Lord Mutanhed" "Mr Perker" 1
+"1107" "Lord Mutanhed" "Mrs Craddock" 1
+"1108" "Lord Mutanhed" "Mrs Dowler" 2
+"1109" "Lord Mutanhed" "Mrs Wugsby" 2
+"1110" "Lord Mutanhed" "Nathaniel Winkle" 2
+"1111" "Lord Mutanhed" "Prince Bladud" 1
+"1112" "Lord Mutanhed" "Sam Weller" 1
+"1113" "Lord Mutanhed" "Samuel Pickwick" 2
+"1114" "Lord Mutanhed" "Tony Weller" 2
+"1115" "Lord Mutanhed" "Tracy Tupman" 1
+"1116" "Lud Hudibaras" "Mr Crushton" 1
+"1117" "Lud Hudibaras" "Mr Dowler" 1
+"1118" "Lud Hudibaras" "Mrs Craddock" 1
+"1119" "Lud Hudibaras" "Mrs Dowler" 1
+"1120" "Lud Hudibaras" "Mrs Wugsby" 1
+"1121" "Lud Hudibaras" "Nathaniel Winkle" 1
+"1122" "Lud Hudibaras" "Prince Bladud" 1
+"1123" "Lud Hudibaras" "Samuel Pickwick" 1
+"1124" "Lud Hudibaras" "Tony Weller" 1
+"1125" "Maria Lobbs" "Mr Trundle" 1
+"1126" "Maria Lobbs" "Mr Wardle" 1
+"1127" "Maria Lobbs" "Nathaniel Pipkin" 1
+"1128" "Maria Lobbs" "Nathaniel Winkle" 1
+"1129" "Maria Lobbs" "Old Lobbs" 1
+"1130" "Maria Lobbs" "Sam Weller" 1
+"1131" "Maria Lobbs" "Samuel Pickwick" 1
+"1132" "Maria Lobbs" "Tony Weller" 1
+"1133" "Marquess of Filletoville" "Tom Smart" 1
+"1134" "Martha Bardell" "Mary" 4
+"1135" "Martha Bardell" "Miss Smithers" 1
+"1136" "Martha Bardell" "Mr Grundy" 1
+"1137" "Martha Bardell" "Mr Lowten" 4
+"1138" "Martha Bardell" "Mr Mallard" 2
+"1139" "Martha Bardell" "Mr Mivins" 1
+"1140" "Martha Bardell" "Mr Nupkins" 1
+"1141" "Martha Bardell" "Mr Perker" 9
+"1142" "Martha Bardell" "Mr Phunky" 2
+"1143" "Martha Bardell" "Mr Pott" 1
+"1144" "Martha Bardell" "Mr Raddle" 1
+"1145" "Martha Bardell" "Mr Skimpin" 1
+"1146" "Martha Bardell" "Mr Smangle" 1
+"1147" "Martha Bardell" "Mr Snicks" 1
+"1148" "Martha Bardell" "Mr Stareleigh" 1
+"1149" "Martha Bardell" "Mr Stiggins" 2
+"1150" "Martha Bardell" "Mr Trundle" 2
+"1151" "Martha Bardell" "Mr Wardle" 2
+"1152" "Martha Bardell" "Mr Watty" 1
+"1153" "Martha Bardell" "Mr Wicks" 1
+"1154" "Martha Bardell" "Mrs Bunkin" 1
+"1155" "Martha Bardell" "Mrs Cluppins" 3
+"1156" "Martha Bardell" "Mrs Mudberry" 1
+"1157" "Martha Bardell" "Mrs Pott" 1
+"1158" "Martha Bardell" "Mrs Raddle" 1
+"1159" "Martha Bardell" "Mrs Rogers" 1
+"1160" "Martha Bardell" "Mrs Sanders" 3
+"1161" "Martha Bardell" "Mrs Wardle" 4
+"1162" "Martha Bardell" "Mrs Weller" 1
+"1163" "Martha Bardell" "Nathaniel Winkle" 7
+"1164" "Martha Bardell" "Rachael Wardle" 1
+"1165" "Martha Bardell" "Richard Upwitch" 1
+"1166" "Martha Bardell" "Sam Weller" 12
+"1167" "Martha Bardell" "Samuel Pickwick" 12
+"1168" "Martha Bardell" "Serjeant Buzfuz" 1
+"1169" "Martha Bardell" "Serjeant Snubbin" 2
+"1170" "Martha Bardell" "Sir Geoffrey Manning" 1
+"1171" "Martha Bardell" "Solomon Pell" 1
+"1172" "Martha Bardell" "Thomas Burton" 1
+"1173" "Martha Bardell" "Thomas Groffin" 1
+"1174" "Martha Bardell" "Tom Bardell" 4
+"1175" "Martha Bardell" "Tom Cripps" 1
+"1176" "Martha Bardell" "Tom Roker" 1
+"1177" "Martha Bardell" "Tom Smart" 1
+"1178" "Martha Bardell" "Tom Wildspark" 1
+"1179" "Martha Bardell" "Tony Weller" 11
+"1180" "Martha Bardell" "Tracy Tupman" 7
+"1181" "Mary" "Miss Nupkins" 1
+"1182" "Mary" "Mr Dowler" 1
+"1183" "Mary" "Mr Jinkins" 1
+"1184" "Mary" "Mr Jinks" 1
+"1185" "Mary" "Mr Lowten" 3
+"1186" "Mary" "Mr Mivins" 1
+"1187" "Mary" "Mr Nupkins" 3
+"1188" "Mary" "Mr Perker" 5
+"1189" "Mary" "Mr Porkenham" 1
+"1190" "Mary" "Mr Pott" 1
+"1191" "Mary" "Mr Raddle" 1
+"1192" "Mary" "Mr Smangle" 1
+"1193" "Mary" "Mr Snicks" 1
+"1194" "Mary" "Mr Stiggins" 2
+"1195" "Mary" "Mr Trundle" 2
+"1196" "Mary" "Mr Wardle" 3
+"1197" "Mary" "Mrs Cluppins" 1
+"1198" "Mary" "Mrs Nupkins" 1
+"1199" "Mary" "Mrs Porkenham" 1
+"1200" "Mary" "Mrs Pott" 1
+"1201" "Mary" "Mrs Raddle" 1
+"1202" "Mary" "Mrs Rogers" 1
+"1203" "Mary" "Mrs Sanders" 1
+"1204" "Mary" "Mrs Wardle" 1
+"1205" "Mary" "Mrs Weller" 1
+"1206" "Mary" "Muzzle" 2
+"1207" "Mary" "Nathaniel Winkle" 8
+"1208" "Mary" "Pruffle" 1
+"1209" "Mary" "Sam Weller" 9
+"1210" "Mary" "Samuel Pickwick" 13
+"1211" "Mary" "Solomon Pell" 1
+"1212" "Mary" "Thomas Burton" 1
+"1213" "Mary" "Tom Bardell" 1
+"1214" "Mary" "Tom Roker" 1
+"1215" "Mary" "Tom Smart" 1
+"1216" "Mary" "Tom Wildspark" 1
+"1217" "Mary" "Tony Weller" 10
+"1218" "Mary" "Tracy Tupman" 5
+"1219" "Miss Bolo" "Misses Matinter" 1
+"1220" "Miss Bolo" "Mr Crawley" 1
+"1221" "Miss Bolo" "Mr Crushton" 1
+"1222" "Miss Bolo" "Mr Dowler" 1
+"1223" "Miss Bolo" "Mr Perker" 1
+"1224" "Miss Bolo" "Mrs Dowler" 1
+"1225" "Miss Bolo" "Mrs Wugsby" 1
+"1226" "Miss Bolo" "Nathaniel Winkle" 1
+"1227" "Miss Bolo" "Sam Weller" 1
+"1228" "Miss Bolo" "Samuel Pickwick" 1
+"1229" "Miss Bolo" "Tony Weller" 1
+"1230" "Miss Bolo" "Tracy Tupman" 1
+"1231" "Miss Bulder" "Misses Clubber" 1
+"1232" "Miss Bulder" "Misses Smithie" 1
+"1233" "Miss Bulder" "Mr Smithies" 1
+"1234" "Miss Bulder" "Mrs Budger" 1
+"1235" "Miss Bulder" "Mrs Bulder" 1
+"1236" "Miss Bulder" "Mrs Smithe" 1
+"1237" "Miss Bulder" "Mrs Tomlinson" 1
+"1238" "Miss Bulder" "Nathaniel Winkle" 1
+"1239" "Miss Bulder" "Sam" 1
+"1240" "Miss Bulder" "Samuel Pickwick" 1
+"1241" "Miss Bulder" "Thomas Clubber" 1
+"1242" "Miss Bulder" "Tommy" 1
+"1243" "Miss Bulder" "Tracy Tupman" 1
+"1244" "Miss Gwynn" "Miss Smithers" 1
+"1245" "Miss Gwynn" "Miss Tomkins" 1
+"1246" "Miss Gwynn" "Mr Trundle" 1
+"1247" "Miss Gwynn" "Mr Wardle" 1
+"1248" "Miss Gwynn" "Mrs Wardle" 1
+"1249" "Miss Gwynn" "Sam Weller" 1
+"1250" "Miss Gwynn" "Samuel Pickwick" 1
+"1251" "Miss Gwynn" "Tony Weller" 1
+"1252" "Miss Nupkins" "Mr Jinks" 1
+"1253" "Miss Nupkins" "Mr Nupkins" 1
+"1254" "Miss Nupkins" "Mr Porkenham" 1
+"1255" "Miss Nupkins" "Mrs Nupkins" 1
+"1256" "Miss Nupkins" "Mrs Porkenham" 1
+"1257" "Miss Nupkins" "Muzzle" 1
+"1258" "Miss Nupkins" "Nathaniel Winkle" 1
+"1259" "Miss Nupkins" "Sam Weller" 1
+"1260" "Miss Nupkins" "Samuel Pickwick" 1
+"1261" "Miss Nupkins" "Tony Weller" 1
+"1262" "Miss Nupkins" "Tracy Tupman" 1
+"1263" "Miss Smithers" "Miss Tomkins" 1
+"1264" "Miss Smithers" "Mr Grundy" 1
+"1265" "Miss Smithers" "Mr Lowten" 1
+"1266" "Miss Smithers" "Mr Perker" 1
+"1267" "Miss Smithers" "Mr Trundle" 1
+"1268" "Miss Smithers" "Mr Wardle" 1
+"1269" "Miss Smithers" "Mr Wicks" 1
+"1270" "Miss Smithers" "Mrs Wardle" 1
+"1271" "Miss Smithers" "Sam Weller" 2
+"1272" "Miss Smithers" "Samuel Pickwick" 2
+"1273" "Miss Smithers" "Tony Weller" 2
+"1274" "Miss Tomkins" "Mr Trundle" 1
+"1275" "Miss Tomkins" "Mr Wardle" 1
+"1276" "Miss Tomkins" "Mrs Wardle" 1
+"1277" "Miss Tomkins" "Sam Weller" 1
+"1278" "Miss Tomkins" "Samuel Pickwick" 1
+"1279" "Miss Tomkins" "Tony Weller" 1
+"1280" "Miss Witherfield" "Mr Jinks" 1
+"1281" "Miss Witherfield" "Mr Nupkins" 1
+"1282" "Miss Witherfield" "Muzzle" 1
+"1283" "Miss Witherfield" "Nathaniel Winkle" 1
+"1284" "Miss Witherfield" "Peter Magnus" 1
+"1285" "Miss Witherfield" "Sam Weller" 1
+"1286" "Miss Witherfield" "Samuel Pickwick" 1
+"1287" "Miss Witherfield" "Tony Weller" 1
+"1288" "Miss Witherfield" "Tracy Tupman" 1
+"1289" "Misses Clubber" "Misses Smithie" 1
+"1290" "Misses Clubber" "Mr Smithies" 1
+"1291" "Misses Clubber" "Mrs Budger" 1
+"1292" "Misses Clubber" "Mrs Bulder" 1
+"1293" "Misses Clubber" "Mrs Smithe" 1
+"1294" "Misses Clubber" "Mrs Tomlinson" 1
+"1295" "Misses Clubber" "Nathaniel Winkle" 1
+"1296" "Misses Clubber" "Sam" 1
+"1297" "Misses Clubber" "Samuel Pickwick" 1
+"1298" "Misses Clubber" "Thomas Clubber" 1
+"1299" "Misses Clubber" "Tommy" 1
+"1300" "Misses Clubber" "Tracy Tupman" 1
+"1301" "Misses Matinter" "Mr Crawley" 1
+"1302" "Misses Matinter" "Mr Crushton" 1
+"1303" "Misses Matinter" "Mr Dowler" 1
+"1304" "Misses Matinter" "Mr Perker" 1
+"1305" "Misses Matinter" "Mrs Dowler" 1
+"1306" "Misses Matinter" "Mrs Wugsby" 1
+"1307" "Misses Matinter" "Nathaniel Winkle" 1
+"1308" "Misses Matinter" "Sam Weller" 1
+"1309" "Misses Matinter" "Samuel Pickwick" 1
+"1310" "Misses Matinter" "Tony Weller" 1
+"1311" "Misses Matinter" "Tracy Tupman" 1
+"1312" "Misses Smithie" "Mr Smithies" 1
+"1313" "Misses Smithie" "Mrs Budger" 1
+"1314" "Misses Smithie" "Mrs Bulder" 1
+"1315" "Misses Smithie" "Mrs Smithe" 1
+"1316" "Misses Smithie" "Mrs Tomlinson" 1
+"1317" "Misses Smithie" "Nathaniel Winkle" 1
+"1318" "Misses Smithie" "Sam" 1
+"1319" "Misses Smithie" "Samuel Pickwick" 1
+"1320" "Misses Smithie" "Thomas Clubber" 1
+"1321" "Misses Smithie" "Tommy" 1
+"1322" "Misses Smithie" "Tracy Tupman" 1
+"1323" "Mr Ayresleigh" "Mr Lowten" 1
+"1324" "Mr Ayresleigh" "Mr Namby" 1
+"1325" "Mr Ayresleigh" "Mr Perker" 1
+"1326" "Mr Ayresleigh" "Mr Price" 1
+"1327" "Mr Ayresleigh" "Mr Smouch" 1
+"1328" "Mr Ayresleigh" "Sam Weller" 1
+"1329" "Mr Ayresleigh" "Samuel Pickwick" 1
+"1330" "Mr Ayresleigh" "Tony Weller" 1
+"1331" "Mr Blotton" "Mr Perker" 1
+"1332" "Mr Blotton" "Mr Trundle" 1
+"1333" "Mr Blotton" "Mr Wardle" 1
+"1334" "Mr Blotton" "Mrs Wardle" 1
+"1335" "Mr Blotton" "Nathaniel Winkle" 1
+"1336" "Mr Blotton" "Samuel Pickwick" 1
+"1337" "Mr Blotton" "Tracy Tupman" 1
+"1338" "Mr Crawley" "Mr Crushton" 1
+"1339" "Mr Crawley" "Mr Dowler" 1
+"1340" "Mr Crawley" "Mr Perker" 1
+"1341" "Mr Crawley" "Mrs Dowler" 1
+"1342" "Mr Crawley" "Mrs Wugsby" 1
+"1343" "Mr Crawley" "Nathaniel Winkle" 1
+"1344" "Mr Crawley" "Sam Weller" 1
+"1345" "Mr Crawley" "Samuel Pickwick" 1
+"1346" "Mr Crawley" "Tony Weller" 1
+"1347" "Mr Crawley" "Tracy Tupman" 1
+"1348" "Mr Crushton" "Mr Dowler" 2
+"1349" "Mr Crushton" "Mr Perker" 1
+"1350" "Mr Crushton" "Mrs Craddock" 1
+"1351" "Mr Crushton" "Mrs Dowler" 2
+"1352" "Mr Crushton" "Mrs Wugsby" 2
+"1353" "Mr Crushton" "Nathaniel Winkle" 2
+"1354" "Mr Crushton" "Prince Bladud" 1
+"1355" "Mr Crushton" "Sam Weller" 1
+"1356" "Mr Crushton" "Samuel Pickwick" 2
+"1357" "Mr Crushton" "Tony Weller" 2
+"1358" "Mr Crushton" "Tracy Tupman" 1
+"1359" "Mr Dowler" "Mr Nupkins" 1
+"1360" "Mr Dowler" "Mr Perker" 1
+"1361" "Mr Dowler" "Mr Tuckle" 1
+"1362" "Mr Dowler" "Mr Whiffers" 1
+"1363" "Mr Dowler" "Mrs Craddock" 2
+"1364" "Mr Dowler" "Mrs Dowler" 3
+"1365" "Mr Dowler" "Mrs Wugsby" 2
+"1366" "Mr Dowler" "Muzzle" 1
+"1367" "Mr Dowler" "Nathaniel Winkle" 5
+"1368" "Mr Dowler" "Prince Bladud" 1
+"1369" "Mr Dowler" "Pruffle" 1
+"1370" "Mr Dowler" "Sam Weller" 4
+"1371" "Mr Dowler" "Samuel Pickwick" 5
+"1372" "Mr Dowler" "Tom Cripps" 1
+"1373" "Mr Dowler" "Tony Weller" 5
+"1374" "Mr Dowler" "Tracy Tupman" 1
+"1375" "Mr Dumkins" "Mr Luffey" 1
+"1376" "Mr Dumkins" "Mr Podder" 1
+"1377" "Mr Dumkins" "Mr Staple" 1
+"1378" "Mr Dumkins" "Mr Struggles" 1
+"1379" "Mr Dumkins" "Mr Wardle" 1
+"1380" "Mr Dumkins" "Nathaniel Winkle" 1
+"1381" "Mr Dumkins" "Quanko Samba" 1
+"1382" "Mr Dumkins" "Rachael Wardle" 1
+"1383" "Mr Dumkins" "Samuel Pickwick" 1
+"1384" "Mr Dumkins" "Tracy Tupman" 1
+"1385" "Mr Grundy" "Mr Lowten" 1
+"1386" "Mr Grundy" "Mr Perker" 1
+"1387" "Mr Grundy" "Mr Wicks" 1
+"1388" "Mr Grundy" "Sam Weller" 1
+"1389" "Mr Grundy" "Samuel Pickwick" 1
+"1390" "Mr Grundy" "Tony Weller" 1
+"1391" "Mr Gunter" "Mr Noddy" 1
+"1392" "Mr Gunter" "Mr Raddle" 1
+"1393" "Mr Gunter" "Mr Slasher" 1
+"1394" "Mr Gunter" "Mrs Raddle" 1
+"1395" "Mr Gunter" "Nathaniel Winkle" 1
+"1396" "Mr Gunter" "Samuel Pickwick" 1
+"1397" "Mr Gunter" "Tracy Tupman" 1
+"1398" "Mr Hunter" "Mr Pott" 1
+"1399" "Mr Hunter" "Mrs Hunter" 1
+"1400" "Mr Hunter" "Mrs Pott" 1
+"1401" "Mr Hunter" "Nathaniel Winkle" 1
+"1402" "Mr Hunter" "Sam Weller" 1
+"1403" "Mr Hunter" "Samuel Pickwick" 1
+"1404" "Mr Hunter" "Sololomon Lucas" 1
+"1405" "Mr Hunter" "Tony Weller" 1
+"1406" "Mr Hunter" "Tracy Tupman" 1
+"1407" "Mr Jinkins" "Mr Pott" 1
+"1408" "Mr Jinkins" "Mrs Pott" 1
+"1409" "Mr Jinkins" "Nathaniel Winkle" 1
+"1410" "Mr Jinkins" "Samuel Pickwick" 1
+"1411" "Mr Jinkins" "Tom Smart" 1
+"1412" "Mr Jinkins" "Tony Weller" 1
+"1413" "Mr Jinkins" "Tracy Tupman" 1
+"1414" "Mr Jinks" "Mr Nupkins" 2
+"1415" "Mr Jinks" "Mr Porkenham" 1
+"1416" "Mr Jinks" "Mrs Nupkins" 1
+"1417" "Mr Jinks" "Mrs Porkenham" 1
+"1418" "Mr Jinks" "Muzzle" 2
+"1419" "Mr Jinks" "Nathaniel Winkle" 2
+"1420" "Mr Jinks" "Peter Magnus" 1
+"1421" "Mr Jinks" "Sam Weller" 2
+"1422" "Mr Jinks" "Samuel Pickwick" 2
+"1423" "Mr Jinks" "Tony Weller" 2
+"1424" "Mr Jinks" "Tracy Tupman" 2
+"1425" "Mr Lowten" "Mr Mallard" 2
+"1426" "Mr Lowten" "Mr Namby" 1
+"1427" "Mr Lowten" "Mr Perker" 7
+"1428" "Mr Lowten" "Mr Phunky" 2
+"1429" "Mr Lowten" "Mr Price" 1
+"1430" "Mr Lowten" "Mr Skimpin" 1
+"1431" "Mr Lowten" "Mr Smouch" 1
+"1432" "Mr Lowten" "Mr Snicks" 1
+"1433" "Mr Lowten" "Mr Stareleigh" 1
+"1434" "Mr Lowten" "Mr Trundle" 1
+"1435" "Mr Lowten" "Mr Wardle" 1
+"1436" "Mr Lowten" "Mr Watty" 1
+"1437" "Mr Lowten" "Mr Wicks" 1
+"1438" "Mr Lowten" "Mrs Bunkin" 1
+"1439" "Mr Lowten" "Mrs Cluppins" 1
+"1440" "Mr Lowten" "Mrs Mudberry" 1
+"1441" "Mr Lowten" "Mrs Sanders" 1
+"1442" "Mr Lowten" "Mrs Wardle" 1
+"1443" "Mr Lowten" "Nathaniel Winkle" 5
+"1444" "Mr Lowten" "Richard Upwitch" 1
+"1445" "Mr Lowten" "Sam Weller" 5
+"1446" "Mr Lowten" "Samuel Pickwick" 8
+"1447" "Mr Lowten" "Serjeant Buzfuz" 1
+"1448" "Mr Lowten" "Serjeant Snubbin" 2
+"1449" "Mr Lowten" "Sir Thomas Blazo" 1
+"1450" "Mr Lowten" "Solomon Pell" 1
+"1451" "Mr Lowten" "Thomas Groffin" 1
+"1452" "Mr Lowten" "Tom Bardell" 1
+"1453" "Mr Lowten" "Tony Weller" 6
+"1454" "Mr Lowten" "Tracy Tupman" 3
+"1455" "Mr Luffey" "Mr Podder" 1
+"1456" "Mr Luffey" "Mr Staple" 1
+"1457" "Mr Luffey" "Mr Struggles" 1
+"1458" "Mr Luffey" "Mr Wardle" 1
+"1459" "Mr Luffey" "Nathaniel Winkle" 1
+"1460" "Mr Luffey" "Quanko Samba" 1
+"1461" "Mr Luffey" "Rachael Wardle" 1
+"1462" "Mr Luffey" "Samuel Pickwick" 1
+"1463" "Mr Luffey" "Tracy Tupman" 1
+"1464" "Mr Mallard" "Mr Perker" 2
+"1465" "Mr Mallard" "Mr Phunky" 2
+"1466" "Mr Mallard" "Mr Skimpin" 1
+"1467" "Mr Mallard" "Mr Stareleigh" 1
+"1468" "Mr Mallard" "Mr Watty" 1
+"1469" "Mr Mallard" "Mrs Bunkin" 1
+"1470" "Mr Mallard" "Mrs Cluppins" 1
+"1471" "Mr Mallard" "Mrs Mudberry" 1
+"1472" "Mr Mallard" "Mrs Sanders" 1
+"1473" "Mr Mallard" "Mrs Wardle" 1
+"1474" "Mr Mallard" "Nathaniel Winkle" 2
+"1475" "Mr Mallard" "Richard Upwitch" 1
+"1476" "Mr Mallard" "Sam Weller" 2
+"1477" "Mr Mallard" "Samuel Pickwick" 2
+"1478" "Mr Mallard" "Serjeant Buzfuz" 1
+"1479" "Mr Mallard" "Serjeant Snubbin" 2
+"1480" "Mr Mallard" "Thomas Groffin" 1
+"1481" "Mr Mallard" "Tom Bardell" 1
+"1482" "Mr Mallard" "Tony Weller" 2
+"1483" "Mr Mallard" "Tracy Tupman" 2
+"1484" "Mr Miller" "Mr Trundle" 1
+"1485" "Mr Miller" "Mr Wardle" 1
+"1486" "Mr Miller" "Mrs Wardle" 1
+"1487" "Mr Miller" "Nathaniel Winkle" 1
+"1488" "Mr Miller" "Samuel Pickwick" 1
+"1489" "Mr Miller" "Tracy Tupman" 1
+"1490" "Mr Mivins" "Mr Perker" 1
+"1491" "Mr Mivins" "Mr Simpson" 1
+"1492" "Mr Mivins" "Mr Smangle" 4
+"1493" "Mr Mivins" "Mr Stiggins" 1
+"1494" "Mr Mivins" "Mrs Weller" 1
+"1495" "Mr Mivins" "Nathaniel Winkle" 1
+"1496" "Mr Mivins" "Neddy" 2
+"1497" "Mr Mivins" "Sam Weller" 4
+"1498" "Mr Mivins" "Samuel Pickwick" 4
+"1499" "Mr Mivins" "Tom Martin" 1
+"1500" "Mr Mivins" "Tom Roker" 4
+"1501" "Mr Mivins" "Tony Weller" 4
+"1502" "Mr Mivins" "Tracy Tupman" 2
+"1503" "Mr Namby" "Mr Perker" 1
+"1504" "Mr Namby" "Mr Price" 1
+"1505" "Mr Namby" "Mr Smouch" 1
+"1506" "Mr Namby" "Sam Weller" 1
+"1507" "Mr Namby" "Samuel Pickwick" 1
+"1508" "Mr Namby" "Tony Weller" 1
+"1509" "Mr Noddy" "Mr Raddle" 1
+"1510" "Mr Noddy" "Mr Slasher" 1
+"1511" "Mr Noddy" "Mrs Raddle" 1
+"1512" "Mr Noddy" "Nathaniel Winkle" 1
+"1513" "Mr Noddy" "Samuel Pickwick" 1
+"1514" "Mr Noddy" "Tracy Tupman" 1
+"1515" "Mr Nupkins" "Mr Perker" 1
+"1516" "Mr Nupkins" "Mr Porkenham" 1
+"1517" "Mr Nupkins" "Mr Stiggins" 1
+"1518" "Mr Nupkins" "Mrs Nupkins" 1
+"1519" "Mr Nupkins" "Mrs Porkenham" 1
+"1520" "Mr Nupkins" "Muzzle" 3
+"1521" "Mr Nupkins" "Nathaniel Winkle" 3
+"1522" "Mr Nupkins" "Peter Magnus" 1
+"1523" "Mr Nupkins" "Pruffle" 1
+"1524" "Mr Nupkins" "Sam Weller" 4
+"1525" "Mr Nupkins" "Samuel Pickwick" 4
+"1526" "Mr Nupkins" "Thomas Burton" 1
+"1527" "Mr Nupkins" "Tom Wildspark" 1
+"1528" "Mr Nupkins" "Tony Weller" 4
+"1529" "Mr Nupkins" "Tracy Tupman" 2
+"1530" "Mr Perker" "Mr Phunky" 2
+"1531" "Mr Perker" "Mr Pott" 1
+"1532" "Mr Perker" "Mr Price" 1
+"1533" "Mr Perker" "Mr Raddle" 1
+"1534" "Mr Perker" "Mr Skimpin" 1
+"1535" "Mr Perker" "Mr Smangle" 1
+"1536" "Mr Perker" "Mr Smouch" 1
+"1537" "Mr Perker" "Mr Snicks" 1
+"1538" "Mr Perker" "Mr Stareleigh" 1
+"1539" "Mr Perker" "Mr Stiggins" 2
+"1540" "Mr Perker" "Mr Trundle" 3
+"1541" "Mr Perker" "Mr Wardle" 4
+"1542" "Mr Perker" "Mr Watty" 1
+"1543" "Mr Perker" "Mr Wicks" 1
+"1544" "Mr Perker" "Mrs Bunkin" 1
+"1545" "Mr Perker" "Mrs Cluppins" 3
+"1546" "Mr Perker" "Mrs Dowler" 1
+"1547" "Mr Perker" "Mrs Mudberry" 1
+"1548" "Mr Perker" "Mrs Pott" 1
+"1549" "Mr Perker" "Mrs Raddle" 1
+"1550" "Mr Perker" "Mrs Rogers" 1
+"1551" "Mr Perker" "Mrs Sanders" 3
+"1552" "Mr Perker" "Mrs Wardle" 4
+"1553" "Mr Perker" "Mrs Weller" 2
+"1554" "Mr Perker" "Mrs Wugsby" 1
+"1555" "Mr Perker" "Nathaniel Winkle" 9
+"1556" "Mr Perker" "Rachael Wardle" 1
+"1557" "Mr Perker" "Richard Upwitch" 1
+"1558" "Mr Perker" "Sam Weller" 13
+"1559" "Mr Perker" "Samuel Pickwick" 16
+"1560" "Mr Perker" "Serjeant Buzfuz" 1
+"1561" "Mr Perker" "Serjeant Snubbin" 2
+"1562" "Mr Perker" "Sir Thomas Blazo" 1
+"1563" "Mr Perker" "Solomon Pell" 1
+"1564" "Mr Perker" "Thomas Burton" 1
+"1565" "Mr Perker" "Thomas Groffin" 1
+"1566" "Mr Perker" "Tom Bardell" 3
+"1567" "Mr Perker" "Tom Roker" 1
+"1568" "Mr Perker" "Tom Wildspark" 1
+"1569" "Mr Perker" "Tony Weller" 12
+"1570" "Mr Perker" "Tracy Tupman" 8
+"1571" "Mr Phunky" "Mr Skimpin" 1
+"1572" "Mr Phunky" "Mr Stareleigh" 1
+"1573" "Mr Phunky" "Mr Watty" 1
+"1574" "Mr Phunky" "Mrs Bunkin" 1
+"1575" "Mr Phunky" "Mrs Cluppins" 1
+"1576" "Mr Phunky" "Mrs Mudberry" 1
+"1577" "Mr Phunky" "Mrs Sanders" 1
+"1578" "Mr Phunky" "Mrs Wardle" 1
+"1579" "Mr Phunky" "Nathaniel Winkle" 2
+"1580" "Mr Phunky" "Richard Upwitch" 1
+"1581" "Mr Phunky" "Sam Weller" 2
+"1582" "Mr Phunky" "Samuel Pickwick" 2
+"1583" "Mr Phunky" "Serjeant Buzfuz" 1
+"1584" "Mr Phunky" "Serjeant Snubbin" 2
+"1585" "Mr Phunky" "Thomas Groffin" 1
+"1586" "Mr Phunky" "Tom Bardell" 1
+"1587" "Mr Phunky" "Tony Weller" 2
+"1588" "Mr Phunky" "Tracy Tupman" 2
+"1589" "Mr Podder" "Mr Staple" 1
+"1590" "Mr Podder" "Mr Struggles" 1
+"1591" "Mr Podder" "Mr Wardle" 1
+"1592" "Mr Podder" "Nathaniel Winkle" 1
+"1593" "Mr Podder" "Quanko Samba" 1
+"1594" "Mr Podder" "Rachael Wardle" 1
+"1595" "Mr Podder" "Samuel Pickwick" 1
+"1596" "Mr Podder" "Tracy Tupman" 1
+"1597" "Mr Porkenham" "Mrs Nupkins" 1
+"1598" "Mr Porkenham" "Mrs Porkenham" 1
+"1599" "Mr Porkenham" "Muzzle" 1
+"1600" "Mr Porkenham" "Nathaniel Winkle" 1
+"1601" "Mr Porkenham" "Sam Weller" 1
+"1602" "Mr Porkenham" "Samuel Pickwick" 1
+"1603" "Mr Porkenham" "Tony Weller" 1
+"1604" "Mr Porkenham" "Tracy Tupman" 1
+"1605" "Mr Pott" "Mr Trundle" 1
+"1606" "Mr Pott" "Mr Wardle" 1
+"1607" "Mr Pott" "Mrs Hunter" 1
+"1608" "Mr Pott" "Mrs Pott" 5
+"1609" "Mr Pott" "Nathaniel Winkle" 5
+"1610" "Mr Pott" "Rachael Wardle" 1
+"1611" "Mr Pott" "Sam Weller" 4
+"1612" "Mr Pott" "Samuel Pickwick" 5
+"1613" "Mr Pott" "Sir Geoffrey Manning" 1
+"1614" "Mr Pott" "Sololomon Lucas" 1
+"1615" "Mr Pott" "Tom Smart" 1
+"1616" "Mr Pott" "Tony Weller" 5
+"1617" "Mr Pott" "Tracy Tupman" 4
+"1618" "Mr Price" "Mr Smouch" 1
+"1619" "Mr Price" "Sam Weller" 1
+"1620" "Mr Price" "Samuel Pickwick" 1
+"1621" "Mr Price" "Tony Weller" 1
+"1622" "Mr Raddle" "Mr Slasher" 1
+"1623" "Mr Raddle" "Mrs Cluppins" 1
+"1624" "Mr Raddle" "Mrs Raddle" 2
+"1625" "Mr Raddle" "Mrs Rogers" 1
+"1626" "Mr Raddle" "Mrs Sanders" 1
+"1627" "Mr Raddle" "Nathaniel Winkle" 1
+"1628" "Mr Raddle" "Sam Weller" 1
+"1629" "Mr Raddle" "Samuel Pickwick" 2
+"1630" "Mr Raddle" "Tom Bardell" 1
+"1631" "Mr Raddle" "Tracy Tupman" 1
+"1632" "Mr Simpson" "Mr Smangle" 1
+"1633" "Mr Simpson" "Neddy" 1
+"1634" "Mr Simpson" "Sam Weller" 1
+"1635" "Mr Simpson" "Samuel Pickwick" 1
+"1636" "Mr Simpson" "Tom Martin" 1
+"1637" "Mr Simpson" "Tom Roker" 1
+"1638" "Mr Simpson" "Tony Weller" 1
+"1639" "Mr Simpson" "Tracy Tupman" 1
+"1640" "Mr Skimpin" "Mr Stareleigh" 1
+"1641" "Mr Skimpin" "Mrs Bunkin" 1
+"1642" "Mr Skimpin" "Mrs Cluppins" 1
+"1643" "Mr Skimpin" "Mrs Mudberry" 1
+"1644" "Mr Skimpin" "Mrs Sanders" 1
+"1645" "Mr Skimpin" "Mrs Wardle" 1
+"1646" "Mr Skimpin" "Nathaniel Winkle" 1
+"1647" "Mr Skimpin" "Richard Upwitch" 1
+"1648" "Mr Skimpin" "Sam Weller" 1
+"1649" "Mr Skimpin" "Samuel Pickwick" 1
+"1650" "Mr Skimpin" "Serjeant Buzfuz" 1
+"1651" "Mr Skimpin" "Serjeant Snubbin" 1
+"1652" "Mr Skimpin" "Thomas Groffin" 1
+"1653" "Mr Skimpin" "Tom Bardell" 1
+"1654" "Mr Skimpin" "Tony Weller" 1
+"1655" "Mr Skimpin" "Tracy Tupman" 1
+"1656" "Mr Slasher" "Mrs Raddle" 1
+"1657" "Mr Slasher" "Nathaniel Winkle" 1
+"1658" "Mr Slasher" "Samuel Pickwick" 1
+"1659" "Mr Slasher" "Tracy Tupman" 1
+"1660" "Mr Smangle" "Mr Stiggins" 1
+"1661" "Mr Smangle" "Mrs Weller" 1
+"1662" "Mr Smangle" "Nathaniel Winkle" 1
+"1663" "Mr Smangle" "Neddy" 2
+"1664" "Mr Smangle" "Sam Weller" 4
+"1665" "Mr Smangle" "Samuel Pickwick" 4
+"1666" "Mr Smangle" "Tom Martin" 1
+"1667" "Mr Smangle" "Tom Roker" 4
+"1668" "Mr Smangle" "Tony Weller" 4
+"1669" "Mr Smangle" "Tracy Tupman" 2
+"1670" "Mr Smithies" "Mrs Budger" 1
+"1671" "Mr Smithies" "Mrs Bulder" 1
+"1672" "Mr Smithies" "Mrs Smithe" 1
+"1673" "Mr Smithies" "Mrs Tomlinson" 1
+"1674" "Mr Smithies" "Nathaniel Winkle" 1
+"1675" "Mr Smithies" "Sam" 1
+"1676" "Mr Smithies" "Samuel Pickwick" 1
+"1677" "Mr Smithies" "Thomas Clubber" 1
+"1678" "Mr Smithies" "Tommy" 1
+"1679" "Mr Smithies" "Tracy Tupman" 1
+"1680" "Mr Smouch" "Sam Weller" 1
+"1681" "Mr Smouch" "Samuel Pickwick" 1
+"1682" "Mr Smouch" "Tony Weller" 1
+"1683" "Mr Snicks" "Nathaniel Winkle" 1
+"1684" "Mr Snicks" "Sam Weller" 1
+"1685" "Mr Snicks" "Samuel Pickwick" 1
+"1686" "Mr Snicks" "Solomon Pell" 1
+"1687" "Mr Snicks" "Tony Weller" 1
+"1688" "Mr Snicks" "Tracy Tupman" 1
+"1689" "Mr Staple" "Mr Struggles" 1
+"1690" "Mr Staple" "Mr Wardle" 1
+"1691" "Mr Staple" "Nathaniel Winkle" 1
+"1692" "Mr Staple" "Quanko Samba" 1
+"1693" "Mr Staple" "Rachael Wardle" 1
+"1694" "Mr Staple" "Samuel Pickwick" 1
+"1695" "Mr Staple" "Tracy Tupman" 1
+"1696" "Mr Stareleigh" "Mrs Bunkin" 1
+"1697" "Mr Stareleigh" "Mrs Cluppins" 1
+"1698" "Mr Stareleigh" "Mrs Mudberry" 1
+"1699" "Mr Stareleigh" "Mrs Sanders" 1
+"1700" "Mr Stareleigh" "Mrs Wardle" 1
+"1701" "Mr Stareleigh" "Nathaniel Winkle" 1
+"1702" "Mr Stareleigh" "Richard Upwitch" 1
+"1703" "Mr Stareleigh" "Sam Weller" 1
+"1704" "Mr Stareleigh" "Samuel Pickwick" 1
+"1705" "Mr Stareleigh" "Serjeant Buzfuz" 1
+"1706" "Mr Stareleigh" "Serjeant Snubbin" 1
+"1707" "Mr Stareleigh" "Thomas Groffin" 1
+"1708" "Mr Stareleigh" "Tom Bardell" 1
+"1709" "Mr Stareleigh" "Tony Weller" 1
+"1710" "Mr Stareleigh" "Tracy Tupman" 1
+"1711" "Mr Stiggins" "Mrs Weller" 3
+"1712" "Mr Stiggins" "Sam Weller" 4
+"1713" "Mr Stiggins" "Samuel Pickwick" 4
+"1714" "Mr Stiggins" "Thomas Burton" 1
+"1715" "Mr Stiggins" "Tom Roker" 1
+"1716" "Mr Stiggins" "Tom Wildspark" 1
+"1717" "Mr Stiggins" "Tony Weller" 4
+"1718" "Mr Struggles" "Mr Wardle" 1
+"1719" "Mr Struggles" "Nathaniel Winkle" 1
+"1720" "Mr Struggles" "Quanko Samba" 1
+"1721" "Mr Struggles" "Rachael Wardle" 1
+"1722" "Mr Struggles" "Samuel Pickwick" 1
+"1723" "Mr Struggles" "Tracy Tupman" 1
+"1724" "Mr Trundle" "Mr Wardle" 12
+"1725" "Mr Trundle" "Mrs Pott" 1
+"1726" "Mr Trundle" "Mrs Wardle" 7
+"1727" "Mr Trundle" "Nathaniel Pipkin" 1
+"1728" "Mr Trundle" "Nathaniel Winkle" 11
+"1729" "Mr Trundle" "Old Lobbs" 1
+"1730" "Mr Trundle" "Rachael Wardle" 3
+"1731" "Mr Trundle" "Sam Weller" 7
+"1732" "Mr Trundle" "Samuel Pickwick" 12
+"1733" "Mr Trundle" "Sir Geoffrey Manning" 2
+"1734" "Mr Trundle" "Tony Weller" 7
+"1735" "Mr Trundle" "Tracy Tupman" 9
+"1736" "Mr Trundle" "Wilkins" 1
+"1737" "Mr Tuckle" "Mr Whiffers" 1
+"1738" "Mr Tuckle" "Mrs Craddock" 1
+"1739" "Mr Tuckle" "Nathaniel Winkle" 1
+"1740" "Mr Tuckle" "Sam Weller" 1
+"1741" "Mr Tuckle" "Samuel Pickwick" 1
+"1742" "Mr Tuckle" "Tony Weller" 1
+"1743" "Mr Wardle" "Mrs Pott" 1
+"1744" "Mr Wardle" "Mrs Wardle" 8
+"1745" "Mr Wardle" "Mrs Weller" 1
+"1746" "Mr Wardle" "Nathaniel Pipkin" 1
+"1747" "Mr Wardle" "Nathaniel Winkle" 13
+"1748" "Mr Wardle" "Old Lobbs" 1
+"1749" "Mr Wardle" "Quanko Samba" 1
+"1750" "Mr Wardle" "Rachael Wardle" 6
+"1751" "Mr Wardle" "Sam Weller" 8
+"1752" "Mr Wardle" "Samuel Pickwick" 16
+"1753" "Mr Wardle" "Sir Geoffrey Manning" 2
+"1754" "Mr Wardle" "Tony Weller" 8
+"1755" "Mr Wardle" "Tracy Tupman" 12
+"1756" "Mr Wardle" "Wilkins" 1
+"1757" "Mr Watty" "Nathaniel Winkle" 1
+"1758" "Mr Watty" "Sam Weller" 1
+"1759" "Mr Watty" "Samuel Pickwick" 1
+"1760" "Mr Watty" "Serjeant Snubbin" 1
+"1761" "Mr Watty" "Tony Weller" 1
+"1762" "Mr Watty" "Tracy Tupman" 1
+"1763" "Mr Whiffers" "Mrs Craddock" 1
+"1764" "Mr Whiffers" "Nathaniel Winkle" 1
+"1765" "Mr Whiffers" "Sam Weller" 1
+"1766" "Mr Whiffers" "Samuel Pickwick" 1
+"1767" "Mr Whiffers" "Tony Weller" 1
+"1768" "Mr Wicks" "Sam Weller" 1
+"1769" "Mr Wicks" "Samuel Pickwick" 1
+"1770" "Mr Wicks" "Tony Weller" 1
+"1771" "Mrs Budger" "Mrs Bulder" 1
+"1772" "Mrs Budger" "Mrs Smithe" 1
+"1773" "Mrs Budger" "Mrs Tomlinson" 1
+"1774" "Mrs Budger" "Nathaniel Winkle" 1
+"1775" "Mrs Budger" "Sam" 1
+"1776" "Mrs Budger" "Samuel Pickwick" 1
+"1777" "Mrs Budger" "Thomas Clubber" 1
+"1778" "Mrs Budger" "Tommy" 1
+"1779" "Mrs Budger" "Tracy Tupman" 1
+"1780" "Mrs Bulder" "Mrs Smithe" 1
+"1781" "Mrs Bulder" "Mrs Tomlinson" 1
+"1782" "Mrs Bulder" "Nathaniel Winkle" 1
+"1783" "Mrs Bulder" "Sam" 1
+"1784" "Mrs Bulder" "Samuel Pickwick" 1
+"1785" "Mrs Bulder" "Thomas Clubber" 1
+"1786" "Mrs Bulder" "Tommy" 1
+"1787" "Mrs Bulder" "Tracy Tupman" 1
+"1788" "Mrs Bunkin" "Mrs Cluppins" 1
+"1789" "Mrs Bunkin" "Mrs Mudberry" 1
+"1790" "Mrs Bunkin" "Mrs Sanders" 1
+"1791" "Mrs Bunkin" "Mrs Wardle" 1
+"1792" "Mrs Bunkin" "Nathaniel Winkle" 1
+"1793" "Mrs Bunkin" "Richard Upwitch" 1
+"1794" "Mrs Bunkin" "Sam Weller" 1
+"1795" "Mrs Bunkin" "Samuel Pickwick" 1
+"1796" "Mrs Bunkin" "Serjeant Buzfuz" 1
+"1797" "Mrs Bunkin" "Serjeant Snubbin" 1
+"1798" "Mrs Bunkin" "Thomas Groffin" 1
+"1799" "Mrs Bunkin" "Tom Bardell" 1
+"1800" "Mrs Bunkin" "Tony Weller" 1
+"1801" "Mrs Bunkin" "Tracy Tupman" 1
+"1802" "Mrs Cluppins" "Mrs Mudberry" 1
+"1803" "Mrs Cluppins" "Mrs Raddle" 1
+"1804" "Mrs Cluppins" "Mrs Rogers" 1
+"1805" "Mrs Cluppins" "Mrs Sanders" 3
+"1806" "Mrs Cluppins" "Mrs Wardle" 2
+"1807" "Mrs Cluppins" "Nathaniel Winkle" 1
+"1808" "Mrs Cluppins" "Richard Upwitch" 1
+"1809" "Mrs Cluppins" "Sam Weller" 3
+"1810" "Mrs Cluppins" "Samuel Pickwick" 3
+"1811" "Mrs Cluppins" "Serjeant Buzfuz" 1
+"1812" "Mrs Cluppins" "Serjeant Snubbin" 1
+"1813" "Mrs Cluppins" "Thomas Groffin" 1
+"1814" "Mrs Cluppins" "Tom Bardell" 3
+"1815" "Mrs Cluppins" "Tony Weller" 2
+"1816" "Mrs Cluppins" "Tracy Tupman" 2
+"1817" "Mrs Craddock" "Mrs Dowler" 1
+"1818" "Mrs Craddock" "Mrs Wugsby" 1
+"1819" "Mrs Craddock" "Nathaniel Winkle" 2
+"1820" "Mrs Craddock" "Prince Bladud" 1
+"1821" "Mrs Craddock" "Sam Weller" 1
+"1822" "Mrs Craddock" "Samuel Pickwick" 2
+"1823" "Mrs Craddock" "Tony Weller" 2
+"1824" "Mrs Dowler" "Mrs Wugsby" 2
+"1825" "Mrs Dowler" "Nathaniel Winkle" 3
+"1826" "Mrs Dowler" "Prince Bladud" 1
+"1827" "Mrs Dowler" "Sam Weller" 2
+"1828" "Mrs Dowler" "Samuel Pickwick" 3
+"1829" "Mrs Dowler" "Tom Cripps" 1
+"1830" "Mrs Dowler" "Tony Weller" 3
+"1831" "Mrs Dowler" "Tracy Tupman" 1
+"1832" "Mrs Hunter" "Mrs Pott" 1
+"1833" "Mrs Hunter" "Nathaniel Winkle" 1
+"1834" "Mrs Hunter" "Sam Weller" 1
+"1835" "Mrs Hunter" "Samuel Pickwick" 1
+"1836" "Mrs Hunter" "Sololomon Lucas" 1
+"1837" "Mrs Hunter" "Tony Weller" 1
+"1838" "Mrs Hunter" "Tracy Tupman" 1
+"1839" "Mrs Mudberry" "Mrs Sanders" 1
+"1840" "Mrs Mudberry" "Mrs Wardle" 1
+"1841" "Mrs Mudberry" "Nathaniel Winkle" 1
+"1842" "Mrs Mudberry" "Richard Upwitch" 1
+"1843" "Mrs Mudberry" "Sam Weller" 1
+"1844" "Mrs Mudberry" "Samuel Pickwick" 1
+"1845" "Mrs Mudberry" "Serjeant Buzfuz" 1
+"1846" "Mrs Mudberry" "Serjeant Snubbin" 1
+"1847" "Mrs Mudberry" "Thomas Groffin" 1
+"1848" "Mrs Mudberry" "Tom Bardell" 1
+"1849" "Mrs Mudberry" "Tony Weller" 1
+"1850" "Mrs Mudberry" "Tracy Tupman" 1
+"1851" "Mrs Nupkins" "Mrs Porkenham" 1
+"1852" "Mrs Nupkins" "Muzzle" 1
+"1853" "Mrs Nupkins" "Nathaniel Winkle" 1
+"1854" "Mrs Nupkins" "Sam Weller" 1
+"1855" "Mrs Nupkins" "Samuel Pickwick" 1
+"1856" "Mrs Nupkins" "Tony Weller" 1
+"1857" "Mrs Nupkins" "Tracy Tupman" 1
+"1858" "Mrs Porkenham" "Muzzle" 1
+"1859" "Mrs Porkenham" "Nathaniel Winkle" 1
+"1860" "Mrs Porkenham" "Sam Weller" 1
+"1861" "Mrs Porkenham" "Samuel Pickwick" 1
+"1862" "Mrs Porkenham" "Tony Weller" 1
+"1863" "Mrs Porkenham" "Tracy Tupman" 1
+"1864" "Mrs Pott" "Nathaniel Winkle" 5
+"1865" "Mrs Pott" "Rachael Wardle" 1
+"1866" "Mrs Pott" "Sam Weller" 4
+"1867" "Mrs Pott" "Samuel Pickwick" 5
+"1868" "Mrs Pott" "Sir Geoffrey Manning" 1
+"1869" "Mrs Pott" "Sololomon Lucas" 1
+"1870" "Mrs Pott" "Tom Smart" 1
+"1871" "Mrs Pott" "Tony Weller" 5
+"1872" "Mrs Pott" "Tracy Tupman" 4
+"1873" "Mrs Raddle" "Mrs Rogers" 1
+"1874" "Mrs Raddle" "Mrs Sanders" 1
+"1875" "Mrs Raddle" "Nathaniel Winkle" 1
+"1876" "Mrs Raddle" "Sam Weller" 1
+"1877" "Mrs Raddle" "Samuel Pickwick" 2
+"1878" "Mrs Raddle" "Tom Bardell" 1
+"1879" "Mrs Raddle" "Tracy Tupman" 1
+"1880" "Mrs Rogers" "Mrs Sanders" 1
+"1881" "Mrs Rogers" "Sam Weller" 1
+"1882" "Mrs Rogers" "Samuel Pickwick" 1
+"1883" "Mrs Rogers" "Tom Bardell" 1
+"1884" "Mrs Sanders" "Mrs Wardle" 2
+"1885" "Mrs Sanders" "Nathaniel Winkle" 1
+"1886" "Mrs Sanders" "Richard Upwitch" 1
+"1887" "Mrs Sanders" "Sam Weller" 3
+"1888" "Mrs Sanders" "Samuel Pickwick" 3
+"1889" "Mrs Sanders" "Serjeant Buzfuz" 1
+"1890" "Mrs Sanders" "Serjeant Snubbin" 1
+"1891" "Mrs Sanders" "Thomas Groffin" 1
+"1892" "Mrs Sanders" "Tom Bardell" 3
+"1893" "Mrs Sanders" "Tony Weller" 2
+"1894" "Mrs Sanders" "Tracy Tupman" 2
+"1895" "Mrs Smithe" "Mrs Tomlinson" 1
+"1896" "Mrs Smithe" "Nathaniel Winkle" 1
+"1897" "Mrs Smithe" "Sam" 1
+"1898" "Mrs Smithe" "Samuel Pickwick" 1
+"1899" "Mrs Smithe" "Thomas Clubber" 1
+"1900" "Mrs Smithe" "Tommy" 1
+"1901" "Mrs Smithe" "Tracy Tupman" 1
+"1902" "Mrs Tomlinson" "Nathaniel Winkle" 1
+"1903" "Mrs Tomlinson" "Sam" 1
+"1904" "Mrs Tomlinson" "Samuel Pickwick" 1
+"1905" "Mrs Tomlinson" "Thomas Clubber" 1
+"1906" "Mrs Tomlinson" "Tommy" 1
+"1907" "Mrs Tomlinson" "Tracy Tupman" 1
+"1908" "Mrs Wardle" "Nathaniel Winkle" 8
+"1909" "Mrs Wardle" "Rachael Wardle" 2
+"1910" "Mrs Wardle" "Richard Upwitch" 1
+"1911" "Mrs Wardle" "Sam Weller" 7
+"1912" "Mrs Wardle" "Samuel Pickwick" 11
+"1913" "Mrs Wardle" "Serjeant Buzfuz" 1
+"1914" "Mrs Wardle" "Serjeant Snubbin" 1
+"1915" "Mrs Wardle" "Thomas Groffin" 1
+"1916" "Mrs Wardle" "Tom Bardell" 2
+"1917" "Mrs Wardle" "Tom Cripps" 1
+"1918" "Mrs Wardle" "Tom Smart" 1
+"1919" "Mrs Wardle" "Tony Weller" 7
+"1920" "Mrs Wardle" "Tracy Tupman" 9
+"1921" "Mrs Weller" "Peter Magnus" 1
+"1922" "Mrs Weller" "Rachael Wardle" 1
+"1923" "Mrs Weller" "Sam Weller" 6
+"1924" "Mrs Weller" "Samuel Pickwick" 5
+"1925" "Mrs Weller" "Solomon Pell" 1
+"1926" "Mrs Weller" "Tom Roker" 1
+"1927" "Mrs Weller" "Tony Weller" 6
+"1928" "Mrs Weller" "Tracy Tupman" 1
+"1929" "Mrs Weller" "Wilkins Flasher" 1
+"1930" "Mrs Wugsby" "Nathaniel Winkle" 2
+"1931" "Mrs Wugsby" "Prince Bladud" 1
+"1932" "Mrs Wugsby" "Sam Weller" 1
+"1933" "Mrs Wugsby" "Samuel Pickwick" 2
+"1934" "Mrs Wugsby" "Tony Weller" 2
+"1935" "Mrs Wugsby" "Tracy Tupman" 1
+"1936" "Muzzle" "Nathaniel Winkle" 3
+"1937" "Muzzle" "Peter Magnus" 1
+"1938" "Muzzle" "Pruffle" 1
+"1939" "Muzzle" "Sam Weller" 3
+"1940" "Muzzle" "Samuel Pickwick" 3
+"1941" "Muzzle" "Tony Weller" 3
+"1942" "Muzzle" "Tracy Tupman" 2
+"1943" "Nathaniel Pipkin" "Nathaniel Winkle" 1
+"1944" "Nathaniel Pipkin" "Old Lobbs" 1
+"1945" "Nathaniel Pipkin" "Sam Weller" 1
+"1946" "Nathaniel Pipkin" "Samuel Pickwick" 1
+"1947" "Nathaniel Pipkin" "Tony Weller" 1
+"1948" "Nathaniel Winkle" "Neddy" 1
+"1949" "Nathaniel Winkle" "Old Lobbs" 1
+"1950" "Nathaniel Winkle" "Peter Magnus" 1
+"1951" "Nathaniel Winkle" "Prince Bladud" 1
+"1952" "Nathaniel Winkle" "Pruffle" 1
+"1953" "Nathaniel Winkle" "Quanko Samba" 1
+"1954" "Nathaniel Winkle" "Rachael Wardle" 4
+"1955" "Nathaniel Winkle" "Richard Upwitch" 1
+"1956" "Nathaniel Winkle" "Sam" 1
+"1957" "Nathaniel Winkle" "Sam Weller" 23
+"1958" "Nathaniel Winkle" "Samuel Pickwick" 37
+"1959" "Nathaniel Winkle" "Serjeant Buzfuz" 1
+"1960" "Nathaniel Winkle" "Serjeant Snubbin" 2
+"1961" "Nathaniel Winkle" "Sir Geoffrey Manning" 2
+"1962" "Nathaniel Winkle" "Sir Thomas Blazo" 1
+"1963" "Nathaniel Winkle" "Sololomon Lucas" 1
+"1964" "Nathaniel Winkle" "Solomon Pell" 1
+"1965" "Nathaniel Winkle" "Thomas Clubber" 1
+"1966" "Nathaniel Winkle" "Thomas Groffin" 1
+"1967" "Nathaniel Winkle" "Tom Bardell" 2
+"1968" "Nathaniel Winkle" "Tom Cripps" 3
+"1969" "Nathaniel Winkle" "Tom Roker" 1
+"1970" "Nathaniel Winkle" "Tom Smart" 2
+"1971" "Nathaniel Winkle" "Tommy" 1
+"1972" "Nathaniel Winkle" "Tony Weller" 25
+"1973" "Nathaniel Winkle" "Tracy Tupman" 26
+"1974" "Nathaniel Winkle" "Wilkins" 1
+"1975" "Neddy" "Sam Weller" 3
+"1976" "Neddy" "Samuel Pickwick" 3
+"1977" "Neddy" "Solomon Pell" 1
+"1978" "Neddy" "Tom Martin" 1
+"1979" "Neddy" "Tom Roker" 3
+"1980" "Neddy" "Tony Weller" 3
+"1981" "Neddy" "Tracy Tupman" 2
+"1982" "Old Lobbs" "Sam Weller" 1
+"1983" "Old Lobbs" "Samuel Pickwick" 1
+"1984" "Old Lobbs" "Tony Weller" 1
+"1985" "Peter Magnus" "Sam Weller" 2
+"1986" "Peter Magnus" "Samuel Pickwick" 2
+"1987" "Peter Magnus" "Tony Weller" 2
+"1988" "Peter Magnus" "Tracy Tupman" 2
+"1989" "Prince Bladud" "Samuel Pickwick" 1
+"1990" "Prince Bladud" "Tony Weller" 1
+"1991" "Pruffle" "Sam Weller" 1
+"1992" "Pruffle" "Samuel Pickwick" 1
+"1993" "Pruffle" "Tony Weller" 1
+"1994" "Quanko Samba" "Rachael Wardle" 1
+"1995" "Quanko Samba" "Samuel Pickwick" 1
+"1996" "Quanko Samba" "Tracy Tupman" 1
+"1997" "Rachael Wardle" "Sam Weller" 2
+"1998" "Rachael Wardle" "Samuel Pickwick" 6
+"1999" "Rachael Wardle" "Sir Geoffrey Manning" 1
+"2000" "Rachael Wardle" "Tony Weller" 2
+"2001" "Rachael Wardle" "Tracy Tupman" 5
+"2002" "Richard Upwitch" "Sam Weller" 1
+"2003" "Richard Upwitch" "Samuel Pickwick" 1
+"2004" "Richard Upwitch" "Serjeant Buzfuz" 1
+"2005" "Richard Upwitch" "Serjeant Snubbin" 1
+"2006" "Richard Upwitch" "Thomas Groffin" 1
+"2007" "Richard Upwitch" "Tom Bardell" 1
+"2008" "Richard Upwitch" "Tony Weller" 1
+"2009" "Richard Upwitch" "Tracy Tupman" 1
+"2010" "Sam" "Samuel Pickwick" 1
+"2011" "Sam" "Thomas Clubber" 1
+"2012" "Sam" "Tommy" 1
+"2013" "Sam" "Tracy Tupman" 1
+"2014" "Sam Weller" "Samuel Pickwick" 38
+"2015" "Sam Weller" "Serjeant Buzfuz" 1
+"2016" "Sam Weller" "Serjeant Snubbin" 2
+"2017" "Sam Weller" "Sir Geoffrey Manning" 2
+"2018" "Sam Weller" "Sololomon Lucas" 1
+"2019" "Sam Weller" "Solomon Pell" 3
+"2020" "Sam Weller" "Thomas Burton" 1
+"2021" "Sam Weller" "Thomas Groffin" 1
+"2022" "Sam Weller" "Tom Bardell" 4
+"2023" "Sam Weller" "Tom Cripps" 3
+"2024" "Sam Weller" "Tom Martin" 1
+"2025" "Sam Weller" "Tom Roker" 5
+"2026" "Sam Weller" "Tom Smart" 1
+"2027" "Sam Weller" "Tom Wildspark" 1
+"2028" "Sam Weller" "Tony Weller" 38
+"2029" "Sam Weller" "Tracy Tupman" 18
+"2030" "Sam Weller" "Wilkins" 1
+"2031" "Sam Weller" "Wilkins Flasher" 1
+"2032" "Samuel Pickwick" "Serjeant Buzfuz" 1
+"2033" "Samuel Pickwick" "Serjeant Snubbin" 2
+"2034" "Samuel Pickwick" "Sir Geoffrey Manning" 2
+"2035" "Samuel Pickwick" "Sir Thomas Blazo" 1
+"2036" "Samuel Pickwick" "Sololomon Lucas" 1
+"2037" "Samuel Pickwick" "Solomon Pell" 2
+"2038" "Samuel Pickwick" "Thomas Burton" 1
+"2039" "Samuel Pickwick" "Thomas Clubber" 1
+"2040" "Samuel Pickwick" "Thomas Groffin" 1
+"2041" "Samuel Pickwick" "Tom Bardell" 4
+"2042" "Samuel Pickwick" "Tom Cripps" 3
+"2043" "Samuel Pickwick" "Tom Martin" 1
+"2044" "Samuel Pickwick" "Tom Roker" 5
+"2045" "Samuel Pickwick" "Tom Smart" 2
+"2046" "Samuel Pickwick" "Tom Wildspark" 1
+"2047" "Samuel Pickwick" "Tommy" 1
+"2048" "Samuel Pickwick" "Tony Weller" 40
+"2049" "Samuel Pickwick" "Tracy Tupman" 30
+"2050" "Samuel Pickwick" "Wilkins" 1
+"2051" "Serjeant Buzfuz" "Serjeant Snubbin" 1
+"2052" "Serjeant Buzfuz" "Thomas Groffin" 1
+"2053" "Serjeant Buzfuz" "Tom Bardell" 1
+"2054" "Serjeant Buzfuz" "Tony Weller" 1
+"2055" "Serjeant Buzfuz" "Tracy Tupman" 1
+"2056" "Serjeant Snubbin" "Thomas Groffin" 1
+"2057" "Serjeant Snubbin" "Tom Bardell" 1
+"2058" "Serjeant Snubbin" "Tony Weller" 2
+"2059" "Serjeant Snubbin" "Tracy Tupman" 2
+"2060" "Sir Geoffrey Manning" "Tony Weller" 2
+"2061" "Sir Geoffrey Manning" "Tracy Tupman" 2
+"2062" "Sir Geoffrey Manning" "Wilkins" 1
+"2063" "Sololomon Lucas" "Tony Weller" 1
+"2064" "Sololomon Lucas" "Tracy Tupman" 1
+"2065" "Solomon Pell" "Tom Roker" 1
+"2066" "Solomon Pell" "Tony Weller" 3
+"2067" "Solomon Pell" "Tracy Tupman" 1
+"2068" "Solomon Pell" "Wilkins Flasher" 1
+"2069" "Thomas Burton" "Tom Wildspark" 1
+"2070" "Thomas Burton" "Tony Weller" 1
+"2071" "Thomas Clubber" "Tommy" 1
+"2072" "Thomas Clubber" "Tracy Tupman" 1
+"2073" "Thomas Groffin" "Tom Bardell" 1
+"2074" "Thomas Groffin" "Tony Weller" 1
+"2075" "Thomas Groffin" "Tracy Tupman" 1
+"2076" "Tom Bardell" "Tony Weller" 3
+"2077" "Tom Bardell" "Tracy Tupman" 3
+"2078" "Tom Cripps" "Tom Smart" 1
+"2079" "Tom Cripps" "Tony Weller" 3
+"2080" "Tom Martin" "Tom Roker" 1
+"2081" "Tom Martin" "Tony Weller" 1
+"2082" "Tom Martin" "Tracy Tupman" 1
+"2083" "Tom Roker" "Tony Weller" 5
+"2084" "Tom Roker" "Tracy Tupman" 2
+"2085" "Tom Smart" "Tony Weller" 2
+"2086" "Tom Smart" "Tracy Tupman" 1
+"2087" "Tom Wildspark" "Tony Weller" 1
+"2088" "Tommy" "Tracy Tupman" 1
+"2089" "Tony Weller" "Tracy Tupman" 19
+"2090" "Tony Weller" "Wilkins" 1
+"2091" "Tony Weller" "Wilkins Flasher" 1
+"2092" "Tracy Tupman" "Wilkins" 1

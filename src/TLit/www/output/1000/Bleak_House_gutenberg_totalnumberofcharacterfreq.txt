@@ -47,7 +47,7 @@
 "Mr Gridley",21
 "Mr Grubble",1
 "Mr Gusher",2
-"Mr Jellby",18
+"Mr Jellyby",18
 "Mr Pardiggle",2
 "Mr Quale",7
 "Mr Rouncewell",12
@@ -62,6 +62,7 @@
 "Mrs Bucket",5
 "Mrs Chadband",14
 "Mrs Guppy",4
+"Mrs Jellyby",26
 "Mrs Pardiggle",9
 "Mrs Perkins",7
 "Mrs Piper",7

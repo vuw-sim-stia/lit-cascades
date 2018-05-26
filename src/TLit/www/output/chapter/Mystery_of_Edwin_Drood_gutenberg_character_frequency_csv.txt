@@ -1,0 +1,197 @@
+"","Character","Node","Appearances"
+"1","Bazzard",22,3
+"2","Bazzard",11,3
+"3","Bazzard",20,3
+"4","Deputy",23,4
+"5","Deputy",5,4
+"6","Deputy",12,4
+"7","Deputy",18,4
+"8","Dick Datchery",18,2
+"9","Dick Datchery",23,2
+"10","Durdles",23,6
+"11","Durdles",5,6
+"12","Durdles",18,6
+"13","Durdles",12,6
+"14","Durdles",14,6
+"15","Durdles",4,6
+"16","Edwin Drood",13,13
+"17","Edwin Drood",11,13
+"18","Edwin Drood",15,13
+"19","Edwin Drood",8,13
+"20","Edwin Drood",17,13
+"21","Edwin Drood",23,13
+"22","Edwin Drood",7,13
+"23","Edwin Drood",3,13
+"24","Edwin Drood",2,13
+"25","Edwin Drood",9,13
+"26","Edwin Drood",16,13
+"27","Edwin Drood",14,13
+"28","Edwin Drood",10,13
+"29","Helena Landless",22,14
+"30","Helena Landless",9,14
+"31","Helena Landless",17,14
+"32","Helena Landless",15,14
+"33","Helena Landless",19,14
+"34","Helena Landless",8,14
+"35","Helena Landless",10,14
+"36","Helena Landless",7,14
+"37","Helena Landless",20,14
+"38","Helena Landless",14,14
+"39","Helena Landless",21,14
+"40","Helena Landless",6,14
+"41","Helena Landless",23,14
+"42","Helena Landless",13,14
+"43","Hiram Grewgious",20,11
+"44","Hiram Grewgious",16,11
+"45","Hiram Grewgious",15,11
+"46","Hiram Grewgious",23,11
+"47","Hiram Grewgious",9,11
+"48","Hiram Grewgious",13,11
+"49","Hiram Grewgious",21,11
+"50","Hiram Grewgious",17,11
+"51","Hiram Grewgious",11,11
+"52","Hiram Grewgious",22,11
+"53","Hiram Grewgious",14,11
+"54","Jack Chinaman",1,2
+"55","Jack Chinaman",23,2
+"56","Joe",20,3
+"57","Joe",15,3
+"58","Joe",6,3
+"59","John Jasper",4,21
+"60","John Jasper",9,21
+"61","John Jasper",19,21
+"62","John Jasper",2,21
+"63","John Jasper",3,21
+"64","John Jasper",8,21
+"65","John Jasper",13,21
+"66","John Jasper",5,21
+"67","John Jasper",12,21
+"68","John Jasper",23,21
+"69","John Jasper",16,21
+"70","John Jasper",22,21
+"71","John Jasper",11,21
+"72","John Jasper",7,21
+"73","John Jasper",15,21
+"74","John Jasper",14,21
+"75","John Jasper",6,21
+"76","John Jasper",18,21
+"77","John Jasper",20,21
+"78","John Jasper",17,21
+"79","John Jasper",10,21
+"80","Lieutenant Tartar",22,3
+"81","Lieutenant Tartar",21,3
+"82","Lieutenant Tartar",17,3
+"83","Lobley",22,1
+"84","Luke Honeythunder",6,3
+"85","Luke Honeythunder",7,3
+"86","Luke Honeythunder",17,3
+"87","Miss Brobity",4,1
+"88","Miss Dean",2,1
+"89","Miss Ferdinand",9,2
+"90","Miss Ferdinand",13,2
+"91","Miss Giggles",13,2
+"92","Miss Giggles",9,2
+"93","Miss Jennings",9,1
+"94","Miss Reynolds",9,1
+"95","Miss Rickitts",13,1
+"96","Miss Twinkleton",9,10
+"97","Miss Twinkleton",3,10
+"98","Miss Twinkleton",21,10
+"99","Miss Twinkleton",13,10
+"100","Miss Twinkleton",19,10
+"101","Miss Twinkleton",14,10
+"102","Miss Twinkleton",7,10
+"103","Miss Twinkleton",22,10
+"104","Miss Twinkleton",6,10
+"105","Miss Twinkleton",20,10
+"106","Mr Porters",3,1
+"107","Mr Tope",16,8
+"108","Mr Tope",2,8
+"109","Mr Tope",7,8
+"110","Mr Tope",12,8
+"111","Mr Tope",14,8
+"112","Mr Tope",23,8
+"113","Mr Tope",6,8
+"114","Mr Tope",18,8
+"115","Mrs Billickin",22,1
+"116","Mrs Crisparkle",8,6
+"117","Mrs Crisparkle",7,6
+"118","Mrs Crisparkle",6,6
+"119","Mrs Crisparkle",10,6
+"120","Mrs Crisparkle",16,6
+"121","Mrs Crisparkle",17,6
+"122","Mrs Dean",2,1
+"123","Mrs Tisher",13,5
+"124","Mrs Tisher",9,5
+"125","Mrs Tisher",3,5
+"126","Mrs Tisher",7,5
+"127","Mrs Tisher",19,5
+"128","Mrs Tope",2,5
+"129","Mrs Tope",18,5
+"130","Mrs Tope",16,5
+"131","Mrs Tope",23,5
+"132","Mrs Tope",14,5
+"133","Neville Landless",23,15
+"134","Neville Landless",16,15
+"135","Neville Landless",15,15
+"136","Neville Landless",8,15
+"137","Neville Landless",19,15
+"138","Neville Landless",14,15
+"139","Neville Landless",6,15
+"140","Neville Landless",20,15
+"141","Neville Landless",22,15
+"142","Neville Landless",17,15
+"143","Neville Landless",10,15
+"144","Neville Landless",9,15
+"145","Neville Landless",21,15
+"146","Neville Landless",7,15
+"147","Neville Landless",12,15
+"148","Princess Puffer",23,1
+"149","Rosa Bud",9,14
+"150","Rosa Bud",23,14
+"151","Rosa Bud",8,14
+"152","Rosa Bud",15,14
+"153","Rosa Bud",22,14
+"154","Rosa Bud",19,14
+"155","Rosa Bud",10,14
+"156","Rosa Bud",11,14
+"157","Rosa Bud",3,14
+"158","Rosa Bud",14,14
+"159","Rosa Bud",13,14
+"160","Rosa Bud",7,14
+"161","Rosa Bud",21,14
+"162","Rosa Bud",20,14
+"163","Septimus Crisparkle",8,17
+"164","Septimus Crisparkle",6,17
+"165","Septimus Crisparkle",7,17
+"166","Septimus Crisparkle",22,17
+"167","Septimus Crisparkle",17,17
+"168","Septimus Crisparkle",12,17
+"169","Septimus Crisparkle",10,17
+"170","Septimus Crisparkle",15,17
+"171","Septimus Crisparkle",2,17
+"172","Septimus Crisparkle",13,17
+"173","Septimus Crisparkle",9,17
+"174","Septimus Crisparkle",20,17
+"175","Septimus Crisparkle",16,17
+"176","Septimus Crisparkle",19,17
+"177","Septimus Crisparkle",14,17
+"178","Septimus Crisparkle",21,17
+"179","Septimus Crisparkle",23,17
+"180","The Dean",4,7
+"181","The Dean",23,7
+"182","The Dean",18,7
+"183","The Dean",2,7
+"184","The Dean",14,7
+"185","The Dean",12,7
+"186","The Dean",16,7
+"187","Thomas Sapsea",15,10
+"188","Thomas Sapsea",18,10
+"189","Thomas Sapsea",14,10
+"190","Thomas Sapsea",16,10
+"191","Thomas Sapsea",4,10
+"192","Thomas Sapsea",19,10
+"193","Thomas Sapsea",6,10
+"194","Thomas Sapsea",5,10
+"195","Thomas Sapsea",13,10
+"196","Thomas Sapsea",12,10

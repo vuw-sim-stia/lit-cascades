@@ -1,0 +1,781 @@
+"id1" "id2" "label"
+"1" "Affery Flintwinch" "Amy Dorrit" 8
+"2" "Affery Flintwinch" "Arthur Clennam" 13
+"3" "Affery Flintwinch" "Christopher Casby" 4
+"4" "Affery Flintwinch" "Daniel Doyce" 3
+"5" "Affery Flintwinch" "Ephraim Flintwinch" 1
+"6" "Affery Flintwinch" "Fanny Dorrit" 2
+"7" "Affery Flintwinch" "Flora Finching" 4
+"8" "Affery Flintwinch" "Harriet Beadle" 2
+"9" "Affery Flintwinch" "Henry Gowan" 2
+"10" "Affery Flintwinch" "Jeremiah Flintwinch" 12
+"11" "Affery Flintwinch" "John Baptist Cavalletto" 1
+"12" "Affery Flintwinch" "Lord Decimus Tite Barnacle" 1
+"13" "Affery Flintwinch" "Maggy" 2
+"14" "Affery Flintwinch" "Minnie Meagles" 1
+"15" "Affery Flintwinch" "Miss Wade" 2
+"16" "Affery Flintwinch" "Mr F.'s Aunt" 3
+"17" "Affery Flintwinch" "Mr Frederick Dorrit" 1
+"18" "Affery Flintwinch" "Mr Meagles" 1
+"19" "Affery Flintwinch" "Mr Merdle" 2
+"20" "Affery Flintwinch" "Mr Pancks" 4
+"21" "Affery Flintwinch" "Mr Sparkler" 1
+"22" "Affery Flintwinch" "Mr William Dorrit" 2
+"23" "Affery Flintwinch" "Mrs Bangham" 1
+"24" "Affery Flintwinch" "Mrs Clennam" 12
+"25" "Affery Flintwinch" "Mrs General" 1
+"26" "Affery Flintwinch" "Mrs Meagles" 1
+"27" "Affery Flintwinch" "Mrs Merdle" 1
+"28" "Affery Flintwinch" "Mrs Plornish" 1
+"29" "Affery Flintwinch" "Mrs Tickit" 1
+"30" "Affery Flintwinch" "Physician" 1
+"31" "Affery Flintwinch" "Rigaud" 6
+"32" "Amy Dorrit" "Anastasia Rugg" 1
+"33" "Amy Dorrit" "Arthur Clennam" 33
+"34" "Amy Dorrit" "Bob" 2
+"35" "Amy Dorrit" "Captain Maroon" 1
+"36" "Amy Dorrit" "Captain Martin" 1
+"37" "Amy Dorrit" "Christopher Casby" 9
+"38" "Amy Dorrit" "Daniel Doyce" 8
+"39" "Amy Dorrit" "Doctor Haggage" 1
+"40" "Amy Dorrit" "Edward Dorrit" 14
+"41" "Amy Dorrit" "Ephraim Flintwinch" 1
+"42" "Amy Dorrit" "Fanny Dorrit" 20
+"43" "Amy Dorrit" "Ferdinand Barnacle" 1
+"44" "Amy Dorrit" "Flora Finching" 7
+"45" "Amy Dorrit" "Harriet Beadle" 4
+"46" "Amy Dorrit" "Henry Gowan" 12
+"47" "Amy Dorrit" "Jeremiah Flintwinch" 7
+"48" "Amy Dorrit" "John Baptist Cavalletto" 3
+"49" "Amy Dorrit" "John Chivery" 1
+"50" "Amy Dorrit" "John Edward Nandy" 2
+"51" "Amy Dorrit" "Lord Decimus Tite Barnacle" 1
+"52" "Amy Dorrit" "Maggy" 14
+"53" "Amy Dorrit" "Minnie Meagles" 11
+"54" "Amy Dorrit" "Miss Wade" 5
+"55" "Amy Dorrit" "Mr Cripples" 2
+"56" "Amy Dorrit" "Mr F.'s Aunt" 6
+"57" "Amy Dorrit" "Mr Frederick Dorrit" 8
+"58" "Amy Dorrit" "Mr John Chivery" 12
+"59" "Amy Dorrit" "Mr Meagles" 10
+"60" "Amy Dorrit" "Mr Merdle" 12
+"61" "Amy Dorrit" "Mr Pancks" 15
+"62" "Amy Dorrit" "Mr Plornish" 8
+"63" "Amy Dorrit" "Mr Rugg" 5
+"64" "Amy Dorrit" "Mr Sparkler" 10
+"65" "Amy Dorrit" "Mr Tite Barnacle" 1
+"66" "Amy Dorrit" "Mr William Dorrit" 23
+"67" "Amy Dorrit" "Mrs Bangham" 3
+"68" "Amy Dorrit" "Mrs Captain Barbary" 1
+"69" "Amy Dorrit" "Mrs Chivery" 3
+"70" "Amy Dorrit" "Mrs Clennam" 10
+"71" "Amy Dorrit" "Mrs General" 13
+"72" "Amy Dorrit" "Mrs Gowan" 8
+"73" "Amy Dorrit" "Mrs Meagles" 4
+"74" "Amy Dorrit" "Mrs Merdle" 11
+"75" "Amy Dorrit" "Mrs Plornish" 8
+"76" "Amy Dorrit" "Mrs Tickit" 4
+"77" "Amy Dorrit" "Physician" 1
+"78" "Amy Dorrit" "Rigaud" 7
+"79" "Amy Dorrit" "Slingo" 1
+"80" "Amy Dorrit" "Tinkler" 3
+"81" "Amy Dorrit" "Treasury" 1
+"82" "Anastasia Rugg" "Arthur Clennam" 2
+"83" "Anastasia Rugg" "Christopher Casby" 1
+"84" "Anastasia Rugg" "Daniel Doyce" 1
+"85" "Anastasia Rugg" "Flora Finching" 1
+"86" "Anastasia Rugg" "John Baptist Cavalletto" 1
+"87" "Anastasia Rugg" "Lord Decimus Tite Barnacle" 1
+"88" "Anastasia Rugg" "Maggy" 1
+"89" "Anastasia Rugg" "Mr F.'s Aunt" 1
+"90" "Anastasia Rugg" "Mr John Chivery" 2
+"91" "Anastasia Rugg" "Mr Pancks" 2
+"92" "Anastasia Rugg" "Mr Rugg" 2
+"93" "Anastasia Rugg" "Mr William Dorrit" 1
+"94" "Anastasia Rugg" "Mrs Chivery" 1
+"95" "Anastasia Rugg" "Mrs Plornish" 1
+"96" "Arthur Clennam" "Augustus Stiltstalking" 1
+"97" "Arthur Clennam" "Bob" 1
+"98" "Arthur Clennam" "Captain Maroon" 1
+"99" "Arthur Clennam" "Christopher Casby" 12
+"100" "Arthur Clennam" "Clarence Barnacle" 3
+"101" "Arthur Clennam" "Daniel Doyce" 18
+"102" "Arthur Clennam" "Doctor Haggage" 1
+"103" "Arthur Clennam" "Edward Dorrit" 10
+"104" "Arthur Clennam" "Ephraim Flintwinch" 1
+"105" "Arthur Clennam" "Fanny Dorrit" 14
+"106" "Arthur Clennam" "Ferdinand Barnacle" 4
+"107" "Arthur Clennam" "Flora Finching" 9
+"108" "Arthur Clennam" "Harriet Beadle" 8
+"109" "Arthur Clennam" "Henry Gowan" 16
+"110" "Arthur Clennam" "Jeremiah Flintwinch" 12
+"111" "Arthur Clennam" "John Baptist Cavalletto" 7
+"112" "Arthur Clennam" "John Chivery" 2
+"113" "Arthur Clennam" "John Edward Nandy" 3
+"114" "Arthur Clennam" "Lady Stiltstalking" 1
+"115" "Arthur Clennam" "Lord Decimus Tite Barnacle" 3
+"116" "Arthur Clennam" "Lord Lancaster Stiltstalking" 1
+"117" "Arthur Clennam" "Maggy" 15
+"118" "Arthur Clennam" "Minnie Meagles" 12
+"119" "Arthur Clennam" "Miss Tite Barnacles" 1
+"120" "Arthur Clennam" "Miss Wade" 9
+"121" "Arthur Clennam" "Mr Cripples" 2
+"122" "Arthur Clennam" "Mr F.'s Aunt" 8
+"123" "Arthur Clennam" "Mr Frederick Dorrit" 5
+"124" "Arthur Clennam" "Mr John Chivery" 11
+"125" "Arthur Clennam" "Mr Meagles" 16
+"126" "Arthur Clennam" "Mr Merdle" 9
+"127" "Arthur Clennam" "Mr Pancks" 22
+"128" "Arthur Clennam" "Mr Plornish" 9
+"129" "Arthur Clennam" "Mr Rugg" 9
+"130" "Arthur Clennam" "Mr Sparkler" 5
+"131" "Arthur Clennam" "Mr Tite Barnacle" 3
+"132" "Arthur Clennam" "Mr William Dorrit" 19
+"133" "Arthur Clennam" "Mr Wobbler" 1
+"134" "Arthur Clennam" "Mrs Bangham" 2
+"135" "Arthur Clennam" "Mrs Captain Barbary" 1
+"136" "Arthur Clennam" "Mrs Chivery" 3
+"137" "Arthur Clennam" "Mrs Clennam" 16
+"138" "Arthur Clennam" "Mrs General" 6
+"139" "Arthur Clennam" "Mrs Gowan" 9
+"140" "Arthur Clennam" "Mrs Meagles" 10
+"141" "Arthur Clennam" "Mrs Merdle" 5
+"142" "Arthur Clennam" "Mrs Plornish" 12
+"143" "Arthur Clennam" "Mrs Tickit" 5
+"144" "Arthur Clennam" "Mrs Tite Barnacle" 2
+"145" "Arthur Clennam" "Physician" 2
+"146" "Arthur Clennam" "Rigaud" 10
+"147" "Arthur Clennam" "Slingo" 1
+"148" "Arthur Clennam" "Tinkler" 1
+"149" "Arthur Clennam" "Treasury" 2
+"150" "Arthur Clennam" "Tudor Stiltstalking" 2
+"151" "Augustus Stiltstalking" "Clarence Barnacle" 1
+"152" "Augustus Stiltstalking" "Daniel Doyce" 1
+"153" "Augustus Stiltstalking" "Henry Gowan" 1
+"154" "Augustus Stiltstalking" "Lord Lancaster Stiltstalking" 1
+"155" "Augustus Stiltstalking" "Minnie Meagles" 1
+"156" "Augustus Stiltstalking" "Mr Meagles" 1
+"157" "Augustus Stiltstalking" "Mrs Gowan" 1
+"158" "Augustus Stiltstalking" "Tudor Stiltstalking" 1
+"159" "Bob" "Doctor Haggage" 1
+"160" "Bob" "Edward Dorrit" 2
+"161" "Bob" "Fanny Dorrit" 2
+"162" "Bob" "Mr Frederick Dorrit" 1
+"163" "Bob" "Mr John Chivery" 1
+"164" "Bob" "Mr Merdle" 1
+"165" "Bob" "Mr William Dorrit" 2
+"166" "Bob" "Mrs Bangham" 2
+"167" "Bob" "Mrs General" 1
+"168" "Bob" "Mrs Merdle" 1
+"169" "Bob" "Slingo" 1
+"170" "Bob" "Tinkler" 1
+"171" "Captain Maroon" "Christopher Casby" 1
+"172" "Captain Maroon" "Daniel Doyce" 1
+"173" "Captain Maroon" "Edward Dorrit" 1
+"174" "Captain Maroon" "Mr Meagles" 1
+"175" "Captain Maroon" "Mr Pancks" 1
+"176" "Captain Maroon" "Mr Plornish" 1
+"177" "Captain Maroon" "Mr William Dorrit" 1
+"178" "Captain Maroon" "Mrs Captain Barbary" 1
+"179" "Captain Maroon" "Mrs Clennam" 1
+"180" "Captain Maroon" "Mrs Plornish" 1
+"181" "Captain Martin" "Mr Frederick Dorrit" 1
+"182" "Captain Martin" "Mr John Chivery" 1
+"183" "Captain Martin" "Mr William Dorrit" 1
+"184" "Christopher Casby" "Daniel Doyce" 5
+"185" "Christopher Casby" "Edward Dorrit" 3
+"186" "Christopher Casby" "Ephraim Flintwinch" 1
+"187" "Christopher Casby" "Fanny Dorrit" 1
+"188" "Christopher Casby" "Flora Finching" 7
+"189" "Christopher Casby" "Harriet Beadle" 2
+"190" "Christopher Casby" "Henry Gowan" 2
+"191" "Christopher Casby" "Jeremiah Flintwinch" 3
+"192" "Christopher Casby" "John Baptist Cavalletto" 2
+"193" "Christopher Casby" "Lord Decimus Tite Barnacle" 1
+"194" "Christopher Casby" "Maggy" 3
+"195" "Christopher Casby" "Minnie Meagles" 1
+"196" "Christopher Casby" "Miss Wade" 2
+"197" "Christopher Casby" "Mr F.'s Aunt" 6
+"198" "Christopher Casby" "Mr Frederick Dorrit" 2
+"199" "Christopher Casby" "Mr John Chivery" 2
+"200" "Christopher Casby" "Mr Meagles" 3
+"201" "Christopher Casby" "Mr Merdle" 1
+"202" "Christopher Casby" "Mr Pancks" 11
+"203" "Christopher Casby" "Mr Plornish" 4
+"204" "Christopher Casby" "Mr Rugg" 3
+"205" "Christopher Casby" "Mr William Dorrit" 5
+"206" "Christopher Casby" "Mrs Captain Barbary" 1
+"207" "Christopher Casby" "Mrs Clennam" 6
+"208" "Christopher Casby" "Mrs Meagles" 2
+"209" "Christopher Casby" "Mrs Plornish" 3
+"210" "Christopher Casby" "Mrs Tickit" 1
+"211" "Christopher Casby" "Rigaud" 3
+"212" "Clarence Barnacle" "Daniel Doyce" 3
+"213" "Clarence Barnacle" "Ferdinand Barnacle" 2
+"214" "Clarence Barnacle" "Henry Gowan" 2
+"215" "Clarence Barnacle" "Lady Stiltstalking" 1
+"216" "Clarence Barnacle" "Lord Lancaster Stiltstalking" 1
+"217" "Clarence Barnacle" "Minnie Meagles" 2
+"218" "Clarence Barnacle" "Mr Meagles" 3
+"219" "Clarence Barnacle" "Mr Tite Barnacle" 1
+"220" "Clarence Barnacle" "Mr William Dorrit" 1
+"221" "Clarence Barnacle" "Mr Wobbler" 1
+"222" "Clarence Barnacle" "Mrs Gowan" 1
+"223" "Clarence Barnacle" "Mrs Meagles" 1
+"224" "Clarence Barnacle" "Mrs Tite Barnacle" 1
+"225" "Clarence Barnacle" "Tudor Stiltstalking" 1
+"226" "Daniel Doyce" "Edward Dorrit" 2
+"227" "Daniel Doyce" "Fanny Dorrit" 2
+"228" "Daniel Doyce" "Ferdinand Barnacle" 3
+"229" "Daniel Doyce" "Flora Finching" 6
+"230" "Daniel Doyce" "Harriet Beadle" 4
+"231" "Daniel Doyce" "Henry Gowan" 8
+"232" "Daniel Doyce" "Jeremiah Flintwinch" 2
+"233" "Daniel Doyce" "John Baptist Cavalletto" 4
+"234" "Daniel Doyce" "John Chivery" 1
+"235" "Daniel Doyce" "John Edward Nandy" 1
+"236" "Daniel Doyce" "Lady Stiltstalking" 1
+"237" "Daniel Doyce" "Lord Decimus Tite Barnacle" 1
+"238" "Daniel Doyce" "Lord Lancaster Stiltstalking" 1
+"239" "Daniel Doyce" "Maggy" 4
+"240" "Daniel Doyce" "Minnie Meagles" 9
+"241" "Daniel Doyce" "Miss Tite Barnacles" 1
+"242" "Daniel Doyce" "Miss Wade" 4
+"243" "Daniel Doyce" "Mr F.'s Aunt" 6
+"244" "Daniel Doyce" "Mr John Chivery" 3
+"245" "Daniel Doyce" "Mr Meagles" 12
+"246" "Daniel Doyce" "Mr Merdle" 3
+"247" "Daniel Doyce" "Mr Pancks" 9
+"248" "Daniel Doyce" "Mr Plornish" 3
+"249" "Daniel Doyce" "Mr Rugg" 4
+"250" "Daniel Doyce" "Mr Sparkler" 1
+"251" "Daniel Doyce" "Mr Tite Barnacle" 2
+"252" "Daniel Doyce" "Mr William Dorrit" 6
+"253" "Daniel Doyce" "Mr Wobbler" 1
+"254" "Daniel Doyce" "Mrs Captain Barbary" 1
+"255" "Daniel Doyce" "Mrs Clennam" 3
+"256" "Daniel Doyce" "Mrs General" 1
+"257" "Daniel Doyce" "Mrs Gowan" 3
+"258" "Daniel Doyce" "Mrs Meagles" 7
+"259" "Daniel Doyce" "Mrs Merdle" 1
+"260" "Daniel Doyce" "Mrs Plornish" 5
+"261" "Daniel Doyce" "Mrs Tickit" 4
+"262" "Daniel Doyce" "Mrs Tite Barnacle" 2
+"263" "Daniel Doyce" "Rigaud" 4
+"264" "Daniel Doyce" "Treasury" 1
+"265" "Daniel Doyce" "Tudor Stiltstalking" 2
+"266" "Dawes" "Henry Gowan" 1
+"267" "Dawes" "Miss Wade" 1
+"268" "Doctor Haggage" "Edward Dorrit" 1
+"269" "Doctor Haggage" "Fanny Dorrit" 1
+"270" "Doctor Haggage" "Mr William Dorrit" 2
+"271" "Doctor Haggage" "Mrs Bangham" 2
+"272" "Doctor Haggage" "Slingo" 1
+"273" "Edward Dorrit" "Fanny Dorrit" 10
+"274" "Edward Dorrit" "Flora Finching" 2
+"275" "Edward Dorrit" "Henry Gowan" 3
+"276" "Edward Dorrit" "John Edward Nandy" 1
+"277" "Edward Dorrit" "Maggy" 6
+"278" "Edward Dorrit" "Minnie Meagles" 3
+"279" "Edward Dorrit" "Mr Cripples" 1
+"280" "Edward Dorrit" "Mr F.'s Aunt" 2
+"281" "Edward Dorrit" "Mr Frederick Dorrit" 6
+"282" "Edward Dorrit" "Mr John Chivery" 6
+"283" "Edward Dorrit" "Mr Meagles" 2
+"284" "Edward Dorrit" "Mr Merdle" 4
+"285" "Edward Dorrit" "Mr Pancks" 4
+"286" "Edward Dorrit" "Mr Plornish" 5
+"287" "Edward Dorrit" "Mr Rugg" 2
+"288" "Edward Dorrit" "Mr Sparkler" 3
+"289" "Edward Dorrit" "Mr William Dorrit" 12
+"290" "Edward Dorrit" "Mrs Bangham" 2
+"291" "Edward Dorrit" "Mrs Captain Barbary" 1
+"292" "Edward Dorrit" "Mrs Chivery" 1
+"293" "Edward Dorrit" "Mrs Clennam" 3
+"294" "Edward Dorrit" "Mrs General" 5
+"295" "Edward Dorrit" "Mrs Gowan" 3
+"296" "Edward Dorrit" "Mrs Merdle" 5
+"297" "Edward Dorrit" "Mrs Plornish" 2
+"298" "Edward Dorrit" "Rigaud" 3
+"299" "Edward Dorrit" "Slingo" 1
+"300" "Edward Dorrit" "Tinkler" 2
+"301" "Ephraim Flintwinch" "Jeremiah Flintwinch" 1
+"302" "Ephraim Flintwinch" "Mr Frederick Dorrit" 1
+"303" "Ephraim Flintwinch" "Mr Pancks" 1
+"304" "Ephraim Flintwinch" "Mrs Clennam" 1
+"305" "Ephraim Flintwinch" "Rigaud" 1
+"306" "Fanny Dorrit" "Flora Finching" 1
+"307" "Fanny Dorrit" "Harriet Beadle" 1
+"308" "Fanny Dorrit" "Henry Gowan" 8
+"309" "Fanny Dorrit" "Jeremiah Flintwinch" 1
+"310" "Fanny Dorrit" "John Edward Nandy" 2
+"311" "Fanny Dorrit" "Maggy" 9
+"312" "Fanny Dorrit" "Minnie Meagles" 6
+"313" "Fanny Dorrit" "Miss Wade" 1
+"314" "Fanny Dorrit" "Mr Cripples" 2
+"315" "Fanny Dorrit" "Mr F.'s Aunt" 1
+"316" "Fanny Dorrit" "Mr Frederick Dorrit" 5
+"317" "Fanny Dorrit" "Mr John Chivery" 6
+"318" "Fanny Dorrit" "Mr Meagles" 4
+"319" "Fanny Dorrit" "Mr Merdle" 11
+"320" "Fanny Dorrit" "Mr Pancks" 3
+"321" "Fanny Dorrit" "Mr Plornish" 4
+"322" "Fanny Dorrit" "Mr Rugg" 2
+"323" "Fanny Dorrit" "Mr Sparkler" 9
+"324" "Fanny Dorrit" "Mr Tite Barnacle" 1
+"325" "Fanny Dorrit" "Mr William Dorrit" 14
+"326" "Fanny Dorrit" "Mrs Bangham" 3
+"327" "Fanny Dorrit" "Mrs Clennam" 3
+"328" "Fanny Dorrit" "Mrs General" 12
+"329" "Fanny Dorrit" "Mrs Gowan" 6
+"330" "Fanny Dorrit" "Mrs Meagles" 1
+"331" "Fanny Dorrit" "Mrs Merdle" 11
+"332" "Fanny Dorrit" "Mrs Plornish" 3
+"333" "Fanny Dorrit" "Mrs Tickit" 1
+"334" "Fanny Dorrit" "Rigaud" 4
+"335" "Fanny Dorrit" "Slingo" 1
+"336" "Fanny Dorrit" "Tinkler" 3
+"337" "Fanny Dorrit" "Treasury" 1
+"338" "Ferdinand Barnacle" "Henry Gowan" 3
+"339" "Ferdinand Barnacle" "Jeremiah Flintwinch" 1
+"340" "Ferdinand Barnacle" "John Baptist Cavalletto" 1
+"341" "Ferdinand Barnacle" "Lady Stiltstalking" 1
+"342" "Ferdinand Barnacle" "Lord Decimus Tite Barnacle" 1
+"343" "Ferdinand Barnacle" "Minnie Meagles" 2
+"344" "Ferdinand Barnacle" "Miss Tite Barnacles" 1
+"345" "Ferdinand Barnacle" "Miss Wade" 1
+"346" "Ferdinand Barnacle" "Mr Meagles" 3
+"347" "Ferdinand Barnacle" "Mr Merdle" 3
+"348" "Ferdinand Barnacle" "Mr Pancks" 1
+"349" "Ferdinand Barnacle" "Mr Rugg" 1
+"350" "Ferdinand Barnacle" "Mr Sparkler" 1
+"351" "Ferdinand Barnacle" "Mr Tite Barnacle" 3
+"352" "Ferdinand Barnacle" "Mr William Dorrit" 2
+"353" "Ferdinand Barnacle" "Mr Wobbler" 1
+"354" "Ferdinand Barnacle" "Mrs Gowan" 1
+"355" "Ferdinand Barnacle" "Mrs Meagles" 2
+"356" "Ferdinand Barnacle" "Mrs Merdle" 2
+"357" "Ferdinand Barnacle" "Mrs Plornish" 1
+"358" "Ferdinand Barnacle" "Mrs Tickit" 1
+"359" "Ferdinand Barnacle" "Mrs Tite Barnacle" 2
+"360" "Ferdinand Barnacle" "Physician" 2
+"361" "Ferdinand Barnacle" "Rigaud" 1
+"362" "Ferdinand Barnacle" "Treasury" 1
+"363" "Ferdinand Barnacle" "Tudor Stiltstalking" 1
+"364" "Flora Finching" "Harriet Beadle" 1
+"365" "Flora Finching" "Henry Gowan" 2
+"366" "Flora Finching" "Jeremiah Flintwinch" 3
+"367" "Flora Finching" "John Baptist Cavalletto" 2
+"368" "Flora Finching" "Lord Decimus Tite Barnacle" 1
+"369" "Flora Finching" "Maggy" 3
+"370" "Flora Finching" "Minnie Meagles" 2
+"371" "Flora Finching" "Miss Wade" 1
+"372" "Flora Finching" "Mr F.'s Aunt" 8
+"373" "Flora Finching" "Mr John Chivery" 2
+"374" "Flora Finching" "Mr Meagles" 3
+"375" "Flora Finching" "Mr Merdle" 1
+"376" "Flora Finching" "Mr Pancks" 8
+"377" "Flora Finching" "Mr Plornish" 2
+"378" "Flora Finching" "Mr Rugg" 2
+"379" "Flora Finching" "Mr William Dorrit" 4
+"380" "Flora Finching" "Mrs Clennam" 4
+"381" "Flora Finching" "Mrs Meagles" 1
+"382" "Flora Finching" "Mrs Plornish" 1
+"383" "Flora Finching" "Mrs Tickit" 1
+"384" "Flora Finching" "Rigaud" 2
+"385" "Harriet Beadle" "Henry Gowan" 5
+"386" "Harriet Beadle" "Jeremiah Flintwinch" 1
+"387" "Harriet Beadle" "John Baptist Cavalletto" 1
+"388" "Harriet Beadle" "Maggy" 1
+"389" "Harriet Beadle" "Minnie Meagles" 6
+"390" "Harriet Beadle" "Miss Wade" 8
+"391" "Harriet Beadle" "Mr F.'s Aunt" 1
+"392" "Harriet Beadle" "Mr Meagles" 6
+"393" "Harriet Beadle" "Mr Merdle" 1
+"394" "Harriet Beadle" "Mr Pancks" 3
+"395" "Harriet Beadle" "Mr Sparkler" 1
+"396" "Harriet Beadle" "Mrs Clennam" 1
+"397" "Harriet Beadle" "Mrs General" 1
+"398" "Harriet Beadle" "Mrs Gowan" 1
+"399" "Harriet Beadle" "Mrs Meagles" 6
+"400" "Harriet Beadle" "Mrs Merdle" 1
+"401" "Harriet Beadle" "Mrs Plornish" 1
+"402" "Harriet Beadle" "Mrs Tickit" 4
+"403" "Harriet Beadle" "Rigaud" 3
+"404" "Henry Gowan" "Jeremiah Flintwinch" 2
+"405" "Henry Gowan" "John Baptist Cavalletto" 2
+"406" "Henry Gowan" "John Edward Nandy" 1
+"407" "Henry Gowan" "Lady Stiltstalking" 1
+"408" "Henry Gowan" "Lord Decimus Tite Barnacle" 1
+"409" "Henry Gowan" "Lord Lancaster Stiltstalking" 1
+"410" "Henry Gowan" "Maggy" 3
+"411" "Henry Gowan" "Minnie Meagles" 12
+"412" "Henry Gowan" "Miss Tite Barnacles" 1
+"413" "Henry Gowan" "Miss Wade" 7
+"414" "Henry Gowan" "Mr F.'s Aunt" 2
+"415" "Henry Gowan" "Mr Frederick Dorrit" 2
+"416" "Henry Gowan" "Mr Meagles" 11
+"417" "Henry Gowan" "Mr Merdle" 8
+"418" "Henry Gowan" "Mr Pancks" 6
+"419" "Henry Gowan" "Mr Rugg" 1
+"420" "Henry Gowan" "Mr Sparkler" 7
+"421" "Henry Gowan" "Mr Tite Barnacle" 1
+"422" "Henry Gowan" "Mr William Dorrit" 5
+"423" "Henry Gowan" "Mrs Clennam" 2
+"424" "Henry Gowan" "Mrs General" 8
+"425" "Henry Gowan" "Mrs Gowan" 11
+"426" "Henry Gowan" "Mrs Meagles" 8
+"427" "Henry Gowan" "Mrs Merdle" 7
+"428" "Henry Gowan" "Mrs Plornish" 3
+"429" "Henry Gowan" "Mrs Tickit" 4
+"430" "Henry Gowan" "Mrs Tite Barnacle" 1
+"431" "Henry Gowan" "Physician" 1
+"432" "Henry Gowan" "Rigaud" 7
+"433" "Henry Gowan" "Tinkler" 1
+"434" "Henry Gowan" "Treasury" 2
+"435" "Henry Gowan" "Tudor Stiltstalking" 2
+"436" "Jeremiah Flintwinch" "John Baptist Cavalletto" 2
+"437" "Jeremiah Flintwinch" "Maggy" 1
+"438" "Jeremiah Flintwinch" "Miss Wade" 2
+"439" "Jeremiah Flintwinch" "Mr F.'s Aunt" 2
+"440" "Jeremiah Flintwinch" "Mr Frederick Dorrit" 1
+"441" "Jeremiah Flintwinch" "Mr Merdle" 2
+"442" "Jeremiah Flintwinch" "Mr Pancks" 4
+"443" "Jeremiah Flintwinch" "Mr Rugg" 1
+"444" "Jeremiah Flintwinch" "Mr William Dorrit" 1
+"445" "Jeremiah Flintwinch" "Mrs Bangham" 1
+"446" "Jeremiah Flintwinch" "Mrs Clennam" 12
+"447" "Jeremiah Flintwinch" "Mrs Plornish" 1
+"448" "Jeremiah Flintwinch" "Physician" 1
+"449" "Jeremiah Flintwinch" "Rigaud" 6
+"450" "John Baptist Cavalletto" "John Edward Nandy" 1
+"451" "John Baptist Cavalletto" "Lord Decimus Tite Barnacle" 1
+"452" "John Baptist Cavalletto" "Madame Barronneau" 1
+"453" "John Baptist Cavalletto" "Maggy" 2
+"454" "John Baptist Cavalletto" "Minnie Meagles" 1
+"455" "John Baptist Cavalletto" "Miss Wade" 2
+"456" "John Baptist Cavalletto" "Mr F.'s Aunt" 2
+"457" "John Baptist Cavalletto" "Mr John Chivery" 2
+"458" "John Baptist Cavalletto" "Mr Meagles" 1
+"459" "John Baptist Cavalletto" "Mr Merdle" 2
+"460" "John Baptist Cavalletto" "Mr Pancks" 6
+"461" "John Baptist Cavalletto" "Mr Plornish" 1
+"462" "John Baptist Cavalletto" "Mr Rugg" 3
+"463" "John Baptist Cavalletto" "Mr William Dorrit" 2
+"464" "John Baptist Cavalletto" "Mrs Chivery" 1
+"465" "John Baptist Cavalletto" "Mrs Clennam" 1
+"466" "John Baptist Cavalletto" "Mrs Meagles" 1
+"467" "John Baptist Cavalletto" "Mrs Plornish" 4
+"468" "John Baptist Cavalletto" "Mrs Tickit" 1
+"469" "John Baptist Cavalletto" "Rigaud" 5
+"470" "John Chivery" "Mr John Chivery" 2
+"471" "John Chivery" "Mr Pancks" 1
+"472" "John Chivery" "Mr Plornish" 1
+"473" "John Chivery" "Mr Rugg" 1
+"474" "John Chivery" "Mrs Chivery" 1
+"475" "John Chivery" "Mrs Plornish" 2
+"476" "John Edward Nandy" "Maggy" 3
+"477" "John Edward Nandy" "Mr John Chivery" 1
+"478" "John Edward Nandy" "Mr Merdle" 1
+"479" "John Edward Nandy" "Mr Pancks" 1
+"480" "John Edward Nandy" "Mr Plornish" 2
+"481" "John Edward Nandy" "Mr Rugg" 1
+"482" "John Edward Nandy" "Mr William Dorrit" 2
+"483" "John Edward Nandy" "Mrs Clennam" 1
+"484" "John Edward Nandy" "Mrs General" 1
+"485" "John Edward Nandy" "Mrs Gowan" 1
+"486" "John Edward Nandy" "Mrs Plornish" 3
+"487" "Lady Stiltstalking" "Minnie Meagles" 1
+"488" "Lady Stiltstalking" "Mr Meagles" 1
+"489" "Lady Stiltstalking" "Mrs Meagles" 1
+"490" "Lord Decimus Tite Barnacle" "Minnie Meagles" 1
+"491" "Lord Decimus Tite Barnacle" "Miss Tite Barnacles" 1
+"492" "Lord Decimus Tite Barnacle" "Mr F.'s Aunt" 1
+"493" "Lord Decimus Tite Barnacle" "Mr John Chivery" 1
+"494" "Lord Decimus Tite Barnacle" "Mr Meagles" 1
+"495" "Lord Decimus Tite Barnacle" "Mr Pancks" 2
+"496" "Lord Decimus Tite Barnacle" "Mr Rugg" 1
+"497" "Lord Decimus Tite Barnacle" "Mr Tite Barnacle" 1
+"498" "Lord Decimus Tite Barnacle" "Mr William Dorrit" 1
+"499" "Lord Decimus Tite Barnacle" "Mrs Chivery" 1
+"500" "Lord Decimus Tite Barnacle" "Mrs Gowan" 1
+"501" "Lord Decimus Tite Barnacle" "Mrs Meagles" 1
+"502" "Lord Decimus Tite Barnacle" "Mrs Plornish" 1
+"503" "Lord Decimus Tite Barnacle" "Mrs Tickit" 1
+"504" "Lord Decimus Tite Barnacle" "Mrs Tite Barnacle" 1
+"505" "Lord Decimus Tite Barnacle" "Treasury" 1
+"506" "Lord Decimus Tite Barnacle" "Tudor Stiltstalking" 1
+"507" "Lord Lancaster Stiltstalking" "Minnie Meagles" 1
+"508" "Lord Lancaster Stiltstalking" "Mr Meagles" 1
+"509" "Lord Lancaster Stiltstalking" "Mrs Gowan" 1
+"510" "Lord Lancaster Stiltstalking" "Tudor Stiltstalking" 1
+"511" "Madame Barronneau" "Rigaud" 1
+"512" "Maggy" "Minnie Meagles" 2
+"513" "Maggy" "Miss Wade" 1
+"514" "Maggy" "Mr Cripples" 2
+"515" "Maggy" "Mr F.'s Aunt" 3
+"516" "Maggy" "Mr Frederick Dorrit" 2
+"517" "Maggy" "Mr John Chivery" 7
+"518" "Maggy" "Mr Meagles" 2
+"519" "Maggy" "Mr Merdle" 3
+"520" "Maggy" "Mr Pancks" 7
+"521" "Maggy" "Mr Plornish" 6
+"522" "Maggy" "Mr Rugg" 5
+"523" "Maggy" "Mr Sparkler" 2
+"524" "Maggy" "Mr Tite Barnacle" 1
+"525" "Maggy" "Mr William Dorrit" 10
+"526" "Maggy" "Mrs Bangham" 1
+"527" "Maggy" "Mrs Chivery" 1
+"528" "Maggy" "Mrs Clennam" 3
+"529" "Maggy" "Mrs General" 3
+"530" "Maggy" "Mrs Gowan" 2
+"531" "Maggy" "Mrs Meagles" 1
+"532" "Maggy" "Mrs Merdle" 3
+"533" "Maggy" "Mrs Plornish" 5
+"534" "Maggy" "Mrs Tickit" 1
+"535" "Maggy" "Rigaud" 2
+"536" "Minnie Meagles" "Miss Tite Barnacles" 1
+"537" "Minnie Meagles" "Miss Wade" 6
+"538" "Minnie Meagles" "Mr F.'s Aunt" 2
+"539" "Minnie Meagles" "Mr Frederick Dorrit" 1
+"540" "Minnie Meagles" "Mr John Chivery" 1
+"541" "Minnie Meagles" "Mr Meagles" 13
+"542" "Minnie Meagles" "Mr Merdle" 4
+"543" "Minnie Meagles" "Mr Pancks" 4
+"544" "Minnie Meagles" "Mr Rugg" 1
+"545" "Minnie Meagles" "Mr Sparkler" 4
+"546" "Minnie Meagles" "Mr Tite Barnacle" 1
+"547" "Minnie Meagles" "Mr William Dorrit" 3
+"548" "Minnie Meagles" "Mrs General" 6
+"549" "Minnie Meagles" "Mrs Gowan" 7
+"550" "Minnie Meagles" "Mrs Meagles" 8
+"551" "Minnie Meagles" "Mrs Merdle" 4
+"552" "Minnie Meagles" "Mrs Plornish" 1
+"553" "Minnie Meagles" "Mrs Tickit" 5
+"554" "Minnie Meagles" "Mrs Tite Barnacle" 1
+"555" "Minnie Meagles" "Rigaud" 4
+"556" "Minnie Meagles" "Treasury" 1
+"557" "Minnie Meagles" "Tudor Stiltstalking" 2
+"558" "Miss Tite Barnacles" "Mr Meagles" 1
+"559" "Miss Tite Barnacles" "Mr Tite Barnacle" 1
+"560" "Miss Tite Barnacles" "Mrs Gowan" 1
+"561" "Miss Tite Barnacles" "Mrs Meagles" 1
+"562" "Miss Tite Barnacles" "Mrs Tickit" 1
+"563" "Miss Tite Barnacles" "Mrs Tite Barnacle" 1
+"564" "Miss Tite Barnacles" "Treasury" 1
+"565" "Miss Tite Barnacles" "Tudor Stiltstalking" 1
+"566" "Miss Wade" "Mr F.'s Aunt" 1
+"567" "Miss Wade" "Mr Meagles" 6
+"568" "Miss Wade" "Mr Merdle" 2
+"569" "Miss Wade" "Mr Pancks" 4
+"570" "Miss Wade" "Mr Rugg" 1
+"571" "Miss Wade" "Mr Sparkler" 1
+"572" "Miss Wade" "Mrs Clennam" 1
+"573" "Miss Wade" "Mrs General" 1
+"574" "Miss Wade" "Mrs Gowan" 1
+"575" "Miss Wade" "Mrs Meagles" 6
+"576" "Miss Wade" "Mrs Merdle" 1
+"577" "Miss Wade" "Mrs Plornish" 2
+"578" "Miss Wade" "Mrs Tickit" 4
+"579" "Miss Wade" "Rigaud" 4
+"580" "Mr Cripples" "Mr John Chivery" 1
+"581" "Mr Cripples" "Mr Merdle" 1
+"582" "Mr Cripples" "Mr Plornish" 2
+"583" "Mr Cripples" "Mr Tite Barnacle" 1
+"584" "Mr Cripples" "Mr William Dorrit" 2
+"585" "Mr Cripples" "Mrs Merdle" 1
+"586" "Mr F.'s Aunt" "Mr John Chivery" 2
+"587" "Mr F.'s Aunt" "Mr Meagles" 3
+"588" "Mr F.'s Aunt" "Mr Merdle" 1
+"589" "Mr F.'s Aunt" "Mr Pancks" 7
+"590" "Mr F.'s Aunt" "Mr Plornish" 2
+"591" "Mr F.'s Aunt" "Mr Rugg" 2
+"592" "Mr F.'s Aunt" "Mr William Dorrit" 4
+"593" "Mr F.'s Aunt" "Mrs Clennam" 3
+"594" "Mr F.'s Aunt" "Mrs Meagles" 1
+"595" "Mr F.'s Aunt" "Mrs Plornish" 1
+"596" "Mr F.'s Aunt" "Mrs Tickit" 1
+"597" "Mr F.'s Aunt" "Rigaud" 2
+"598" "Mr Frederick Dorrit" "Mr John Chivery" 3
+"599" "Mr Frederick Dorrit" "Mr Merdle" 2
+"600" "Mr Frederick Dorrit" "Mr Pancks" 2
+"601" "Mr Frederick Dorrit" "Mr Plornish" 1
+"602" "Mr Frederick Dorrit" "Mr Rugg" 1
+"603" "Mr Frederick Dorrit" "Mr Sparkler" 2
+"604" "Mr Frederick Dorrit" "Mr William Dorrit" 7
+"605" "Mr Frederick Dorrit" "Mrs Bangham" 1
+"606" "Mr Frederick Dorrit" "Mrs Clennam" 2
+"607" "Mr Frederick Dorrit" "Mrs General" 4
+"608" "Mr Frederick Dorrit" "Mrs Gowan" 2
+"609" "Mr Frederick Dorrit" "Mrs Merdle" 3
+"610" "Mr Frederick Dorrit" "Rigaud" 3
+"611" "Mr Frederick Dorrit" "Tinkler" 2
+"612" "Mr John Chivery" "Mr Meagles" 1
+"613" "Mr John Chivery" "Mr Merdle" 3
+"614" "Mr John Chivery" "Mr Pancks" 6
+"615" "Mr John Chivery" "Mr Plornish" 4
+"616" "Mr John Chivery" "Mr Rugg" 5
+"617" "Mr John Chivery" "Mr Sparkler" 1
+"618" "Mr John Chivery" "Mr William Dorrit" 10
+"619" "Mr John Chivery" "Mrs Bangham" 1
+"620" "Mr John Chivery" "Mrs Chivery" 4
+"621" "Mr John Chivery" "Mrs General" 2
+"622" "Mr John Chivery" "Mrs Merdle" 2
+"623" "Mr John Chivery" "Mrs Plornish" 5
+"624" "Mr John Chivery" "Tinkler" 1
+"625" "Mr Meagles" "Mr Merdle" 3
+"626" "Mr Meagles" "Mr Pancks" 6
+"627" "Mr Meagles" "Mr Plornish" 2
+"628" "Mr Meagles" "Mr Rugg" 1
+"629" "Mr Meagles" "Mr Sparkler" 3
+"630" "Mr Meagles" "Mr Tite Barnacle" 2
+"631" "Mr Meagles" "Mr William Dorrit" 4
+"632" "Mr Meagles" "Mr Wobbler" 1
+"633" "Mr Meagles" "Mrs Captain Barbary" 1
+"634" "Mr Meagles" "Mrs Clennam" 1
+"635" "Mr Meagles" "Mrs General" 3
+"636" "Mr Meagles" "Mrs Gowan" 7
+"637" "Mr Meagles" "Mrs Meagles" 9
+"638" "Mr Meagles" "Mrs Merdle" 3
+"639" "Mr Meagles" "Mrs Plornish" 3
+"640" "Mr Meagles" "Mrs Tickit" 5
+"641" "Mr Meagles" "Mrs Tite Barnacle" 2
+"642" "Mr Meagles" "Physician" 1
+"643" "Mr Meagles" "Rigaud" 2
+"644" "Mr Meagles" "Treasury" 2
+"645" "Mr Meagles" "Tudor Stiltstalking" 2
+"646" "Mr Merdle" "Mr Pancks" 4
+"647" "Mr Merdle" "Mr Plornish" 2
+"648" "Mr Merdle" "Mr Rugg" 3
+"649" "Mr Merdle" "Mr Sparkler" 11
+"650" "Mr Merdle" "Mr Tite Barnacle" 1
+"651" "Mr Merdle" "Mr William Dorrit" 11
+"652" "Mr Merdle" "Mrs Bangham" 1
+"653" "Mr Merdle" "Mrs Clennam" 2
+"654" "Mr Merdle" "Mrs General" 9
+"655" "Mr Merdle" "Mrs Gowan" 4
+"656" "Mr Merdle" "Mrs Meagles" 2
+"657" "Mr Merdle" "Mrs Merdle" 14
+"658" "Mr Merdle" "Mrs Plornish" 4
+"659" "Mr Merdle" "Mrs Tickit" 1
+"660" "Mr Merdle" "Physician" 4
+"661" "Mr Merdle" "Rigaud" 5
+"662" "Mr Merdle" "Tinkler" 3
+"663" "Mr Merdle" "Treasury" 3
+"664" "Mr Pancks" "Mr Plornish" 5
+"665" "Mr Pancks" "Mr Rugg" 9
+"666" "Mr Pancks" "Mr William Dorrit" 9
+"667" "Mr Pancks" "Mrs Captain Barbary" 1
+"668" "Mr Pancks" "Mrs Chivery" 1
+"669" "Mr Pancks" "Mrs Clennam" 6
+"670" "Mr Pancks" "Mrs General" 1
+"671" "Mr Pancks" "Mrs Gowan" 2
+"672" "Mr Pancks" "Mrs Meagles" 2
+"673" "Mr Pancks" "Mrs Plornish" 8
+"674" "Mr Pancks" "Mrs Tickit" 2
+"675" "Mr Pancks" "Rigaud" 5
+"676" "Mr Plornish" "Mr Rugg" 2
+"677" "Mr Plornish" "Mr Tite Barnacle" 1
+"678" "Mr Plornish" "Mr William Dorrit" 7
+"679" "Mr Plornish" "Mrs Captain Barbary" 1
+"680" "Mr Plornish" "Mrs Chivery" 1
+"681" "Mr Plornish" "Mrs Clennam" 2
+"682" "Mr Plornish" "Mrs Merdle" 1
+"683" "Mr Plornish" "Mrs Plornish" 5
+"684" "Mr Rugg" "Mr William Dorrit" 4
+"685" "Mr Rugg" "Mrs Chivery" 1
+"686" "Mr Rugg" "Mrs Clennam" 1
+"687" "Mr Rugg" "Mrs Plornish" 5
+"688" "Mr Rugg" "Rigaud" 1
+"689" "Mr Sparkler" "Mr Tite Barnacle" 1
+"690" "Mr Sparkler" "Mr William Dorrit" 7
+"691" "Mr Sparkler" "Mrs General" 9
+"692" "Mr Sparkler" "Mrs Gowan" 5
+"693" "Mr Sparkler" "Mrs Meagles" 2
+"694" "Mr Sparkler" "Mrs Merdle" 11
+"695" "Mr Sparkler" "Mrs Plornish" 1
+"696" "Mr Sparkler" "Mrs Tickit" 1
+"697" "Mr Sparkler" "Physician" 3
+"698" "Mr Sparkler" "Rigaud" 4
+"699" "Mr Sparkler" "Tinkler" 2
+"700" "Mr Sparkler" "Treasury" 2
+"701" "Mr Tite Barnacle" "Mr William Dorrit" 3
+"702" "Mr Tite Barnacle" "Mr Wobbler" 1
+"703" "Mr Tite Barnacle" "Mrs Gowan" 1
+"704" "Mr Tite Barnacle" "Mrs Meagles" 1
+"705" "Mr Tite Barnacle" "Mrs Merdle" 1
+"706" "Mr Tite Barnacle" "Mrs Tickit" 1
+"707" "Mr Tite Barnacle" "Mrs Tite Barnacle" 2
+"708" "Mr Tite Barnacle" "Physician" 1
+"709" "Mr Tite Barnacle" "Treasury" 1
+"710" "Mr Tite Barnacle" "Tudor Stiltstalking" 1
+"711" "Mr William Dorrit" "Mr Wobbler" 1
+"712" "Mr William Dorrit" "Mrs Bangham" 3
+"713" "Mr William Dorrit" "Mrs Captain Barbary" 1
+"714" "Mr William Dorrit" "Mrs Chivery" 2
+"715" "Mr William Dorrit" "Mrs Clennam" 3
+"716" "Mr William Dorrit" "Mrs General" 9
+"717" "Mr William Dorrit" "Mrs Gowan" 4
+"718" "Mr William Dorrit" "Mrs Merdle" 9
+"719" "Mr William Dorrit" "Mrs Plornish" 5
+"720" "Mr William Dorrit" "Mrs Tite Barnacle" 1
+"721" "Mr William Dorrit" "Physician" 1
+"722" "Mr William Dorrit" "Rigaud" 5
+"723" "Mr William Dorrit" "Slingo" 1
+"724" "Mr William Dorrit" "Tinkler" 3
+"725" "Mr William Dorrit" "Treasury" 1
+"726" "Mr Wobbler" "Mrs Tite Barnacle" 1
+"727" "Mrs Bangham" "Mrs Clennam" 1
+"728" "Mrs Bangham" "Mrs General" 1
+"729" "Mrs Bangham" "Mrs Merdle" 1
+"730" "Mrs Bangham" "Slingo" 1
+"731" "Mrs Bangham" "Tinkler" 1
+"732" "Mrs Captain Barbary" "Mrs Clennam" 1
+"733" "Mrs Captain Barbary" "Mrs Plornish" 1
+"734" "Mrs Chivery" "Mrs Plornish" 2
+"735" "Mrs Clennam" "Mrs General" 1
+"736" "Mrs Clennam" "Mrs Gowan" 1
+"737" "Mrs Clennam" "Mrs Plornish" 3
+"738" "Mrs Clennam" "Physician" 1
+"739" "Mrs Clennam" "Rigaud" 5
+"740" "Mrs General" "Mrs Gowan" 6
+"741" "Mrs General" "Mrs Meagles" 1
+"742" "Mrs General" "Mrs Merdle" 9
+"743" "Mrs General" "Mrs Plornish" 2
+"744" "Mrs General" "Mrs Tickit" 1
+"745" "Mrs General" "Rigaud" 5
+"746" "Mrs General" "Tinkler" 3
+"747" "Mrs Gowan" "Mrs Meagles" 3
+"748" "Mrs Gowan" "Mrs Merdle" 5
+"749" "Mrs Gowan" "Mrs Plornish" 1
+"750" "Mrs Gowan" "Mrs Tickit" 2
+"751" "Mrs Gowan" "Mrs Tite Barnacle" 1
+"752" "Mrs Gowan" "Physician" 1
+"753" "Mrs Gowan" "Rigaud" 3
+"754" "Mrs Gowan" "Tinkler" 1
+"755" "Mrs Gowan" "Treasury" 2
+"756" "Mrs Gowan" "Tudor Stiltstalking" 2
+"757" "Mrs Meagles" "Mrs Merdle" 2
+"758" "Mrs Meagles" "Mrs Plornish" 1
+"759" "Mrs Meagles" "Mrs Tickit" 4
+"760" "Mrs Meagles" "Mrs Tite Barnacle" 1
+"761" "Mrs Meagles" "Physician" 1
+"762" "Mrs Meagles" "Rigaud" 2
+"763" "Mrs Meagles" "Treasury" 2
+"764" "Mrs Meagles" "Tudor Stiltstalking" 1
+"765" "Mrs Merdle" "Mrs Plornish" 1
+"766" "Mrs Merdle" "Mrs Tickit" 1
+"767" "Mrs Merdle" "Physician" 4
+"768" "Mrs Merdle" "Rigaud" 4
+"769" "Mrs Merdle" "Tinkler" 3
+"770" "Mrs Merdle" "Treasury" 3
+"771" "Mrs Plornish" "Mrs Tickit" 1
+"772" "Mrs Plornish" "Rigaud" 2
+"773" "Mrs Tickit" "Mrs Tite Barnacle" 1
+"774" "Mrs Tickit" "Rigaud" 1
+"775" "Mrs Tickit" "Treasury" 1
+"776" "Mrs Tickit" "Tudor Stiltstalking" 1
+"777" "Mrs Tite Barnacle" "Treasury" 1
+"778" "Mrs Tite Barnacle" "Tudor Stiltstalking" 1
+"779" "Physician" "Treasury" 2
+"780" "Treasury" "Tudor Stiltstalking" 1

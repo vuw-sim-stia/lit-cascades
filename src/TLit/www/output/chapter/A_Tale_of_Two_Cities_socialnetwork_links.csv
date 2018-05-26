@@ -1,0 +1,159 @@
+"id1" "id2" "label"
+"1" "Charles St Evrémonde" "Doctor Manette" 19
+"2" "Charles St Evrémonde" "Ernest Defarge" 13
+"3" "Charles St Evrémonde" "Gaspard" 1
+"4" "Charles St Evrémonde" "Jacques" 6
+"5" "Charles St Evrémonde" "Jarvis Lorry" 21
+"6" "Charles St Evrémonde" "Jerry Cruncher" 8
+"7" "Charles St Evrémonde" "Lucie Manette" 18
+"8" "Charles St Evrémonde" "Marquis St Evrémonde II" 7
+"9" "Charles St Evrémonde" "Miss Pross" 13
+"10" "Charles St Evrémonde" "Mr Stryver" 5
+"11" "Charles St Evrémonde" "Mrs Cruncher" 2
+"12" "Charles St Evrémonde" "Mrs Stryver" 1
+"13" "Charles St Evrémonde" "Roger Cly" 2
+"14" "Charles St Evrémonde" "Solomon Pross" 10
+"15" "Charles St Evrémonde" "Sydney Carton" 11
+"16" "Charles St Evrémonde" "The Vengeance" 6
+"17" "Charles St Evrémonde" "Théophile Gabelle" 5
+"18" "Charles St Evrémonde" "Thérèse Defarge" 9
+"19" "Doctor Manette" "Ernest Defarge" 14
+"20" "Doctor Manette" "Gaspard" 2
+"21" "Doctor Manette" "Jacques" 5
+"22" "Doctor Manette" "Jarvis Lorry" 23
+"23" "Doctor Manette" "Jerry Cruncher" 7
+"24" "Doctor Manette" "Lucie Manette" 18
+"25" "Doctor Manette" "Marquis St Evrémonde I" 1
+"26" "Doctor Manette" "Marquis St Evrémonde II" 5
+"27" "Doctor Manette" "Miss Pross" 12
+"28" "Doctor Manette" "Mr Stryver" 9
+"29" "Doctor Manette" "Mrs Cruncher" 1
+"30" "Doctor Manette" "Mrs Stryver" 1
+"31" "Doctor Manette" "Roger Cly" 2
+"32" "Doctor Manette" "Solomon Pross" 9
+"33" "Doctor Manette" "Sydney Carton" 13
+"34" "Doctor Manette" "The Vengeance" 4
+"35" "Doctor Manette" "Théophile Gabelle" 3
+"36" "Doctor Manette" "Thérèse Defarge" 9
+"37" "Ernest Defarge" "Foulon" 1
+"38" "Ernest Defarge" "Gaspard" 2
+"39" "Ernest Defarge" "Jacques" 8
+"40" "Ernest Defarge" "Jarvis Lorry" 13
+"41" "Ernest Defarge" "Jerry Cruncher" 5
+"42" "Ernest Defarge" "Lucie Manette" 9
+"43" "Ernest Defarge" "Marquis St Evrémonde I" 1
+"44" "Ernest Defarge" "Marquis St Evrémonde II" 5
+"45" "Ernest Defarge" "Miss Pross" 7
+"46" "Ernest Defarge" "Mr Stryver" 1
+"47" "Ernest Defarge" "Mrs Cruncher" 2
+"48" "Ernest Defarge" "Mrs Stryver" 1
+"49" "Ernest Defarge" "Roger Cly" 2
+"50" "Ernest Defarge" "Solomon Pross" 7
+"51" "Ernest Defarge" "Sydney Carton" 5
+"52" "Ernest Defarge" "The Vengeance" 7
+"53" "Ernest Defarge" "Théophile Gabelle" 2
+"54" "Ernest Defarge" "Thérèse Defarge" 13
+"55" "Foulon" "Jacques" 1
+"56" "Foulon" "The Vengeance" 1
+"57" "Foulon" "Thérèse Defarge" 1
+"58" "Gaspard" "Jacques" 2
+"59" "Gaspard" "Jarvis Lorry" 1
+"60" "Gaspard" "Marquis St Evrémonde II" 1
+"61" "Gaspard" "Solomon Pross" 1
+"62" "Gaspard" "Thérèse Defarge" 2
+"63" "Jacques" "Jarvis Lorry" 5
+"64" "Jacques" "Jerry Cruncher" 2
+"65" "Jacques" "Lucie Manette" 4
+"66" "Jacques" "Marquis St Evrémonde II" 5
+"67" "Jacques" "Miss Pross" 2
+"68" "Jacques" "Mr Stryver" 1
+"69" "Jacques" "Mrs Cruncher" 2
+"70" "Jacques" "Mrs Stryver" 1
+"71" "Jacques" "Solomon Pross" 3
+"72" "Jacques" "Sydney Carton" 3
+"73" "Jacques" "The Vengeance" 4
+"74" "Jacques" "Théophile Gabelle" 2
+"75" "Jacques" "Thérèse Defarge" 8
+"76" "Jarvis Lorry" "Jerry Cruncher" 10
+"77" "Jarvis Lorry" "Joe" 1
+"78" "Jarvis Lorry" "Lucie Manette" 18
+"79" "Jarvis Lorry" "Marquis St Evrémonde II" 4
+"80" "Jarvis Lorry" "Miss Pross" 13
+"81" "Jarvis Lorry" "Mr Stryver" 6
+"82" "Jarvis Lorry" "Mrs Cruncher" 2
+"83" "Jarvis Lorry" "Mrs Stryver" 1
+"84" "Jarvis Lorry" "Roger Cly" 2
+"85" "Jarvis Lorry" "Solomon Pross" 9
+"86" "Jarvis Lorry" "Sydney Carton" 10
+"87" "Jarvis Lorry" "The Vengeance" 5
+"88" "Jarvis Lorry" "Théophile Gabelle" 3
+"89" "Jarvis Lorry" "Thérèse Defarge" 9
+"90" "Jarvis Lorry" "Tom" 1
+"91" "Jerry Cruncher" "Joe" 1
+"92" "Jerry Cruncher" "Lucie Manette" 6
+"93" "Jerry Cruncher" "Marquis St Evrémonde II" 1
+"94" "Jerry Cruncher" "Miss Pross" 5
+"95" "Jerry Cruncher" "Mr Stryver" 2
+"96" "Jerry Cruncher" "Mrs Cruncher" 4
+"97" "Jerry Cruncher" "Roger Cly" 3
+"98" "Jerry Cruncher" "Solomon Pross" 6
+"99" "Jerry Cruncher" "Sydney Carton" 4
+"100" "Jerry Cruncher" "The Vengeance" 3
+"101" "Jerry Cruncher" "Théophile Gabelle" 1
+"102" "Jerry Cruncher" "Thérèse Defarge" 4
+"103" "Jerry Cruncher" "Tom" 1
+"104" "Jerry Cruncher" "Young Jerry Cruncher" 1
+"105" "Joe" "Tom" 1
+"106" "Lucie Manette" "Marquis St Evrémonde II" 4
+"107" "Lucie Manette" "Miss Pross" 12
+"108" "Lucie Manette" "Mr Stryver" 5
+"109" "Lucie Manette" "Mrs Cruncher" 2
+"110" "Lucie Manette" "Mrs Stryver" 1
+"111" "Lucie Manette" "Solomon Pross" 7
+"112" "Lucie Manette" "Sydney Carton" 9
+"113" "Lucie Manette" "The Vengeance" 5
+"114" "Lucie Manette" "Théophile Gabelle" 2
+"115" "Lucie Manette" "Thérèse Defarge" 6
+"116" "Marquis St Evrémonde I" "Marquis St Evrémonde II" 1
+"117" "Marquis St Evrémonde I" "The Vengeance" 1
+"118" "Marquis St Evrémonde I" "Thérèse Defarge" 1
+"119" "Marquis St Evrémonde II" "Miss Pross" 1
+"120" "Marquis St Evrémonde II" "Mr Stryver" 1
+"121" "Marquis St Evrémonde II" "Solomon Pross" 1
+"122" "Marquis St Evrémonde II" "Sydney Carton" 1
+"123" "Marquis St Evrémonde II" "The Vengeance" 3
+"124" "Marquis St Evrémonde II" "Théophile Gabelle" 4
+"125" "Marquis St Evrémonde II" "Thérèse Defarge" 5
+"126" "Miss Pross" "Mr Stryver" 3
+"127" "Miss Pross" "Mrs Cruncher" 1
+"128" "Miss Pross" "Mrs Stryver" 1
+"129" "Miss Pross" "Roger Cly" 1
+"130" "Miss Pross" "Solomon Pross" 6
+"131" "Miss Pross" "Sydney Carton" 6
+"132" "Miss Pross" "The Vengeance" 2
+"133" "Miss Pross" "Théophile Gabelle" 1
+"134" "Miss Pross" "Thérèse Defarge" 4
+"135" "Mr Stryver" "Mrs Stryver" 1
+"136" "Mr Stryver" "Roger Cly" 1
+"137" "Mr Stryver" "Solomon Pross" 1
+"138" "Mr Stryver" "Sydney Carton" 8
+"139" "Mr Stryver" "Théophile Gabelle" 1
+"140" "Mr Stryver" "Thérèse Defarge" 1
+"141" "Mrs Cruncher" "Roger Cly" 1
+"142" "Mrs Cruncher" "Solomon Pross" 2
+"143" "Mrs Cruncher" "Sydney Carton" 1
+"144" "Mrs Cruncher" "The Vengeance" 2
+"145" "Mrs Cruncher" "Thérèse Defarge" 2
+"146" "Mrs Cruncher" "Young Jerry Cruncher" 1
+"147" "Mrs Stryver" "Sydney Carton" 1
+"148" "Mrs Stryver" "Thérèse Defarge" 1
+"149" "Roger Cly" "Solomon Pross" 3
+"150" "Roger Cly" "Sydney Carton" 3
+"151" "Roger Cly" "The Vengeance" 1
+"152" "Roger Cly" "Thérèse Defarge" 2
+"153" "Solomon Pross" "Sydney Carton" 7
+"154" "Solomon Pross" "The Vengeance" 3
+"155" "Solomon Pross" "Thérèse Defarge" 5
+"156" "Sydney Carton" "The Vengeance" 3
+"157" "Sydney Carton" "Thérèse Defarge" 5
+"158" "The Vengeance" "Thérèse Defarge" 8

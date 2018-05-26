@@ -1,0 +1,95 @@
+"","Character","Node","Type","Appearances"
+"1","Anny",24,"First Appearance",1
+"2","Anny",24,"Last Appearance",1
+"3","Artful Dodger",8,"First Appearance",13
+"4","Artful Dodger",47,"Last Appearance",13
+"5","Barney",15,"First Appearance",5
+"6","Barney",45,"Last Appearance",5
+"7","Bet",9,"First Appearance",5
+"8","Bet",47,"Last Appearance",5
+"9","Bill Sikes",13,"First Appearance",21
+"10","Bill Sikes",53,"Last Appearance",21
+"11","Blathers",31,"First Appearance",2
+"12","Blathers",41,"Last Appearance",2
+"13","Brittles",28,"First Appearance",5
+"14","Brittles",53,"Last Appearance",5
+"15","Charley Bates",9,"First Appearance",12
+"16","Charley Bates",53,"Last Appearance",12
+"17","Charlotte",53,"Last Appearance",7
+"18","Charlotte",4,"First Appearance",7
+"19","Conkey Chickweed",31,"First Appearance",1
+"20","Conkey Chickweed",31,"Last Appearance",1
+"21","Dick",7,"First Appearance",4
+"22","Dick",51,"Last Appearance",4
+"23","Duff",31,"First Appearance",3
+"24","Duff",41,"Last Appearance",3
+"25","Edward Leeford",53,"Last Appearance",11
+"26","Edward Leeford",26,"First Appearance",11
+"27","Fagin",8,"First Appearance",26
+"28","Fagin",53,"Last Appearance",26
+"29","Grannett",23,"First Appearance",1
+"30","Grannett",23,"Last Appearance",1
+"31","Harry Maylie",33,"First Appearance",7
+"32","Harry Maylie",53,"Last Appearance",7
+"33","Jem Spyers",31,"First Appearance",1
+"34","Jem Spyers",31,"Last Appearance",1
+"35","Kags",50,"First Appearance",1
+"36","Kags",50,"Last Appearance",1
+"37","Martha",24,"First Appearance",1
+"38","Martha",24,"Last Appearance",1
+"39","Morris Bolter",42,"First Appearance",3
+"40","Morris Bolter",45,"Last Appearance",3
+"41","Mr Brownlow",11,"First Appearance",12
+"42","Mr Brownlow",53,"Last Appearance",12
+"43","Mr Bumble",53,"Last Appearance",14
+"44","Mr Bumble",2,"First Appearance",14
+"45","Mr Fang",11,"First Appearance",2
+"46","Mr Fang",13,"Last Appearance",2
+"47","Mr Gamfield",3,"First Appearance",2
+"48","Mr Gamfield",51,"Last Appearance",2
+"49","Mr Giles",28,"First Appearance",10
+"50","Mr Giles",53,"Last Appearance",10
+"51","Mr Grimwig",53,"Last Appearance",5
+"52","Mr Grimwig",14,"First Appearance",5
+"53","Mr Limbkins",2,"First Appearance",2
+"54","Mr Limbkins",3,"Last Appearance",2
+"55","Mr Lively",26,"First Appearance",1
+"56","Mr Lively",26,"Last Appearance",1
+"57","Mr Losberne",29,"First Appearance",12
+"58","Mr Losberne",53,"Last Appearance",12
+"59","Mr Mann",17,"First Appearance",1
+"60","Mr Mann",17,"Last Appearance",1
+"61","Mr Slout",27,"First Appearance",1
+"62","Mr Slout",27,"Last Appearance",1
+"63","Mr Sowerberry",4,"First Appearance",8
+"64","Mr Sowerberry",51,"Last Appearance",8
+"65","Mrs Bedwin",12,"First Appearance",7
+"66","Mrs Bedwin",51,"Last Appearance",7
+"67","Mrs Bolter",42,"First Appearance",1
+"68","Mrs Bolter",42,"Last Appearance",1
+"69","Mrs Corney",37,"Last Appearance",4
+"70","Mrs Corney",23,"First Appearance",4
+"71","Mrs Mann",2,"First Appearance",2
+"72","Mrs Mann",17,"Last Appearance",2
+"73","Mrs Maylie",29,"First Appearance",10
+"74","Mrs Maylie",53,"Last Appearance",10
+"75","Mrs Sowerberry",4,"First Appearance",5
+"76","Mrs Sowerberry",27,"Last Appearance",5
+"77","Nancy",47,"Last Appearance",15
+"78","Nancy",9,"First Appearance",15
+"79","Ned",19,"First Appearance",2
+"80","Ned",21,"Last Appearance",2
+"81","Noah Claypole",5,"First Appearance",10
+"82","Noah Claypole",53,"Last Appearance",10
+"83","Oliver Twist",1,"First Appearance",41
+"84","Oliver Twist",53,"Last Appearance",41
+"85","Phil Barker",26,"First Appearance",1
+"86","Phil Barker",26,"Last Appearance",1
+"87","Rose Maylie",29,"First Appearance",14
+"88","Rose Maylie",53,"Last Appearance",14
+"89","Sally",23,"First Appearance",5
+"90","Sally",51,"Last Appearance",5
+"91","Toby Crackit",19,"First Appearance",8
+"92","Toby Crackit",50,"Last Appearance",8
+"93","Tom Chitling",18,"First Appearance",4
+"94","Tom Chitling",50,"Last Appearance",4

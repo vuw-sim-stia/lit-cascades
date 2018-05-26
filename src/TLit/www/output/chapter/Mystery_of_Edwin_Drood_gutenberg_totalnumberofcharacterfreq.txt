@@ -1,0 +1,35 @@
+"Character","Node"
+"Bazzard",3
+"Deputy",4
+"Dick Datchery",2
+"Durdles",6
+"Edwin Drood",13
+"Helena Landless",14
+"Hiram Grewgious",11
+"Jack Chinaman",2
+"Joe",3
+"John Jasper",21
+"Lieutenant Tartar",3
+"Lobley",1
+"Luke Honeythunder",3
+"Miss Brobity",1
+"Miss Dean",1
+"Miss Ferdinand",2
+"Miss Giggles",2
+"Miss Jennings",1
+"Miss Reynolds",1
+"Miss Rickitts",1
+"Miss Twinkleton",10
+"Mr Porters",1
+"Mr Tope",8
+"Mrs Billickin",1
+"Mrs Crisparkle",6
+"Mrs Dean",1
+"Mrs Tisher",5
+"Mrs Tope",5
+"Neville Landless",15
+"Princess Puffer",1
+"Rosa Bud",14
+"Septimus Crisparkle",17
+"The Dean",7
+"Thomas Sapsea",10

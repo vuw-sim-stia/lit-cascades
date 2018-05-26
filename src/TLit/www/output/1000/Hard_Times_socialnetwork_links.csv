@@ -1,0 +1,159 @@
+"id1" "id2" "label"
+"1" "Adam Smith Gradgrind" "Bounderby" 1
+"2" "Adam Smith Gradgrind" "Jane Gradgrind" 1
+"3" "Adam Smith Gradgrind" "Louisa Gradgrind" 1
+"4" "Adam Smith Gradgrind" "Malthus Gradgrind" 1
+"5" "Adam Smith Gradgrind" "Mrs Gradgrind" 1
+"6" "Adam Smith Gradgrind" "Thomas Gradgrind" 1
+"7" "Adam Smith Gradgrind" "Tom Gradgrind" 1
+"8" "Bitzer" "Bounderby" 12
+"9" "Bitzer" "E.W.B. Childers" 1
+"10" "Bitzer" "Harthouse" 5
+"11" "Bitzer" "Louisa Gradgrind" 9
+"12" "Bitzer" "M’Choakumchild" 1
+"13" "Bitzer" "Mr Sleary" 3
+"14" "Bitzer" "Mrs Blackpool" 1
+"15" "Bitzer" "Mrs Gradgrind" 1
+"16" "Bitzer" "Mrs Pegler" 2
+"17" "Bitzer" "Mrs Sparsit" 9
+"18" "Bitzer" "Nickits" 1
+"19" "Bitzer" "Rachael" 2
+"20" "Bitzer" "Sissy Jupe" 7
+"21" "Bitzer" "Slackbridge" 1
+"22" "Bitzer" "Stephen Blackpool" 2
+"23" "Bitzer" "Thomas Gradgrind" 8
+"24" "Bitzer" "Tom Gradgrind" 5
+"25" "Bounderby" "E.W.B. Childers" 3
+"26" "Bounderby" "Emma Gordon" 1
+"27" "Bounderby" "Harthouse" 26
+"28" "Bounderby" "Jane Gradgrind" 2
+"29" "Bounderby" "Kidderminster" 5
+"30" "Bounderby" "Lady Scadgers" 4
+"31" "Bounderby" "Louisa Gradgrind" 52
+"32" "Bounderby" "M’Choakumchild" 3
+"33" "Bounderby" "Malthus Gradgrind" 1
+"34" "Bounderby" "Mr Sleary" 9
+"35" "Bounderby" "Mrs Blackpool" 2
+"36" "Bounderby" "Mrs Gradgrind" 10
+"37" "Bounderby" "Mrs Pegler" 14
+"38" "Bounderby" "Mrs Sparsit" 28
+"39" "Bounderby" "Nickits" 4
+"40" "Bounderby" "Rachael" 17
+"41" "Bounderby" "Signor Jupe" 1
+"42" "Bounderby" "Sissy Jupe" 26
+"43" "Bounderby" "Slackbridge" 6
+"44" "Bounderby" "Stephen Blackpool" 26
+"45" "Bounderby" "Thomas Gradgrind" 48
+"46" "Bounderby" "Tom Gradgrind" 33
+"47" "E.W.B. Childers" "Emma Gordon" 1
+"48" "E.W.B. Childers" "Kidderminster" 3
+"49" "E.W.B. Childers" "Louisa Gradgrind" 3
+"50" "E.W.B. Childers" "Mr Sleary" 4
+"51" "E.W.B. Childers" "Signor Jupe" 1
+"52" "E.W.B. Childers" "Sissy Jupe" 4
+"53" "E.W.B. Childers" "Thomas Gradgrind" 5
+"54" "Emma Gordon" "Louisa Gradgrind" 1
+"55" "Emma Gordon" "Mr Sleary" 2
+"56" "Emma Gordon" "Sissy Jupe" 2
+"57" "Emma Gordon" "Thomas Gradgrind" 2
+"58" "Harthouse" "Lady Scadgers" 1
+"59" "Harthouse" "Louisa Gradgrind" 22
+"60" "Harthouse" "Mr Sleary" 1
+"61" "Harthouse" "Mrs Gradgrind" 1
+"62" "Harthouse" "Mrs Pegler" 2
+"63" "Harthouse" "Mrs Sparsit" 13
+"64" "Harthouse" "Nickits" 4
+"65" "Harthouse" "Sissy Jupe" 4
+"66" "Harthouse" "Slackbridge" 2
+"67" "Harthouse" "Stephen Blackpool" 2
+"68" "Harthouse" "Thomas Gradgrind" 13
+"69" "Harthouse" "Tom Gradgrind" 17
+"70" "Jane Gradgrind" "Louisa Gradgrind" 3
+"71" "Jane Gradgrind" "Malthus Gradgrind" 1
+"72" "Jane Gradgrind" "Mrs Gradgrind" 2
+"73" "Jane Gradgrind" "Mrs Sparsit" 1
+"74" "Jane Gradgrind" "Sissy Jupe" 1
+"75" "Jane Gradgrind" "Thomas Gradgrind" 2
+"76" "Jane Gradgrind" "Tom Gradgrind" 2
+"77" "Kidderminster" "Louisa Gradgrind" 2
+"78" "Kidderminster" "Mr Sleary" 4
+"79" "Kidderminster" "Signor Jupe" 1
+"80" "Kidderminster" "Sissy Jupe" 4
+"81" "Kidderminster" "Thomas Gradgrind" 5
+"82" "Lady Scadgers" "Louisa Gradgrind" 2
+"83" "Lady Scadgers" "Mrs Pegler" 2
+"84" "Lady Scadgers" "Mrs Sparsit" 4
+"85" "Lady Scadgers" "Thomas Gradgrind" 3
+"86" "Louisa Gradgrind" "M’Choakumchild" 3
+"87" "Louisa Gradgrind" "Malthus Gradgrind" 1
+"88" "Louisa Gradgrind" "Mr Sleary" 9
+"89" "Louisa Gradgrind" "Mrs Blackpool" 1
+"90" "Louisa Gradgrind" "Mrs Gradgrind" 10
+"91" "Louisa Gradgrind" "Mrs Pegler" 6
+"92" "Louisa Gradgrind" "Mrs Sparsit" 18
+"93" "Louisa Gradgrind" "Nickits" 4
+"94" "Louisa Gradgrind" "Rachael" 11
+"95" "Louisa Gradgrind" "Sissy Jupe" 27
+"96" "Louisa Gradgrind" "Slackbridge" 3
+"97" "Louisa Gradgrind" "Stephen Blackpool" 15
+"98" "Louisa Gradgrind" "Thomas Gradgrind" 43
+"99" "Louisa Gradgrind" "Tom Gradgrind" 32
+"100" "M’Choakumchild" "Mrs Gradgrind" 3
+"101" "M’Choakumchild" "Mrs Pegler" 1
+"102" "M’Choakumchild" "Sissy Jupe" 5
+"103" "M’Choakumchild" "Thomas Gradgrind" 6
+"104" "M’Choakumchild" "Tom Gradgrind" 1
+"105" "Malthus Gradgrind" "Mrs Gradgrind" 1
+"106" "Malthus Gradgrind" "Thomas Gradgrind" 1
+"107" "Malthus Gradgrind" "Tom Gradgrind" 1
+"108" "Mr Sleary" "Mrs Gradgrind" 1
+"109" "Mr Sleary" "Rachael" 1
+"110" "Mr Sleary" "Signor Jupe" 1
+"111" "Mr Sleary" "Sissy Jupe" 11
+"112" "Mr Sleary" "Stephen Blackpool" 1
+"113" "Mr Sleary" "Thomas Gradgrind" 14
+"114" "Mr Sleary" "Tom Gradgrind" 6
+"115" "Mrs Blackpool" "Mrs Sparsit" 1
+"116" "Mrs Blackpool" "Rachael" 5
+"117" "Mrs Blackpool" "Sissy Jupe" 1
+"118" "Mrs Blackpool" "Stephen Blackpool" 6
+"119" "Mrs Blackpool" "Thomas Gradgrind" 1
+"120" "Mrs Blackpool" "Tom Gradgrind" 1
+"121" "Mrs Gradgrind" "Mrs Pegler" 1
+"122" "Mrs Gradgrind" "Mrs Sparsit" 2
+"123" "Mrs Gradgrind" "Sissy Jupe" 7
+"124" "Mrs Gradgrind" "Thomas Gradgrind" 10
+"125" "Mrs Gradgrind" "Tom Gradgrind" 4
+"126" "Mrs Pegler" "Mrs Sparsit" 6
+"127" "Mrs Pegler" "Rachael" 7
+"128" "Mrs Pegler" "Sissy Jupe" 4
+"129" "Mrs Pegler" "Slackbridge" 2
+"130" "Mrs Pegler" "Stephen Blackpool" 7
+"131" "Mrs Pegler" "Thomas Gradgrind" 6
+"132" "Mrs Pegler" "Tom Gradgrind" 6
+"133" "Mrs Sparsit" "Nickits" 1
+"134" "Mrs Sparsit" "Rachael" 3
+"135" "Mrs Sparsit" "Sissy Jupe" 5
+"136" "Mrs Sparsit" "Stephen Blackpool" 5
+"137" "Mrs Sparsit" "Thomas Gradgrind" 13
+"138" "Mrs Sparsit" "Tom Gradgrind" 12
+"139" "Nickits" "Thomas Gradgrind" 3
+"140" "Nickits" "Tom Gradgrind" 3
+"141" "Rachael" "Sissy Jupe" 12
+"142" "Rachael" "Slackbridge" 2
+"143" "Rachael" "Stephen Blackpool" 23
+"144" "Rachael" "Thomas Gradgrind" 9
+"145" "Rachael" "Tom Gradgrind" 12
+"146" "Signor Jupe" "Sissy Jupe" 2
+"147" "Signor Jupe" "Thomas Gradgrind" 2
+"148" "Signor Jupe" "Tom Gradgrind" 1
+"149" "Sissy Jupe" "Slackbridge" 1
+"150" "Sissy Jupe" "Stephen Blackpool" 11
+"151" "Sissy Jupe" "Thomas Gradgrind" 31
+"152" "Sissy Jupe" "Tom Gradgrind" 16
+"153" "Slackbridge" "Stephen Blackpool" 6
+"154" "Slackbridge" "Thomas Gradgrind" 1
+"155" "Slackbridge" "Tom Gradgrind" 1
+"156" "Stephen Blackpool" "Thomas Gradgrind" 9
+"157" "Stephen Blackpool" "Tom Gradgrind" 11
+"158" "Thomas Gradgrind" "Tom Gradgrind" 23

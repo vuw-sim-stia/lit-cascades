@@ -1,0 +1,69 @@
+"","Character","Node","Type","Appearances"
+"1","Akerman",65,"First Appearance",2
+"2","Akerman",78,"Last Appearance",2
+"3","Barnaby Rudge",4,"First Appearance",37
+"4","Barnaby Rudge",83,"Last Appearance",37
+"5","Dolly Varden",4,"First Appearance",25
+"6","Dolly Varden",83,"Last Appearance",25
+"7","Edward Chester",7,"First Appearance",20
+"8","Edward Chester",83,"Last Appearance",20
+"9","Emma Haredale",2,"First Appearance",17
+"10","Emma Haredale",80,"Last Appearance",17
+"11","Gabriel Varden",3,"First Appearance",28
+"12","Gabriel Varden",83,"Last Appearance",28
+"13","Gashford",36,"First Appearance",20
+"14","Gashford",83,"Last Appearance",20
+"15","General Conway",50,"First Appearance",1
+"16","General Conway",50,"Last Appearance",1
+"17","Geoffrey Haredale",83,"Last Appearance",31
+"18","Geoffrey Haredale",2,"First Appearance",31
+"19","Herbert",74,"First Appearance",1
+"20","Herbert",74,"Last Appearance",1
+"21","Hugh",1,"First Appearance",45
+"22","Hugh",83,"Last Appearance",45
+"23","Joe Willet",2,"First Appearance",27
+"24","Joe Willet",83,"Last Appearance",27
+"25","John Chester",82,"Last Appearance",20
+"26","John Chester",6,"First Appearance",20
+"27","John Fielding",62,"First Appearance",2
+"28","John Fielding",67,"Last Appearance",2
+"29","John Grueby",36,"First Appearance",8
+"30","John Grueby",83,"Last Appearance",8
+"31","John Willet",2,"First Appearance",49
+"32","John Willet",83,"Last Appearance",49
+"33","Lord Algernon Percy",68,"First Appearance",1
+"34","Lord Algernon Percy",68,"Last Appearance",1
+"35","Lord George Gordon",36,"First Appearance",17
+"36","Lord George Gordon",83,"Last Appearance",17
+"37","Mark Gilbert",9,"First Appearance",2
+"38","Mark Gilbert",40,"Last Appearance",2
+"39","Martha Varden",3,"First Appearance",20
+"40","Martha Varden",81,"Last Appearance",20
+"41","Mary Jones",1,"First Appearance",10
+"42","Mary Jones",77,"Last Appearance",10
+"43","Miggs",83,"Last Appearance",21
+"44","Miggs",8,"First Appearance",21
+"45","Mr Rudge",2,"First Appearance",10
+"46","Mr Rudge",80,"Last Appearance",10
+"47","Mrs Rudge",5,"First Appearance",6
+"48","Mrs Rudge",43,"Last Appearance",6
+"49","Ned Dennis",1,"First Appearance",32
+"50","Ned Dennis",78,"Last Appearance",32
+"51","Peak",76,"Last Appearance",2
+"52","Peak",24,"First Appearance",2
+"53","Phil Parkes",2,"First Appearance",6
+"54","Phil Parkes",83,"Last Appearance",6
+"55","Philips",62,"First Appearance",1
+"56","Philips",62,"Last Appearance",1
+"57","Simon Tappertit",5,"First Appearance",18
+"58","Simon Tappertit",83,"Last Appearance",18
+"59","Solomon Daisy",2,"First Appearance",11
+"60","Solomon Daisy",83,"Last Appearance",11
+"61","Stagg",9,"First Appearance",6
+"62","Stagg",70,"Last Appearance",6
+"63","The Black Lion",14,"First Appearance",6
+"64","The Black Lion",80,"Last Appearance",6
+"65","Tom Cobb",2,"First Appearance",7
+"66","Tom Cobb",83,"Last Appearance",7
+"67","Tom Green",59,"First Appearance",1
+"68","Tom Green",59,"Last Appearance",1

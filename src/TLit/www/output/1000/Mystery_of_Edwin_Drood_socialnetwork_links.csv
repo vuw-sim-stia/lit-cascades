@@ -1,0 +1,225 @@
+"id1" "id2" "label"
+"1" "Bazzard" "Edwin Drood" 4
+"2" "Bazzard" "Helena Landless" 1
+"3" "Bazzard" "Hiram Grewgious" 7
+"4" "Bazzard" "John Jasper" 2
+"5" "Bazzard" "Miss Twinkleton" 1
+"6" "Bazzard" "Mrs Billickin" 1
+"7" "Bazzard" "Neville Landless" 1
+"8" "Bazzard" "Rosa Bud" 6
+"9" "Bazzard" "Septimus Crisparkle" 1
+"10" "Deputy" "Dick Datchery" 4
+"11" "Deputy" "Durdles" 7
+"12" "Deputy" "Edwin Drood" 1
+"13" "Deputy" "John Jasper" 7
+"14" "Deputy" "Mr Tope" 1
+"15" "Deputy" "Mrs Tope" 1
+"16" "Deputy" "Princess Puffer" 1
+"17" "Deputy" "Septimus Crisparkle" 1
+"18" "Deputy" "The Dean" 1
+"19" "Deputy" "Thomas Sapsea" 3
+"20" "Dick Datchery" "Durdles" 3
+"21" "Dick Datchery" "Edwin Drood" 1
+"22" "Dick Datchery" "John Jasper" 5
+"23" "Dick Datchery" "Mr Tope" 3
+"24" "Dick Datchery" "Mrs Tope" 4
+"25" "Dick Datchery" "Princess Puffer" 1
+"26" "Dick Datchery" "Septimus Crisparkle" 1
+"27" "Dick Datchery" "The Dean" 2
+"28" "Dick Datchery" "Thomas Sapsea" 2
+"29" "Durdles" "Edwin Drood" 1
+"30" "Durdles" "John Jasper" 14
+"31" "Durdles" "Mr Tope" 3
+"32" "Durdles" "Neville Landless" 2
+"33" "Durdles" "Septimus Crisparkle" 2
+"34" "Durdles" "The Dean" 3
+"35" "Durdles" "Thomas Sapsea" 7
+"36" "Edwin Drood" "Helena Landless" 14
+"37" "Edwin Drood" "Hiram Grewgious" 14
+"38" "Edwin Drood" "Jack Chinaman" 1
+"39" "Edwin Drood" "John Jasper" 25
+"40" "Edwin Drood" "Luke Honeythunder" 1
+"41" "Edwin Drood" "Miss Ferdinand" 1
+"42" "Edwin Drood" "Miss Giggles" 1
+"43" "Edwin Drood" "Miss Rickitts" 1
+"44" "Edwin Drood" "Miss Twinkleton" 10
+"45" "Edwin Drood" "Mr Porters" 1
+"46" "Edwin Drood" "Mr Tope" 1
+"47" "Edwin Drood" "Mrs Crisparkle" 4
+"48" "Edwin Drood" "Mrs Tisher" 6
+"49" "Edwin Drood" "Mrs Tope" 1
+"50" "Edwin Drood" "Neville Landless" 16
+"51" "Edwin Drood" "Rosa Bud" 21
+"52" "Edwin Drood" "Septimus Crisparkle" 17
+"53" "Edwin Drood" "The Dean" 1
+"54" "Edwin Drood" "Thomas Sapsea" 6
+"55" "Helena Landless" "Hiram Grewgious" 10
+"56" "Helena Landless" "Jack Chinaman" 1
+"57" "Helena Landless" "Joe" 1
+"58" "Helena Landless" "John Jasper" 13
+"59" "Helena Landless" "Lieutenant Tartar" 4
+"60" "Helena Landless" "Luke Honeythunder" 3
+"61" "Helena Landless" "Miss Ferdinand" 2
+"62" "Helena Landless" "Miss Giggles" 2
+"63" "Helena Landless" "Miss Jennings" 1
+"64" "Helena Landless" "Miss Reynolds" 1
+"65" "Helena Landless" "Miss Rickitts" 1
+"66" "Helena Landless" "Miss Twinkleton" 12
+"67" "Helena Landless" "Mr Tope" 2
+"68" "Helena Landless" "Mrs Crisparkle" 5
+"69" "Helena Landless" "Mrs Tisher" 5
+"70" "Helena Landless" "Mrs Tope" 1
+"71" "Helena Landless" "Neville Landless" 18
+"72" "Helena Landless" "Rosa Bud" 20
+"73" "Helena Landless" "Septimus Crisparkle" 20
+"74" "Helena Landless" "The Dean" 1
+"75" "Helena Landless" "Thomas Sapsea" 4
+"76" "Hiram Grewgious" "Jack Chinaman" 1
+"77" "Hiram Grewgious" "Joe" 1
+"78" "Hiram Grewgious" "John Jasper" 14
+"79" "Hiram Grewgious" "Lieutenant Tartar" 7
+"80" "Hiram Grewgious" "Lobley" 2
+"81" "Hiram Grewgious" "Luke Honeythunder" 1
+"82" "Hiram Grewgious" "Miss Ferdinand" 2
+"83" "Hiram Grewgious" "Miss Giggles" 1
+"84" "Hiram Grewgious" "Miss Jennings" 1
+"85" "Hiram Grewgious" "Miss Reynolds" 1
+"86" "Hiram Grewgious" "Miss Twinkleton" 11
+"87" "Hiram Grewgious" "Mr Tope" 1
+"88" "Hiram Grewgious" "Mrs Billickin" 3
+"89" "Hiram Grewgious" "Mrs Crisparkle" 2
+"90" "Hiram Grewgious" "Mrs Tisher" 2
+"91" "Hiram Grewgious" "Mrs Tope" 1
+"92" "Hiram Grewgious" "Neville Landless" 11
+"93" "Hiram Grewgious" "Rosa Bud" 21
+"94" "Hiram Grewgious" "Septimus Crisparkle" 10
+"95" "Hiram Grewgious" "The Dean" 1
+"96" "Hiram Grewgious" "Thomas Sapsea" 3
+"97" "Jack Chinaman" "John Jasper" 1
+"98" "Jack Chinaman" "Neville Landless" 1
+"99" "Jack Chinaman" "Rosa Bud" 1
+"100" "Jack Chinaman" "Septimus Crisparkle" 1
+"101" "Joe" "Luke Honeythunder" 1
+"102" "Joe" "Miss Twinkleton" 1
+"103" "Joe" "Mrs Crisparkle" 1
+"104" "Joe" "Neville Landless" 2
+"105" "Joe" "Rosa Bud" 1
+"106" "Joe" "Septimus Crisparkle" 1
+"107" "John Jasper" "Lieutenant Tartar" 2
+"108" "John Jasper" "Luke Honeythunder" 2
+"109" "John Jasper" "Miss Brobity" 1
+"110" "John Jasper" "Miss Dean" 1
+"111" "John Jasper" "Miss Ferdinand" 1
+"112" "John Jasper" "Miss Twinkleton" 9
+"113" "John Jasper" "Mr Tope" 8
+"114" "John Jasper" "Mrs Crisparkle" 7
+"115" "John Jasper" "Mrs Dean" 1
+"116" "John Jasper" "Mrs Tisher" 2
+"117" "John Jasper" "Mrs Tope" 4
+"118" "John Jasper" "Neville Landless" 20
+"119" "John Jasper" "Princess Puffer" 1
+"120" "John Jasper" "Rosa Bud" 17
+"121" "John Jasper" "Septimus Crisparkle" 24
+"122" "John Jasper" "The Dean" 9
+"123" "John Jasper" "Thomas Sapsea" 17
+"124" "Lieutenant Tartar" "Lobley" 2
+"125" "Lieutenant Tartar" "Miss Twinkleton" 4
+"126" "Lieutenant Tartar" "Mrs Billickin" 2
+"127" "Lieutenant Tartar" "Neville Landless" 5
+"128" "Lieutenant Tartar" "Rosa Bud" 6
+"129" "Lieutenant Tartar" "Septimus Crisparkle" 5
+"130" "Lobley" "Miss Twinkleton" 2
+"131" "Lobley" "Mrs Billickin" 2
+"132" "Lobley" "Rosa Bud" 2
+"133" "Luke Honeythunder" "Miss Twinkleton" 3
+"134" "Luke Honeythunder" "Mr Tope" 2
+"135" "Luke Honeythunder" "Mrs Crisparkle" 5
+"136" "Luke Honeythunder" "Neville Landless" 6
+"137" "Luke Honeythunder" "Rosa Bud" 1
+"138" "Luke Honeythunder" "Septimus Crisparkle" 9
+"139" "Luke Honeythunder" "Thomas Sapsea" 1
+"140" "Miss Brobity" "Thomas Sapsea" 1
+"141" "Miss Dean" "Mr Tope" 1
+"142" "Miss Dean" "Mrs Dean" 1
+"143" "Miss Dean" "Septimus Crisparkle" 1
+"144" "Miss Dean" "The Dean" 1
+"145" "Miss Ferdinand" "Miss Giggles" 2
+"146" "Miss Ferdinand" "Miss Jennings" 1
+"147" "Miss Ferdinand" "Miss Reynolds" 1
+"148" "Miss Ferdinand" "Miss Rickitts" 1
+"149" "Miss Ferdinand" "Miss Twinkleton" 3
+"150" "Miss Ferdinand" "Mrs Tisher" 2
+"151" "Miss Ferdinand" "Rosa Bud" 3
+"152" "Miss Ferdinand" "Septimus Crisparkle" 1
+"153" "Miss Giggles" "Miss Jennings" 1
+"154" "Miss Giggles" "Miss Reynolds" 1
+"155" "Miss Giggles" "Miss Rickitts" 1
+"156" "Miss Giggles" "Miss Twinkleton" 2
+"157" "Miss Giggles" "Mrs Tisher" 2
+"158" "Miss Giggles" "Rosa Bud" 2
+"159" "Miss Giggles" "Septimus Crisparkle" 1
+"160" "Miss Jennings" "Miss Reynolds" 1
+"161" "Miss Jennings" "Miss Twinkleton" 1
+"162" "Miss Jennings" "Mrs Tisher" 1
+"163" "Miss Jennings" "Rosa Bud" 1
+"164" "Miss Reynolds" "Miss Twinkleton" 1
+"165" "Miss Reynolds" "Mrs Tisher" 1
+"166" "Miss Reynolds" "Rosa Bud" 1
+"167" "Miss Rickitts" "Miss Twinkleton" 1
+"168" "Miss Rickitts" "Mrs Tisher" 1
+"169" "Miss Rickitts" "Rosa Bud" 1
+"170" "Miss Rickitts" "Septimus Crisparkle" 1
+"171" "Miss Twinkleton" "Mr Porters" 2
+"172" "Miss Twinkleton" "Mr Tope" 3
+"173" "Miss Twinkleton" "Mrs Billickin" 5
+"174" "Miss Twinkleton" "Mrs Crisparkle" 3
+"175" "Miss Twinkleton" "Mrs Tisher" 8
+"176" "Miss Twinkleton" "Mrs Tope" 1
+"177" "Miss Twinkleton" "Neville Landless" 5
+"178" "Miss Twinkleton" "Rosa Bud" 23
+"179" "Miss Twinkleton" "Septimus Crisparkle" 10
+"180" "Miss Twinkleton" "The Dean" 1
+"181" "Miss Twinkleton" "Thomas Sapsea" 3
+"182" "Mr Porters" "Mrs Tisher" 1
+"183" "Mr Porters" "Rosa Bud" 1
+"184" "Mr Tope" "Mrs Crisparkle" 1
+"185" "Mr Tope" "Mrs Dean" 1
+"186" "Mr Tope" "Mrs Tope" 5
+"187" "Mr Tope" "Neville Landless" 3
+"188" "Mr Tope" "Princess Puffer" 1
+"189" "Mr Tope" "Rosa Bud" 2
+"190" "Mr Tope" "Septimus Crisparkle" 6
+"191" "Mr Tope" "The Dean" 6
+"192" "Mr Tope" "Thomas Sapsea" 3
+"193" "Mrs Billickin" "Rosa Bud" 5
+"194" "Mrs Billickin" "Septimus Crisparkle" 1
+"195" "Mrs Crisparkle" "Mrs Tisher" 1
+"196" "Mrs Crisparkle" "Neville Landless" 8
+"197" "Mrs Crisparkle" "Rosa Bud" 2
+"198" "Mrs Crisparkle" "Septimus Crisparkle" 10
+"199" "Mrs Crisparkle" "The Dean" 1
+"200" "Mrs Crisparkle" "Thomas Sapsea" 2
+"201" "Mrs Dean" "Septimus Crisparkle" 1
+"202" "Mrs Dean" "The Dean" 1
+"203" "Mrs Tisher" "Neville Landless" 1
+"204" "Mrs Tisher" "Rosa Bud" 8
+"205" "Mrs Tisher" "Septimus Crisparkle" 2
+"206" "Mrs Tisher" "Thomas Sapsea" 2
+"207" "Mrs Tope" "Neville Landless" 1
+"208" "Mrs Tope" "Princess Puffer" 1
+"209" "Mrs Tope" "Rosa Bud" 1
+"210" "Mrs Tope" "Septimus Crisparkle" 3
+"211" "Mrs Tope" "The Dean" 4
+"212" "Mrs Tope" "Thomas Sapsea" 1
+"213" "Neville Landless" "Rosa Bud" 13
+"214" "Neville Landless" "Septimus Crisparkle" 31
+"215" "Neville Landless" "The Dean" 2
+"216" "Neville Landless" "Thomas Sapsea" 6
+"217" "Princess Puffer" "Septimus Crisparkle" 1
+"218" "Princess Puffer" "The Dean" 1
+"219" "Rosa Bud" "Septimus Crisparkle" 15
+"220" "Rosa Bud" "The Dean" 1
+"221" "Rosa Bud" "Thomas Sapsea" 4
+"222" "Septimus Crisparkle" "The Dean" 5
+"223" "Septimus Crisparkle" "Thomas Sapsea" 6
+"224" "The Dean" "Thomas Sapsea" 5

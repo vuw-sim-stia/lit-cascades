@@ -69,7 +69,7 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
 #set working directoy
 setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
-#slice_sizes <- c(2500,1000,600,300)
+#slice_sizes <- c(1000,500,250)
 slice_sizes <- c(1000)
 
 #get all text and char files
@@ -253,6 +253,10 @@ for(sliceSize in slice_sizes){
     colnames(links) <- c('source','target','tag')
     colnames(roots) <- c('root_node_id','tag')
     
+    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
+    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
+    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"))
+    
     linksDelta <- as.integer(links$target)-as.integer(links$source)
     jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta.jpg"))
     plot(linksDelta,type='l')
@@ -417,6 +421,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(g)
     wtc <- cluster_walktrap(g)
     gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
+    write.table(c(theSource,gstat),paste0("TLit/www/output/",sliceSize,"/",theSource,"_netstat_combined.csv"),append = T,col.names = F,row.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
     
     nodes <- as.data.frame(nodes,stringsAsFactors=F)
@@ -473,6 +478,31 @@ for(sliceSize in slice_sizes){
     for(lin in 1:nrow(nodes)){
       nex <- unlist(strsplit(nodes$title[lin],", "))
       if(length(nex)>1) socN1 <- rbind(socN1,paste(nex,collapse=', '))
+      
+      if(lin%%(round(nrow(nodes)/10)) == 0){
+        socEdges<-c()
+        for(lin in 1:length(socN1)){
+          
+          socEdges<-rbind(socEdges,combinations(length(unlist(strsplit(socN1[lin],', '))),2,unlist(strsplit(socN1[lin],', '))))
+        }
+        
+        h <- graph.data.frame(unique(socEdges),directed=FALSE)
+        V(h)$frame.color <- "white"
+        V(h)$color <- "orange"
+        
+        E(h)$width <- 0.1
+        
+        lay <- layout_with_dh(h)
+        lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+        minC <- rep(-Inf, vcount(h))
+        maxC <- rep(Inf, vcount(h))
+        minC[1] <- maxC[1] <- 0
+        co <- layout_with_fr(h, minx=minC, maxx=maxC,
+                             miny=minC, maxy=maxC)
+        pdf(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_dh_socnet_",lin,".pdf"))
+        plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+        dev.off()
+      }
     }
     socEdges<-c()
     for(lin in 1:length(socN1)){
@@ -541,9 +571,6 @@ for(sliceSize in slice_sizes){
     E(h)$width <- 0.1
     
     E(h)$weight <- E(h)$label
-    
-    lay <- layout_with_dh(h)
-    lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
     minC <- rep(-Inf, vcount(h))
     maxC <- rep(Inf, vcount(h))
     minC[1] <- maxC[1] <- 0
@@ -567,6 +594,8 @@ for(sliceSize in slice_sizes){
     deg.dist <- degree_distribution(h, cumulative=T, mode="all")
     plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
     dev.off()
+    
+    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"))
     
     hnetwork <- asNetwork(h)
     
@@ -614,6 +643,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(h)
     wtc <- cluster_walktrap(h)
     gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
+    write.table(c(theSource,gstat),paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnetstat_combined.csv"),append = T,col.names = F,row.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
     
     ####
@@ -646,6 +676,9 @@ for(sliceSize in slice_sizes){
     spec <- list()
     div=1
     
+    g1 <- make_empty_graph(n = 0, directed = TRUE)
+    struct <- c()
+    
     for(z in 1:nrow(nodes)){
       #entropy
       #if(z==1){
@@ -675,10 +708,10 @@ for(sliceSize in slice_sizes){
         
         interact <- list()
         for(v in 1:nrow(inter)){
-          interactions <- strsplit(unlist(inter[v,1]),', ')
+          interactions <- unlist(strsplit(unlist(inter[v,1]),', '))
           for( m in 1:length(interactions)){
-            if(is.null(interact[[interactions[[1]][m]]])) interact[[interactions[[1]][m]]] <- 1
-            else interact[[interactions[[1]][m]]] <- interact[[interactions[[1]][m]]] + 1
+            if(is.null(interact[[interactions[m]]])) interact[[interactions[m]]] <- 1
+            else interact[[interactions[m]]] <- interact[[interactions[m]]] + 1
           }
         }
         df <- data.frame(unlist(interact))
@@ -703,11 +736,26 @@ for(sliceSize in slice_sizes){
       #}
       colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
       colnames(wien)<-c('ShannonWiener','Pielou','Richness')
+      
+      #add node
+      g1 <- add_vertices(g1,1,attr = list(id=as.numeric(nodes[z,1])))
+      
+      #add all links to node
+      theLinks <- unique(links[which(links[,2]==nodes[z,1]),1:2])
+      for(srclnk in theLinks[,1]){
+        g1 <- add_edges(g1,c(which(V(g1)$id==srclnk),which(V(g1)$id==as.numeric(nodes[z,1]))))
+      }
+      
+      #degd <- degree.distribution(g1)
+      wtc <- cluster_walktrap(g1)
+      struct <- rbind(struct,c(diameter(g1),edge_density(g1),modularity(wtc)))
     }
     colnames(coordinates) <- c("t","specificity","diversity")
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_coordinates.jpg",sep=''))
     scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
     dev.off()
+    
+    write.table(cbind(coordinates,wien,struct),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_temporal_statistics.csv"),row.names = F)
     
     write.csv(ent,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt",sep=''))
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.jpg",sep=''))
@@ -992,6 +1040,10 @@ for(sliceSize in slice_sizes){
     colnames(links) <- c('source','target','tag')
     colnames(roots) <- c('root_node_id','tag')
     
+    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
+    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
+    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"))
+    
     linksDelta <- as.integer(links$target)-as.integer(links$source)
     jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta.jpg"))
     plot(linksDelta,type='l')
@@ -1212,6 +1264,31 @@ for(sliceSize in slice_sizes){
     for(lin in 1:nrow(nodes)){
       nex <- unlist(strsplit(nodes$title[lin],", "))
       if(length(nex)>1) socN1 <- rbind(socN1,paste(nex,collapse=', '))
+      
+      if(lin%%(round(nrow(nodes)/10)) == 0){
+        socEdges<-c()
+        for(lin in 1:length(socN1)){
+          
+          socEdges<-rbind(socEdges,combinations(length(unlist(strsplit(socN1[lin],', '))),2,unlist(strsplit(socN1[lin],', '))))
+        }
+        
+        h <- graph.data.frame(unique(socEdges),directed=FALSE)
+        V(h)$frame.color <- "white"
+        V(h)$color <- "orange"
+        
+        E(h)$width <- 0.1
+        
+        lay <- layout_with_dh(h)
+        lay <- norm_coords(lay, ymin=-1, ymax=1, xmin=-1, xmax=1)
+        minC <- rep(-Inf, vcount(h))
+        maxC <- rep(Inf, vcount(h))
+        minC[1] <- maxC[1] <- 0
+        co <- layout_with_fr(h, minx=minC, maxx=maxC,
+                             miny=minC, maxy=maxC)
+        pdf(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_dh_socnet_",lin,".pdf"))
+        plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
+        dev.off()
+      }
     }
     socEdges<-c()
     for(lin in 1:length(socN1)){
@@ -1315,6 +1392,8 @@ for(sliceSize in slice_sizes){
     plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
     dev.off()
     
+    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"))
+    
     hnetwork <- asNetwork(h)
     
     socEdges2 <- socEdges
@@ -1393,6 +1472,9 @@ for(sliceSize in slice_sizes){
     spec <- list()
     div=1
     
+    g1 <- make_empty_graph(n = 0, directed = TRUE)
+    struct <- c()
+    
     for(z in 1:nrow(nodes)){
       #entropy
       #if(z==1){
@@ -1422,10 +1504,10 @@ for(sliceSize in slice_sizes){
       
       interact <- list()
       for(v in 1:nrow(inter)){
-        interactions <- strsplit(unlist(inter[v,1]),', ')
+        interactions <- unlist(strsplit(unlist(inter[v,1]),', '))
         for( m in 1:length(interactions)){
-          if(is.null(interact[[interactions[[1]][m]]])) interact[[interactions[[1]][m]]] <- 1
-          else interact[[interactions[[1]][m]]] <- interact[[interactions[[1]][m]]] + 1
+          if(is.null(interact[[interactions[m]]])) interact[[interactions[m]]] <- 1
+          else interact[[interactions[m]]] <- interact[[interactions[m]]] + 1
         }
       }
       df <- data.frame(unlist(interact))
@@ -1450,13 +1532,28 @@ for(sliceSize in slice_sizes){
       #}
       colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
       colnames(wien)<-c('ShannonWiener','Pielou','Richness')
+      
+      #add node
+      g1 <- add_vertices(g1,1,attr = list(id=as.numeric(nodes[z,1])))
+      
+      #add all links to node
+      theLinks <- unique(links[which(links[,2]==nodes[z,1]),1:2])
+      for(srclnk in theLinks[,1]){
+        g1 <- add_edges(g1,c(which(V(g1)$id==srclnk),which(V(g1)$id==as.numeric(nodes[z,1]))))
+      }
+      
+      #degd <- degree.distribution(g1)
+      wtc <- cluster_walktrap(g1)
+      struct <- rbind(struct,c(diameter(g1),edge_density(g1),modularity(wtc)))
     }
     colnames(coordinates) <- c("t","specificity","diversity")
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_coordinates.jpg",sep=''))
     scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
     dev.off()
     
-    write.csv(ent,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt",sep=''))
+    write.table(cbind(coordinates,wien,struct),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_temporal_statistics.csv"),row.names = F)
+    
+    write.csv(ent,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt"))
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.jpg",sep=''))
     plot(ent[,1],type="l")
     dev.off()

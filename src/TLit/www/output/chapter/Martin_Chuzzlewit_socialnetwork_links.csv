@@ -1,0 +1,798 @@
+"id1" "id2" "label"
+"1" "Anonymous Woman" "Augustus Moddle" 2
+"2" "Anonymous Woman" "Charity Pecksniff" 1
+"3" "Anonymous Woman" "Chuffey" 1
+"4" "Anonymous Woman" "General Choke" 1
+"5" "Anonymous Woman" "George Chuzzlewit" 1
+"6" "Anonymous Woman" "Jonas Chuzzlewit" 1
+"7" "Anonymous Woman" "Major Chollop" 1
+"8" "Anonymous Woman" "Mark Tapley" 3
+"9" "Anonymous Woman" "Martin Jr" 2
+"10" "Anonymous Woman" "Martin Sr" 2
+"11" "Anonymous Woman" "Mercy Pecksniff" 1
+"12" "Anonymous Woman" "Mr Bevan" 1
+"13" "Anonymous Woman" "Mr Jinkins" 1
+"14" "Anonymous Woman" "Mr Norris" 1
+"15" "Anonymous Woman" "Mr/Mrs Spottletoe" 1
+"16" "Anonymous Woman" "Mrs Lupin" 1
+"17" "Anonymous Woman" "Mrs Ned Chuzzlewit" 1
+"18" "Anonymous Woman" "Mrs Todgers" 1
+"19" "Anonymous Woman" "Seth Pecksniff" 2
+"20" "Anonymous Woman" "Tom Pinch" 1
+"21" "Anonymous Woman" "Young Bailey" 1
+"22" "Anonymous Woman" "Zephaniah Scadder" 1
+"23" "Anthony Chuzzlewit" "Augustus Moddle" 3
+"24" "Anthony Chuzzlewit" "Bullamy" 2
+"25" "Anthony Chuzzlewit" "Charity Pecksniff" 8
+"26" "Anthony Chuzzlewit" "Chevy Slyme" 2
+"27" "Anthony Chuzzlewit" "Chuffey" 7
+"28" "Anthony Chuzzlewit" "David Crimple" 2
+"29" "Anthony Chuzzlewit" "Doctor Jobling" 3
+"30" "Anthony Chuzzlewit" "George Chuzzlewit" 1
+"31" "Anthony Chuzzlewit" "John Westlock" 4
+"32" "Anthony Chuzzlewit" "Jonas Chuzzlewit" 13
+"33" "Anthony Chuzzlewit" "Lewsome" 3
+"34" "Anthony Chuzzlewit" "Mark Tapley" 2
+"35" "Anthony Chuzzlewit" "Martin Jr" 6
+"36" "Anthony Chuzzlewit" "Martin Sr" 10
+"37" "Anthony Chuzzlewit" "Mary" 1
+"38" "Anthony Chuzzlewit" "Mercy Pecksniff" 8
+"39" "Anthony Chuzzlewit" "Misses Mould" 1
+"40" "Anthony Chuzzlewit" "Mr Fips" 1
+"41" "Anthony Chuzzlewit" "Mr Jinkins" 3
+"42" "Anthony Chuzzlewit" "Mr Mould" 3
+"43" "Anthony Chuzzlewit" "Mr/Mrs Spottletoe" 1
+"44" "Anthony Chuzzlewit" "Mrs Gamp" 7
+"45" "Anthony Chuzzlewit" "Mrs Lupin" 3
+"46" "Anthony Chuzzlewit" "Mrs Mould" 1
+"47" "Anthony Chuzzlewit" "Mrs Ned Chuzzlewit" 1
+"48" "Anthony Chuzzlewit" "Mrs Prig" 3
+"49" "Anthony Chuzzlewit" "Mrs Todgers" 8
+"50" "Anthony Chuzzlewit" "Nadgett" 4
+"51" "Anthony Chuzzlewit" "Ruth Pinch" 2
+"52" "Anthony Chuzzlewit" "Seth Pecksniff" 12
+"53" "Anthony Chuzzlewit" "Tacker" 2
+"54" "Anthony Chuzzlewit" "Tigg Montague" 3
+"55" "Anthony Chuzzlewit" "Tom Pinch" 5
+"56" "Anthony Chuzzlewit" "Young Bailey" 4
+"57" "Augustus Moddle" "Charity Pecksniff" 7
+"58" "Augustus Moddle" "Chuffey" 3
+"59" "Augustus Moddle" "General Choke" 1
+"60" "Augustus Moddle" "George Chuzzlewit" 1
+"61" "Augustus Moddle" "John Westlock" 1
+"62" "Augustus Moddle" "Jonas Chuzzlewit" 4
+"63" "Augustus Moddle" "Major Chollop" 1
+"64" "Augustus Moddle" "Mark Tapley" 2
+"65" "Augustus Moddle" "Martin Jr" 1
+"66" "Augustus Moddle" "Martin Sr" 7
+"67" "Augustus Moddle" "Mary" 1
+"68" "Augustus Moddle" "Mercy Pecksniff" 7
+"69" "Augustus Moddle" "Mr Bevan" 1
+"70" "Augustus Moddle" "Mr Gander" 1
+"71" "Augustus Moddle" "Mr Jinkins" 5
+"72" "Augustus Moddle" "Mr Norris" 1
+"73" "Augustus Moddle" "Mr/Mrs Spottletoe" 1
+"74" "Augustus Moddle" "Mrs Gamp" 1
+"75" "Augustus Moddle" "Mrs Lupin" 2
+"76" "Augustus Moddle" "Mrs Ned Chuzzlewit" 1
+"77" "Augustus Moddle" "Mrs Prig" 1
+"78" "Augustus Moddle" "Mrs Todgers" 7
+"79" "Augustus Moddle" "Nadgett" 1
+"80" "Augustus Moddle" "Ruth Pinch" 2
+"81" "Augustus Moddle" "Seth Pecksniff" 6
+"82" "Augustus Moddle" "Tom Pinch" 4
+"83" "Augustus Moddle" "Young Bailey" 4
+"84" "Augustus Moddle" "Zephaniah Scadder" 1
+"85" "Bullamy" "Chevy Slyme" 1
+"86" "Bullamy" "Chuffey" 1
+"87" "Bullamy" "David Crimple" 2
+"88" "Bullamy" "Doctor Jobling" 1
+"89" "Bullamy" "John Westlock" 2
+"90" "Bullamy" "Jonas Chuzzlewit" 2
+"91" "Bullamy" "Lewsome" 1
+"92" "Bullamy" "Mark Tapley" 1
+"93" "Bullamy" "Martin Jr" 1
+"94" "Bullamy" "Martin Sr" 1
+"95" "Bullamy" "Mr Mould" 1
+"96" "Bullamy" "Mrs Gamp" 2
+"97" "Bullamy" "Mrs Prig" 1
+"98" "Bullamy" "Mrs Todgers" 1
+"99" "Bullamy" "Nadgett" 2
+"100" "Bullamy" "Seth Pecksniff" 1
+"101" "Bullamy" "Tigg Montague" 2
+"102" "Bullamy" "Young Bailey" 1
+"103" "Captain Kedgick" "Chiggle" 1
+"104" "Captain Kedgick" "Colonel Groper" 1
+"105" "Captain Kedgick" "Doctor Dunkle" 1
+"106" "Captain Kedgick" "General Fladdock" 1
+"107" "Captain Kedgick" "Jodd" 1
+"108" "Captain Kedgick" "Julius Bib" 1
+"109" "Captain Kedgick" "Major Chollop" 1
+"110" "Captain Kedgick" "Mark Tapley" 2
+"111" "Captain Kedgick" "Martin Jr" 2
+"112" "Captain Kedgick" "Martin Sr" 1
+"113" "Captain Kedgick" "Miss Codger" 1
+"114" "Captain Kedgick" "Miss Toppit" 1
+"115" "Captain Kedgick" "Mr Bevan" 1
+"116" "Captain Kedgick" "Mr Izzard" 1
+"117" "Captain Kedgick" "Mrs Gamp" 1
+"118" "Captain Kedgick" "Mrs Hominy" 2
+"119" "Captain Kedgick" "Oscar Buffum" 1
+"120" "Captain Kedgick" "Pogram" 1
+"121" "Captain Kedgick" "Professor Piper" 1
+"122" "Captain Kedgick" "Zephaniah Scadder" 2
+"123" "Charity Pecksniff" "Chevy Slyme" 1
+"124" "Charity Pecksniff" "Chuffey" 3
+"125" "Charity Pecksniff" "George Chuzzlewit" 2
+"126" "Charity Pecksniff" "Jane" 1
+"127" "Charity Pecksniff" "John Westlock" 4
+"128" "Charity Pecksniff" "Jonas Chuzzlewit" 9
+"129" "Charity Pecksniff" "Mark Tapley" 3
+"130" "Charity Pecksniff" "Martin Jr" 6
+"131" "Charity Pecksniff" "Martin Sr" 12
+"132" "Charity Pecksniff" "Mary" 3
+"133" "Charity Pecksniff" "Mercy Pecksniff" 16
+"134" "Charity Pecksniff" "Mr Gander" 1
+"135" "Charity Pecksniff" "Mr Jinkins" 6
+"136" "Charity Pecksniff" "Mr/Mrs Spottletoe" 2
+"137" "Charity Pecksniff" "Mrs Gamp" 2
+"138" "Charity Pecksniff" "Mrs Lupin" 5
+"139" "Charity Pecksniff" "Mrs Ned Chuzzlewit" 2
+"140" "Charity Pecksniff" "Mrs Prig" 1
+"141" "Charity Pecksniff" "Mrs Todgers" 10
+"142" "Charity Pecksniff" "Nadgett" 1
+"143" "Charity Pecksniff" "Ruth Pinch" 2
+"144" "Charity Pecksniff" "Seth Pecksniff" 14
+"145" "Charity Pecksniff" "Sophia" 1
+"146" "Charity Pecksniff" "Tigg Montague" 1
+"147" "Charity Pecksniff" "Tom Pinch" 10
+"148" "Charity Pecksniff" "Young Bailey" 5
+"149" "Chevy Slyme" "Chuffey" 1
+"150" "Chevy Slyme" "David Crimple" 1
+"151" "Chevy Slyme" "George Chuzzlewit" 1
+"152" "Chevy Slyme" "John Westlock" 2
+"153" "Chevy Slyme" "Jonas Chuzzlewit" 2
+"154" "Chevy Slyme" "Lewsome" 1
+"155" "Chevy Slyme" "Mark Tapley" 3
+"156" "Chevy Slyme" "Martin Jr" 3
+"157" "Chevy Slyme" "Martin Sr" 3
+"158" "Chevy Slyme" "Mercy Pecksniff" 1
+"159" "Chevy Slyme" "Mr Mould" 1
+"160" "Chevy Slyme" "Mr/Mrs Spottletoe" 1
+"161" "Chevy Slyme" "Mrs Gamp" 1
+"162" "Chevy Slyme" "Mrs Lupin" 2
+"163" "Chevy Slyme" "Mrs Ned Chuzzlewit" 1
+"164" "Chevy Slyme" "Mrs Prig" 1
+"165" "Chevy Slyme" "Mrs Todgers" 1
+"166" "Chevy Slyme" "Nadgett" 1
+"167" "Chevy Slyme" "Seth Pecksniff" 4
+"168" "Chevy Slyme" "Tigg Montague" 4
+"169" "Chevy Slyme" "Tom Pinch" 2
+"170" "Chevy Slyme" "William Simmons" 1
+"171" "Chiggle" "Colonel Groper" 1
+"172" "Chiggle" "Doctor Dunkle" 1
+"173" "Chiggle" "General Fladdock" 1
+"174" "Chiggle" "Jodd" 1
+"175" "Chiggle" "Julius Bib" 1
+"176" "Chiggle" "Major Chollop" 1
+"177" "Chiggle" "Mark Tapley" 1
+"178" "Chiggle" "Martin Jr" 1
+"179" "Chiggle" "Martin Sr" 1
+"180" "Chiggle" "Miss Codger" 1
+"181" "Chiggle" "Miss Toppit" 1
+"182" "Chiggle" "Mr Bevan" 1
+"183" "Chiggle" "Mr Izzard" 1
+"184" "Chiggle" "Mrs Hominy" 1
+"185" "Chiggle" "Oscar Buffum" 1
+"186" "Chiggle" "Pogram" 1
+"187" "Chiggle" "Professor Piper" 1
+"188" "Chiggle" "Zephaniah Scadder" 1
+"189" "Chuffey" "David Crimple" 2
+"190" "Chuffey" "Doctor Jobling" 2
+"191" "Chuffey" "George Chuzzlewit" 1
+"192" "Chuffey" "John Westlock" 5
+"193" "Chuffey" "Jonas Chuzzlewit" 10
+"194" "Chuffey" "Lewsome" 3
+"195" "Chuffey" "Mark Tapley" 4
+"196" "Chuffey" "Martin Jr" 5
+"197" "Chuffey" "Martin Sr" 8
+"198" "Chuffey" "Mary" 1
+"199" "Chuffey" "Mercy Pecksniff" 4
+"200" "Chuffey" "Misses Mould" 1
+"201" "Chuffey" "Mr Fips" 1
+"202" "Chuffey" "Mr Jinkins" 2
+"203" "Chuffey" "Mr Mould" 3
+"204" "Chuffey" "Mr/Mrs Spottletoe" 1
+"205" "Chuffey" "Mrs Gamp" 8
+"206" "Chuffey" "Mrs Lupin" 2
+"207" "Chuffey" "Mrs Mould" 1
+"208" "Chuffey" "Mrs Ned Chuzzlewit" 1
+"209" "Chuffey" "Mrs Prig" 4
+"210" "Chuffey" "Mrs Todgers" 5
+"211" "Chuffey" "Nadgett" 4
+"212" "Chuffey" "Ruth Pinch" 2
+"213" "Chuffey" "Seth Pecksniff" 8
+"214" "Chuffey" "Tacker" 2
+"215" "Chuffey" "Tigg Montague" 3
+"216" "Chuffey" "Tom Pinch" 2
+"217" "Chuffey" "Young Bailey" 5
+"218" "Cicero" "General Fladdock" 1
+"219" "Cicero" "Jeff Brick" 1
+"220" "Cicero" "Mark Tapley" 1
+"221" "Cicero" "Martin Jr" 1
+"222" "Cicero" "Mr Bevan" 1
+"223" "Cicero" "Mr Norris" 1
+"224" "Cicero" "Mrs Norris" 1
+"225" "Cicero" "Mrs Pawkins" 1
+"226" "Colonel Diver" "General Choke" 1
+"227" "Colonel Diver" "Jeff Brick" 2
+"228" "Colonel Diver" "La Fayette Kettle" 1
+"229" "Colonel Diver" "Major Pawkins" 2
+"230" "Colonel Diver" "Mark Tapley" 2
+"231" "Colonel Diver" "Martin Jr" 2
+"232" "Colonel Diver" "Mr Bevan" 1
+"233" "Colonel Diver" "Mrs Pawkins" 1
+"234" "Colonel Diver" "Professor Mullit" 1
+"235" "Colonel Diver" "Seth Pecksniff" 1
+"236" "Colonel Diver" "Tom Pinch" 1
+"237" "Colonel Diver" "Zephaniah Scadder" 1
+"238" "Colonel Groper" "Doctor Dunkle" 1
+"239" "Colonel Groper" "General Fladdock" 1
+"240" "Colonel Groper" "Jodd" 1
+"241" "Colonel Groper" "Julius Bib" 1
+"242" "Colonel Groper" "Major Chollop" 1
+"243" "Colonel Groper" "Mark Tapley" 1
+"244" "Colonel Groper" "Martin Jr" 1
+"245" "Colonel Groper" "Martin Sr" 1
+"246" "Colonel Groper" "Miss Codger" 1
+"247" "Colonel Groper" "Miss Toppit" 1
+"248" "Colonel Groper" "Mr Bevan" 1
+"249" "Colonel Groper" "Mr Izzard" 1
+"250" "Colonel Groper" "Mrs Hominy" 1
+"251" "Colonel Groper" "Oscar Buffum" 1
+"252" "Colonel Groper" "Pogram" 1
+"253" "Colonel Groper" "Professor Piper" 1
+"254" "Colonel Groper" "Zephaniah Scadder" 1
+"255" "David Crimple" "Doctor Jobling" 2
+"256" "David Crimple" "John Westlock" 4
+"257" "David Crimple" "Jonas Chuzzlewit" 4
+"258" "David Crimple" "Lewsome" 2
+"259" "David Crimple" "Mark Tapley" 1
+"260" "David Crimple" "Martin Jr" 2
+"261" "David Crimple" "Martin Sr" 3
+"262" "David Crimple" "Mercy Pecksniff" 1
+"263" "David Crimple" "Mr Mould" 1
+"264" "David Crimple" "Mr Pip" 1
+"265" "David Crimple" "Mrs Gamp" 4
+"266" "David Crimple" "Mrs Gill" 1
+"267" "David Crimple" "Mrs Mould" 1
+"268" "David Crimple" "Mrs Prig" 3
+"269" "David Crimple" "Mrs Todgers" 1
+"270" "David Crimple" "Nadgett" 4
+"271" "David Crimple" "Seth Pecksniff" 1
+"272" "David Crimple" "Tigg Montague" 4
+"273" "David Crimple" "Young Bailey" 4
+"274" "Doctor Dunkle" "General Fladdock" 1
+"275" "Doctor Dunkle" "Jodd" 1
+"276" "Doctor Dunkle" "Julius Bib" 1
+"277" "Doctor Dunkle" "Major Chollop" 1
+"278" "Doctor Dunkle" "Mark Tapley" 1
+"279" "Doctor Dunkle" "Martin Jr" 1
+"280" "Doctor Dunkle" "Martin Sr" 1
+"281" "Doctor Dunkle" "Miss Codger" 1
+"282" "Doctor Dunkle" "Miss Toppit" 1
+"283" "Doctor Dunkle" "Mr Bevan" 1
+"284" "Doctor Dunkle" "Mr Izzard" 1
+"285" "Doctor Dunkle" "Mrs Hominy" 1
+"286" "Doctor Dunkle" "Oscar Buffum" 1
+"287" "Doctor Dunkle" "Pogram" 1
+"288" "Doctor Dunkle" "Professor Piper" 1
+"289" "Doctor Dunkle" "Zephaniah Scadder" 1
+"290" "Doctor Jobling" "John Westlock" 2
+"291" "Doctor Jobling" "Jonas Chuzzlewit" 6
+"292" "Doctor Jobling" "Lewsome" 1
+"293" "Doctor Jobling" "Martin Sr" 3
+"294" "Doctor Jobling" "Mercy Pecksniff" 1
+"295" "Doctor Jobling" "Misses Mould" 1
+"296" "Doctor Jobling" "Mr Mould" 3
+"297" "Doctor Jobling" "Mr Pip" 1
+"298" "Doctor Jobling" "Mrs Gamp" 4
+"299" "Doctor Jobling" "Mrs Mould" 1
+"300" "Doctor Jobling" "Mrs Prig" 1
+"301" "Doctor Jobling" "Nadgett" 5
+"302" "Doctor Jobling" "Seth Pecksniff" 4
+"303" "Doctor Jobling" "Tacker" 3
+"304" "Doctor Jobling" "Tigg Montague" 5
+"305" "Doctor Jobling" "Young Bailey" 5
+"306" "General Choke" "Jeff Brick" 1
+"307" "General Choke" "La Fayette Kettle" 1
+"308" "General Choke" "Major Chollop" 1
+"309" "General Choke" "Major Pawkins" 1
+"310" "General Choke" "Mark Tapley" 2
+"311" "General Choke" "Martin Jr" 2
+"312" "General Choke" "Martin Sr" 1
+"313" "General Choke" "Mr Bevan" 2
+"314" "General Choke" "Mr Norris" 1
+"315" "General Choke" "Mrs Lupin" 1
+"316" "General Choke" "Seth Pecksniff" 2
+"317" "General Choke" "Tom Pinch" 2
+"318" "General Choke" "Zephaniah Scadder" 2
+"319" "General Fladdock" "Jeff Brick" 1
+"320" "General Fladdock" "Jodd" 1
+"321" "General Fladdock" "Julius Bib" 1
+"322" "General Fladdock" "Major Chollop" 1
+"323" "General Fladdock" "Mark Tapley" 2
+"324" "General Fladdock" "Martin Jr" 2
+"325" "General Fladdock" "Martin Sr" 1
+"326" "General Fladdock" "Miss Codger" 1
+"327" "General Fladdock" "Miss Toppit" 1
+"328" "General Fladdock" "Mr Bevan" 2
+"329" "General Fladdock" "Mr Izzard" 1
+"330" "General Fladdock" "Mr Norris" 1
+"331" "General Fladdock" "Mrs Hominy" 1
+"332" "General Fladdock" "Mrs Norris" 1
+"333" "General Fladdock" "Mrs Pawkins" 1
+"334" "General Fladdock" "Oscar Buffum" 1
+"335" "General Fladdock" "Pogram" 1
+"336" "General Fladdock" "Professor Piper" 1
+"337" "General Fladdock" "Zephaniah Scadder" 1
+"338" "George Chuzzlewit" "Jonas Chuzzlewit" 2
+"339" "George Chuzzlewit" "Mark Tapley" 1
+"340" "George Chuzzlewit" "Martin Sr" 2
+"341" "George Chuzzlewit" "Mercy Pecksniff" 2
+"342" "George Chuzzlewit" "Mr Jinkins" 1
+"343" "George Chuzzlewit" "Mr/Mrs Spottletoe" 2
+"344" "George Chuzzlewit" "Mrs Lupin" 1
+"345" "George Chuzzlewit" "Mrs Ned Chuzzlewit" 2
+"346" "George Chuzzlewit" "Mrs Todgers" 1
+"347" "George Chuzzlewit" "Seth Pecksniff" 2
+"348" "George Chuzzlewit" "Tigg Montague" 1
+"349" "George Chuzzlewit" "Young Bailey" 1
+"350" "Jack Coach" "John Westlock" 1
+"351" "Jack Coach" "Mrs Lupin" 1
+"352" "Jack Coach" "Mrs Todgers" 1
+"353" "Jack Coach" "Ruth Pinch" 1
+"354" "Jack Coach" "Seth Pecksniff" 1
+"355" "Jack Coach" "Tom Pinch" 1
+"356" "Jane" "John Westlock" 1
+"357" "Jane" "Mark Tapley" 1
+"358" "Jane" "Martin Jr" 1
+"359" "Jane" "Martin Sr" 1
+"360" "Jane" "Mary" 1
+"361" "Jane" "Mercy Pecksniff" 1
+"362" "Jane" "Mrs Lupin" 1
+"363" "Jane" "Seth Pecksniff" 1
+"364" "Jane" "Tom Pinch" 1
+"365" "Jeff Brick" "La Fayette Kettle" 1
+"366" "Jeff Brick" "Major Pawkins" 2
+"367" "Jeff Brick" "Mark Tapley" 3
+"368" "Jeff Brick" "Martin Jr" 3
+"369" "Jeff Brick" "Mr Bevan" 2
+"370" "Jeff Brick" "Mr Norris" 1
+"371" "Jeff Brick" "Mrs Norris" 1
+"372" "Jeff Brick" "Mrs Pawkins" 2
+"373" "Jeff Brick" "Professor Mullit" 1
+"374" "Jeff Brick" "Seth Pecksniff" 1
+"375" "Jeff Brick" "Tom Pinch" 1
+"376" "Jeff Brick" "Zephaniah Scadder" 1
+"377" "Jodd" "Julius Bib" 1
+"378" "Jodd" "Major Chollop" 1
+"379" "Jodd" "Mark Tapley" 1
+"380" "Jodd" "Martin Jr" 1
+"381" "Jodd" "Martin Sr" 1
+"382" "Jodd" "Miss Codger" 1
+"383" "Jodd" "Miss Toppit" 1
+"384" "Jodd" "Mr Bevan" 1
+"385" "Jodd" "Mr Izzard" 1
+"386" "Jodd" "Mrs Hominy" 1
+"387" "Jodd" "Oscar Buffum" 1
+"388" "Jodd" "Pogram" 1
+"389" "Jodd" "Professor Piper" 1
+"390" "Jodd" "Zephaniah Scadder" 1
+"391" "John Westlock" "Jonas Chuzzlewit" 6
+"392" "John Westlock" "Lewsome" 5
+"393" "John Westlock" "Mark Tapley" 8
+"394" "John Westlock" "Martin Jr" 11
+"395" "John Westlock" "Martin Sr" 10
+"396" "John Westlock" "Mary" 3
+"397" "John Westlock" "Mercy Pecksniff" 6
+"398" "John Westlock" "Misses Mould" 1
+"399" "John Westlock" "Mr Fips" 5
+"400" "John Westlock" "Mr Mould" 2
+"401" "John Westlock" "Mrs Gamp" 9
+"402" "John Westlock" "Mrs Gill" 1
+"403" "John Westlock" "Mrs Lupin" 6
+"404" "John Westlock" "Mrs Mould" 2
+"405" "John Westlock" "Mrs Prig" 4
+"406" "John Westlock" "Mrs Todgers" 3
+"407" "John Westlock" "Nadgett" 7
+"408" "John Westlock" "Ruth Pinch" 4
+"409" "John Westlock" "Seth Pecksniff" 13
+"410" "John Westlock" "Sophia" 1
+"411" "John Westlock" "Tacker" 1
+"412" "John Westlock" "Tigg Montague" 7
+"413" "John Westlock" "Tom Pinch" 10
+"414" "John Westlock" "William Simmons" 1
+"415" "John Westlock" "Young Bailey" 4
+"416" "Jonas Chuzzlewit" "Lewsome" 2
+"417" "Jonas Chuzzlewit" "Mark Tapley" 5
+"418" "Jonas Chuzzlewit" "Martin Jr" 10
+"419" "Jonas Chuzzlewit" "Martin Sr" 14
+"420" "Jonas Chuzzlewit" "Mary" 2
+"421" "Jonas Chuzzlewit" "Mercy Pecksniff" 12
+"422" "Jonas Chuzzlewit" "Mr Bevan" 1
+"423" "Jonas Chuzzlewit" "Mr Fips" 2
+"424" "Jonas Chuzzlewit" "Mr Jinkins" 4
+"425" "Jonas Chuzzlewit" "Mr Mould" 3
+"426" "Jonas Chuzzlewit" "Mr Pip" 1
+"427" "Jonas Chuzzlewit" "Mr/Mrs Spottletoe" 2
+"428" "Jonas Chuzzlewit" "Mrs Gamp" 11
+"429" "Jonas Chuzzlewit" "Mrs Lupin" 6
+"430" "Jonas Chuzzlewit" "Mrs Ned Chuzzlewit" 3
+"431" "Jonas Chuzzlewit" "Mrs Prig" 3
+"432" "Jonas Chuzzlewit" "Mrs Todgers" 9
+"433" "Jonas Chuzzlewit" "Nadgett" 11
+"434" "Jonas Chuzzlewit" "Ruth Pinch" 2
+"435" "Jonas Chuzzlewit" "Seth Pecksniff" 19
+"436" "Jonas Chuzzlewit" "Tacker" 2
+"437" "Jonas Chuzzlewit" "Tigg Montague" 12
+"438" "Jonas Chuzzlewit" "Tom Pinch" 7
+"439" "Jonas Chuzzlewit" "Young Bailey" 12
+"440" "Julius Bib" "Major Chollop" 1
+"441" "Julius Bib" "Mark Tapley" 1
+"442" "Julius Bib" "Martin Jr" 1
+"443" "Julius Bib" "Martin Sr" 1
+"444" "Julius Bib" "Miss Codger" 1
+"445" "Julius Bib" "Miss Toppit" 1
+"446" "Julius Bib" "Mr Bevan" 1
+"447" "Julius Bib" "Mr Izzard" 1
+"448" "Julius Bib" "Mrs Hominy" 1
+"449" "Julius Bib" "Oscar Buffum" 1
+"450" "Julius Bib" "Pogram" 1
+"451" "Julius Bib" "Professor Piper" 1
+"452" "Julius Bib" "Zephaniah Scadder" 1
+"453" "La Fayette Kettle" "Major Pawkins" 1
+"454" "La Fayette Kettle" "Mark Tapley" 1
+"455" "La Fayette Kettle" "Martin Jr" 1
+"456" "La Fayette Kettle" "Mr Bevan" 1
+"457" "La Fayette Kettle" "Seth Pecksniff" 1
+"458" "La Fayette Kettle" "Tom Pinch" 1
+"459" "La Fayette Kettle" "Zephaniah Scadder" 1
+"460" "Lewsome" "Mark Tapley" 2
+"461" "Lewsome" "Martin Jr" 3
+"462" "Lewsome" "Martin Sr" 3
+"463" "Lewsome" "Misses Mould" 1
+"464" "Lewsome" "Mr Fips" 2
+"465" "Lewsome" "Mr Mould" 2
+"466" "Lewsome" "Mrs Gamp" 4
+"467" "Lewsome" "Mrs Gill" 1
+"468" "Lewsome" "Mrs Lupin" 1
+"469" "Lewsome" "Mrs Mould" 2
+"470" "Lewsome" "Mrs Prig" 3
+"471" "Lewsome" "Mrs Todgers" 1
+"472" "Lewsome" "Nadgett" 4
+"473" "Lewsome" "Ruth Pinch" 1
+"474" "Lewsome" "Seth Pecksniff" 4
+"475" "Lewsome" "Tacker" 1
+"476" "Lewsome" "Tigg Montague" 1
+"477" "Lewsome" "Tom Pinch" 1
+"478" "Lewsome" "Young Bailey" 1
+"479" "Major Chollop" "Mark Tapley" 2
+"480" "Major Chollop" "Martin Jr" 2
+"481" "Major Chollop" "Martin Sr" 2
+"482" "Major Chollop" "Miss Codger" 1
+"483" "Major Chollop" "Miss Toppit" 1
+"484" "Major Chollop" "Mr Bevan" 2
+"485" "Major Chollop" "Mr Izzard" 1
+"486" "Major Chollop" "Mr Norris" 1
+"487" "Major Chollop" "Mrs Hominy" 1
+"488" "Major Chollop" "Mrs Lupin" 1
+"489" "Major Chollop" "Oscar Buffum" 1
+"490" "Major Chollop" "Pogram" 1
+"491" "Major Chollop" "Professor Piper" 1
+"492" "Major Chollop" "Seth Pecksniff" 1
+"493" "Major Chollop" "Tom Pinch" 1
+"494" "Major Chollop" "Zephaniah Scadder" 2
+"495" "Major Pawkins" "Mark Tapley" 2
+"496" "Major Pawkins" "Martin Jr" 2
+"497" "Major Pawkins" "Mr Bevan" 1
+"498" "Major Pawkins" "Mrs Pawkins" 1
+"499" "Major Pawkins" "Professor Mullit" 1
+"500" "Major Pawkins" "Seth Pecksniff" 1
+"501" "Major Pawkins" "Tom Pinch" 1
+"502" "Major Pawkins" "Zephaniah Scadder" 1
+"503" "Mark Tapley" "Martin Jr" 21
+"504" "Mark Tapley" "Martin Sr" 12
+"505" "Mark Tapley" "Mary" 2
+"506" "Mark Tapley" "Mercy Pecksniff" 3
+"507" "Mark Tapley" "Miss Codger" 1
+"508" "Mark Tapley" "Miss Toppit" 1
+"509" "Mark Tapley" "Mr Bevan" 6
+"510" "Mark Tapley" "Mr Fips" 3
+"511" "Mark Tapley" "Mr Izzard" 1
+"512" "Mark Tapley" "Mr Jinkins" 1
+"513" "Mark Tapley" "Mr Mould" 1
+"514" "Mark Tapley" "Mr Norris" 2
+"515" "Mark Tapley" "Mr/Mrs Spottletoe" 1
+"516" "Mark Tapley" "Mrs Gamp" 4
+"517" "Mark Tapley" "Mrs Hominy" 3
+"518" "Mark Tapley" "Mrs Lupin" 10
+"519" "Mark Tapley" "Mrs Ned Chuzzlewit" 2
+"520" "Mark Tapley" "Mrs Norris" 1
+"521" "Mark Tapley" "Mrs Pawkins" 2
+"522" "Mark Tapley" "Mrs Prig" 1
+"523" "Mark Tapley" "Mrs Todgers" 2
+"524" "Mark Tapley" "Nadgett" 3
+"525" "Mark Tapley" "Oscar Buffum" 1
+"526" "Mark Tapley" "Pogram" 1
+"527" "Mark Tapley" "Professor Mullit" 1
+"528" "Mark Tapley" "Professor Piper" 1
+"529" "Mark Tapley" "Ruth Pinch" 2
+"530" "Mark Tapley" "Seth Pecksniff" 15
+"531" "Mark Tapley" "Tigg Montague" 5
+"532" "Mark Tapley" "Tom Pinch" 11
+"533" "Mark Tapley" "William Simmons" 1
+"534" "Mark Tapley" "Young Bailey" 2
+"535" "Mark Tapley" "Zephaniah Scadder" 5
+"536" "Martin Jr" "Martin Sr" 16
+"537" "Martin Jr" "Mary" 3
+"538" "Martin Jr" "Mercy Pecksniff" 6
+"539" "Martin Jr" "Miss Codger" 1
+"540" "Martin Jr" "Miss Toppit" 1
+"541" "Martin Jr" "Mr Bevan" 6
+"542" "Martin Jr" "Mr Fips" 4
+"543" "Martin Jr" "Mr Izzard" 1
+"544" "Martin Jr" "Mr Mould" 1
+"545" "Martin Jr" "Mr Norris" 2
+"546" "Martin Jr" "Mrs Gamp" 6
+"547" "Martin Jr" "Mrs Hominy" 3
+"548" "Martin Jr" "Mrs Lupin" 13
+"549" "Martin Jr" "Mrs Ned Chuzzlewit" 1
+"550" "Martin Jr" "Mrs Norris" 1
+"551" "Martin Jr" "Mrs Pawkins" 2
+"552" "Martin Jr" "Mrs Prig" 2
+"553" "Martin Jr" "Mrs Todgers" 4
+"554" "Martin Jr" "Nadgett" 4
+"555" "Martin Jr" "Oscar Buffum" 1
+"556" "Martin Jr" "Pogram" 1
+"557" "Martin Jr" "Professor Mullit" 1
+"558" "Martin Jr" "Professor Piper" 1
+"559" "Martin Jr" "Ruth Pinch" 2
+"560" "Martin Jr" "Seth Pecksniff" 22
+"561" "Martin Jr" "Sophia" 1
+"562" "Martin Jr" "Tigg Montague" 7
+"563" "Martin Jr" "Tom Pinch" 15
+"564" "Martin Jr" "William Simmons" 1
+"565" "Martin Jr" "Young Bailey" 2
+"566" "Martin Jr" "Zephaniah Scadder" 5
+"567" "Martin Sr" "Mary" 4
+"568" "Martin Sr" "Mercy Pecksniff" 14
+"569" "Martin Sr" "Miss Codger" 1
+"570" "Martin Sr" "Miss Toppit" 1
+"571" "Martin Sr" "Misses Mould" 1
+"572" "Martin Sr" "Mr Bevan" 3
+"573" "Martin Sr" "Mr Fips" 1
+"574" "Martin Sr" "Mr Gander" 1
+"575" "Martin Sr" "Mr Izzard" 1
+"576" "Martin Sr" "Mr Jinkins" 5
+"577" "Martin Sr" "Mr Mould" 3
+"578" "Martin Sr" "Mr Norris" 1
+"579" "Martin Sr" "Mr Pip" 1
+"580" "Martin Sr" "Mr/Mrs Spottletoe" 2
+"581" "Martin Sr" "Mrs Gamp" 8
+"582" "Martin Sr" "Mrs Gill" 1
+"583" "Martin Sr" "Mrs Hominy" 1
+"584" "Martin Sr" "Mrs Lupin" 12
+"585" "Martin Sr" "Mrs Mould" 2
+"586" "Martin Sr" "Mrs Ned Chuzzlewit" 3
+"587" "Martin Sr" "Mrs Prig" 4
+"588" "Martin Sr" "Mrs Todgers" 11
+"589" "Martin Sr" "Nadgett" 5
+"590" "Martin Sr" "Oscar Buffum" 1
+"591" "Martin Sr" "Pogram" 1
+"592" "Martin Sr" "Professor Piper" 1
+"593" "Martin Sr" "Ruth Pinch" 3
+"594" "Martin Sr" "Seth Pecksniff" 22
+"595" "Martin Sr" "Tacker" 2
+"596" "Martin Sr" "Tigg Montague" 7
+"597" "Martin Sr" "Tom Pinch" 11
+"598" "Martin Sr" "William Simmons" 1
+"599" "Martin Sr" "Young Bailey" 7
+"600" "Martin Sr" "Zephaniah Scadder" 2
+"601" "Mary" "Mercy Pecksniff" 3
+"602" "Mary" "Mrs Gamp" 1
+"603" "Mary" "Mrs Lupin" 4
+"604" "Mary" "Mrs Todgers" 2
+"605" "Mary" "Nadgett" 1
+"606" "Mary" "Seth Pecksniff" 3
+"607" "Mary" "Tigg Montague" 1
+"608" "Mary" "Tom Pinch" 3
+"609" "Mary" "Young Bailey" 1
+"610" "Mercy Pecksniff" "Mr Fips" 1
+"611" "Mercy Pecksniff" "Mr Gander" 1
+"612" "Mercy Pecksniff" "Mr Jinkins" 6
+"613" "Mercy Pecksniff" "Mr Pip" 1
+"614" "Mercy Pecksniff" "Mr/Mrs Spottletoe" 2
+"615" "Mercy Pecksniff" "Mrs Gamp" 5
+"616" "Mercy Pecksniff" "Mrs Lupin" 5
+"617" "Mercy Pecksniff" "Mrs Ned Chuzzlewit" 2
+"618" "Mercy Pecksniff" "Mrs Prig" 1
+"619" "Mercy Pecksniff" "Mrs Todgers" 10
+"620" "Mercy Pecksniff" "Nadgett" 3
+"621" "Mercy Pecksniff" "Ruth Pinch" 3
+"622" "Mercy Pecksniff" "Seth Pecksniff" 15
+"623" "Mercy Pecksniff" "Sophia" 1
+"624" "Mercy Pecksniff" "Tigg Montague" 3
+"625" "Mercy Pecksniff" "Tom Pinch" 11
+"626" "Mercy Pecksniff" "Young Bailey" 7
+"627" "Miss Codger" "Miss Toppit" 1
+"628" "Miss Codger" "Mr Bevan" 1
+"629" "Miss Codger" "Mr Izzard" 1
+"630" "Miss Codger" "Mrs Hominy" 1
+"631" "Miss Codger" "Oscar Buffum" 1
+"632" "Miss Codger" "Pogram" 1
+"633" "Miss Codger" "Professor Piper" 1
+"634" "Miss Codger" "Zephaniah Scadder" 1
+"635" "Miss Toppit" "Mr Bevan" 1
+"636" "Miss Toppit" "Mr Izzard" 1
+"637" "Miss Toppit" "Mrs Hominy" 1
+"638" "Miss Toppit" "Oscar Buffum" 1
+"639" "Miss Toppit" "Pogram" 1
+"640" "Miss Toppit" "Professor Piper" 1
+"641" "Miss Toppit" "Zephaniah Scadder" 1
+"642" "Misses Mould" "Mr Mould" 1
+"643" "Misses Mould" "Mrs Gamp" 1
+"644" "Misses Mould" "Mrs Mould" 1
+"645" "Misses Mould" "Mrs Prig" 1
+"646" "Misses Mould" "Seth Pecksniff" 1
+"647" "Misses Mould" "Tacker" 1
+"648" "Mr Bevan" "Mr Izzard" 1
+"649" "Mr Bevan" "Mr Norris" 2
+"650" "Mr Bevan" "Mrs Hominy" 2
+"651" "Mr Bevan" "Mrs Lupin" 2
+"652" "Mr Bevan" "Mrs Ned Chuzzlewit" 1
+"653" "Mr Bevan" "Mrs Norris" 1
+"654" "Mr Bevan" "Mrs Pawkins" 1
+"655" "Mr Bevan" "Oscar Buffum" 1
+"656" "Mr Bevan" "Pogram" 1
+"657" "Mr Bevan" "Professor Piper" 1
+"658" "Mr Bevan" "Seth Pecksniff" 3
+"659" "Mr Bevan" "Tom Pinch" 3
+"660" "Mr Bevan" "Zephaniah Scadder" 4
+"661" "Mr Fips" "Mrs Gamp" 2
+"662" "Mr Fips" "Mrs Lupin" 2
+"663" "Mr Fips" "Nadgett" 3
+"664" "Mr Fips" "Ruth Pinch" 2
+"665" "Mr Fips" "Seth Pecksniff" 4
+"666" "Mr Fips" "Tigg Montague" 1
+"667" "Mr Fips" "Tom Pinch" 3
+"668" "Mr Gander" "Mr Jinkins" 1
+"669" "Mr Gander" "Mrs Todgers" 1
+"670" "Mr Gander" "Ruth Pinch" 1
+"671" "Mr Gander" "Seth Pecksniff" 1
+"672" "Mr Gander" "Tom Pinch" 1
+"673" "Mr Gander" "Young Bailey" 1
+"674" "Mr Izzard" "Mrs Hominy" 1
+"675" "Mr Izzard" "Oscar Buffum" 1
+"676" "Mr Izzard" "Pogram" 1
+"677" "Mr Izzard" "Professor Piper" 1
+"678" "Mr Izzard" "Zephaniah Scadder" 1
+"679" "Mr Jinkins" "Mr/Mrs Spottletoe" 1
+"680" "Mr Jinkins" "Mrs Ned Chuzzlewit" 1
+"681" "Mr Jinkins" "Mrs Todgers" 6
+"682" "Mr Jinkins" "Ruth Pinch" 1
+"683" "Mr Jinkins" "Seth Pecksniff" 6
+"684" "Mr Jinkins" "Tom Pinch" 1
+"685" "Mr Jinkins" "Young Bailey" 5
+"686" "Mr Mould" "Mrs Gamp" 4
+"687" "Mr Mould" "Mrs Mould" 1
+"688" "Mr Mould" "Mrs Prig" 2
+"689" "Mr Mould" "Mrs Todgers" 1
+"690" "Mr Mould" "Nadgett" 2
+"691" "Mr Mould" "Seth Pecksniff" 4
+"692" "Mr Mould" "Tacker" 3
+"693" "Mr Mould" "Tigg Montague" 2
+"694" "Mr Mould" "Young Bailey" 1
+"695" "Mr Norris" "Mrs Lupin" 1
+"696" "Mr Norris" "Mrs Norris" 1
+"697" "Mr Norris" "Mrs Pawkins" 1
+"698" "Mr Norris" "Seth Pecksniff" 1
+"699" "Mr Norris" "Tom Pinch" 1
+"700" "Mr Norris" "Zephaniah Scadder" 1
+"701" "Mr Pip" "Nadgett" 1
+"702" "Mr Pip" "Tigg Montague" 1
+"703" "Mr Pip" "Young Bailey" 1
+"704" "Mr/Mrs Spottletoe" "Mrs Lupin" 1
+"705" "Mr/Mrs Spottletoe" "Mrs Ned Chuzzlewit" 2
+"706" "Mr/Mrs Spottletoe" "Mrs Todgers" 1
+"707" "Mr/Mrs Spottletoe" "Seth Pecksniff" 2
+"708" "Mr/Mrs Spottletoe" "Tigg Montague" 1
+"709" "Mr/Mrs Spottletoe" "Young Bailey" 1
+"710" "Mrs Gamp" "Mrs Gill" 1
+"711" "Mrs Gamp" "Mrs Hominy" 1
+"712" "Mrs Gamp" "Mrs Lupin" 2
+"713" "Mrs Gamp" "Mrs Mould" 2
+"714" "Mrs Gamp" "Mrs Prig" 5
+"715" "Mrs Gamp" "Mrs Todgers" 3
+"716" "Mrs Gamp" "Nadgett" 8
+"717" "Mrs Gamp" "Ruth Pinch" 3
+"718" "Mrs Gamp" "Seth Pecksniff" 8
+"719" "Mrs Gamp" "Tacker" 3
+"720" "Mrs Gamp" "Tigg Montague" 6
+"721" "Mrs Gamp" "Tom Pinch" 4
+"722" "Mrs Gamp" "Young Bailey" 6
+"723" "Mrs Gamp" "Zephaniah Scadder" 1
+"724" "Mrs Gill" "Mrs Mould" 1
+"725" "Mrs Gill" "Mrs Prig" 1
+"726" "Mrs Gill" "Nadgett" 1
+"727" "Mrs Gill" "Young Bailey" 1
+"728" "Mrs Hominy" "Oscar Buffum" 1
+"729" "Mrs Hominy" "Pogram" 1
+"730" "Mrs Hominy" "Professor Piper" 1
+"731" "Mrs Hominy" "Zephaniah Scadder" 3
+"732" "Mrs Lupin" "Mrs Ned Chuzzlewit" 2
+"733" "Mrs Lupin" "Mrs Todgers" 3
+"734" "Mrs Lupin" "Nadgett" 2
+"735" "Mrs Lupin" "Ruth Pinch" 2
+"736" "Mrs Lupin" "Seth Pecksniff" 14
+"737" "Mrs Lupin" "Tigg Montague" 4
+"738" "Mrs Lupin" "Tom Pinch" 10
+"739" "Mrs Lupin" "Young Bailey" 1
+"740" "Mrs Lupin" "Zephaniah Scadder" 1
+"741" "Mrs Mould" "Mrs Prig" 2
+"742" "Mrs Mould" "Nadgett" 1
+"743" "Mrs Mould" "Seth Pecksniff" 1
+"744" "Mrs Mould" "Tacker" 1
+"745" "Mrs Mould" "Young Bailey" 1
+"746" "Mrs Ned Chuzzlewit" "Mrs Todgers" 1
+"747" "Mrs Ned Chuzzlewit" "Seth Pecksniff" 3
+"748" "Mrs Ned Chuzzlewit" "Tigg Montague" 1
+"749" "Mrs Ned Chuzzlewit" "Tom Pinch" 1
+"750" "Mrs Ned Chuzzlewit" "Young Bailey" 1
+"751" "Mrs Norris" "Mrs Pawkins" 1
+"752" "Mrs Pawkins" "Professor Mullit" 1
+"753" "Mrs Prig" "Mrs Todgers" 2
+"754" "Mrs Prig" "Nadgett" 3
+"755" "Mrs Prig" "Ruth Pinch" 1
+"756" "Mrs Prig" "Seth Pecksniff" 2
+"757" "Mrs Prig" "Tacker" 1
+"758" "Mrs Prig" "Tigg Montague" 2
+"759" "Mrs Prig" "Tom Pinch" 1
+"760" "Mrs Prig" "Young Bailey" 2
+"761" "Mrs Todgers" "Nadgett" 2
+"762" "Mrs Todgers" "Ruth Pinch" 3
+"763" "Mrs Todgers" "Seth Pecksniff" 11
+"764" "Mrs Todgers" "Tigg Montague" 1
+"765" "Mrs Todgers" "Tom Pinch" 6
+"766" "Mrs Todgers" "Young Bailey" 5
+"767" "Nadgett" "Ruth Pinch" 2
+"768" "Nadgett" "Seth Pecksniff" 8
+"769" "Nadgett" "Tacker" 1
+"770" "Nadgett" "Tigg Montague" 9
+"771" "Nadgett" "Tom Pinch" 3
+"772" "Nadgett" "Young Bailey" 7
+"773" "Oscar Buffum" "Pogram" 1
+"774" "Oscar Buffum" "Professor Piper" 1
+"775" "Oscar Buffum" "Zephaniah Scadder" 1
+"776" "Pogram" "Professor Piper" 1
+"777" "Pogram" "Zephaniah Scadder" 1
+"778" "Professor Piper" "Zephaniah Scadder" 1
+"779" "Ruth Pinch" "Seth Pecksniff" 4
+"780" "Ruth Pinch" "Tom Pinch" 5
+"781" "Ruth Pinch" "Young Bailey" 1
+"782" "Seth Pecksniff" "Sophia" 1
+"783" "Seth Pecksniff" "Tacker" 3
+"784" "Seth Pecksniff" "Tigg Montague" 11
+"785" "Seth Pecksniff" "Tom Pinch" 19
+"786" "Seth Pecksniff" "William Simmons" 1
+"787" "Seth Pecksniff" "Young Bailey" 8
+"788" "Seth Pecksniff" "Zephaniah Scadder" 2
+"789" "Sophia" "Tom Pinch" 1
+"790" "Tacker" "Tigg Montague" 1
+"791" "Tacker" "Young Bailey" 1
+"792" "Tigg Montague" "Tom Pinch" 4
+"793" "Tigg Montague" "William Simmons" 1
+"794" "Tigg Montague" "Young Bailey" 7
+"795" "Tom Pinch" "William Simmons" 1
+"796" "Tom Pinch" "Young Bailey" 1
+"797" "Tom Pinch" "Zephaniah Scadder" 2
