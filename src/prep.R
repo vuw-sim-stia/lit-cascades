@@ -1,6 +1,6 @@
 # Preprocessing script for a tool prototype that enables close and distant reading of literature.
 # For demonstration purposes the tool is configured to work on various Victorian Novels from Charles Dickens and other authors.
-# Authors: Markus Luczak-Roesch, Tom Goldfinch, Johannes A. Karl
+# Authors: Markus Luczak-Roesch, Tom Goldfinch
 
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
@@ -25,6 +25,7 @@ library(tm)
 library(stringr)
 library(RTextTools)
 library(NLP)
+library(visNetwork)
 library(digest)
 library(entropy)
 library(scatterplot3d)
@@ -34,17 +35,20 @@ library(igraph)
 library(ggplot2)
 library(plotly)
 library(gtools)
+library(networkDynamic)
+library(ndtv)
 library(tsna)
+library(intergraph)
 library(openNLP)
+library(cldr)
 library(RWeka)
 library(vegan)
 library(poweRlaw)
+library(plyr)
+library(vegan)
 
 #housekeeping and helpers
 options(scipen = 999)
-
-# Functions ---------------------------------------------------------------
-
 
 degree.distribution <- function (graph, cumulative = FALSE, ...) 
 {
@@ -61,36 +65,11 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   }
   res
 }
-## TIC
-tic_generate <- function(inputsequence) {
-      nodes <- c()
-      links <- c()
-      roots <- c()
-      last_node <- list()
-      
-      for(pp in 1:nrow(inputsequence)){
-        tags <- unlist(strsplit(as.character(inputsequence[which(inputsequence[,1]== pp),2]), split=", "))
-        nodes <- rbind(nodes, c(inputsequence[which(inputsequence[,1]== pp),1],as.character(inputsequence[which(inputsequence[,1]== pp),2]),inputsequence[which(inputsequence[,1]== pp),1]))
-        
-        for(jj in 1:length(tags)){
-          cur_tag <- tags[jj]
-          if(!is.null(unlist(last_node[cur_tag]))){ 
-            source_node <- last_node[cur_tag]
-            target_node <- pp
-            links <- rbind(links, c(source_node, target_node,cur_tag))
-          } else {
-            roots <- rbind(roots, c(pp, cur_tag))
-          }
-          last_node[cur_tag] <- pp
-        }
-        
-      }
-      return(list(nodes, links, roots))
-}
 
 #set working directoy
-setwd("C:/Users/Johannes.Karl/Documents/GitHub/lit-cascades/src/")
+setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
 
+#slice_sizes <- c(1000,500,250)
 slice_sizes <- c(1000)
 
 #get all text and char files
@@ -98,7 +77,9 @@ allCharFiles <- list.files("../resources/Character Lists/")
 allCharFiles <- allCharFiles[which(allCharFiles!="Icon\r")]
 allTextFiles <- list.files("../resources/Text Files")
 allTextFiles <- allTextFiles[which(allTextFiles!="Icon\r")]
-
+#select which texts to process
+#litSources <- c('greatexpectations','davidcopperfield','chuzzlewit','bleakhouse','middlemarch','ourmutualfriend','phineasfinn','pickwick','smallhouse','tessofthedurbervilles')
+#litSources <- c('bleakhouse','ourmutualfriend')
 allOutput <- c()
 
 method <- "chars" # one of "chars" "ngram" "nouns"
@@ -110,11 +91,17 @@ for(sliceSize in slice_sizes){
     theSource <- gsub(' ','_',gsub('[[:digit:]][[:digit:]] ','',gsub(' text.txt','',allTextFiles[nextRun])))
     allOutput <- c(allOutput,theSource)
     sourceText <- readChar(paste0('../resources/Text Files/',allTextFiles[nextRun]), file.info(paste0('../resources/Text Files/',allTextFiles[nextRun]))$size)
-    processedText <- gsub("\\r\\n", " ", sourceText, perl = T)
-    processedText <- gsub("\\n", " ", processedText, perl = T)
+    processedText <- gsub("\\r\\n", " ", sourceText,perl=T)
+    processedText <- gsub("\\n", " ", processedText,perl=T)
     
+    #split by number of words
+    #full_text <- strsplit(processedText, "\\s+")[[1]]
+    #groupA <- rep(seq(ceiling(length(full_text)/1200)), each=1200)[1:length(full_text)]
+    #words300A <- split(full_text, groupA)
+    #words300B <- words300A
     
     #split by number of words and chapters
+    #full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\s.]?)", perl=T)[[1]]
     full_text <- strsplit(processedText, "(?i:Chapter [0-9A-Z]+[\\.]?[\\s.]?)", perl=T)[[1]]
     words300B <- c()
     tmp <- sapply(full_text,function(x){
@@ -132,29 +119,72 @@ for(sliceSize in slice_sizes){
       }
     }
     
+    words300A <- words300B
     if(method == "chars"){
-        #character list
-        trait_words <- tolower(readLines('../resources/pda500.txt'))
-    
-        outer_lapply <- lapply(words300B, function(xx){
-            inner_lapply <- Filter(Negate(is.null), lapply(trait_words, function(kk){
-            matched <- gregexpr(paste("[\\s\\\\\"](", kk, ")[\\';,.:\\s\\\\\"]", sep=""),
-                                       paste(xx, collapse = ' '), perl = TRUE)
-            if(attr(matched[[1]], "match.length") != -1){
-              kk
+      #character list
+      tmp <- readLines(paste0('../resources/Character Lists/',allCharFiles[nextRun]))
+      
+      #for short character lists
+      #tmp <- readLines(paste('../resources/',theSource,'_chars_short.txt',sep=''))
+      
+      charIds <- sapply(strsplit(tmp,": "),function(x){ x[[1]] })
+      chars <- sapply(strsplit(tmp,": "),function(x){ strsplit(x[[2]],", ") })
+      tmp <- c()
+      for(i in 1:length(chars)){
+        nextChar <- charIds[i]
+        allNames <- chars[[i]]
+        for(j in 1:length(allNames)){
+          tmp <- rbind(tmp,c(nextChar,allNames[j]))
+        }
+      }
+      chars <- data.frame(tmp,stringsAsFactors = F)
+      colnames(chars)<-c('id','name')
+      chars$len <- nchar(chars$name)
+      chars$len<-as.numeric(chars$len)
+      chars <- chars[ order(-chars[,3]), ]
+      
+      matches <- list()
+      for(j in 1:length(words300A)){
+        slicematch <- list()
+        for(k in 1:nrow(chars)){
+          needle <- chars[k,2]
+          matched <- unlist(gregexpr(paste("[\\s\\\\\"](",needle,")[\\';,.:\\s\\\\\"]",sep=""), paste(unlist(words300A[j]),collapse=' '),perl=TRUE))
+          multiple <- F
+          if(k+1<=nrow(chars)){
+            if(length(which(chars[k+1:nrow(chars),2]==needle))>0) multiple <- T
+          }
+          if(!multiple){
+            nWords <- sapply(gregexpr("\\W+", needle), length) +1
+            words300A[j] <- strsplit(gsub(needle,paste(replicate(nWords, "FOOBAR"), collapse = " "),paste(unlist(words300A[j]),collapse=' '))," ")
+          }
+          if(matched != -1){
+            for(l in 1:length(matched)){
+              if(is.null(slicematch[[as.character(matched[l])]])){
+                slicematch[[as.character(matched[l])]] <- needle
+              } else{
+                if(length(slicematch[[as.character(matched[l])]]) < length(needle)){
+                  slicematch[[as.character(matched[l])]] <- needle
+                }
+              }
             }
-          }))
-          inner_lapply
-        })
+          }
+        }
+        matches[[j]]<-slicematch
+      }
       
+      charDS <- data.frame(x = numeric(), y = character(), stringsAsFactors = FALSE)
       
-       unique_trait <- lapply(outer_lapply, function(tt){
-          paste(sort(unique(unlist(tt))), collapse = ", ")
-      }) 
-      charDS <- data.frame(x = c(1:length(unique_trait)),
-                           y = unlist(unique_trait),
-                           stringsAsFactors = FALSE)
-      
+      for(i in 1:length(matches)){
+        if(length(matches[i][[1]])>0){
+          nextMatch <- unique(unlist(matches[i]))
+          nextMatchStr <- c()
+          for(j in 1:length(nextMatch)){
+            if(length(nextMatchStr) == 0) {nextMatchStr <- c(chars[which(chars[,2]==nextMatch[j]),1])}
+            else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
+          }
+          charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+        }
+      }
     } else if(method == "nouns"){
       ## Need sentence and word token annotations.
       sent_token_annotator <- Maxent_Sent_Token_Annotator()
@@ -195,15 +225,34 @@ for(sliceSize in slice_sizes){
       }
     }
     
-    tic <- tic_generate(charDS)
+    nodes <- c()
+    links <- c()
+    roots <- c()
     
-    nodes <- data.frame(node_id = unlist(tic[[1]][,1]),tags = unlist(tic[[1]][,2]),
-                        dpub = unlist(tic[[1]][,3]),stringsAsFactors = F)
-    links <- data.frame(source = unlist(tic[[2]][,1]),target = unlist(tic[[2]][,2]),
-                        tag = unlist(tic[[2]][,3]),stringsAsFactors = F)
-    roots <- data.frame(root_node_id = unlist(tic[[3]][,1]),
-                        tag = unlist(tic[[3]][,2]),stringsAsFactors = F)
-
+    last_node <- list()
+    
+    for(p in charDS$i){
+      tags <- unlist(strsplit(as.character(charDS[which(charDS[,1]==p),2]), split=", "))
+      nodes <- rbind(nodes, c(charDS[which(charDS[,1]==p),1],as.character(charDS[which(charDS[,1]==p),2]),charDS[which(charDS[,1]==p),1]))
+      
+      for(j in 1:length(tags)){
+        cur_tag <- tags[j]
+        if(!is.null(unlist(last_node[cur_tag]))){ 
+          source_node <- last_node[cur_tag]
+          target_node <- p
+          links <- rbind(links, c(source_node,target_node,cur_tag))
+        } else {
+          roots <- rbind(roots, c(p,cur_tag))
+        }
+        last_node[cur_tag] <- p
+      }
+      
+    }
+    links <- data.frame(source=unlist(links[,1]),target=unlist(links[,2]),tag=unlist(links[,3]),stringsAsFactors = F)
+    colnames(nodes) <- c('node_id','tags','dpub')
+    colnames(links) <- c('source','target','tag')
+    colnames(roots) <- c('root_node_id','tag')
+    
     write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
     write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
     write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"))
@@ -238,7 +287,7 @@ for(sliceSize in slice_sizes){
     
     jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta_distri_plaw.jpg"))
     plot(m_bl, ylab="CDF")
-    text(100,0.15,bquote(x[min] ~ .(paste0("=")) ~ .(m_bl$xmin) ~ .(paste0(", ")) ~ alpha ~ .(paste0("=")) ~ .(m_bl$pars)))
+    #text(100,0.15,bquote(x[min] ~ .(paste0("=")) ~ .(m_bl$xmin) ~ .(paste0(", ")) ~ alpha ~ .(paste0("=")) ~ .(m_bl$pars)))
     lines(m_bl, col=2)
     lines(m_ln, col=3)
     lines(m_pois, col=4)
@@ -272,6 +321,59 @@ for(sliceSize in slice_sizes){
     }
     write(paste(htmlHead,htmlContent,htmlTail,sep=''),file=paste('TLit/www/output/',sliceSize,'/',theSource,'_textchunks.html',sep=''))
     
+    library(networkDynamic)
+    library(ndtv)
+    library(tsna)
+    
+    nd <- as.networkDynamic(network.initialize(0))
+    set.network.attribute(nd,"vertex.pid","vertex.names")
+    set.network.attribute(nd,"edge.pid","edge.names")
+    for(i in 1:nrow(links)){
+      fromN <- get.vertex.id(nd,unlist(links[i,1]))
+      if(is.na(fromN)){
+        add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,1])))
+        fromN <- get.vertex.id(nd,unlist(links[i,1]))
+        set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),2]),v=c(fromN))
+        set.vertex.attribute(nd,'content2',paste(unlist(words300B[unlist(nodes[which(nodes[,1]==unlist(links[i,1])),1])]),collapse=' '),v=c(fromN))
+        set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,1])),1]),v=c(fromN))
+        activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(fromN))
+      }
+      
+      toN <- get.vertex.id(nd,unlist(links[i,2]))
+      if(is.na(toN)){
+        add.vertices(nd,nv=1,vertex.pid=c(unlist(links[i,2])))
+        toN <- get.vertex.id(nd,unlist(links[i,2]))
+        set.vertex.attribute(nd,'content',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),2]),v=c(toN))
+        set.vertex.attribute(nd,'content2',paste(unlist(words300B[unlist(nodes[which(nodes[,1]==unlist(links[i,2])),1])]),collapse=' '),v=c(toN))
+        set.vertex.attribute(nd,'step',unlist(nodes[which(nodes[,1]==unlist(links[i,2])),1]),v=c(toN))
+        activate.vertices(nd,onset=as.numeric(unlist(links[i,2])),terminus=max(as.numeric(unlist(links[,2])))+1,v=c(toN))
+      }
+      edgeID <- which(get.edge.attribute(nd,'ident')==paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'))
+      if(length(edgeID)==0){
+        add.edges.active(nd,onset=as.numeric(unlist(links[i,2])), terminus=max(as.numeric(unlist(links[,2])))+1,head=toN,tail=fromN,names.eval=list(list('set','ident','width')),vals.eval=list(list(links[i,3][[1]],paste(unlist(links[i,1]),unlist(links[i,2]),sep='-'),1)))
+      } else{
+        linkLabel <- paste(get.edge.attribute(nd,'set',unlist=FALSE)[[edgeID]],unlist(links[i,3]),sep=", ")
+        set.edge.attribute(nd, attrname='set', value=linkLabel, e=c(edgeID))
+        set.edge.attribute(nd, attrname='width', value=get.edge.attribute(nd,'width',unlist=FALSE)[[edgeID]]+1, e=c(edgeID))
+      }
+    }
+    
+    compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
+    
+    #interactive
+    render.d3movie(nd, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
+                   displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
+                   vertex.col="orange",edge.col="darkgray",
+                   vertex.cex = .5, vertex.border="black",
+                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched information:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                   edge.lwd = .3,
+                   object.scale = 0.1,
+                   edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+    
+    detach("package:ndtv", unload=TRUE)
+    detach("package:tsna", unload=TRUE)
+    detach("package:sna", unload=TRUE)
+    detach("package:networkDynamic", unload=TRUE)
     
     uniqueLinks <- data.frame(id1=character(0),id2=character(0),label=character(0))
     convLinks <- as.data.frame(links,stringsAsFactors = F)
@@ -348,6 +450,29 @@ for(sliceSize in slice_sizes){
     socEdges$color <- "gray"
     socEdges$label <- E(g)$label
     
+    ## old static network
+    #netw <- visNetwork(socNodes, socEdges, width="1000px", height="1000px") %>%
+    #  visNodes(shadow = T,font=list(size=32)) %>% 
+    #  visEdges(color=list(color="grey"),font = list(color="grey",size=32)) %>% 
+    #  visOptions(highlightNearest = TRUE) %>%
+    #  visInteraction(dragNodes = FALSE, dragView = TRUE, zoomView = TRUE) %>% 
+    #  visPhysics(stabilization = FALSE,   barnesHut = list(gravitationalConstant = -10000,springConstant = 0.002,springLength = 150))
+    #visSave(netw, file = paste("/Users/mlr/Documents/git-projects/lit-cascades/src/TLit/www/output/",theSource,"_static-network-old.html",sep=''))
+    library(networkDynamic)
+    library(ndtv)
+    library(tsna)
+    
+    hnetwork <- asNetwork(g)
+    
+    render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
+                   displaylabels = T, label=hnetwork %v% "vertex.names",
+                   vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                   vertex.cex = .5, vertex.border="black",
+                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched information:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
+                   edge.lwd = .3,
+                   object.scale = 0.1,
+                   edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
+    
     #### create the character network from the cascade
     socN1 <- c()
     for(lin in 1:nrow(nodes)){
@@ -419,9 +544,8 @@ for(sliceSize in slice_sizes){
     pdf(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_dh_socnet.pdf",sep=''))
     plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
     dev.off()
-
-## create the character network from the cascade ---------------------------
-
+    
+    #### create the character network from the cascade
     socN1 <- c()
     for(lin in 1:nrow(nodes)){
       nex <- unlist(strsplit(nodes$title[lin],", "))
@@ -473,7 +597,48 @@ for(sliceSize in slice_sizes){
     
     write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"))
     
-  
+    hnetwork <- asNetwork(h)
+    
+    socEdges2 <- socEdges
+    socEdges2 <- socEdges2[c("id2", "id1","label")]
+    names(socEdges2)[names(socEdges2) == "id2"] <- "haha"
+    names(socEdges2)[names(socEdges2) == "id1"] <- "id2"
+    names(socEdges2)[names(socEdges2) == "haha"] <- "id1"
+    
+    newsocEdges <- rbind(socEdges,socEdges2)
+    
+    allChars = unique(c(newsocEdges$id1,newsocEdges$id2))
+    linkedChar <- c()
+    for(char in 1:length(allChars)){
+      linkedChar <- rbind(linkedChar,c(allChars[char],paste(unique(c(newsocEdges[which(newsocEdges$id1==allChars[char]),2],newsocEdges[which(newsocEdges$id2==allChars[char]),1])),collapse = ", ")))
+    }
+    linkedChar <- as.data.frame(linkedChar)
+    colnames(linkedChar) <- c("char","links")
+    
+    #newsocEdges <- ddply(newsocEdges, .(id1),summarize, id2 = toString(id2))
+    
+    linkedChar2 <- c()
+    
+    for(char in 1:length(hnetwork$val)){
+      linkedChar2 <- rbind(linkedChar2,linkedChar[which(linkedChar[,1]==hnetwork$val[[char]]$vertex.names),])
+    }
+    linkedChar2 <- as.data.frame(linkedChar2)
+    colnames(linkedChar2) <- c("char","links")
+    
+    write.csv(linkedChar2$char,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_allcharacters.csv",sep=''))
+    
+    render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
+                   displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
+                   vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                   vertex.cex = .5, vertex.border="black",
+                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Character:</b>", (hnetwork %v% "vertex.names"), "<br />","<b>Co-occurring characters:</b>", (linkedChar2$links)),
+                   edge.lwd = .3,
+                   object.scale = 0.1,
+                   edge.tooltip = paste("<b>Number of Links:</b>", (hnetwork %e% "label"),"</span>" ))
+    detach("package:ndtv", unload=TRUE)
+    detach("package:tsna", unload=TRUE)
+    detach("package:sna", unload=TRUE)
+    detach("package:networkDynamic", unload=TRUE)
     #stats for the social graph
     degd <- degree.distribution(h)
     wtc <- cluster_walktrap(h)
@@ -846,7 +1011,29 @@ for(sliceSize in slice_sizes){
       }
     }
     
-   tic_generate(charDS)
+    nodes <- c()
+    links <- c()
+    roots <- c()
+    
+    last_node <- list()
+    
+    for(p in charDS$i){
+      tags <- unlist(strsplit(as.character(charDS[which(charDS[,1]==p),2]), split=", "))
+      nodes <- rbind(nodes, c(charDS[which(charDS[,1]==p),1],as.character(charDS[which(charDS[,1]==p),2]),charDS[which(charDS[,1]==p),1]))
+      
+      for(j in 1:length(tags)){
+        cur_tag <- tags[j]
+        if(!is.null(unlist(last_node[cur_tag]))){ 
+          source_node <- last_node[cur_tag]
+          target_node <- p
+          links <- rbind(links, c(source_node,target_node,cur_tag))
+        } else {
+          roots <- rbind(roots, c(p,cur_tag))
+        }
+        last_node[cur_tag] <- p
+      }
+      
+    }
     
     links <- data.frame(source=unlist(links[,1]),target=unlist(links[,2]),tag=unlist(links[,3]),stringsAsFactors = F)
     colnames(nodes) <- c('node_id','tags','dpub')
@@ -1366,7 +1553,7 @@ for(sliceSize in slice_sizes){
     
     write.table(cbind(coordinates,wien,struct),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_temporal_statistics.csv"),row.names = F)
     
-    write.csv(ent,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt"))
+    write.table(ent,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt"),row.names = F,sep = ";",quote = F)
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.jpg",sep=''))
     plot(ent[,1],type="l")
     dev.off()
@@ -1374,7 +1561,7 @@ for(sliceSize in slice_sizes){
     plot(ent[,2],type="l")
     dev.off()
     
-    write.csv(wien,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_diversity.txt",sep=''))
+    write.table(wien,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_diversity.txt",sep=''),row.names = F,sep = ";",quote = F)
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_shannonwiener.jpg",sep=''))
     plot(wien[,1],type="l")
     dev.off()
