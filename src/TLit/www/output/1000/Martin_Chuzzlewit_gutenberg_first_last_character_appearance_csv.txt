@@ -1,0 +1,141 @@
+"","Character","Node","Type","Appearances"
+"1","Anonymous Woman",111,"First Appearance",6
+"2","Anonymous Woman",364,"Last Appearance",6
+"3","Anthony Chuzzlewit",25,"First Appearance",29
+"4","Anthony Chuzzlewit",344,"Last Appearance",29
+"5","Augustus Moddle",68,"First Appearance",23
+"6","Augustus Moddle",365,"Last Appearance",23
+"7","Bullamy",192,"First Appearance",3
+"8","Bullamy",339,"Last Appearance",3
+"9","Captain Kedgick",236,"Last Appearance",4
+"10","Captain Kedgick",161,"First Appearance",4
+"11","Charity Pecksniff",7,"First Appearance",44
+"12","Charity Pecksniff",365,"Last Appearance",44
+"13","Chevy Slyme",23,"First Appearance",14
+"14","Chevy Slyme",348,"Last Appearance",14
+"15","Chiggle",234,"First Appearance",2
+"16","Chiggle",238,"Last Appearance",2
+"17","Chuffey",363,"Last Appearance",37
+"18","Chuffey",81,"First Appearance",37
+"19","Cicero",125,"First Appearance",1
+"20","Cicero",125,"Last Appearance",1
+"21","Colonel Diver",115,"First Appearance",6
+"22","Colonel Diver",155,"Last Appearance",6
+"23","Colonel Groper",237,"First Appearance",1
+"24","Colonel Groper",237,"Last Appearance",1
+"25","David Crimple",339,"Last Appearance",9
+"26","David Crimple",191,"First Appearance",9
+"27","Doctor Dunkle",236,"First Appearance",3
+"28","Doctor Dunkle",239,"Last Appearance",3
+"29","Doctor Jobling",138,"First Appearance",14
+"30","Doctor Jobling",281,"Last Appearance",14
+"31","General Choke",153,"First Appearance",4
+"32","General Choke",226,"Last Appearance",4
+"33","General Fladdock",128,"First Appearance",2
+"34","General Fladdock",239,"Last Appearance",2
+"35","George Chuzzlewit",365,"Last Appearance",5
+"36","George Chuzzlewit",27,"First Appearance",5
+"37","Jack Coach",245,"First Appearance",1
+"38","Jack Coach",245,"Last Appearance",1
+"39","Jane",218,"First Appearance",3
+"40","Jane",221,"Last Appearance",3
+"41","Jeff Brick",116,"First Appearance",9
+"42","Jeff Brick",158,"Last Appearance",9
+"43","Jodd",237,"Last Appearance",1
+"44","Jodd",237,"First Appearance",1
+"45","John Westlock",9,"First Appearance",66
+"46","John Westlock",361,"Last Appearance",66
+"47","Jonas Chuzzlewit",25,"First Appearance",94
+"48","Jonas Chuzzlewit",362,"Last Appearance",94
+"49","Julius Bib",237,"First Appearance",1
+"50","Julius Bib",237,"Last Appearance",1
+"51","La Fayette Kettle",158,"Last Appearance",4
+"52","La Fayette Kettle",153,"First Appearance",4
+"53","Lewsome",180,"First Appearance",11
+"54","Lewsome",346,"Last Appearance",11
+"55","Major Chollop",228,"First Appearance",4
+"56","Major Chollop",235,"Last Appearance",4
+"57","Major Pawkins",118,"First Appearance",3
+"58","Major Pawkins",155,"Last Appearance",3
+"59","Mark Tapley",32,"First Appearance",91
+"60","Mark Tapley",364,"Last Appearance",91
+"61","Martin Jr",361,"Last Appearance",146
+"62","Martin Jr",18,"First Appearance",146
+"63","Martin Sr",364,"Last Appearance",66
+"64","Martin Sr",18,"First Appearance",66
+"65","Mary",210,"First Appearance",5
+"66","Mary",351,"Last Appearance",5
+"67","Mercy Pecksniff",7,"First Appearance",62
+"68","Mercy Pecksniff",364,"Last Appearance",62
+"69","Miss Codger",238,"Last Appearance",1
+"70","Miss Codger",238,"First Appearance",1
+"71","Miss Toppit",238,"Last Appearance",1
+"72","Miss Toppit",238,"First Appearance",1
+"73","Misses Mould",178,"First Appearance",1
+"74","Misses Mould",178,"Last Appearance",1
+"75","Mr Bevan",124,"First Appearance",11
+"76","Mr Bevan",292,"Last Appearance",11
+"77","Mr Fips",361,"Last Appearance",9
+"78","Mr Fips",265,"First Appearance",9
+"79","Mr Gander",70,"Last Appearance",4
+"80","Mr Gander",66,"First Appearance",4
+"81","Mr Izzard",237,"First Appearance",1
+"82","Mr Izzard",237,"Last Appearance",1
+"83","Mr Jinkins",58,"First Appearance",20
+"84","Mr Jinkins",365,"Last Appearance",20
+"85","Mr Mould",136,"First Appearance",11
+"86","Mr Mould",347,"Last Appearance",11
+"87","Mr Norris",126,"First Appearance",4
+"88","Mr Norris",231,"Last Appearance",4
+"89","Mr Pip",200,"Last Appearance",2
+"90","Mr Pip",198,"First Appearance",2
+"91","Mr/Mrs Spottletoe",24,"First Appearance",9
+"92","Mr/Mrs Spottletoe",365,"Last Appearance",9
+"93","Mrs Gamp",136,"First Appearance",49
+"94","Mrs Gamp",356,"Last Appearance",49
+"95","Mrs Gill",204,"First Appearance",1
+"96","Mrs Gill",204,"Last Appearance",1
+"97","Mrs Hominy",238,"Last Appearance",5
+"98","Mrs Hominy",163,"First Appearance",5
+"99","Mrs Lupin",16,"First Appearance",30
+"100","Mrs Lupin",360,"Last Appearance",30
+"101","Mrs Mould",178,"First Appearance",5
+"102","Mrs Mould",206,"Last Appearance",5
+"103","Mrs Ned Chuzzlewit",2,"First Appearance",8
+"104","Mrs Ned Chuzzlewit",365,"Last Appearance",8
+"105","Mrs Norris",126,"Last Appearance",1
+"106","Mrs Norris",126,"First Appearance",1
+"107","Mrs Pawkins",119,"First Appearance",4
+"108","Mrs Pawkins",126,"Last Appearance",4
+"109","Mrs Prig",180,"First Appearance",16
+"110","Mrs Prig",344,"Last Appearance",16
+"111","Mrs Todgers",58,"First Appearance",40
+"112","Mrs Todgers",364,"Last Appearance",40
+"113","Nadgett",197,"First Appearance",19
+"114","Nadgett",349,"Last Appearance",19
+"115","Oscar Buffum",238,"Last Appearance",2
+"116","Oscar Buffum",237,"First Appearance",2
+"117","Pogram",234,"First Appearance",6
+"118","Pogram",239,"Last Appearance",6
+"119","Professor Mullit",120,"First Appearance",1
+"120","Professor Mullit",120,"Last Appearance",1
+"121","Professor Piper",237,"First Appearance",1
+"122","Professor Piper",237,"Last Appearance",1
+"123","Ruth Pinch",321,"Last Appearance",15
+"124","Ruth Pinch",62,"First Appearance",15
+"125","Seth Pecksniff",6,"First Appearance",151
+"126","Seth Pecksniff",362,"Last Appearance",151
+"127","Sophia",42,"First Appearance",1
+"128","Sophia",42,"Last Appearance",1
+"129","Tacker",141,"First Appearance",4
+"130","Tacker",258,"Last Appearance",4
+"131","Tigg Montague",353,"Last Appearance",48
+"132","Tigg Montague",23,"First Appearance",48
+"133","Tom Pinch",9,"First Appearance",68
+"134","Tom Pinch",322,"Last Appearance",68
+"135","William Simmons",97,"First Appearance",1
+"136","William Simmons",97,"Last Appearance",1
+"137","Young Bailey",59,"First Appearance",30
+"138","Young Bailey",362,"Last Appearance",30
+"139","Zephaniah Scadder",156,"First Appearance",8
+"140","Zephaniah Scadder",235,"Last Appearance",8

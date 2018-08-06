@@ -1,0 +1,51 @@
+"","Character","Node","Type","Appearances"
+"1","Adam Smith Gradgrind",9,"First Appearance",1
+"2","Adam Smith Gradgrind",9,"Last Appearance",1
+"3","Bitzer",2,"First Appearance",16
+"4","Bitzer",121,"Last Appearance",16
+"5","Bounderby",6,"First Appearance",83
+"6","Bounderby",121,"Last Appearance",83
+"7","E.W.B. Childers",13,"First Appearance",5
+"8","E.W.B. Childers",118,"Last Appearance",5
+"9","Emma Gordon",16,"First Appearance",2
+"10","Emma Gordon",114,"Last Appearance",2
+"11","Harthouse",51,"First Appearance",29
+"12","Harthouse",115,"Last Appearance",29
+"13","Jane Gradgrind",9,"First Appearance",3
+"14","Jane Gradgrind",79,"Last Appearance",3
+"15","Kidderminster",13,"First Appearance",5
+"16","Kidderminster",113,"Last Appearance",5
+"17","Lady Scadgers",18,"First Appearance",4
+"18","Lady Scadgers",120,"Last Appearance",4
+"19","Louisa Gradgrind",6,"First Appearance",66
+"20","Louisa Gradgrind",121,"Last Appearance",66
+"21","M’Choakumchild",1,"First Appearance",7
+"22","M’Choakumchild",39,"Last Appearance",7
+"23","Malthus Gradgrind",9,"First Appearance",1
+"24","Malthus Gradgrind",9,"Last Appearance",1
+"25","Mr Sleary",119,"Last Appearance",14
+"26","Mr Sleary",5,"First Appearance",14
+"27","Mrs Blackpool",28,"First Appearance",6
+"28","Mrs Blackpool",121,"Last Appearance",6
+"29","Mrs Gradgrind",7,"First Appearance",14
+"30","Mrs Gradgrind",80,"Last Appearance",14
+"31","Mrs Pegler",7,"First Appearance",15
+"32","Mrs Pegler",120,"Last Appearance",15
+"33","Mrs Sparsit",18,"First Appearance",33
+"34","Mrs Sparsit",120,"Last Appearance",33
+"35","Nickits",67,"First Appearance",4
+"36","Nickits",72,"Last Appearance",4
+"37","Rachael",27,"First Appearance",26
+"38","Rachael",121,"Last Appearance",26
+"39","Signor Jupe",5,"First Appearance",2
+"40","Signor Jupe",13,"Last Appearance",2
+"41","Sissy Jupe",2,"First Appearance",41
+"42","Sissy Jupe",121,"Last Appearance",41
+"43","Slackbridge",56,"First Appearance",7
+"44","Slackbridge",101,"Last Appearance",7
+"45","Stephen Blackpool",27,"First Appearance",33
+"46","Stephen Blackpool",121,"Last Appearance",33
+"47","Thomas Gradgrind",2,"First Appearance",59
+"48","Thomas Gradgrind",121,"Last Appearance",59
+"49","Tom Gradgrind",5,"First Appearance",41
+"50","Tom Gradgrind",121,"Last Appearance",41

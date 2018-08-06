@@ -66,8 +66,37 @@ degree.distribution <- function (graph, cumulative = FALSE, ...)
   res
 }
 
+## TIC
+tic_generate <- function(inputsequence) {
+  nodes <- c()
+  links <- c()
+  roots <- c()
+  last_node <- list()
+  
+  for(pp in inputsequence$i){
+    tags <- unlist(strsplit(as.character(inputsequence[which(inputsequence[,1] == pp),2]), split=", "))
+    nodes <- rbind(nodes, c(inputsequence[which(inputsequence[,1]== pp),1],
+                            as.character(inputsequence[which(inputsequence[,1] == pp),2]),
+                            inputsequence[which(inputsequence[,1] == pp),1]))
+    
+    for(jj in 1:length(tags)){
+      cur_tag <- tags[jj]
+      if(!is.null(unlist(last_node[cur_tag]))){ 
+        source_node <- last_node[cur_tag]
+        target_node <- pp
+        links <- rbind(links, c(source_node, target_node, cur_tag))
+      } else {
+        roots <- rbind(roots, c(pp, cur_tag))
+      }
+      last_node[cur_tag] <- pp
+    }
+    
+  }
+  return(list(nodes, links, roots))
+}
+
 #set working directoy
-setwd("/Users/mlr/Documents/git-projects/lit-cascades/src/")
+setwd("/Users/mlr/OneDrive - Victoria University of Wellington - STAFF/Git/lit-cascades/src/")
 
 #slice_sizes <- c(1000,500,250)
 slice_sizes <- c(1000)
@@ -183,6 +212,8 @@ for(sliceSize in slice_sizes){
             else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
           }
           charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+        } else{
+          charDS <- rbind(charDS,data.frame(i,""),stringsAsFactors=F)
         }
       }
     } else if(method == "nouns"){
@@ -225,33 +256,15 @@ for(sliceSize in slice_sizes){
       }
     }
     
-    nodes <- c()
-    links <- c()
-    roots <- c()
+    tic <- tic_generate(charDS)
     
-    last_node <- list()
-    
-    for(p in charDS$i){
-      tags <- unlist(strsplit(as.character(charDS[which(charDS[,1]==p),2]), split=", "))
-      nodes <- rbind(nodes, c(charDS[which(charDS[,1]==p),1],as.character(charDS[which(charDS[,1]==p),2]),charDS[which(charDS[,1]==p),1]))
-      
-      for(j in 1:length(tags)){
-        cur_tag <- tags[j]
-        if(!is.null(unlist(last_node[cur_tag]))){ 
-          source_node <- last_node[cur_tag]
-          target_node <- p
-          links <- rbind(links, c(source_node,target_node,cur_tag))
-        } else {
-          roots <- rbind(roots, c(p,cur_tag))
-        }
-        last_node[cur_tag] <- p
-      }
-      
-    }
-    links <- data.frame(source=unlist(links[,1]),target=unlist(links[,2]),tag=unlist(links[,3]),stringsAsFactors = F)
-    colnames(nodes) <- c('node_id','tags','dpub')
-    colnames(links) <- c('source','target','tag')
-    colnames(roots) <- c('root_node_id','tag')
+    ## Extracting nodes, links, roots from network model computed in tic_generate.
+    nodes <- data.frame(node_id = unlist(tic[[1]][,1]), tags = unlist(tic[[1]][,2]),
+                        dpub = unlist(tic[[1]][,3]), stringsAsFactors = F)
+    links <- data.frame(source = unlist(tic[[2]][,1]), target = unlist(tic[[2]][,2]),
+                        tag = unlist(tic[[2]][,3]), stringsAsFactors = F)
+    roots <- data.frame(root_node_id = unlist(tic[[3]][,1]),
+                        tag = unlist(tic[[3]][,2]), stringsAsFactors = F)
     
     write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
     write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
@@ -668,36 +681,39 @@ for(sliceSize in slice_sizes){
     
     casc <- c()
     inter <- c()
-    ent <- c()
+    ent <- data.frame(ww = numeric(0), xx = numeric(0), yy = numeric(0), zz = numeric(0))
     wien <- c()
-    colnames(links) <- c('source','target','tag')
+    colnames(links) <- c('source', 'target', 'tag')
     
     coordinates <- c()
     spec <- list()
-    div=1
+    div = 1
     
     g1 <- make_empty_graph(n = 0, directed = TRUE)
     struct <- c()
-    
+    props <- c()
     for(z in 1:nrow(nodes)){
-      #entropy
-      #if(z==1){
-      #  ent <- rbind(ent,c(0,1,0,1))
-      #  wien <- rbind(wien,c(0,0))
-      #}
-      #if(length(links[which(links[,2]==nodes[z,1]),3])>0){
-        #print(nodes[z,1])
-        #inter <- rbind(inter,paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '))
-        inter <- rbind(inter,paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '))
-        #nextI <- digest(paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '),algo="md5")
-        nextI <- digest(paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '),algo="md5")
-        if(length(spec)==0){
-          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),0,0))
-          spec[[nextI]] <- c(0,0)
+      if(nodes[z,]$title == ""){
+        if(nrow(ent) > 0){
+          ent <- rbind(ent, ent[nrow(ent),])
+          wien <- rbind(wien, wien[nrow(wien),])
+          
+        }else{
+          ent <- rbind(ent, c(0, 1, 0, 1))
+          wien <- rbind(wien, c(0, 1, 1))
+        }
+        coordinates <- rbind(coordinates, c(as.numeric(nodes[z, 1]), 0, 0))
+        
+      }else{
+        inter <- rbind(inter, paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse = ', '))
+        nextI <- digest(paste(sort(unlist(strsplit(nodes[z,2], ', '))), collapse = ', '), algo = "md5")
+        if(length(spec) == 0){
+          coordinates <- rbind(coordinates, c(as.numeric(nodes[z, 1]), 1, 1))
+          spec[[nextI]] <- c(1, 1)
         }
         else{
           if(is.null(spec[[nextI]])){
-            spec[[nextI]] <- c(0,div)
+            spec[[nextI]] <- c(1,div)
             coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
             div <- div+1
           }else{
@@ -707,74 +723,118 @@ for(sliceSize in slice_sizes){
         }
         
         interact <- list()
+        cooccure <- list()
+        #temp1 <- c()
         for(v in 1:nrow(inter)){
           interactions <- unlist(strsplit(unlist(inter[v,1]),', '))
+          #temp1 <- rbind(temp1, gtools::combinations(length(interactions), 2, interactions))
           for( m in 1:length(interactions)){
             if(is.null(interact[[interactions[m]]])) interact[[interactions[m]]] <- 1
             else interact[[interactions[m]]] <- interact[[interactions[m]]] + 1
           }
         }
         df <- data.frame(unlist(interact))
-        tmp<-df[,1]/colSums(df)
-        df$loga<-log(tmp)
-        df$piloga<-tmp*log(tmp)
-        if(is.nan((-1*(colSums(df)[3]))/log(nrow(df)))){
-          ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),1,-1*(colSums(df)[3]),1))
+        tmp <- df[,1] / colSums(df)
+        df$loga <- log(tmp)
+        df$piloga <- tmp * log(tmp)
+        if(is.nan((-1 * (colSums(df)[3])) / log(nrow(df)))){
+          ent <- rbind(ent,c(entropy.empirical(df[,1], unit = "log2"), 1, -1 * (colSums(df)[3]), 1))
         } else{
-          ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),(-1*(colSums(df)[3]))/log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
+          ent <- rbind(ent, c(entropy.empirical(df[,1], unit = "log2"), (-1 * (colSums(df)[3])) / log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
         }
         
-        if(nrow(df)==1){
-          wien <- rbind(wien,c(0,0,1))
+        if(nrow(df) == 1){
+          wien <- rbind(wien, c(0, 1, 1))
         } else{
           H <- vegan::diversity(df[,1])
           S <- nrow(df)
           J <- H/log(S)
-          wien <- rbind(wien,c(H,J,S))
-        }
-        
+          wien <- rbind(wien,c(H, J, S))
+        }}
+      
       #}
-      colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
-      colnames(wien)<-c('ShannonWiener','Pielou','Richness')
+      colnames(ent)<-c('empEntropy', 'evenness_log2', 'entropy', 'evenness')
+      colnames(wien)<-c('ShannonWiener', 'Pielou', 'Richness')
       
       #add node
-      g1 <- add_vertices(g1,1,attr = list(id=as.numeric(nodes[z,1])))
+      g1 <- add_vertices(g1,1,attr = list(id = as.numeric(nodes[z,1])))
       
       #add all links to node
-      theLinks <- unique(links[which(links[,2]==nodes[z,1]),1:2])
+      theLinks <- unique(links[which(links[,2] == nodes[z,1]),1:2])
       for(srclnk in theLinks[,1]){
-        g1 <- add_edges(g1,c(which(V(g1)$id==srclnk),which(V(g1)$id==as.numeric(nodes[z,1]))))
+        g1 <- add_edges(g1, c(which(V(g1)$id == srclnk), which(V(g1)$id == as.numeric(nodes[z,1]))))
       }
       
       #degd <- degree.distribution(g1)
       wtc <- cluster_walktrap(g1)
-      struct <- rbind(struct,c(diameter(g1),edge_density(g1),modularity(wtc)))
+      struct <- rbind(struct, c(diameter(g1), edge_density(g1), modularity(wtc)))
     }
-    colnames(coordinates) <- c("t","specificity","diversity")
+    #colnames(coordinates) <- c("t","specificity","diversity")
+    #data.frame(coordinates) %>%
+    #ggplot() +
+    #aes(x = specificity, y = diversity, colour = t) +
+    #geom_jitter()
+    
+    
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_coordinates.jpg",sep=''))
     scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
     dev.off()
     
-    write.table(cbind(coordinates,wien,struct),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_temporal_statistics.csv"),row.names = F)
+    write.table(cbind(coordinates, wien, struct),
+                file=paste0("TLit/www/output/", sliceSize, "/", theSource,
+                            "_temporal_statistics.csv"), row.names = F, col.names = F, sep = ";")
     
-    write.csv(ent,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt",sep=''))
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.jpg",sep=''))
-    plot(ent[,1],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_evenness.jpg",sep=''))
-    plot(ent[,2],type="l")
-    dev.off()
+    write.table(ent, file = paste0("TLit/www/output/", sliceSize, "/",
+                                   theSource, "_gutenberg_entropy.txt"), sep = ";")
     
-    write.csv(wien,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_diversity.txt",sep=''))
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_shannonwiener.jpg",sep=''))
-    plot(wien[,1],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_pielou.jpg",sep=''))
-    plot(wien[,2],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_richness.jpg",sep=''))
-    plot(wien[,3],type="l")
-    dev.off()
+    write.table(wien, file = paste0("TLit/www/output/", sliceSize, "/",
+                                    theSource, "_gutenberg_diversity.txt"), sep = ";")
+    ent_plot <- as.data.frame(ent) %>%
+      mutate(rownumber = seq.int(nrow(.)))
+    
+    wien_plot <- as.data.frame(wien) %>%
+      mutate(rownumber = seq.int(nrow(.)))
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/", theSource,"_gutenberg_entropy.jpg"),
+           plot = ent_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = empEntropy, group = 1) +
+             geom_line() +
+             labs(y = "Entropy") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/", theSource,"_gutenberg_evenness.jpg"),
+           plot = ent_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = evenness_log2, group = 1) +
+             geom_line() +
+             labs(y = "Log Evenness") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/",
+                  theSource, "_gutenberg_shannonwiener.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = ShannonWiener, group = 1) +
+             geom_line() +
+             labs(y = "Shannon Wiener") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_pielou.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = Pielou, group = 1) +
+             geom_line() +
+             labs(y = "Pielou") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_richness.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = Richness, group = 1) +
+             geom_line() +
+             labs(y = "Richness") +
+             theme_classic())
     
     # scatterplot for character frequency
     labelint = as.integer(nodes$label)
@@ -969,6 +1029,8 @@ for(sliceSize in slice_sizes){
             else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
           }
           charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+        }  else{
+          charDS <- rbind(charDS,data.frame(i,""),stringsAsFactors=F)
         }
       }
     } else if(method == "nouns"){
@@ -1011,34 +1073,15 @@ for(sliceSize in slice_sizes){
       }
     }
     
-    nodes <- c()
-    links <- c()
-    roots <- c()
+    tic <- tic_generate(charDS)
     
-    last_node <- list()
-    
-    for(p in charDS$i){
-      tags <- unlist(strsplit(as.character(charDS[which(charDS[,1]==p),2]), split=", "))
-      nodes <- rbind(nodes, c(charDS[which(charDS[,1]==p),1],as.character(charDS[which(charDS[,1]==p),2]),charDS[which(charDS[,1]==p),1]))
-      
-      for(j in 1:length(tags)){
-        cur_tag <- tags[j]
-        if(!is.null(unlist(last_node[cur_tag]))){ 
-          source_node <- last_node[cur_tag]
-          target_node <- p
-          links <- rbind(links, c(source_node,target_node,cur_tag))
-        } else {
-          roots <- rbind(roots, c(p,cur_tag))
-        }
-        last_node[cur_tag] <- p
-      }
-      
-    }
-    
-    links <- data.frame(source=unlist(links[,1]),target=unlist(links[,2]),tag=unlist(links[,3]),stringsAsFactors = F)
-    colnames(nodes) <- c('node_id','tags','dpub')
-    colnames(links) <- c('source','target','tag')
-    colnames(roots) <- c('root_node_id','tag')
+    ## Extracting nodes, links, roots from network model computed in tic_generate.
+    nodes <- data.frame(node_id = unlist(tic[[1]][,1]), tags = unlist(tic[[1]][,2]),
+                        dpub = unlist(tic[[1]][,3]), stringsAsFactors = F)
+    links <- data.frame(source = unlist(tic[[2]][,1]), target = unlist(tic[[2]][,2]),
+                        tag = unlist(tic[[2]][,3]), stringsAsFactors = F)
+    roots <- data.frame(root_node_id = unlist(tic[[3]][,1]),
+                        tag = unlist(tic[[3]][,2]), stringsAsFactors = F)
     
     write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
     write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
@@ -1464,113 +1507,160 @@ for(sliceSize in slice_sizes){
     
     casc <- c()
     inter <- c()
-    ent <- c()
+    ent <- data.frame(ww = numeric(0), xx = numeric(0), yy = numeric(0), zz = numeric(0))
     wien <- c()
-    colnames(links) <- c('source','target','tag')
+    colnames(links) <- c('source', 'target', 'tag')
     
     coordinates <- c()
     spec <- list()
-    div=1
+    div = 1
     
     g1 <- make_empty_graph(n = 0, directed = TRUE)
     struct <- c()
-    
+    props <- c()
     for(z in 1:nrow(nodes)){
-      #entropy
-      #if(z==1){
-      #  ent <- rbind(ent,c(0,1,0,1))
-      #  wien <- rbind(wien,c(0,0))
-      #}
-      #if(length(links[which(links[,2]==nodes[z,1]),3])>0){
-      #print(nodes[z,1])
-      #inter <- rbind(inter,paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '))
-      inter <- rbind(inter,paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '))
-      #nextI <- digest(paste(sort(unlist(links[which(links[,2]==nodes[z,1]),3])), collapse=', '),algo="md5")
-      nextI <- digest(paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse=', '),algo="md5")
-      if(length(spec)==0){
-        coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),0,0))
-        spec[[nextI]] <- c(0,0)
-      }
-      else{
-        if(is.null(spec[[nextI]])){
-          spec[[nextI]] <- c(0,div)
-          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
-          div <- div+1
+      if(nodes[z,]$title == ""){
+        if(nrow(ent) > 0){
+          ent <- rbind(ent, ent[nrow(ent),])
+          wien <- rbind(wien, wien[nrow(wien),])
+          
         }else{
-          spec[[nextI]] <- c(spec[[nextI]][1]+1,spec[[nextI]][2])
-          coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],spec[[nextI]][2]))
+          ent <- rbind(ent, c(0, 1, 0, 1))
+          wien <- rbind(wien, c(0, 1, 1))
         }
-      }
-      
-      interact <- list()
-      for(v in 1:nrow(inter)){
-        interactions <- unlist(strsplit(unlist(inter[v,1]),', '))
-        for( m in 1:length(interactions)){
-          if(is.null(interact[[interactions[m]]])) interact[[interactions[m]]] <- 1
-          else interact[[interactions[m]]] <- interact[[interactions[m]]] + 1
+        coordinates <- rbind(coordinates, c(as.numeric(nodes[z, 1]), 0, 0))
+        
+      }else{
+        inter <- rbind(inter, paste(sort(unlist(strsplit(nodes[z,2],', '))), collapse = ', '))
+        nextI <- digest(paste(sort(unlist(strsplit(nodes[z,2], ', '))), collapse = ', '), algo = "md5")
+        if(length(spec) == 0){
+          coordinates <- rbind(coordinates, c(as.numeric(nodes[z, 1]), 1, 1))
+          spec[[nextI]] <- c(1, 1)
         }
-      }
-      df <- data.frame(unlist(interact))
-      tmp<-df[,1]/colSums(df)
-      df$loga<-log(tmp)
-      df$piloga<-tmp*log(tmp)
-      if(is.nan((-1*(colSums(df)[3]))/log(nrow(df)))){
-        ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),1,-1*(colSums(df)[3]),1))
-      } else{
-        ent <- rbind(ent,c(entropy.empirical(df[,1], unit="log2"),(-1*(colSums(df)[3]))/log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
-      }
-      
-      if(nrow(df)==1){
-        wien <- rbind(wien,c(0,0,1))
-      } else{
-        H <- vegan::diversity(df[,1])
-        S <- nrow(df)
-        J <- H/log(S)
-        wien <- rbind(wien,c(H,J,S))
-      }
+        else{
+          if(is.null(spec[[nextI]])){
+            spec[[nextI]] <- c(1,div)
+            coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],div))
+            div <- div+1
+          }else{
+            spec[[nextI]] <- c(spec[[nextI]][1]+1,spec[[nextI]][2])
+            coordinates <- rbind(coordinates,c(as.numeric(nodes[z,1]),spec[[nextI]][1],spec[[nextI]][2]))
+          }
+        }
+        
+        interact <- list()
+        cooccure <- list()
+        #temp1 <- c()
+        for(v in 1:nrow(inter)){
+          interactions <- unlist(strsplit(unlist(inter[v,1]),', '))
+          #temp1 <- rbind(temp1, gtools::combinations(length(interactions), 2, interactions))
+          for( m in 1:length(interactions)){
+            if(is.null(interact[[interactions[m]]])) interact[[interactions[m]]] <- 1
+            else interact[[interactions[m]]] <- interact[[interactions[m]]] + 1
+          }
+        }
+        df <- data.frame(unlist(interact))
+        tmp <- df[,1] / colSums(df)
+        df$loga <- log(tmp)
+        df$piloga <- tmp * log(tmp)
+        if(is.nan((-1 * (colSums(df)[3])) / log(nrow(df)))){
+          ent <- rbind(ent,c(entropy.empirical(df[,1], unit = "log2"), 1, -1 * (colSums(df)[3]), 1))
+        } else{
+          ent <- rbind(ent, c(entropy.empirical(df[,1], unit = "log2"), (-1 * (colSums(df)[3])) / log2(nrow(df)),-1*(colSums(df)[3]),(-1*(colSums(df)[3]))/log(nrow(df))))
+        }
+        
+        if(nrow(df) == 1){
+          wien <- rbind(wien, c(0, 1, 1))
+        } else{
+          H <- vegan::diversity(df[,1])
+          S <- nrow(df)
+          J <- H/log(S)
+          wien <- rbind(wien,c(H, J, S))
+        }}
       
       #}
-      colnames(ent)<-c('empEntropy','evenness_log2','entropy','evenness')
-      colnames(wien)<-c('ShannonWiener','Pielou','Richness')
+      colnames(ent)<-c('empEntropy', 'evenness_log2', 'entropy', 'evenness')
+      colnames(wien)<-c('ShannonWiener', 'Pielou', 'Richness')
       
       #add node
-      g1 <- add_vertices(g1,1,attr = list(id=as.numeric(nodes[z,1])))
+      g1 <- add_vertices(g1,1,attr = list(id = as.numeric(nodes[z,1])))
       
       #add all links to node
-      theLinks <- unique(links[which(links[,2]==nodes[z,1]),1:2])
+      theLinks <- unique(links[which(links[,2] == nodes[z,1]),1:2])
       for(srclnk in theLinks[,1]){
-        g1 <- add_edges(g1,c(which(V(g1)$id==srclnk),which(V(g1)$id==as.numeric(nodes[z,1]))))
+        g1 <- add_edges(g1, c(which(V(g1)$id == srclnk), which(V(g1)$id == as.numeric(nodes[z,1]))))
       }
       
       #degd <- degree.distribution(g1)
       wtc <- cluster_walktrap(g1)
-      struct <- rbind(struct,c(diameter(g1),edge_density(g1),modularity(wtc)))
+      struct <- rbind(struct, c(diameter(g1), edge_density(g1), modularity(wtc)))
     }
-    colnames(coordinates) <- c("t","specificity","diversity")
+    #colnames(coordinates) <- c("t","specificity","diversity")
+    #data.frame(coordinates) %>%
+    #ggplot() +
+    #aes(x = specificity, y = diversity, colour = t) +
+    #geom_jitter()
+    
+    
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_coordinates.jpg",sep=''))
     scatterplot3d(coordinates[,2],coordinates[,1],coordinates[,3],pch=16, highlight.3d=TRUE,type="h",xlab="Specificity",ylab="Node index",zlab="Diversity")
     dev.off()
     
-    write.table(cbind(coordinates,wien,struct),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_temporal_statistics.csv"),row.names = F)
+    write.table(cbind(coordinates, wien, struct),
+                file=paste0("TLit/www/output/", sliceSize, "/", theSource,
+                            "_temporal_statistics.csv"), row.names = F, col.names = F, sep = ";")
     
-    write.table(ent,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.txt"),row.names = F,sep = ";",quote = F)
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy.jpg",sep=''))
-    plot(ent[,1],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_evenness.jpg",sep=''))
-    plot(ent[,2],type="l")
-    dev.off()
+    write.table(ent, file = paste0("TLit/www/output/", sliceSize, "/",
+                                   theSource, "_gutenberg_entropy.txt"), sep = ";")
     
-    write.table(wien,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_diversity.txt",sep=''),row.names = F,sep = ";",quote = F)
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_shannonwiener.jpg",sep=''))
-    plot(wien[,1],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_pielou.jpg",sep=''))
-    plot(wien[,2],type="l")
-    dev.off()
-    jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_richness.jpg",sep=''))
-    plot(wien[,3],type="l")
-    dev.off()
+    write.table(wien, file = paste0("TLit/www/output/", sliceSize, "/",
+                                    theSource, "_gutenberg_diversity.txt"), sep = ";")
+    ent_plot <- as.data.frame(ent) %>%
+      mutate(rownumber = seq.int(nrow(.)))
+    
+    wien_plot <- as.data.frame(wien) %>%
+      mutate(rownumber = seq.int(nrow(.)))
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/", theSource,"_gutenberg_entropy.jpg"),
+           plot = ent_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = empEntropy, group = 1) +
+             geom_line() +
+             labs(y = "Entropy") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/", theSource,"_gutenberg_evenness.jpg"),
+           plot = ent_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = evenness_log2, group = 1) +
+             geom_line() +
+             labs(y = "Log Evenness") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/", sliceSize, "/",
+                  theSource, "_gutenberg_shannonwiener.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = ShannonWiener, group = 1) +
+             geom_line() +
+             labs(y = "Shannon Wiener") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_pielou.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = Pielou, group = 1) +
+             geom_line() +
+             labs(y = "Pielou") +
+             theme_classic())
+    
+    ggsave(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_richness.jpg"),
+           plot = wien_plot %>%
+             ggplot() +
+             aes(x = rownumber, y = Richness, group = 1) +
+             geom_line() +
+             labs(y = "Richness") +
+             theme_classic())
     
     # scatterplot for character frequency
     labelint = as.integer(nodes$label)

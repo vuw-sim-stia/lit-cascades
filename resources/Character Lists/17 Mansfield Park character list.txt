@@ -1,0 +1,80 @@
+Charles Anderson: Anderson
+Captain Walsh: Captain Walsh
+Miss Anderson: Miss Anderson
+Mrs. Admiral Maxwell: Mrs. Admiral Maxwell
+The Aylmers: The Aylmers
+Baddeley: Baddeley
+Edmund Bertram: Edmund, Mr. Bertram, 
+Julia Bertram: the youngest Miss Bertram, Julia, 
+Maria Bertram: Mrs. Maria Rushworth, Miss Bertram, Maria, 
+Sir Thomas Bertram: Sir Thomas, papa
+Lady Bertram: Lady Maria Bertram, Miss Maria Ward, Aunt Bertram, sister Bertram, mama
+Tom Bertram: Tom, Tom Bertram
+Mrs Brown: Mrs. Brown
+Mr Campbell: Mr. Campbell
+Mrs Chapman: Mrs. Chapman
+Sir Charles: Sir Charles
+Charles: Charles
+Admiral Crawford: Admiral, Admiral Crawford
+Mrs Crawford: poor Aunt, Mrs. Crawford
+Henry Crawford: Henry, Crawford, Mr. Crawford, 
+Mary Crawford: Miss Crawford, Mary, 
+The Duke: the Duke 
+Ellis: Ellis
+Mr Fraser: Mr. Fraser, 
+Mrs Janet Fraser: Janet, Mrs. Fraser, 
+Margaret Fraser: Margaret, Margaret Fraser, 
+John Groom: John Groom
+Dr Grant: Dr. Grant
+Mrs Grant: Mrs. Grant 
+Mr Green: Mr. Green
+Lucy Gregory: Lucy 
+The Gregory sisters: The Gregory sisters
+Mr Harding: Mr. Harding
+Colonel Harrison: Colonel Harrison
+Mrs Holford: Mrs. Holford
+Mrs Jefferies: Mrs. Jefferies
+Miss Lee: Miss Lee
+Maddison: Maddison
+Charles Maddox: Charles Maddox
+Miss Maddox: Miss Madoxes
+Captain Marshall: Captain Marshall
+Nanny: Nanny
+Reverend Norris: Mr. Norris 
+Mrs Norris: Miss Ward, Aunt Bertram, aunt Norris, liberal-minded sister
+Tom Oliver: Tom Oliver
+Mr Owen: Mr Owen
+Miss Owen: The Miss Owens
+Lady Prescott: Lady Prescott
+Mr Price: Mr. Price, a lieutenant of marines
+Mrs. Frances Price: Miss Frances, Mrs. Price, dear sister Price, “mama”
+Betsey Price: Betsey
+Charlie Price: Charlie
+Fanny Price: Miss Price, Fanny, little Cousin, my cousin, poor cousin, Fan 
+Johnny Price: Johnny
+Richard Price: Richardd
+Mary Price: little Mary, little sister Mary, Poor Mary
+Sam Price: Sammy
+Susan PriceMP: Susan, Sue
+Tom Price: Tommy 
+William Price: William, William Price, Second Lieutenant, a lieutenant
+Rebecca: Rebecca
+Robert: Robert
+Late Mr Rushworth: Late Mr. Rushworth
+Mr Rushworth: Rushworth, James, dear son, Mr. Rushworth
+Mrs Rushworth: Mrs Rushworth, Mr. Rushworth's mother
+The Saddler: The Saddler
+Sally: Sally 
+Old Scholey: old Scholey
+Smith: Smith
+Sneyd: Sneyd
+Mrs Sneyd: Mrs. Sneyd
+Miss Augusta Sneyd: Miss Augusta, Miss Sneyd 
+Stephen: Stephen 
+Lord Stornaway: Lord Stornaway, Harold 
+Lady Flora Stornaway: Lady Stornaway, Flora
+Turner: Turner
+Mrs Whitaker: Mrs. Whittaker
+John Yates: John Yates 
+Lord Ravenshaw: Lord Ravenshaw
+Lady Ravenshaw: Lady Ravenshaw

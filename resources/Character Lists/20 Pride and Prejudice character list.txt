@@ -1,0 +1,64 @@
+MrsAnnesley: Mrs. Annesley
+MrBennet: Mr. Bennett, Papa
+MrsBennet: Mama, Mamma, Mrs. Bennet
+ElizabethBennet: Elizabeth, Lizzy, Eliza, Mrs. Darcy, Eliza 
+JaneBennet: The eldest Miss Bennet, Miss Bennet, Jane, Mrs. Bingley
+KittyBennet: Kitty
+LydiaBennet: Mrs. Wickham, Lydia, the youngest of her daughters
+MaryBennet: Mary
+CarolineBingley: Miss Bingley, Caroline
+MrCharlesBingley: Bingley, Charles, Mr. Bingley, a young man of large fortune from the north of england, 
+AnnedeBourgh: Anne, Miss de Bourgh
+SirLewisdeBourgh: Sir Lewis de Bourgh
+LadyCatherinedeBourgh: Lady Catherine, her ladyship, your ladyship
+CaptainCarter: Captain Carter
+Chamberlayne: Chamberlayne
+MrCollins: William Collins, a man who has not one agreeable quality, Mr. Collins
+TheLateMrDarcy: The Late Mr Darcy
+LadyAnneDarcy: Lady Anne Darcy 
+MrDarcy: Mr Fitzwilliam Darcy, Darcy, disagreeable man, horrid man
+MissGeorgianaDarcy: Georgiana, Miss Darcy
+Dawson: Dawson
+MrDenny: Denny
+ColonelFitzwilliam: the dear colonel, Colonel Fitzwilliam
+ColonelForster: Colonel Forster
+MrsHarrietForster: Mrs. Forster, Harriet 
+MrGardiner: EDW. GARDINER, brother gardiner, e. gardiner, Mr. Gardiner
+MrsGardiner: sister gardiner, m. gardiner, Mrs. Gardiner
+WilliamGoulding: William Goulding
+MissGrantley: Miss Grantley 
+Haggerston: Haggerston
+TheHarringtons: Harringtons
+MrsHill: Hill, Mrs. Hill
+MrHurst: Mr. Hurst, 
+MrsLouisaHurst: Louisa, Mrs. Hurst, 
+John: John
+Johnny: Johnny
+MrJones: Mr. Jones
+MaryKing: Mary King
+MrsLong: Mrs. Long
+CharlotteLucas: Charlotte, Miss Lucas, Mrs. Collins
+SirWilliamLucas: Sir William
+LadyMariaLucas: Lady Lucas
+MasterLucas: a young Lucas
+Miss Lucas: Maria
+LadyMetcalfe: Lady Metcalfe 
+ColonelMillar: Colonel Millar
+MrMorris: Mr. Morris
+MrsNicholls: Nicholls
+Penny: Penny
+MrPhilips: Uncle Philips, Mr. Phillips
+MrsPhilips: Aunt Philips, Sister Philips, Mrs. Phillips
+MissPope: Miss Pope
+Pratt: Pratt
+MrsReynolds: housekeeper, Reynolds
+Richard: Richard
+MrRobinson: Mr. Robinson
+Sally: Sally
+Sarah: Sarah
+MrStone: Mr Stone
+MissAWebb: Miss A Webb
+MissBWebb: Miss B Webb
+OldWickham: Old Wickham
+MrWickham: George, Wickham, dear Wickham, one of the most worthless men in great Britain
+MrsYounge: Mrs. Younge

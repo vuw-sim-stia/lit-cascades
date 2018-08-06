@@ -1,0 +1,129 @@
+"","Character","Node","Type","Appearances"
+"1","Admiral Crawford",15,"First Appearance",14
+"2","Admiral Crawford",160,"Last Appearance",14
+"3","Baddeley",69,"First Appearance",3
+"4","Baddeley",131,"Last Appearance",3
+"5","Betsey Price",142,"First Appearance",10
+"6","Betsey Price",156,"Last Appearance",10
+"7","Captain Walsh",145,"Last Appearance",1
+"8","Captain Walsh",145,"First Appearance",1
+"9","Charles",19,"First Appearance",2
+"10","Charles",72,"Last Appearance",2
+"11","Charles Anderson",19,"First Appearance",1
+"12","Charles Anderson",19,"Last Appearance",1
+"13","Charles Maddox",57,"First Appearance",3
+"14","Charles Maddox",61,"Last Appearance",3
+"15","Charlie Price",150,"Last Appearance",3
+"16","Charlie Price",146,"First Appearance",3
+"17","Colonel Harrison",109,"First Appearance",1
+"18","Colonel Harrison",109,"Last Appearance",1
+"19","Dr Grant",9,"First Appearance",30
+"20","Dr Grant",183,"Last Appearance",30
+"21","Edmund Bertram",2,"First Appearance",129
+"22","Edmund Bertram",182,"Last Appearance",129
+"23","Ellis",3,"Last Appearance",1
+"24","Ellis",3,"First Appearance",1
+"25","Fanny Price",183,"Last Appearance",164
+"26","Fanny Price",1,"First Appearance",164
+"27","Henry Crawford",15,"First Appearance",122
+"28","Henry Crawford",182,"Last Appearance",122
+"29","John Groom",27,"First Appearance",1
+"30","John Groom",27,"Last Appearance",1
+"31","Johnny Price",149,"First Appearance",1
+"32","Johnny Price",149,"Last Appearance",1
+"33","Julia Bertram",181,"Last Appearance",66
+"34","Julia Bertram",3,"First Appearance",66
+"35","Lady Bertram",1,"First Appearance",6
+"36","Lady Bertram",166,"Last Appearance",6
+"37","Lady Flora Stornaway",137,"First Appearance",5
+"38","Lady Flora Stornaway",176,"Last Appearance",5
+"39","Lady Prescott",109,"First Appearance",1
+"40","Lady Prescott",109,"Last Appearance",1
+"41","Lady Ravenshaw",54,"Last Appearance",2
+"42","Lady Ravenshaw",47,"First Appearance",2
+"43","Lord Ravenshaw",47,"First Appearance",2
+"44","Lord Ravenshaw",51,"Last Appearance",2
+"45","Lord Stornaway",138,"First Appearance",1
+"46","Lord Stornaway",138,"Last Appearance",1
+"47","Maddison",158,"First Appearance",1
+"48","Maddison",158,"Last Appearance",1
+"49","Margaret Fraser",163,"Last Appearance",4
+"50","Margaret Fraser",137,"First Appearance",4
+"51","Maria Bertram",181,"Last Appearance",79
+"52","Maria Bertram",1,"First Appearance",79
+"53","Mary Crawford",182,"Last Appearance",110
+"54","Mary Crawford",15,"First Appearance",110
+"55","Mary Price",148,"First Appearance",1
+"56","Mary Price",148,"Last Appearance",1
+"57","Miss Anderson",18,"First Appearance",2
+"58","Miss Anderson",19,"Last Appearance",2
+"59","Miss Augusta Sneyd",19,"Last Appearance",1
+"60","Miss Augusta Sneyd",19,"First Appearance",1
+"61","Miss Lee",58,"Last Appearance",6
+"62","Miss Lee",3,"First Appearance",6
+"63","Mr Campbell",144,"First Appearance",2
+"64","Mr Campbell",147,"Last Appearance",2
+"65","Mr Fraser",137,"First Appearance",4
+"66","Mr Fraser",163,"Last Appearance",4
+"67","Mr Green",27,"Last Appearance",1
+"68","Mr Green",27,"First Appearance",1
+"69","Mr Harding",174,"Last Appearance",1
+"70","Mr Harding",174,"First Appearance",1
+"71","Mr Price",1,"First Appearance",10
+"72","Mr Price",171,"Last Appearance",10
+"73","Mr Rushworth",14,"First Appearance",61
+"74","Mr Rushworth",181,"Last Appearance",61
+"75","Mrs Brown",90,"Last Appearance",1
+"76","Mrs Brown",90,"First Appearance",1
+"77","Mrs Chapman",104,"Last Appearance",1
+"78","Mrs Chapman",104,"First Appearance",1
+"79","Mrs Crawford",113,"Last Appearance",3
+"80","Mrs Crawford",15,"First Appearance",3
+"81","Mrs Holford",19,"First Appearance",1
+"82","Mrs Holford",19,"Last Appearance",1
+"83","Mrs Janet Fraser",137,"First Appearance",7
+"84","Mrs Janet Fraser",181,"Last Appearance",7
+"85","Mrs Jefferies",27,"First Appearance",1
+"86","Mrs Jefferies",27,"Last Appearance",1
+"87","Mrs Norris",180,"Last Appearance",20
+"88","Mrs Norris",1,"First Appearance",20
+"89","Mrs Rushworth",175,"First Appearance",1
+"90","Mrs Rushworth",175,"Last Appearance",1
+"91","Mrs Sneyd",19,"First Appearance",1
+"92","Mrs Sneyd",19,"Last Appearance",1
+"93","Mrs. Admiral Maxwell",148,"First Appearance",1
+"94","Mrs. Admiral Maxwell",148,"Last Appearance",1
+"95","Mrs. Frances Price",172,"Last Appearance",15
+"96","Mrs. Frances Price",1,"First Appearance",15
+"97","Nanny",2,"First Appearance",3
+"98","Nanny",123,"Last Appearance",3
+"99","Old Scholey",145,"First Appearance",1
+"100","Old Scholey",145,"Last Appearance",1
+"101","Rebecca",145,"First Appearance",11
+"102","Rebecca",172,"Last Appearance",11
+"103","Richard Price",149,"Last Appearance",1
+"104","Richard Price",149,"First Appearance",1
+"105","Robert",80,"Last Appearance",1
+"106","Robert",80,"First Appearance",1
+"107","Sam Price",145,"First Appearance",4
+"108","Sam Price",149,"Last Appearance",4
+"109","Sir Charles",115,"First Appearance",1
+"110","Sir Charles",115,"Last Appearance",1
+"111","Sir Thomas Bertram",1,"First Appearance",100
+"112","Sir Thomas Bertram",183,"Last Appearance",100
+"113","Smith",37,"Last Appearance",2
+"114","Smith",20,"First Appearance",2
+"115","Sneyd",19,"First Appearance",1
+"116","Sneyd",19,"Last Appearance",1
+"117","Susan PriceMP",142,"First Appearance",21
+"118","Susan PriceMP",183,"Last Appearance",21
+"119","The Aylmers",169,"First Appearance",1
+"120","The Aylmers",169,"Last Appearance",1
+"121","Tom Bertram",181,"Last Appearance",46
+"122","Tom Bertram",2,"First Appearance",46
+"123","Tom Oliver",57,"First Appearance",1
+"124","Tom Oliver",57,"Last Appearance",1
+"125","Turner",145,"First Appearance",1
+"126","Turner",145,"Last Appearance",1
+"127","William Price",6,"First Appearance",49
+"128","William Price",183,"Last Appearance",49

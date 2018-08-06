@@ -1,0 +1,62 @@
+"Character","Node"
+"Abbey Potterson",8
+"Alfred Lammle",15
+"Analytical Chemist",5
+"Bella Wilfer",26
+"Betty Higden",9
+"Blight",6
+"Bob Glamour",2
+"Bob Gliddery",4
+"Boots Brewer",6
+"Bradley Headstone",16
+"Captain Joey",3
+"Charley Hexam",7
+"Eugene Wrayburn",28
+"Fledgeby",11
+"Gaffer Hexam",9
+"George Jones",6
+"George Sampson",7
+"Georgiana Podsnap",9
+"Gruff and Glum",1
+"Jack Mullins",1
+"Jacob Kibble",3
+"Jenny Wren",15
+"Job Potterson",2
+"John Harmon",32
+"Johnny",7
+"Lady Tippins",9
+"Lavinia Wilfer",10
+"Lizzie Hexam",27
+"Lord Snigsworth",8
+"Mary Anne",3
+"Melvin Twemlow",11
+"Miss Peecher",6
+"Mortimer Lightwood",25
+"Mr Boffin",32
+"Mr Dolls",7
+"Mr Grompus",1
+"Mr Inspector",6
+"Mr Podsnap",9
+"Mr Riah",13
+"Mr Veneering",14
+"Mr Wilfer",17
+"Mrs  Veneering",8
+"Mrs Boffin",25
+"Mrs Goody",1
+"Mrs Milvey",5
+"Mrs Podsnap",9
+"Mrs Sprodgkin",1
+"Mrs Swoshle",1
+"Mrs Wilfer",10
+"MrVenus",7
+"Pleasant Riderhood",6
+"Poddles",1
+"Reverend  FrankMilvey",6
+"Rogue Riderhood",16
+"Silas Wegg",12
+"Sloppy",9
+"Sophronia Akershem",14
+"The Tapkins",1
+"Toddles",1
+"Tom Tootle",3
+"William Williams",1

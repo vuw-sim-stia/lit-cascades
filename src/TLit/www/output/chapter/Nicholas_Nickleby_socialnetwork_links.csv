@@ -1,0 +1,1556 @@
+"id1" "id2" "label"
+"1" "Alice" "Baron Von Koeldwethout" 1
+"2" "Alice" "Baron Von Swillenhausen" 1
+"3" "Alice" "Baroness Von Koeldwethout" 1
+"4" "Alice" "Baroness Von Swillenhausen" 1
+"5" "Alice" "Mrs Squeers" 1
+"6" "Alice" "Nicholas Nickleby" 1
+"7" "Alice" "Ralph Nickleby" 1
+"8" "Alice" "Wackford Squeers" 1
+"9" "Alphonse" "Henry Wititterly" 2
+"10" "Alphonse" "Julia Wititterly" 2
+"11" "Alphonse" "Kate Nickleby" 2
+"12" "Alphonse" "Lord Frederick Verisopht" 1
+"13" "Alphonse" "Madame Mantalini" 1
+"14" "Alphonse" "Miss Knag" 1
+"15" "Alphonse" "Mr Mantalini" 1
+"16" "Alphonse" "Mr Pluck" 1
+"17" "Alphonse" "Mr Pyke" 1
+"18" "Alphonse" "Mr Scaley" 1
+"19" "Alphonse" "Mrs Nickleby" 2
+"20" "Alphonse" "Newman Noggs" 1
+"21" "Alphonse" "Nicholas Nickleby" 1
+"22" "Alphonse" "Ralph Nickleby" 2
+"23" "Alphonse" "Sir Mulberry Hawk" 1
+"24" "Alphonse" "Sir Tumley Snuffim" 2
+"25" "Alphonse" "Tom" 1
+"26" "Alphonse" "Tom Tix" 1
+"27" "Arthur Gride" "Cecilia Bobster" 1
+"28" "Arthur Gride" "Charles Cheeryble" 1
+"29" "Arthur Gride" "Cobbey" 1
+"30" "Arthur Gride" "Edwin Cheeryble" 3
+"31" "Arthur Gride" "Frank Cheeryble" 3
+"32" "Arthur Gride" "Henrietta Petowker" 1
+"33" "Arthur Gride" "Kate Nickleby" 2
+"34" "Arthur Gride" "Madeline Bray" 7
+"35" "Arthur Gride" "Miss La Creevy" 1
+"36" "Arthur Gride" "Morleena Kenwigs" 1
+"37" "Arthur Gride" "Mr Brooker" 2
+"38" "Arthur Gride" "Mr Kenwigs" 1
+"39" "Arthur Gride" "Mr Lillyvick" 1
+"40" "Arthur Gride" "Mr Snawley" 2
+"41" "Arthur Gride" "Mrs Kenwigs" 1
+"42" "Arthur Gride" "Mrs Nickleby" 1
+"43" "Arthur Gride" "Mrs Snawley" 1
+"44" "Arthur Gride" "Mrs Squeers" 2
+"45" "Arthur Gride" "Newman Noggs" 7
+"46" "Arthur Gride" "Nicholas Nickleby" 9
+"47" "Arthur Gride" "Palmer" 1
+"48" "Arthur Gride" "Peg Sliderskew" 7
+"49" "Arthur Gride" "Ralph Nickleby" 10
+"50" "Arthur Gride" "Sir Mulberry Hawk" 1
+"51" "Arthur Gride" "Smike" 2
+"52" "Arthur Gride" "Sprouter" 1
+"53" "Arthur Gride" "The Misses Kenwigses" 1
+"54" "Arthur Gride" "Tim Linkinwater" 2
+"55" "Arthur Gride" "Wackford Squeers" 4
+"56" "Arthur Gride" "Walter Bray" 3
+"57" "Augustus Borum" "Charlotte Borum" 1
+"58" "Augustus Borum" "Miss Belvawney" 1
+"59" "Augustus Borum" "Miss Bravassa" 1
+"60" "Augustus Borum" "Miss Lane" 1
+"61" "Augustus Borum" "Miss Snevellicci" 1
+"62" "Augustus Borum" "Mr Borum" 1
+"63" "Augustus Borum" "Mr Crummles" 1
+"64" "Augustus Borum" "Mr Curdle" 1
+"65" "Augustus Borum" "Mr Folair" 1
+"66" "Augustus Borum" "Mr Lenville" 1
+"67" "Augustus Borum" "Mrs Borum" 1
+"68" "Augustus Borum" "Mrs Crummles" 1
+"69" "Augustus Borum" "Mrs Curdle" 1
+"70" "Augustus Borum" "Mrs Grudden" 1
+"71" "Augustus Borum" "Nicholas Nickleby" 1
+"72" "Augustus Borum" "Ninetta Crummles" 1
+"73" "Augustus Borum" "Smike" 1
+"74" "Augustus Borum" "The Master Crummleses" 1
+"75" "Baron Von Koeldwethout" "Baron Von Swillenhausen" 1
+"76" "Baron Von Koeldwethout" "Baroness Von Koeldwethout" 1
+"77" "Baron Von Koeldwethout" "Baroness Von Swillenhausen" 1
+"78" "Baron Von Koeldwethout" "Edwin Cheeryble" 1
+"79" "Baron Von Koeldwethout" "Fanny Squeers" 1
+"80" "Baron Von Koeldwethout" "Frank Cheeryble" 1
+"81" "Baron Von Koeldwethout" "John Browdie" 1
+"82" "Baron Von Koeldwethout" "Kate Nickleby" 1
+"83" "Baron Von Koeldwethout" "Madame Mantalini" 1
+"84" "Baron Von Koeldwethout" "Madeline Bray" 1
+"85" "Baron Von Koeldwethout" "Matilda Price" 1
+"86" "Baron Von Koeldwethout" "Mr Mantalini" 1
+"87" "Baron Von Koeldwethout" "Mrs Squeers" 2
+"88" "Baron Von Koeldwethout" "Nicholas Nickleby" 2
+"89" "Baron Von Koeldwethout" "Ralph Nickleby" 1
+"90" "Baron Von Koeldwethout" "Smike" 1
+"91" "Baron Von Koeldwethout" "Tim Linkinwater" 1
+"92" "Baron Von Koeldwethout" "Wackford Squeers" 2
+"93" "Baron Von Koeldwethout" "Wackford SqueersJunior" 1
+"94" "Baron Von Swillenhausen" "Baroness Von Koeldwethout" 1
+"95" "Baron Von Swillenhausen" "Baroness Von Swillenhausen" 1
+"96" "Baron Von Swillenhausen" "Mrs Squeers" 1
+"97" "Baron Von Swillenhausen" "Nicholas Nickleby" 1
+"98" "Baron Von Swillenhausen" "Ralph Nickleby" 1
+"99" "Baron Von Swillenhausen" "Wackford Squeers" 1
+"100" "Baroness Von Koeldwethout" "Baroness Von Swillenhausen" 1
+"101" "Baroness Von Koeldwethout" "Mrs Squeers" 1
+"102" "Baroness Von Koeldwethout" "Nicholas Nickleby" 1
+"103" "Baroness Von Koeldwethout" "Ralph Nickleby" 1
+"104" "Baroness Von Koeldwethout" "Wackford Squeers" 1
+"105" "Baroness Von Swillenhausen" "Mrs Squeers" 1
+"106" "Baroness Von Swillenhausen" "Nicholas Nickleby" 1
+"107" "Baroness Von Swillenhausen" "Ralph Nickleby" 1
+"108" "Baroness Von Swillenhausen" "Wackford Squeers" 1
+"109" "Belling" "Dorker" 1
+"110" "Belling" "Kate Nickleby" 1
+"111" "Belling" "Miss La Creevy" 1
+"112" "Belling" "Mr Snawley" 2
+"113" "Belling" "Mrs Nickleby" 1
+"114" "Belling" "Mrs Squeers" 2
+"115" "Belling" "Newman Noggs" 2
+"116" "Belling" "Nicholas Nickleby" 2
+"117" "Belling" "Ralph Nickleby" 2
+"118" "Belling" "Richard" 1
+"119" "Belling" "Wackford Squeers" 2
+"120" "Belling" "William" 1
+"121" "Bolder" "Brooks" 1
+"122" "Bolder" "Cobbey" 1
+"123" "Bolder" "Fanny Squeers" 1
+"124" "Bolder" "Graymarsh" 2
+"125" "Bolder" "Jennings" 1
+"126" "Bolder" "John Browdie" 2
+"127" "Bolder" "Kate Nickleby" 1
+"128" "Bolder" "Matilda Price" 1
+"129" "Bolder" "Mobbs" 1
+"130" "Bolder" "Mrs Squeers" 3
+"131" "Bolder" "Newman Noggs" 1
+"132" "Bolder" "Nicholas Nickleby" 3
+"133" "Bolder" "Ralph Nickleby" 2
+"134" "Bolder" "Smike" 2
+"135" "Bolder" "Wackford Squeers" 3
+"136" "Bolder" "Wackford SqueersJunior" 2
+"137" "Brooks" "Graymarsh" 1
+"138" "Brooks" "Jennings" 1
+"139" "Brooks" "Mrs Squeers" 1
+"140" "Brooks" "Newman Noggs" 1
+"141" "Brooks" "Nicholas Nickleby" 1
+"142" "Brooks" "Smike" 1
+"143" "Brooks" "Wackford Squeers" 1
+"144" "Captain Adams" "Colonel Chowser" 1
+"145" "Captain Adams" "Jenkins" 1
+"146" "Captain Adams" "Kate Nickleby" 1
+"147" "Captain Adams" "Lord Frederick Verisopht" 1
+"148" "Captain Adams" "Mr Pluck" 1
+"149" "Captain Adams" "Mr Pyke" 1
+"150" "Captain Adams" "Mr Westwood" 1
+"151" "Captain Adams" "Nicholas Nickleby" 1
+"152" "Captain Adams" "Sir Mulberry Hawk" 1
+"153" "Cecilia Bobster" "Charles Cheeryble" 1
+"154" "Cecilia Bobster" "Edwin Cheeryble" 2
+"155" "Cecilia Bobster" "John Browdie" 1
+"156" "Cecilia Bobster" "Kate Nickleby" 1
+"157" "Cecilia Bobster" "Madeline Bray" 1
+"158" "Cecilia Bobster" "Mr Bobster" 1
+"159" "Cecilia Bobster" "Mr Brooker" 1
+"160" "Cecilia Bobster" "Mrs Nickleby" 1
+"161" "Cecilia Bobster" "Newman Noggs" 2
+"162" "Cecilia Bobster" "Nicholas Nickleby" 2
+"163" "Cecilia Bobster" "Ninetta Crummles" 1
+"164" "Cecilia Bobster" "Peg Sliderskew" 1
+"165" "Cecilia Bobster" "Ralph Nickleby" 2
+"166" "Cecilia Bobster" "Smike" 1
+"167" "Cecilia Bobster" "Tim Linkinwater" 1
+"168" "Cecilia Bobster" "Wackford Squeers" 1
+"169" "Charles Cheeryble" "David" 1
+"170" "Charles Cheeryble" "Edwin Cheeryble" 10
+"171" "Charles Cheeryble" "Frank Cheeryble" 7
+"172" "Charles Cheeryble" "Horatio Peltirogus" 1
+"173" "Charles Cheeryble" "Jane Dibabs" 1
+"174" "Charles Cheeryble" "John Browdie" 2
+"175" "Charles Cheeryble" "Kate Nickleby" 8
+"176" "Charles Cheeryble" "Madeline Bray" 7
+"177" "Charles Cheeryble" "Matilda Price" 1
+"178" "Charles Cheeryble" "Miss La Creevy" 4
+"179" "Charles Cheeryble" "Mr Bobster" 1
+"180" "Charles Cheeryble" "Mr Brooker" 1
+"181" "Charles Cheeryble" "Mr Crummles" 1
+"182" "Charles Cheeryble" "Mr Pyke" 1
+"183" "Charles Cheeryble" "Mr Snawley" 2
+"184" "Charles Cheeryble" "Mr Trimmers" 2
+"185" "Charles Cheeryble" "Mrs Grudden" 1
+"186" "Charles Cheeryble" "Mrs Nickleby" 8
+"187" "Charles Cheeryble" "Mrs Snawley" 1
+"188" "Charles Cheeryble" "Mrs Squeers" 1
+"189" "Charles Cheeryble" "Newman Noggs" 4
+"190" "Charles Cheeryble" "Nicholas Nickleby" 11
+"191" "Charles Cheeryble" "Ninetta Crummles" 1
+"192" "Charles Cheeryble" "Peg Sliderskew" 1
+"193" "Charles Cheeryble" "Ralph Nickleby" 9
+"194" "Charles Cheeryble" "Sir Mulberry Hawk" 1
+"195" "Charles Cheeryble" "Sir Thomas Grimble" 1
+"196" "Charles Cheeryble" "Smike" 8
+"197" "Charles Cheeryble" "The Hawkinses" 1
+"198" "Charles Cheeryble" "Tim Linkinwater" 11
+"199" "Charles Cheeryble" "Tom" 1
+"200" "Charles Cheeryble" "Wackford Squeers" 3
+"201" "Charles Cheeryble" "Wackford SqueersJunior" 1
+"202" "Charles Cheeryble" "Walter Bray" 1
+"203" "Charley" "Jane" 1
+"204" "Charley" "Kate Nickleby" 1
+"205" "Charley" "Madame Mantalini" 1
+"206" "Charley" "Miss Knag" 1
+"207" "Charley" "Mortimer Knag" 1
+"208" "Charley" "Mr Watkins" 1
+"209" "Charley" "Mrs Blockson" 1
+"210" "Charley" "Mrs Nickleby" 1
+"211" "Charley" "Thomas" 1
+"212" "Charlotte Borum" "Miss Belvawney" 1
+"213" "Charlotte Borum" "Miss Bravassa" 1
+"214" "Charlotte Borum" "Miss Lane" 1
+"215" "Charlotte Borum" "Miss Snevellicci" 1
+"216" "Charlotte Borum" "Mr Borum" 1
+"217" "Charlotte Borum" "Mr Crummles" 1
+"218" "Charlotte Borum" "Mr Curdle" 1
+"219" "Charlotte Borum" "Mr Folair" 1
+"220" "Charlotte Borum" "Mr Lenville" 1
+"221" "Charlotte Borum" "Mrs Borum" 1
+"222" "Charlotte Borum" "Mrs Crummles" 1
+"223" "Charlotte Borum" "Mrs Curdle" 1
+"224" "Charlotte Borum" "Mrs Grudden" 1
+"225" "Charlotte Borum" "Nicholas Nickleby" 1
+"226" "Charlotte Borum" "Ninetta Crummles" 1
+"227" "Charlotte Borum" "Smike" 1
+"228" "Charlotte Borum" "The Master Crummleses" 1
+"229" "Cobbey" "Frank Cheeryble" 1
+"230" "Cobbey" "Graymarsh" 1
+"231" "Cobbey" "John Browdie" 1
+"232" "Cobbey" "Kate Nickleby" 1
+"233" "Cobbey" "Mobbs" 1
+"234" "Cobbey" "Mrs Squeers" 2
+"235" "Cobbey" "Newman Noggs" 1
+"236" "Cobbey" "Nicholas Nickleby" 1
+"237" "Cobbey" "Palmer" 1
+"238" "Cobbey" "Peg Sliderskew" 1
+"239" "Cobbey" "Ralph Nickleby" 2
+"240" "Cobbey" "Smike" 1
+"241" "Cobbey" "Sprouter" 1
+"242" "Cobbey" "Wackford Squeers" 2
+"243" "Cobbey" "Wackford SqueersJunior" 1
+"244" "Colonel Chowser" "Jenkins" 1
+"245" "Colonel Chowser" "Kate Nickleby" 2
+"246" "Colonel Chowser" "Lord Frederick Verisopht" 2
+"247" "Colonel Chowser" "Miss Knag" 1
+"248" "Colonel Chowser" "Miss La Creevy" 1
+"249" "Colonel Chowser" "Mr Pluck" 2
+"250" "Colonel Chowser" "Mr Pyke" 2
+"251" "Colonel Chowser" "Mr Snobb" 1
+"252" "Colonel Chowser" "Mr Westwood" 1
+"253" "Colonel Chowser" "Mrs Nickleby" 1
+"254" "Colonel Chowser" "Newman Noggs" 1
+"255" "Colonel Chowser" "Nicholas Nickleby" 1
+"256" "Colonel Chowser" "Ralph Nickleby" 1
+"257" "Colonel Chowser" "Sir Mulberry Hawk" 2
+"258" "David" "Edwin Cheeryble" 1
+"259" "David" "Kate Nickleby" 1
+"260" "David" "Mrs Nickleby" 1
+"261" "David" "Nicholas Nickleby" 1
+"262" "David" "Ralph Nickleby" 1
+"263" "David" "Smike" 1
+"264" "David" "Tim Linkinwater" 1
+"265" "Doctor Lumbey" "Henrietta Petowker" 1
+"266" "Doctor Lumbey" "Morleena Kenwigs" 1
+"267" "Doctor Lumbey" "Mr Kenwigs" 1
+"268" "Doctor Lumbey" "Mrs Kenwigs" 1
+"269" "Doctor Lumbey" "Nicholas Nickleby" 1
+"270" "Doctor Lumbey" "The Misses Kenwigses" 1
+"271" "Dorker" "Mr Snawley" 1
+"272" "Dorker" "Mrs Squeers" 1
+"273" "Dorker" "Newman Noggs" 1
+"274" "Dorker" "Nicholas Nickleby" 1
+"275" "Dorker" "Ralph Nickleby" 1
+"276" "Dorker" "Richard" 1
+"277" "Dorker" "Wackford Squeers" 1
+"278" "Edwin Cheeryble" "Fanny Squeers" 1
+"279" "Edwin Cheeryble" "Frank Cheeryble" 10
+"280" "Edwin Cheeryble" "Henrietta Petowker" 1
+"281" "Edwin Cheeryble" "Horatio Peltirogus" 1
+"282" "Edwin Cheeryble" "Jane Dibabs" 1
+"283" "Edwin Cheeryble" "John Browdie" 3
+"284" "Edwin Cheeryble" "Kate Nickleby" 10
+"285" "Edwin Cheeryble" "Madame Mantalini" 1
+"286" "Edwin Cheeryble" "Madeline Bray" 10
+"287" "Edwin Cheeryble" "Matilda Price" 2
+"288" "Edwin Cheeryble" "Miss La Creevy" 5
+"289" "Edwin Cheeryble" "Miss Snevellicci" 1
+"290" "Edwin Cheeryble" "Mr Bobster" 1
+"291" "Edwin Cheeryble" "Mr Brooker" 2
+"292" "Edwin Cheeryble" "Mr Crummles" 2
+"293" "Edwin Cheeryble" "Mr Lillyvick" 1
+"294" "Edwin Cheeryble" "Mr Mantalini" 1
+"295" "Edwin Cheeryble" "Mr Pyke" 1
+"296" "Edwin Cheeryble" "Mr Snawley" 2
+"297" "Edwin Cheeryble" "Mr Trimmers" 2
+"298" "Edwin Cheeryble" "Mrs Crummles" 1
+"299" "Edwin Cheeryble" "Mrs Grudden" 2
+"300" "Edwin Cheeryble" "Mrs Nickleby" 9
+"301" "Edwin Cheeryble" "Mrs Snawley" 1
+"302" "Edwin Cheeryble" "Mrs Squeers" 1
+"303" "Edwin Cheeryble" "Newman Noggs" 6
+"304" "Edwin Cheeryble" "Nicholas Nickleby" 14
+"305" "Edwin Cheeryble" "Ninetta Crummles" 1
+"306" "Edwin Cheeryble" "Peg Sliderskew" 3
+"307" "Edwin Cheeryble" "Ralph Nickleby" 10
+"308" "Edwin Cheeryble" "Sir Mulberry Hawk" 2
+"309" "Edwin Cheeryble" "Sir Thomas Grimble" 1
+"310" "Edwin Cheeryble" "Smike" 8
+"311" "Edwin Cheeryble" "Snittle Timberry" 1
+"312" "Edwin Cheeryble" "The African Swallower" 1
+"313" "Edwin Cheeryble" "The Hawkinses" 1
+"314" "Edwin Cheeryble" "The Master Crummleses" 1
+"315" "Edwin Cheeryble" "Tim Linkinwater" 13
+"316" "Edwin Cheeryble" "Tom" 1
+"317" "Edwin Cheeryble" "Wackford Squeers" 4
+"318" "Edwin Cheeryble" "Wackford SqueersJunior" 1
+"319" "Edwin Cheeryble" "Walter Bray" 1
+"320" "Fanny Squeers" "Fluggers" 1
+"321" "Fanny Squeers" "Frank Cheeryble" 1
+"322" "Fanny Squeers" "Henrietta Petowker" 1
+"323" "Fanny Squeers" "John Browdie" 6
+"324" "Fanny Squeers" "Kate Nickleby" 1
+"325" "Fanny Squeers" "Madame Mantalini" 1
+"326" "Fanny Squeers" "Madeline Bray" 1
+"327" "Fanny Squeers" "Matilda Price" 5
+"328" "Fanny Squeers" "Miss Bravassa" 1
+"329" "Fanny Squeers" "Miss Ledrook" 1
+"330" "Fanny Squeers" "Miss Snevellicci" 1
+"331" "Fanny Squeers" "Mr Bulph" 1
+"332" "Fanny Squeers" "Mr Crummles" 1
+"333" "Fanny Squeers" "Mr Folair" 1
+"334" "Fanny Squeers" "Mr Glavormelly" 1
+"335" "Fanny Squeers" "Mr Lenville" 1
+"336" "Fanny Squeers" "Mr Lillyvick" 1
+"337" "Fanny Squeers" "Mr Mantalini" 1
+"338" "Fanny Squeers" "Mr Snevellicci" 1
+"339" "Fanny Squeers" "Mrs Crummles" 1
+"340" "Fanny Squeers" "Mrs Grudden" 1
+"341" "Fanny Squeers" "Mrs Snevellicci" 1
+"342" "Fanny Squeers" "Mrs Squeers" 3
+"343" "Fanny Squeers" "Newman Noggs" 1
+"344" "Fanny Squeers" "Nicholas Nickleby" 6
+"345" "Fanny Squeers" "Ninetta Crummles" 1
+"346" "Fanny Squeers" "Phoebe" 1
+"347" "Fanny Squeers" "Ralph Nickleby" 3
+"348" "Fanny Squeers" "Smike" 6
+"349" "Fanny Squeers" "The Master Crummleses" 1
+"350" "Fanny Squeers" "Tim Linkinwater" 1
+"351" "Fanny Squeers" "Wackford Squeers" 6
+"352" "Fanny Squeers" "Wackford SqueersJunior" 5
+"353" "Fluggers" "Henrietta Petowker" 1
+"354" "Fluggers" "Miss Bravassa" 1
+"355" "Fluggers" "Miss Ledrook" 1
+"356" "Fluggers" "Miss Snevellicci" 1
+"357" "Fluggers" "Mr Bulph" 1
+"358" "Fluggers" "Mr Crummles" 1
+"359" "Fluggers" "Mr Folair" 1
+"360" "Fluggers" "Mr Glavormelly" 1
+"361" "Fluggers" "Mr Lenville" 1
+"362" "Fluggers" "Mr Lillyvick" 1
+"363" "Fluggers" "Mr Snevellicci" 1
+"364" "Fluggers" "Mrs Crummles" 1
+"365" "Fluggers" "Mrs Grudden" 1
+"366" "Fluggers" "Mrs Snevellicci" 1
+"367" "Fluggers" "Newman Noggs" 1
+"368" "Fluggers" "Nicholas Nickleby" 1
+"369" "Fluggers" "Ninetta Crummles" 1
+"370" "Fluggers" "Smike" 1
+"371" "Fluggers" "The Master Crummleses" 1
+"372" "Frank Cheeryble" "Henrietta Petowker" 1
+"373" "Frank Cheeryble" "Horatio Peltirogus" 1
+"374" "Frank Cheeryble" "Jane Dibabs" 1
+"375" "Frank Cheeryble" "John Browdie" 2
+"376" "Frank Cheeryble" "Kate Nickleby" 7
+"377" "Frank Cheeryble" "Madame Mantalini" 1
+"378" "Frank Cheeryble" "Madeline Bray" 9
+"379" "Frank Cheeryble" "Matilda Price" 2
+"380" "Frank Cheeryble" "Miss La Creevy" 4
+"381" "Frank Cheeryble" "Miss Snevellicci" 1
+"382" "Frank Cheeryble" "Mr Brooker" 1
+"383" "Frank Cheeryble" "Mr Crummles" 1
+"384" "Frank Cheeryble" "Mr Lillyvick" 1
+"385" "Frank Cheeryble" "Mr Mantalini" 1
+"386" "Frank Cheeryble" "Mr Snawley" 2
+"387" "Frank Cheeryble" "Mr Trimmers" 1
+"388" "Frank Cheeryble" "Mrs Crummles" 1
+"389" "Frank Cheeryble" "Mrs Grudden" 1
+"390" "Frank Cheeryble" "Mrs Nickleby" 6
+"391" "Frank Cheeryble" "Mrs Snawley" 1
+"392" "Frank Cheeryble" "Mrs Squeers" 2
+"393" "Frank Cheeryble" "Newman Noggs" 4
+"394" "Frank Cheeryble" "Nicholas Nickleby" 10
+"395" "Frank Cheeryble" "Palmer" 1
+"396" "Frank Cheeryble" "Peg Sliderskew" 3
+"397" "Frank Cheeryble" "Ralph Nickleby" 8
+"398" "Frank Cheeryble" "Sir Mulberry Hawk" 1
+"399" "Frank Cheeryble" "Smike" 5
+"400" "Frank Cheeryble" "Snittle Timberry" 1
+"401" "Frank Cheeryble" "Sprouter" 1
+"402" "Frank Cheeryble" "The African Swallower" 1
+"403" "Frank Cheeryble" "The Master Crummleses" 1
+"404" "Frank Cheeryble" "Tim Linkinwater" 10
+"405" "Frank Cheeryble" "Tom" 1
+"406" "Frank Cheeryble" "Wackford Squeers" 4
+"407" "Frank Cheeryble" "Wackford SqueersJunior" 1
+"408" "Frank Cheeryble" "Walter Bray" 1
+"409" "Graymarsh" "Jennings" 1
+"410" "Graymarsh" "John Browdie" 1
+"411" "Graymarsh" "Kate Nickleby" 1
+"412" "Graymarsh" "Mobbs" 1
+"413" "Graymarsh" "Mrs Squeers" 2
+"414" "Graymarsh" "Newman Noggs" 1
+"415" "Graymarsh" "Nicholas Nickleby" 2
+"416" "Graymarsh" "Ralph Nickleby" 1
+"417" "Graymarsh" "Smike" 2
+"418" "Graymarsh" "Wackford Squeers" 2
+"419" "Graymarsh" "Wackford SqueersJunior" 1
+"420" "Great Ralph Nickleby" "Kate Nickleby" 1
+"421" "Great Ralph Nickleby" "Mr Godfrey Nickleby" 1
+"422" "Great Ralph Nickleby" "Mr Nickleby" 1
+"423" "Great Ralph Nickleby" "Mrs Godfrey Nickleby" 1
+"424" "Great Ralph Nickleby" "Mrs Nickleby" 1
+"425" "Great Ralph Nickleby" "Nicholas Nickleby" 1
+"426" "Great Ralph Nickleby" "Ralph Nickleby" 1
+"427" "Hannah" "Kate Nickleby" 1
+"428" "Hannah" "Miss La Creevy" 1
+"429" "Hannah" "Mrs Nickleby" 1
+"430" "Hannah" "Newman Noggs" 1
+"431" "Hannah" "Nicholas Nickleby" 1
+"432" "Hannah" "Ralph Nickleby" 1
+"433" "Hannah" "Wackford Squeers" 1
+"434" "Henrietta Petowker" "Madeline Bray" 2
+"435" "Henrietta Petowker" "Miss Bravassa" 2
+"436" "Henrietta Petowker" "Miss Ledrook" 2
+"437" "Henrietta Petowker" "Miss Snevellicci" 3
+"438" "Henrietta Petowker" "Morleena Kenwigs" 5
+"439" "Henrietta Petowker" "Mr Bulph" 1
+"440" "Henrietta Petowker" "Mr Crowl" 2
+"441" "Henrietta Petowker" "Mr Crummles" 3
+"442" "Henrietta Petowker" "Mr Curdle" 1
+"443" "Henrietta Petowker" "Mr Cutler" 1
+"444" "Henrietta Petowker" "Mr Folair" 2
+"445" "Henrietta Petowker" "Mr Gallanbile" 1
+"446" "Henrietta Petowker" "Mr Glavormelly" 1
+"447" "Henrietta Petowker" "Mr Gregsbury" 1
+"448" "Henrietta Petowker" "Mr Kenwigs" 5
+"449" "Henrietta Petowker" "Mr Lenville" 1
+"450" "Henrietta Petowker" "Mr Lillyvick" 7
+"451" "Henrietta Petowker" "Mr Pugstyles" 1
+"452" "Henrietta Petowker" "Mr Snevellicci" 1
+"453" "Henrietta Petowker" "Mrs Crummles" 3
+"454" "Henrietta Petowker" "Mrs Cutler" 1
+"455" "Henrietta Petowker" "Mrs Gallanbile" 1
+"456" "Henrietta Petowker" "Mrs Gregsbury" 1
+"457" "Henrietta Petowker" "Mrs Grudden" 3
+"458" "Henrietta Petowker" "Mrs Kenwigs" 5
+"459" "Henrietta Petowker" "Mrs Snevellicci" 1
+"460" "Henrietta Petowker" "Newman Noggs" 6
+"461" "Henrietta Petowker" "Nicholas Nickleby" 7
+"462" "Henrietta Petowker" "Ninetta Crummles" 2
+"463" "Henrietta Petowker" "Ralph Nickleby" 3
+"464" "Henrietta Petowker" "Smike" 4
+"465" "Henrietta Petowker" "Snittle Timberry" 1
+"466" "Henrietta Petowker" "The African Swallower" 1
+"467" "Henrietta Petowker" "The Master Crummleses" 3
+"468" "Henrietta Petowker" "The Misses Kenwigses" 6
+"469" "Henrietta Petowker" "Tim Linkinwater" 1
+"470" "Henrietta Petowker" "Tom" 1
+"471" "Henrietta Petowker" "Wackford Squeers" 1
+"472" "Henrietta Petowker" "young Lillyvick" 1
+"473" "Henry Wititterly" "Julia Wititterly" 3
+"474" "Henry Wititterly" "Kate Nickleby" 4
+"475" "Henry Wititterly" "Lord Frederick Verisopht" 2
+"476" "Henry Wititterly" "Madame Mantalini" 1
+"477" "Henry Wititterly" "Miss Cropley" 1
+"478" "Henry Wititterly" "Miss Knag" 1
+"479" "Henry Wititterly" "Miss La Creevy" 2
+"480" "Henry Wititterly" "Mr Mantalini" 1
+"481" "Henry Wititterly" "Mr Nickleby" 1
+"482" "Henry Wititterly" "Mr Pluck" 3
+"483" "Henry Wititterly" "Mr Pyke" 3
+"484" "Henry Wititterly" "Mr Scaley" 1
+"485" "Henry Wititterly" "Mrs Nickleby" 4
+"486" "Henry Wititterly" "Newman Noggs" 2
+"487" "Henry Wititterly" "Nicholas Nickleby" 3
+"488" "Henry Wititterly" "Ralph Nickleby" 4
+"489" "Henry Wititterly" "Sir Mulberry Hawk" 3
+"490" "Henry Wititterly" "Sir Tumley Snuffim" 3
+"491" "Henry Wititterly" "Smike" 1
+"492" "Henry Wititterly" "Tom" 1
+"493" "Henry Wititterly" "Tom Tix" 1
+"494" "Horatio Peltirogus" "Jane Dibabs" 1
+"495" "Horatio Peltirogus" "Kate Nickleby" 1
+"496" "Horatio Peltirogus" "Madeline Bray" 1
+"497" "Horatio Peltirogus" "Mrs Nickleby" 1
+"498" "Horatio Peltirogus" "Nicholas Nickleby" 1
+"499" "Horatio Peltirogus" "Ralph Nickleby" 1
+"500" "Horatio Peltirogus" "Smike" 1
+"501" "Horatio Peltirogus" "Tim Linkinwater" 1
+"502" "Jane" "Kate Nickleby" 1
+"503" "Jane" "Madame Mantalini" 1
+"504" "Jane" "Miss Knag" 1
+"505" "Jane" "Mortimer Knag" 1
+"506" "Jane" "Mr Watkins" 1
+"507" "Jane" "Mrs Blockson" 1
+"508" "Jane" "Mrs Nickleby" 1
+"509" "Jane" "Thomas" 1
+"510" "Jane Dibabs" "Kate Nickleby" 1
+"511" "Jane Dibabs" "Madeline Bray" 1
+"512" "Jane Dibabs" "Mrs Nickleby" 1
+"513" "Jane Dibabs" "Nicholas Nickleby" 1
+"514" "Jane Dibabs" "Ralph Nickleby" 1
+"515" "Jane Dibabs" "Smike" 1
+"516" "Jane Dibabs" "Tim Linkinwater" 1
+"517" "Jenkins" "Kate Nickleby" 1
+"518" "Jenkins" "Lord Frederick Verisopht" 1
+"519" "Jenkins" "Mr Pluck" 1
+"520" "Jenkins" "Mr Pyke" 1
+"521" "Jenkins" "Mr Westwood" 1
+"522" "Jenkins" "Nicholas Nickleby" 1
+"523" "Jenkins" "Sir Mulberry Hawk" 1
+"524" "Jennings" "Mrs Squeers" 1
+"525" "Jennings" "Newman Noggs" 1
+"526" "Jennings" "Nicholas Nickleby" 1
+"527" "Jennings" "Smike" 1
+"528" "Jennings" "Wackford Squeers" 1
+"529" "John Browdie" "Kate Nickleby" 6
+"530" "John Browdie" "Madame Mantalini" 1
+"531" "John Browdie" "Madeline Bray" 1
+"532" "John Browdie" "Matilda Price" 7
+"533" "John Browdie" "Miss Belvawney" 1
+"534" "John Browdie" "Miss Bravassa" 1
+"535" "John Browdie" "Miss La Creevy" 1
+"536" "John Browdie" "Miss Snevellicci" 1
+"537" "John Browdie" "Mobbs" 1
+"538" "John Browdie" "Mr Bobster" 1
+"539" "John Browdie" "Mr Crummles" 1
+"540" "John Browdie" "Mr Folair" 1
+"541" "John Browdie" "Mr Lenville" 1
+"542" "John Browdie" "Mr Mantalini" 1
+"543" "John Browdie" "Mr Snawley" 1
+"544" "John Browdie" "Mrs Crummles" 1
+"545" "John Browdie" "Mrs Grudden" 1
+"546" "John Browdie" "Mrs Lenville" 1
+"547" "John Browdie" "Mrs Nickleby" 4
+"548" "John Browdie" "Mrs Squeers" 4
+"549" "John Browdie" "Newman Noggs" 2
+"550" "John Browdie" "Nicholas Nickleby" 10
+"551" "John Browdie" "Ninetta Crummles" 2
+"552" "John Browdie" "Phoebe" 1
+"553" "John Browdie" "Ralph Nickleby" 8
+"554" "John Browdie" "Smike" 10
+"555" "John Browdie" "Tim Linkinwater" 4
+"556" "John Browdie" "Tom" 1
+"557" "John Browdie" "Wackford Squeers" 10
+"558" "John Browdie" "Wackford SqueersJunior" 7
+"559" "John La Creevy" "Kate Nickleby" 1
+"560" "John La Creevy" "Miss La Creevy" 1
+"561" "John La Creevy" "Mrs Nickleby" 1
+"562" "John La Creevy" "Newman Noggs" 1
+"563" "John La Creevy" "Nicholas Nickleby" 1
+"564" "John La Creevy" "Ralph Nickleby" 1
+"565" "Julia Wititterly" "Kate Nickleby" 3
+"566" "Julia Wititterly" "Lord Frederick Verisopht" 2
+"567" "Julia Wititterly" "Madame Mantalini" 1
+"568" "Julia Wititterly" "Miss Knag" 1
+"569" "Julia Wititterly" "Miss La Creevy" 1
+"570" "Julia Wititterly" "Mr Mantalini" 1
+"571" "Julia Wititterly" "Mr Nickleby" 1
+"572" "Julia Wititterly" "Mr Pluck" 2
+"573" "Julia Wititterly" "Mr Pyke" 2
+"574" "Julia Wititterly" "Mr Scaley" 1
+"575" "Julia Wititterly" "Mrs Nickleby" 3
+"576" "Julia Wititterly" "Newman Noggs" 1
+"577" "Julia Wititterly" "Nicholas Nickleby" 2
+"578" "Julia Wititterly" "Ralph Nickleby" 3
+"579" "Julia Wititterly" "Sir Mulberry Hawk" 2
+"580" "Julia Wititterly" "Sir Tumley Snuffim" 2
+"581" "Julia Wititterly" "Tom" 1
+"582" "Julia Wititterly" "Tom Tix" 1
+"583" "Kate Nickleby" "Lord Frederick Verisopht" 7
+"584" "Kate Nickleby" "Madame Mantalini" 7
+"585" "Kate Nickleby" "Madeline Bray" 7
+"586" "Kate Nickleby" "Matilda Price" 3
+"587" "Kate Nickleby" "Miss Belvawney" 1
+"588" "Kate Nickleby" "Miss Bravassa" 1
+"589" "Kate Nickleby" "Miss Browndock" 1
+"590" "Kate Nickleby" "Miss Cropley" 1
+"591" "Kate Nickleby" "Miss Knag" 7
+"592" "Kate Nickleby" "Miss La Creevy" 17
+"593" "Kate Nickleby" "Miss Simmonds" 1
+"594" "Kate Nickleby" "Miss Snevellicci" 1
+"595" "Kate Nickleby" "Mobbs" 1
+"596" "Kate Nickleby" "Mortimer Knag" 1
+"597" "Kate Nickleby" "Mr Bobster" 1
+"598" "Kate Nickleby" "Mr Brooker" 1
+"599" "Kate Nickleby" "Mr Crowl" 1
+"600" "Kate Nickleby" "Mr Crummles" 3
+"601" "Kate Nickleby" "Mr Folair" 1
+"602" "Kate Nickleby" "Mr Godfrey Nickleby" 1
+"603" "Kate Nickleby" "Mr Lenville" 1
+"604" "Kate Nickleby" "Mr Mantalini" 5
+"605" "Kate Nickleby" "Mr Nickleby" 2
+"606" "Kate Nickleby" "Mr Pluck" 6
+"607" "Kate Nickleby" "Mr Pyke" 8
+"608" "Kate Nickleby" "Mr Scaley" 1
+"609" "Kate Nickleby" "Mr Snawley" 4
+"610" "Kate Nickleby" "Mr Snobb" 1
+"611" "Kate Nickleby" "Mr Trimmers" 2
+"612" "Kate Nickleby" "Mr Watkins" 1
+"613" "Kate Nickleby" "Mr Westwood" 1
+"614" "Kate Nickleby" "Mrs Blockson" 1
+"615" "Kate Nickleby" "Mrs Crummles" 1
+"616" "Kate Nickleby" "Mrs Godfrey Nickleby" 1
+"617" "Kate Nickleby" "Mrs Grudden" 2
+"618" "Kate Nickleby" "Mrs Lenville" 1
+"619" "Kate Nickleby" "Mrs Nickleby" 29
+"620" "Kate Nickleby" "Mrs Snawley" 1
+"621" "Kate Nickleby" "Mrs Squeers" 5
+"622" "Kate Nickleby" "Newman Noggs" 17
+"623" "Kate Nickleby" "Nicholas Nickleby" 32
+"624" "Kate Nickleby" "Ninetta Crummles" 2
+"625" "Kate Nickleby" "Peg Sliderskew" 2
+"626" "Kate Nickleby" "Ralph Nickleby" 27
+"627" "Kate Nickleby" "Sir Mulberry Hawk" 11
+"628" "Kate Nickleby" "Sir Thomas Grimble" 1
+"629" "Kate Nickleby" "Sir Tumley Snuffim" 3
+"630" "Kate Nickleby" "Smike" 17
+"631" "Kate Nickleby" "The Hawkinses" 1
+"632" "Kate Nickleby" "The Master Crummleses" 1
+"633" "Kate Nickleby" "The Miss Dowdles" 1
+"634" "Kate Nickleby" "Thomas" 1
+"635" "Kate Nickleby" "Tim Linkinwater" 11
+"636" "Kate Nickleby" "Tom" 2
+"637" "Kate Nickleby" "Tom Tix" 1
+"638" "Kate Nickleby" "Wackford Squeers" 10
+"639" "Kate Nickleby" "Wackford SqueersJunior" 5
+"640" "Kate Nickleby" "Walter Bray" 1
+"641" "Kate Nickleby" "William" 1
+"642" "Kate Nickleby" "William2" 1
+"643" "Lord Frederick Verisopht" "Miss Knag" 1
+"644" "Lord Frederick Verisopht" "Miss La Creevy" 4
+"645" "Lord Frederick Verisopht" "Mr Crowl" 1
+"646" "Lord Frederick Verisopht" "Mr Nickleby" 1
+"647" "Lord Frederick Verisopht" "Mr Pluck" 5
+"648" "Lord Frederick Verisopht" "Mr Pyke" 5
+"649" "Lord Frederick Verisopht" "Mr Snawley" 1
+"650" "Lord Frederick Verisopht" "Mr Snobb" 1
+"651" "Lord Frederick Verisopht" "Mr Westwood" 1
+"652" "Lord Frederick Verisopht" "Mrs Nickleby" 6
+"653" "Lord Frederick Verisopht" "Mrs Snawley" 1
+"654" "Lord Frederick Verisopht" "Mrs Squeers" 1
+"655" "Lord Frederick Verisopht" "Newman Noggs" 4
+"656" "Lord Frederick Verisopht" "Nicholas Nickleby" 6
+"657" "Lord Frederick Verisopht" "Ralph Nickleby" 6
+"658" "Lord Frederick Verisopht" "Sir Mulberry Hawk" 7
+"659" "Lord Frederick Verisopht" "Sir Tumley Snuffim" 1
+"660" "Lord Frederick Verisopht" "Smike" 2
+"661" "Lord Frederick Verisopht" "The Miss Dowdles" 1
+"662" "Lord Frederick Verisopht" "Wackford Squeers" 1
+"663" "Lord Frederick Verisopht" "Wackford SqueersJunior" 1
+"664" "Lord Frederick Verisopht" "William2" 1
+"665" "Madame Mantalini" "Madeline Bray" 1
+"666" "Madame Mantalini" "Matilda Price" 1
+"667" "Madame Mantalini" "Miss Browndock" 1
+"668" "Madame Mantalini" "Miss Knag" 7
+"669" "Madame Mantalini" "Miss La Creevy" 2
+"670" "Madame Mantalini" "Miss Simmonds" 1
+"671" "Madame Mantalini" "Mortimer Knag" 1
+"672" "Madame Mantalini" "Mr Brooker" 1
+"673" "Madame Mantalini" "Mr Mantalini" 6
+"674" "Madame Mantalini" "Mr Pyke" 1
+"675" "Madame Mantalini" "Mr Scaley" 1
+"676" "Madame Mantalini" "Mr Watkins" 1
+"677" "Madame Mantalini" "Mrs Blockson" 1
+"678" "Madame Mantalini" "Mrs Nickleby" 5
+"679" "Madame Mantalini" "Mrs Squeers" 2
+"680" "Madame Mantalini" "Newman Noggs" 3
+"681" "Madame Mantalini" "Nicholas Nickleby" 6
+"682" "Madame Mantalini" "Ralph Nickleby" 5
+"683" "Madame Mantalini" "Sir Mulberry Hawk" 1
+"684" "Madame Mantalini" "Sir Tumley Snuffim" 1
+"685" "Madame Mantalini" "Smike" 2
+"686" "Madame Mantalini" "Thomas" 1
+"687" "Madame Mantalini" "Tim Linkinwater" 1
+"688" "Madame Mantalini" "Tom" 1
+"689" "Madame Mantalini" "Tom Tix" 1
+"690" "Madame Mantalini" "Wackford Squeers" 3
+"691" "Madame Mantalini" "Wackford SqueersJunior" 2
+"692" "Madeline Bray" "Matilda Price" 1
+"693" "Madeline Bray" "Miss La Creevy" 4
+"694" "Madeline Bray" "Miss Snevellicci" 1
+"695" "Madeline Bray" "Morleena Kenwigs" 1
+"696" "Madeline Bray" "Mr Brooker" 3
+"697" "Madeline Bray" "Mr Crummles" 1
+"698" "Madeline Bray" "Mr Kenwigs" 1
+"699" "Madeline Bray" "Mr Lillyvick" 2
+"700" "Madeline Bray" "Mr Mantalini" 1
+"701" "Madeline Bray" "Mr Snawley" 2
+"702" "Madeline Bray" "Mr Trimmers" 1
+"703" "Madeline Bray" "Mrs Crummles" 1
+"704" "Madeline Bray" "Mrs Grudden" 1
+"705" "Madeline Bray" "Mrs Kenwigs" 1
+"706" "Madeline Bray" "Mrs Nickleby" 5
+"707" "Madeline Bray" "Mrs Snawley" 1
+"708" "Madeline Bray" "Mrs Squeers" 2
+"709" "Madeline Bray" "Newman Noggs" 6
+"710" "Madeline Bray" "Nicholas Nickleby" 15
+"711" "Madeline Bray" "Peg Sliderskew" 5
+"712" "Madeline Bray" "Ralph Nickleby" 12
+"713" "Madeline Bray" "Sir Mulberry Hawk" 1
+"714" "Madeline Bray" "Smike" 5
+"715" "Madeline Bray" "Snittle Timberry" 1
+"716" "Madeline Bray" "The African Swallower" 1
+"717" "Madeline Bray" "The Master Crummleses" 1
+"718" "Madeline Bray" "The Misses Kenwigses" 1
+"719" "Madeline Bray" "Tim Linkinwater" 10
+"720" "Madeline Bray" "Wackford Squeers" 4
+"721" "Madeline Bray" "Wackford SqueersJunior" 2
+"722" "Madeline Bray" "Walter Bray" 4
+"723" "Matilda Price" "Miss La Creevy" 1
+"724" "Matilda Price" "Mr Mantalini" 1
+"725" "Matilda Price" "Mr Snawley" 1
+"726" "Matilda Price" "Mrs Nickleby" 2
+"727" "Matilda Price" "Mrs Squeers" 2
+"728" "Matilda Price" "Nicholas Nickleby" 6
+"729" "Matilda Price" "Phoebe" 1
+"730" "Matilda Price" "Ralph Nickleby" 5
+"731" "Matilda Price" "Smike" 6
+"732" "Matilda Price" "Tim Linkinwater" 3
+"733" "Matilda Price" "Tom" 1
+"734" "Matilda Price" "Wackford Squeers" 6
+"735" "Matilda Price" "Wackford SqueersJunior" 5
+"736" "Miss Belvawney" "Miss Bravassa" 2
+"737" "Miss Belvawney" "Miss Lane" 1
+"738" "Miss Belvawney" "Miss Snevellicci" 2
+"739" "Miss Belvawney" "Mr Borum" 1
+"740" "Miss Belvawney" "Mr Crummles" 2
+"741" "Miss Belvawney" "Mr Curdle" 1
+"742" "Miss Belvawney" "Mr Folair" 2
+"743" "Miss Belvawney" "Mr Lenville" 2
+"744" "Miss Belvawney" "Mrs Borum" 1
+"745" "Miss Belvawney" "Mrs Crummles" 2
+"746" "Miss Belvawney" "Mrs Curdle" 1
+"747" "Miss Belvawney" "Mrs Grudden" 2
+"748" "Miss Belvawney" "Mrs Lenville" 1
+"749" "Miss Belvawney" "Mrs Nickleby" 1
+"750" "Miss Belvawney" "Newman Noggs" 1
+"751" "Miss Belvawney" "Nicholas Nickleby" 2
+"752" "Miss Belvawney" "Ninetta Crummles" 2
+"753" "Miss Belvawney" "Ralph Nickleby" 1
+"754" "Miss Belvawney" "Smike" 2
+"755" "Miss Belvawney" "The Master Crummleses" 1
+"756" "Miss Belvawney" "Wackford Squeers" 1
+"757" "Miss Bravassa" "Miss Gazingi" 1
+"758" "Miss Bravassa" "Miss Lane" 1
+"759" "Miss Bravassa" "Miss Ledrook" 3
+"760" "Miss Bravassa" "Miss Snevellicci" 5
+"761" "Miss Bravassa" "Mr Borum" 1
+"762" "Miss Bravassa" "Mr Bulph" 2
+"763" "Miss Bravassa" "Mr Crummles" 5
+"764" "Miss Bravassa" "Mr Curdle" 2
+"765" "Miss Bravassa" "Mr Folair" 5
+"766" "Miss Bravassa" "Mr Glavormelly" 1
+"767" "Miss Bravassa" "Mr Lenville" 4
+"768" "Miss Bravassa" "Mr Lillyvick" 2
+"769" "Miss Bravassa" "Mr Snevellicci" 1
+"770" "Miss Bravassa" "Mrs Borum" 1
+"771" "Miss Bravassa" "Mrs Crummles" 5
+"772" "Miss Bravassa" "Mrs Curdle" 1
+"773" "Miss Bravassa" "Mrs Grudden" 5
+"774" "Miss Bravassa" "Mrs Lenville" 2
+"775" "Miss Bravassa" "Mrs Nickleby" 1
+"776" "Miss Bravassa" "Mrs Snevellicci" 1
+"777" "Miss Bravassa" "Newman Noggs" 4
+"778" "Miss Bravassa" "Nicholas Nickleby" 5
+"779" "Miss Bravassa" "Ninetta Crummles" 5
+"780" "Miss Bravassa" "Ralph Nickleby" 1
+"781" "Miss Bravassa" "Smike" 5
+"782" "Miss Bravassa" "The Master Crummleses" 4
+"783" "Miss Bravassa" "The Misses Kenwigses" 1
+"784" "Miss Bravassa" "Wackford Squeers" 1
+"785" "Miss Browndock" "Miss Knag" 1
+"786" "Miss Browndock" "Miss Simmonds" 1
+"787" "Miss Browndock" "Mr Mantalini" 1
+"788" "Miss Browndock" "Mrs Nickleby" 1
+"789" "Miss Browndock" "Nicholas Nickleby" 1
+"790" "Miss Cropley" "Miss La Creevy" 1
+"791" "Miss Cropley" "Mr Pluck" 1
+"792" "Miss Cropley" "Mr Pyke" 1
+"793" "Miss Cropley" "Mrs Nickleby" 1
+"794" "Miss Cropley" "Newman Noggs" 1
+"795" "Miss Cropley" "Nicholas Nickleby" 1
+"796" "Miss Cropley" "Ralph Nickleby" 1
+"797" "Miss Cropley" "Sir Mulberry Hawk" 1
+"798" "Miss Cropley" "Sir Tumley Snuffim" 1
+"799" "Miss Cropley" "Smike" 1
+"800" "Miss Gazingi" "Miss Ledrook" 1
+"801" "Miss Gazingi" "Miss Snevellicci" 1
+"802" "Miss Gazingi" "Mr Bulph" 1
+"803" "Miss Gazingi" "Mr Crummles" 1
+"804" "Miss Gazingi" "Mr Folair" 1
+"805" "Miss Gazingi" "Mr Lenville" 1
+"806" "Miss Gazingi" "Mrs Crummles" 1
+"807" "Miss Gazingi" "Mrs Grudden" 1
+"808" "Miss Gazingi" "Mrs Lenville" 1
+"809" "Miss Gazingi" "Newman Noggs" 1
+"810" "Miss Gazingi" "Nicholas Nickleby" 1
+"811" "Miss Gazingi" "Ninetta Crummles" 1
+"812" "Miss Gazingi" "Smike" 1
+"813" "Miss Gazingi" "The Master Crummleses" 1
+"814" "Miss Knag" "Miss La Creevy" 3
+"815" "Miss Knag" "Miss Simmonds" 1
+"816" "Miss Knag" "Mortimer Knag" 1
+"817" "Miss Knag" "Mr Brooker" 1
+"818" "Miss Knag" "Mr Mantalini" 5
+"819" "Miss Knag" "Mr Pluck" 1
+"820" "Miss Knag" "Mr Pyke" 2
+"821" "Miss Knag" "Mr Scaley" 1
+"822" "Miss Knag" "Mr Snobb" 1
+"823" "Miss Knag" "Mr Watkins" 1
+"824" "Miss Knag" "Mrs Blockson" 1
+"825" "Miss Knag" "Mrs Nickleby" 6
+"826" "Miss Knag" "Mrs Squeers" 1
+"827" "Miss Knag" "Newman Noggs" 4
+"828" "Miss Knag" "Nicholas Nickleby" 5
+"829" "Miss Knag" "Ralph Nickleby" 6
+"830" "Miss Knag" "Sir Mulberry Hawk" 2
+"831" "Miss Knag" "Sir Tumley Snuffim" 1
+"832" "Miss Knag" "Smike" 1
+"833" "Miss Knag" "Thomas" 1
+"834" "Miss Knag" "Tom" 1
+"835" "Miss Knag" "Tom Tix" 1
+"836" "Miss Knag" "Wackford Squeers" 2
+"837" "Miss Knag" "Wackford SqueersJunior" 1
+"838" "Miss La Creevy" "Mr Brooker" 1
+"839" "Miss La Creevy" "Mr Crowl" 1
+"840" "Miss La Creevy" "Mr Crummles" 1
+"841" "Miss La Creevy" "Mr Mantalini" 1
+"842" "Miss La Creevy" "Mr Nickleby" 1
+"843" "Miss La Creevy" "Mr Pluck" 4
+"844" "Miss La Creevy" "Mr Pyke" 5
+"845" "Miss La Creevy" "Mr Snawley" 4
+"846" "Miss La Creevy" "Mr Snobb" 1
+"847" "Miss La Creevy" "Mr Trimmers" 2
+"848" "Miss La Creevy" "Mrs Grudden" 1
+"849" "Miss La Creevy" "Mrs Nickleby" 17
+"850" "Miss La Creevy" "Mrs Snawley" 1
+"851" "Miss La Creevy" "Mrs Squeers" 2
+"852" "Miss La Creevy" "Newman Noggs" 11
+"853" "Miss La Creevy" "Nicholas Nickleby" 15
+"854" "Miss La Creevy" "Peg Sliderskew" 1
+"855" "Miss La Creevy" "Ralph Nickleby" 15
+"856" "Miss La Creevy" "Sir Mulberry Hawk" 7
+"857" "Miss La Creevy" "Sir Thomas Grimble" 1
+"858" "Miss La Creevy" "Sir Tumley Snuffim" 1
+"859" "Miss La Creevy" "Smike" 7
+"860" "Miss La Creevy" "The Hawkinses" 1
+"861" "Miss La Creevy" "Tim Linkinwater" 6
+"862" "Miss La Creevy" "Wackford Squeers" 5
+"863" "Miss La Creevy" "Wackford SqueersJunior" 2
+"864" "Miss La Creevy" "William" 1
+"865" "Miss La Creevy" "William2" 1
+"866" "Miss Lane" "Miss Snevellicci" 1
+"867" "Miss Lane" "Mr Borum" 1
+"868" "Miss Lane" "Mr Crummles" 1
+"869" "Miss Lane" "Mr Curdle" 1
+"870" "Miss Lane" "Mr Folair" 1
+"871" "Miss Lane" "Mr Lenville" 1
+"872" "Miss Lane" "Mrs Borum" 1
+"873" "Miss Lane" "Mrs Crummles" 1
+"874" "Miss Lane" "Mrs Curdle" 1
+"875" "Miss Lane" "Mrs Grudden" 1
+"876" "Miss Lane" "Nicholas Nickleby" 1
+"877" "Miss Lane" "Ninetta Crummles" 1
+"878" "Miss Lane" "Smike" 1
+"879" "Miss Lane" "The Master Crummleses" 1
+"880" "Miss Ledrook" "Miss Snevellicci" 3
+"881" "Miss Ledrook" "Mr Bulph" 2
+"882" "Miss Ledrook" "Mr Crummles" 3
+"883" "Miss Ledrook" "Mr Curdle" 1
+"884" "Miss Ledrook" "Mr Folair" 3
+"885" "Miss Ledrook" "Mr Glavormelly" 1
+"886" "Miss Ledrook" "Mr Lenville" 2
+"887" "Miss Ledrook" "Mr Lillyvick" 2
+"888" "Miss Ledrook" "Mr Snevellicci" 1
+"889" "Miss Ledrook" "Mrs Crummles" 3
+"890" "Miss Ledrook" "Mrs Grudden" 3
+"891" "Miss Ledrook" "Mrs Lenville" 1
+"892" "Miss Ledrook" "Mrs Snevellicci" 1
+"893" "Miss Ledrook" "Newman Noggs" 3
+"894" "Miss Ledrook" "Nicholas Nickleby" 3
+"895" "Miss Ledrook" "Ninetta Crummles" 3
+"896" "Miss Ledrook" "Smike" 3
+"897" "Miss Ledrook" "The Master Crummleses" 3
+"898" "Miss Ledrook" "The Misses Kenwigses" 1
+"899" "Miss Simmonds" "Mr Mantalini" 1
+"900" "Miss Simmonds" "Mrs Nickleby" 1
+"901" "Miss Simmonds" "Nicholas Nickleby" 1
+"902" "Miss Snevellicci" "Mr Borum" 1
+"903" "Miss Snevellicci" "Mr Bulph" 2
+"904" "Miss Snevellicci" "Mr Crummles" 6
+"905" "Miss Snevellicci" "Mr Curdle" 2
+"906" "Miss Snevellicci" "Mr Folair" 5
+"907" "Miss Snevellicci" "Mr Glavormelly" 1
+"908" "Miss Snevellicci" "Mr Lenville" 4
+"909" "Miss Snevellicci" "Mr Lillyvick" 3
+"910" "Miss Snevellicci" "Mr Snevellicci" 1
+"911" "Miss Snevellicci" "Mrs Borum" 1
+"912" "Miss Snevellicci" "Mrs Crummles" 6
+"913" "Miss Snevellicci" "Mrs Curdle" 1
+"914" "Miss Snevellicci" "Mrs Grudden" 6
+"915" "Miss Snevellicci" "Mrs Lenville" 2
+"916" "Miss Snevellicci" "Mrs Nickleby" 1
+"917" "Miss Snevellicci" "Mrs Snevellicci" 1
+"918" "Miss Snevellicci" "Newman Noggs" 4
+"919" "Miss Snevellicci" "Nicholas Nickleby" 6
+"920" "Miss Snevellicci" "Ninetta Crummles" 5
+"921" "Miss Snevellicci" "Ralph Nickleby" 1
+"922" "Miss Snevellicci" "Smike" 5
+"923" "Miss Snevellicci" "Snittle Timberry" 1
+"924" "Miss Snevellicci" "The African Swallower" 1
+"925" "Miss Snevellicci" "The Master Crummleses" 5
+"926" "Miss Snevellicci" "The Misses Kenwigses" 1
+"927" "Miss Snevellicci" "Tim Linkinwater" 1
+"928" "Miss Snevellicci" "Wackford Squeers" 1
+"929" "Mobbs" "Mrs Squeers" 1
+"930" "Mobbs" "Nicholas Nickleby" 1
+"931" "Mobbs" "Ralph Nickleby" 1
+"932" "Mobbs" "Smike" 1
+"933" "Mobbs" "Wackford Squeers" 1
+"934" "Mobbs" "Wackford SqueersJunior" 1
+"935" "Morleena Kenwigs" "Mr Crowl" 2
+"936" "Morleena Kenwigs" "Mr Cutler" 1
+"937" "Morleena Kenwigs" "Mr Gallanbile" 1
+"938" "Morleena Kenwigs" "Mr Gregsbury" 1
+"939" "Morleena Kenwigs" "Mr Kenwigs" 5
+"940" "Morleena Kenwigs" "Mr Lillyvick" 4
+"941" "Morleena Kenwigs" "Mr Pugstyles" 1
+"942" "Morleena Kenwigs" "Mrs Cutler" 1
+"943" "Morleena Kenwigs" "Mrs Gallanbile" 1
+"944" "Morleena Kenwigs" "Mrs Gregsbury" 1
+"945" "Morleena Kenwigs" "Mrs Kenwigs" 5
+"946" "Morleena Kenwigs" "Newman Noggs" 4
+"947" "Morleena Kenwigs" "Nicholas Nickleby" 4
+"948" "Morleena Kenwigs" "Ralph Nickleby" 3
+"949" "Morleena Kenwigs" "Smike" 2
+"950" "Morleena Kenwigs" "The Misses Kenwigses" 5
+"951" "Morleena Kenwigs" "Tom" 1
+"952" "Morleena Kenwigs" "Wackford Squeers" 1
+"953" "Morleena Kenwigs" "young Lillyvick" 1
+"954" "Mortimer Knag" "Mr Watkins" 1
+"955" "Mortimer Knag" "Mrs Blockson" 1
+"956" "Mortimer Knag" "Mrs Nickleby" 1
+"957" "Mortimer Knag" "Thomas" 1
+"958" "Mr Bobster" "Mrs Nickleby" 1
+"959" "Mr Bobster" "Newman Noggs" 1
+"960" "Mr Bobster" "Nicholas Nickleby" 1
+"961" "Mr Bobster" "Ninetta Crummles" 1
+"962" "Mr Bobster" "Ralph Nickleby" 1
+"963" "Mr Bobster" "Smike" 1
+"964" "Mr Bobster" "Tim Linkinwater" 1
+"965" "Mr Bobster" "Wackford Squeers" 1
+"966" "Mr Bonney" "Newman Noggs" 1
+"967" "Mr Bonney" "Ralph Nickleby" 1
+"968" "Mr Bonney" "Sir Matthew Pupker" 1
+"969" "Mr Borum" "Mr Crummles" 1
+"970" "Mr Borum" "Mr Curdle" 1
+"971" "Mr Borum" "Mr Folair" 1
+"972" "Mr Borum" "Mr Lenville" 1
+"973" "Mr Borum" "Mrs Borum" 1
+"974" "Mr Borum" "Mrs Crummles" 1
+"975" "Mr Borum" "Mrs Curdle" 1
+"976" "Mr Borum" "Mrs Grudden" 1
+"977" "Mr Borum" "Nicholas Nickleby" 1
+"978" "Mr Borum" "Ninetta Crummles" 1
+"979" "Mr Borum" "Smike" 1
+"980" "Mr Borum" "The Master Crummleses" 1
+"981" "Mr Brooker" "Mr Mantalini" 1
+"982" "Mr Brooker" "Mrs Nickleby" 1
+"983" "Mr Brooker" "Mrs Squeers" 1
+"984" "Mr Brooker" "Newman Noggs" 3
+"985" "Mr Brooker" "Nicholas Nickleby" 4
+"986" "Mr Brooker" "Peg Sliderskew" 2
+"987" "Mr Brooker" "Ralph Nickleby" 4
+"988" "Mr Brooker" "Sir Mulberry Hawk" 1
+"989" "Mr Brooker" "Smike" 1
+"990" "Mr Brooker" "Tim Linkinwater" 2
+"991" "Mr Brooker" "Wackford Squeers" 3
+"992" "Mr Brooker" "Wackford SqueersJunior" 1
+"993" "Mr Bulph" "Mr Crummles" 2
+"994" "Mr Bulph" "Mr Folair" 2
+"995" "Mr Bulph" "Mr Glavormelly" 1
+"996" "Mr Bulph" "Mr Lenville" 2
+"997" "Mr Bulph" "Mr Lillyvick" 1
+"998" "Mr Bulph" "Mr Snevellicci" 1
+"999" "Mr Bulph" "Mrs Crummles" 2
+"1000" "Mr Bulph" "Mrs Grudden" 2
+"1001" "Mr Bulph" "Mrs Lenville" 1
+"1002" "Mr Bulph" "Mrs Snevellicci" 1
+"1003" "Mr Bulph" "Newman Noggs" 2
+"1004" "Mr Bulph" "Nicholas Nickleby" 2
+"1005" "Mr Bulph" "Ninetta Crummles" 2
+"1006" "Mr Bulph" "Smike" 2
+"1007" "Mr Bulph" "The Master Crummleses" 2
+"1008" "Mr Crowl" "Mr Cutler" 1
+"1009" "Mr Crowl" "Mr Kenwigs" 2
+"1010" "Mr Crowl" "Mr Lillyvick" 2
+"1011" "Mr Crowl" "Mrs Cutler" 1
+"1012" "Mr Crowl" "Mrs Kenwigs" 2
+"1013" "Mr Crowl" "Mrs Nickleby" 1
+"1014" "Mr Crowl" "Newman Noggs" 3
+"1015" "Mr Crowl" "Nicholas Nickleby" 2
+"1016" "Mr Crowl" "Ralph Nickleby" 2
+"1017" "Mr Crowl" "Sir Mulberry Hawk" 1
+"1018" "Mr Crowl" "Smike" 2
+"1019" "Mr Crowl" "The Misses Kenwigses" 2
+"1020" "Mr Crowl" "Wackford Squeers" 1
+"1021" "Mr Crowl" "William2" 1
+"1022" "Mr Crowl" "young Lillyvick" 1
+"1023" "Mr Crummles" "Mr Curdle" 2
+"1024" "Mr Crummles" "Mr Folair" 5
+"1025" "Mr Crummles" "Mr Glavormelly" 1
+"1026" "Mr Crummles" "Mr Lenville" 4
+"1027" "Mr Crummles" "Mr Lillyvick" 3
+"1028" "Mr Crummles" "Mr Pyke" 1
+"1029" "Mr Crummles" "Mr Snevellicci" 1
+"1030" "Mr Crummles" "Mr Trimmers" 1
+"1031" "Mr Crummles" "Mrs Borum" 1
+"1032" "Mr Crummles" "Mrs Crummles" 6
+"1033" "Mr Crummles" "Mrs Curdle" 1
+"1034" "Mr Crummles" "Mrs Grudden" 7
+"1035" "Mr Crummles" "Mrs Lenville" 2
+"1036" "Mr Crummles" "Mrs Nickleby" 2
+"1037" "Mr Crummles" "Mrs Snevellicci" 1
+"1038" "Mr Crummles" "Newman Noggs" 6
+"1039" "Mr Crummles" "Nicholas Nickleby" 8
+"1040" "Mr Crummles" "Ninetta Crummles" 5
+"1041" "Mr Crummles" "Ralph Nickleby" 1
+"1042" "Mr Crummles" "Sir Mulberry Hawk" 1
+"1043" "Mr Crummles" "Sir Thomas Grimble" 1
+"1044" "Mr Crummles" "Smike" 7
+"1045" "Mr Crummles" "Snittle Timberry" 1
+"1046" "Mr Crummles" "The African Swallower" 1
+"1047" "Mr Crummles" "The Hawkinses" 1
+"1048" "Mr Crummles" "The Master Crummleses" 6
+"1049" "Mr Crummles" "The Misses Kenwigses" 1
+"1050" "Mr Crummles" "Tim Linkinwater" 2
+"1051" "Mr Crummles" "Wackford Squeers" 1
+"1052" "Mr Curdle" "Mr Folair" 2
+"1053" "Mr Curdle" "Mr Lenville" 1
+"1054" "Mr Curdle" "Mr Lillyvick" 1
+"1055" "Mr Curdle" "Mrs Borum" 1
+"1056" "Mr Curdle" "Mrs Crummles" 2
+"1057" "Mr Curdle" "Mrs Curdle" 1
+"1058" "Mr Curdle" "Mrs Grudden" 2
+"1059" "Mr Curdle" "Newman Noggs" 1
+"1060" "Mr Curdle" "Nicholas Nickleby" 2
+"1061" "Mr Curdle" "Ninetta Crummles" 2
+"1062" "Mr Curdle" "Smike" 2
+"1063" "Mr Curdle" "The Master Crummleses" 2
+"1064" "Mr Curdle" "The Misses Kenwigses" 1
+"1065" "Mr Cutler" "Mr Kenwigs" 1
+"1066" "Mr Cutler" "Mr Lillyvick" 1
+"1067" "Mr Cutler" "Mrs Cutler" 1
+"1068" "Mr Cutler" "Mrs Kenwigs" 1
+"1069" "Mr Cutler" "Newman Noggs" 1
+"1070" "Mr Cutler" "The Misses Kenwigses" 1
+"1071" "Mr Folair" "Mr Glavormelly" 1
+"1072" "Mr Folair" "Mr Lenville" 4
+"1073" "Mr Folair" "Mr Lillyvick" 2
+"1074" "Mr Folair" "Mr Snevellicci" 1
+"1075" "Mr Folair" "Mrs Borum" 1
+"1076" "Mr Folair" "Mrs Crummles" 5
+"1077" "Mr Folair" "Mrs Curdle" 1
+"1078" "Mr Folair" "Mrs Grudden" 5
+"1079" "Mr Folair" "Mrs Lenville" 2
+"1080" "Mr Folair" "Mrs Nickleby" 1
+"1081" "Mr Folair" "Mrs Snevellicci" 1
+"1082" "Mr Folair" "Newman Noggs" 4
+"1083" "Mr Folair" "Nicholas Nickleby" 5
+"1084" "Mr Folair" "Ninetta Crummles" 5
+"1085" "Mr Folair" "Ralph Nickleby" 1
+"1086" "Mr Folair" "Smike" 5
+"1087" "Mr Folair" "The Master Crummleses" 4
+"1088" "Mr Folair" "The Misses Kenwigses" 1
+"1089" "Mr Folair" "Wackford Squeers" 1
+"1090" "Mr Gallanbile" "Mr Gregsbury" 1
+"1091" "Mr Gallanbile" "Mr Kenwigs" 1
+"1092" "Mr Gallanbile" "Mr Lillyvick" 1
+"1093" "Mr Gallanbile" "Mr Pugstyles" 1
+"1094" "Mr Gallanbile" "Mrs Gallanbile" 1
+"1095" "Mr Gallanbile" "Mrs Gregsbury" 1
+"1096" "Mr Gallanbile" "Mrs Kenwigs" 1
+"1097" "Mr Gallanbile" "Newman Noggs" 1
+"1098" "Mr Gallanbile" "Nicholas Nickleby" 1
+"1099" "Mr Gallanbile" "Ralph Nickleby" 1
+"1100" "Mr Gallanbile" "Smike" 1
+"1101" "Mr Gallanbile" "The Misses Kenwigses" 1
+"1102" "Mr Gallanbile" "Tom" 1
+"1103" "Mr Glavormelly" "Mr Lenville" 1
+"1104" "Mr Glavormelly" "Mr Lillyvick" 1
+"1105" "Mr Glavormelly" "Mr Snevellicci" 1
+"1106" "Mr Glavormelly" "Mrs Crummles" 1
+"1107" "Mr Glavormelly" "Mrs Grudden" 1
+"1108" "Mr Glavormelly" "Mrs Snevellicci" 1
+"1109" "Mr Glavormelly" "Newman Noggs" 1
+"1110" "Mr Glavormelly" "Nicholas Nickleby" 1
+"1111" "Mr Glavormelly" "Ninetta Crummles" 1
+"1112" "Mr Glavormelly" "Smike" 1
+"1113" "Mr Glavormelly" "The Master Crummleses" 1
+"1114" "Mr Godfrey Nickleby" "Mr Nickleby" 1
+"1115" "Mr Godfrey Nickleby" "Mrs Godfrey Nickleby" 1
+"1116" "Mr Godfrey Nickleby" "Mrs Nickleby" 1
+"1117" "Mr Godfrey Nickleby" "Nicholas Nickleby" 1
+"1118" "Mr Godfrey Nickleby" "Ralph Nickleby" 1
+"1119" "Mr Gregsbury" "Mr Kenwigs" 1
+"1120" "Mr Gregsbury" "Mr Lillyvick" 1
+"1121" "Mr Gregsbury" "Mr Pugstyles" 1
+"1122" "Mr Gregsbury" "Mrs Gallanbile" 1
+"1123" "Mr Gregsbury" "Mrs Gregsbury" 1
+"1124" "Mr Gregsbury" "Mrs Kenwigs" 1
+"1125" "Mr Gregsbury" "Newman Noggs" 1
+"1126" "Mr Gregsbury" "Nicholas Nickleby" 1
+"1127" "Mr Gregsbury" "Ralph Nickleby" 1
+"1128" "Mr Gregsbury" "Smike" 1
+"1129" "Mr Gregsbury" "The Misses Kenwigses" 1
+"1130" "Mr Gregsbury" "Tom" 1
+"1131" "Mr Kenwigs" "Mr Lillyvick" 4
+"1132" "Mr Kenwigs" "Mr Pugstyles" 1
+"1133" "Mr Kenwigs" "Mrs Cutler" 1
+"1134" "Mr Kenwigs" "Mrs Gallanbile" 1
+"1135" "Mr Kenwigs" "Mrs Gregsbury" 1
+"1136" "Mr Kenwigs" "Mrs Kenwigs" 5
+"1137" "Mr Kenwigs" "Newman Noggs" 4
+"1138" "Mr Kenwigs" "Nicholas Nickleby" 4
+"1139" "Mr Kenwigs" "Ralph Nickleby" 3
+"1140" "Mr Kenwigs" "Smike" 2
+"1141" "Mr Kenwigs" "The Misses Kenwigses" 5
+"1142" "Mr Kenwigs" "Tom" 1
+"1143" "Mr Kenwigs" "Wackford Squeers" 1
+"1144" "Mr Kenwigs" "young Lillyvick" 1
+"1145" "Mr Lenville" "Mr Lillyvick" 1
+"1146" "Mr Lenville" "Mr Snevellicci" 1
+"1147" "Mr Lenville" "Mrs Borum" 1
+"1148" "Mr Lenville" "Mrs Crummles" 4
+"1149" "Mr Lenville" "Mrs Curdle" 1
+"1150" "Mr Lenville" "Mrs Grudden" 4
+"1151" "Mr Lenville" "Mrs Lenville" 2
+"1152" "Mr Lenville" "Mrs Nickleby" 1
+"1153" "Mr Lenville" "Mrs Snevellicci" 1
+"1154" "Mr Lenville" "Newman Noggs" 3
+"1155" "Mr Lenville" "Nicholas Nickleby" 4
+"1156" "Mr Lenville" "Ninetta Crummles" 4
+"1157" "Mr Lenville" "Ralph Nickleby" 1
+"1158" "Mr Lenville" "Smike" 4
+"1159" "Mr Lenville" "The Master Crummleses" 3
+"1160" "Mr Lenville" "Wackford Squeers" 1
+"1161" "Mr Lillyvick" "Mr Pugstyles" 1
+"1162" "Mr Lillyvick" "Mr Snevellicci" 1
+"1163" "Mr Lillyvick" "Mrs Crummles" 3
+"1164" "Mr Lillyvick" "Mrs Cutler" 1
+"1165" "Mr Lillyvick" "Mrs Gallanbile" 1
+"1166" "Mr Lillyvick" "Mrs Gregsbury" 1
+"1167" "Mr Lillyvick" "Mrs Grudden" 3
+"1168" "Mr Lillyvick" "Mrs Kenwigs" 4
+"1169" "Mr Lillyvick" "Mrs Snevellicci" 1
+"1170" "Mr Lillyvick" "Newman Noggs" 6
+"1171" "Mr Lillyvick" "Nicholas Nickleby" 6
+"1172" "Mr Lillyvick" "Ninetta Crummles" 2
+"1173" "Mr Lillyvick" "Ralph Nickleby" 3
+"1174" "Mr Lillyvick" "Smike" 4
+"1175" "Mr Lillyvick" "Snittle Timberry" 1
+"1176" "Mr Lillyvick" "The African Swallower" 1
+"1177" "Mr Lillyvick" "The Master Crummleses" 3
+"1178" "Mr Lillyvick" "The Misses Kenwigses" 5
+"1179" "Mr Lillyvick" "Tim Linkinwater" 1
+"1180" "Mr Lillyvick" "Tom" 1
+"1181" "Mr Lillyvick" "Wackford Squeers" 1
+"1182" "Mr Lillyvick" "young Lillyvick" 1
+"1183" "Mr Mantalini" "Mr Pyke" 1
+"1184" "Mr Mantalini" "Mr Scaley" 1
+"1185" "Mr Mantalini" "Mrs Nickleby" 3
+"1186" "Mr Mantalini" "Mrs Squeers" 2
+"1187" "Mr Mantalini" "Newman Noggs" 2
+"1188" "Mr Mantalini" "Nicholas Nickleby" 5
+"1189" "Mr Mantalini" "Ralph Nickleby" 4
+"1190" "Mr Mantalini" "Sir Mulberry Hawk" 1
+"1191" "Mr Mantalini" "Sir Tumley Snuffim" 1
+"1192" "Mr Mantalini" "Smike" 1
+"1193" "Mr Mantalini" "Tim Linkinwater" 1
+"1194" "Mr Mantalini" "Tom" 1
+"1195" "Mr Mantalini" "Tom Tix" 1
+"1196" "Mr Mantalini" "Wackford Squeers" 3
+"1197" "Mr Mantalini" "Wackford SqueersJunior" 2
+"1198" "Mr Nickleby" "Mr Pluck" 1
+"1199" "Mr Nickleby" "Mr Pyke" 1
+"1200" "Mr Nickleby" "Mrs Godfrey Nickleby" 1
+"1201" "Mr Nickleby" "Mrs Nickleby" 2
+"1202" "Mr Nickleby" "Nicholas Nickleby" 2
+"1203" "Mr Nickleby" "Ralph Nickleby" 2
+"1204" "Mr Nickleby" "Sir Mulberry Hawk" 1
+"1205" "Mr Pluck" "Mr Pyke" 6
+"1206" "Mr Pluck" "Mr Snawley" 1
+"1207" "Mr Pluck" "Mr Snobb" 1
+"1208" "Mr Pluck" "Mr Westwood" 1
+"1209" "Mr Pluck" "Mrs Nickleby" 5
+"1210" "Mr Pluck" "Mrs Snawley" 1
+"1211" "Mr Pluck" "Mrs Squeers" 1
+"1212" "Mr Pluck" "Newman Noggs" 3
+"1213" "Mr Pluck" "Nicholas Nickleby" 5
+"1214" "Mr Pluck" "Ralph Nickleby" 5
+"1215" "Mr Pluck" "Sir Mulberry Hawk" 6
+"1216" "Mr Pluck" "Sir Tumley Snuffim" 2
+"1217" "Mr Pluck" "Smike" 2
+"1218" "Mr Pluck" "Wackford Squeers" 1
+"1219" "Mr Pluck" "Wackford SqueersJunior" 1
+"1220" "Mr Pugstyles" "Mrs Gallanbile" 1
+"1221" "Mr Pugstyles" "Mrs Gregsbury" 1
+"1222" "Mr Pugstyles" "Mrs Kenwigs" 1
+"1223" "Mr Pugstyles" "Newman Noggs" 1
+"1224" "Mr Pugstyles" "Nicholas Nickleby" 1
+"1225" "Mr Pugstyles" "Ralph Nickleby" 1
+"1226" "Mr Pugstyles" "Smike" 1
+"1227" "Mr Pugstyles" "The Misses Kenwigses" 1
+"1228" "Mr Pugstyles" "Tom" 1
+"1229" "Mr Pyke" "Mr Snawley" 1
+"1230" "Mr Pyke" "Mr Snobb" 1
+"1231" "Mr Pyke" "Mr Trimmers" 1
+"1232" "Mr Pyke" "Mr Westwood" 1
+"1233" "Mr Pyke" "Mrs Grudden" 1
+"1234" "Mr Pyke" "Mrs Nickleby" 6
+"1235" "Mr Pyke" "Mrs Snawley" 1
+"1236" "Mr Pyke" "Mrs Squeers" 2
+"1237" "Mr Pyke" "Newman Noggs" 5
+"1238" "Mr Pyke" "Nicholas Nickleby" 7
+"1239" "Mr Pyke" "Ralph Nickleby" 6
+"1240" "Mr Pyke" "Sir Mulberry Hawk" 8
+"1241" "Mr Pyke" "Sir Thomas Grimble" 1
+"1242" "Mr Pyke" "Sir Tumley Snuffim" 2
+"1243" "Mr Pyke" "Smike" 3
+"1244" "Mr Pyke" "The Hawkinses" 1
+"1245" "Mr Pyke" "Tim Linkinwater" 1
+"1246" "Mr Pyke" "Wackford Squeers" 2
+"1247" "Mr Pyke" "Wackford SqueersJunior" 2
+"1248" "Mr Scaley" "Mrs Nickleby" 1
+"1249" "Mr Scaley" "Ralph Nickleby" 1
+"1250" "Mr Scaley" "Sir Tumley Snuffim" 1
+"1251" "Mr Scaley" "Tom" 1
+"1252" "Mr Scaley" "Tom Tix" 1
+"1253" "Mr Snawley" "Mrs Nickleby" 4
+"1254" "Mr Snawley" "Mrs Snawley" 2
+"1255" "Mr Snawley" "Mrs Squeers" 4
+"1256" "Mr Snawley" "Newman Noggs" 4
+"1257" "Mr Snawley" "Nicholas Nickleby" 7
+"1258" "Mr Snawley" "Peg Sliderskew" 2
+"1259" "Mr Snawley" "Ralph Nickleby" 6
+"1260" "Mr Snawley" "Richard" 1
+"1261" "Mr Snawley" "Sir Mulberry Hawk" 1
+"1262" "Mr Snawley" "Smike" 5
+"1263" "Mr Snawley" "Tim Linkinwater" 3
+"1264" "Mr Snawley" "Wackford Squeers" 6
+"1265" "Mr Snawley" "Wackford SqueersJunior" 2
+"1266" "Mr Snawley" "William" 1
+"1267" "Mr Snevellicci" "Mrs Crummles" 1
+"1268" "Mr Snevellicci" "Mrs Grudden" 1
+"1269" "Mr Snevellicci" "Mrs Snevellicci" 1
+"1270" "Mr Snevellicci" "Newman Noggs" 1
+"1271" "Mr Snevellicci" "Nicholas Nickleby" 1
+"1272" "Mr Snevellicci" "Ninetta Crummles" 1
+"1273" "Mr Snevellicci" "Smike" 1
+"1274" "Mr Snevellicci" "The Master Crummleses" 1
+"1275" "Mr Snobb" "Mrs Nickleby" 1
+"1276" "Mr Snobb" "Newman Noggs" 1
+"1277" "Mr Snobb" "Ralph Nickleby" 1
+"1278" "Mr Snobb" "Sir Mulberry Hawk" 1
+"1279" "Mr Trimmers" "Mrs Grudden" 1
+"1280" "Mr Trimmers" "Mrs Nickleby" 2
+"1281" "Mr Trimmers" "Newman Noggs" 1
+"1282" "Mr Trimmers" "Nicholas Nickleby" 2
+"1283" "Mr Trimmers" "Ralph Nickleby" 1
+"1284" "Mr Trimmers" "Sir Mulberry Hawk" 1
+"1285" "Mr Trimmers" "Sir Thomas Grimble" 1
+"1286" "Mr Trimmers" "Smike" 1
+"1287" "Mr Trimmers" "The Hawkinses" 1
+"1288" "Mr Trimmers" "Tim Linkinwater" 2
+"1289" "Mr Watkins" "Mrs Blockson" 1
+"1290" "Mr Watkins" "Mrs Nickleby" 1
+"1291" "Mr Watkins" "Thomas" 1
+"1292" "Mr Westwood" "Nicholas Nickleby" 1
+"1293" "Mr Westwood" "Sir Mulberry Hawk" 1
+"1294" "Mrs Blockson" "Mrs Nickleby" 1
+"1295" "Mrs Blockson" "Thomas" 1
+"1296" "Mrs Borum" "Mrs Crummles" 1
+"1297" "Mrs Borum" "Mrs Curdle" 1
+"1298" "Mrs Borum" "Mrs Grudden" 1
+"1299" "Mrs Borum" "Nicholas Nickleby" 1
+"1300" "Mrs Borum" "Ninetta Crummles" 1
+"1301" "Mrs Borum" "Smike" 1
+"1302" "Mrs Borum" "The Master Crummleses" 1
+"1303" "Mrs Crummles" "Mrs Curdle" 1
+"1304" "Mrs Crummles" "Mrs Grudden" 6
+"1305" "Mrs Crummles" "Mrs Lenville" 2
+"1306" "Mrs Crummles" "Mrs Nickleby" 1
+"1307" "Mrs Crummles" "Mrs Snevellicci" 1
+"1308" "Mrs Crummles" "Newman Noggs" 4
+"1309" "Mrs Crummles" "Nicholas Nickleby" 6
+"1310" "Mrs Crummles" "Ninetta Crummles" 5
+"1311" "Mrs Crummles" "Ralph Nickleby" 1
+"1312" "Mrs Crummles" "Smike" 5
+"1313" "Mrs Crummles" "Snittle Timberry" 1
+"1314" "Mrs Crummles" "The African Swallower" 1
+"1315" "Mrs Crummles" "The Master Crummleses" 5
+"1316" "Mrs Crummles" "The Misses Kenwigses" 1
+"1317" "Mrs Crummles" "Tim Linkinwater" 1
+"1318" "Mrs Crummles" "Wackford Squeers" 1
+"1319" "Mrs Curdle" "Mrs Grudden" 1
+"1320" "Mrs Curdle" "Nicholas Nickleby" 1
+"1321" "Mrs Curdle" "Ninetta Crummles" 1
+"1322" "Mrs Curdle" "Smike" 1
+"1323" "Mrs Curdle" "The Master Crummleses" 1
+"1324" "Mrs Cutler" "Mrs Kenwigs" 1
+"1325" "Mrs Cutler" "Newman Noggs" 1
+"1326" "Mrs Cutler" "The Misses Kenwigses" 1
+"1327" "Mrs Gallanbile" "Mrs Gregsbury" 1
+"1328" "Mrs Gallanbile" "Mrs Kenwigs" 1
+"1329" "Mrs Gallanbile" "Newman Noggs" 1
+"1330" "Mrs Gallanbile" "Nicholas Nickleby" 1
+"1331" "Mrs Gallanbile" "Ralph Nickleby" 1
+"1332" "Mrs Gallanbile" "Smike" 1
+"1333" "Mrs Gallanbile" "The Misses Kenwigses" 1
+"1334" "Mrs Gallanbile" "Tom" 1
+"1335" "Mrs Godfrey Nickleby" "Mrs Nickleby" 1
+"1336" "Mrs Godfrey Nickleby" "Nicholas Nickleby" 1
+"1337" "Mrs Godfrey Nickleby" "Ralph Nickleby" 1
+"1338" "Mrs Gregsbury" "Mrs Kenwigs" 1
+"1339" "Mrs Gregsbury" "Newman Noggs" 1
+"1340" "Mrs Gregsbury" "Nicholas Nickleby" 1
+"1341" "Mrs Gregsbury" "Ralph Nickleby" 1
+"1342" "Mrs Gregsbury" "Smike" 1
+"1343" "Mrs Gregsbury" "The Misses Kenwigses" 1
+"1344" "Mrs Gregsbury" "Tom" 1
+"1345" "Mrs Grudden" "Mrs Lenville" 2
+"1346" "Mrs Grudden" "Mrs Nickleby" 2
+"1347" "Mrs Grudden" "Mrs Snevellicci" 1
+"1348" "Mrs Grudden" "Newman Noggs" 5
+"1349" "Mrs Grudden" "Nicholas Nickleby" 7
+"1350" "Mrs Grudden" "Ninetta Crummles" 5
+"1351" "Mrs Grudden" "Ralph Nickleby" 1
+"1352" "Mrs Grudden" "Sir Mulberry Hawk" 1
+"1353" "Mrs Grudden" "Sir Thomas Grimble" 1
+"1354" "Mrs Grudden" "Smike" 6
+"1355" "Mrs Grudden" "Snittle Timberry" 1
+"1356" "Mrs Grudden" "The African Swallower" 1
+"1357" "Mrs Grudden" "The Hawkinses" 1
+"1358" "Mrs Grudden" "The Master Crummleses" 5
+"1359" "Mrs Grudden" "The Misses Kenwigses" 1
+"1360" "Mrs Grudden" "Tim Linkinwater" 2
+"1361" "Mrs Grudden" "Wackford Squeers" 1
+"1362" "Mrs Kenwigs" "Newman Noggs" 4
+"1363" "Mrs Kenwigs" "Nicholas Nickleby" 4
+"1364" "Mrs Kenwigs" "Ralph Nickleby" 3
+"1365" "Mrs Kenwigs" "Smike" 2
+"1366" "Mrs Kenwigs" "The Misses Kenwigses" 5
+"1367" "Mrs Kenwigs" "Tom" 1
+"1368" "Mrs Kenwigs" "Wackford Squeers" 1
+"1369" "Mrs Kenwigs" "young Lillyvick" 1
+"1370" "Mrs Lenville" "Mrs Nickleby" 1
+"1371" "Mrs Lenville" "Newman Noggs" 2
+"1372" "Mrs Lenville" "Nicholas Nickleby" 2
+"1373" "Mrs Lenville" "Ninetta Crummles" 2
+"1374" "Mrs Lenville" "Ralph Nickleby" 1
+"1375" "Mrs Lenville" "Smike" 2
+"1376" "Mrs Lenville" "The Master Crummleses" 1
+"1377" "Mrs Lenville" "Wackford Squeers" 1
+"1378" "Mrs Nickleby" "Mrs Snawley" 1
+"1379" "Mrs Nickleby" "Mrs Squeers" 2
+"1380" "Mrs Nickleby" "Newman Noggs" 15
+"1381" "Mrs Nickleby" "Nicholas Nickleby" 25
+"1382" "Mrs Nickleby" "Ninetta Crummles" 2
+"1383" "Mrs Nickleby" "Peg Sliderskew" 1
+"1384" "Mrs Nickleby" "Ralph Nickleby" 24
+"1385" "Mrs Nickleby" "Sir Mulberry Hawk" 9
+"1386" "Mrs Nickleby" "Sir Thomas Grimble" 1
+"1387" "Mrs Nickleby" "Sir Tumley Snuffim" 3
+"1388" "Mrs Nickleby" "Smike" 13
+"1389" "Mrs Nickleby" "The Hawkinses" 1
+"1390" "Mrs Nickleby" "The Miss Dowdles" 1
+"1391" "Mrs Nickleby" "Thomas" 1
+"1392" "Mrs Nickleby" "Tim Linkinwater" 10
+"1393" "Mrs Nickleby" "Tom" 2
+"1394" "Mrs Nickleby" "Tom Tix" 1
+"1395" "Mrs Nickleby" "Wackford Squeers" 7
+"1396" "Mrs Nickleby" "Wackford SqueersJunior" 2
+"1397" "Mrs Nickleby" "William" 1
+"1398" "Mrs Nickleby" "William2" 1
+"1399" "Mrs Snawley" "Mrs Squeers" 1
+"1400" "Mrs Snawley" "Newman Noggs" 1
+"1401" "Mrs Snawley" "Nicholas Nickleby" 2
+"1402" "Mrs Snawley" "Peg Sliderskew" 1
+"1403" "Mrs Snawley" "Ralph Nickleby" 2
+"1404" "Mrs Snawley" "Sir Mulberry Hawk" 1
+"1405" "Mrs Snawley" "Smike" 2
+"1406" "Mrs Snawley" "Tim Linkinwater" 1
+"1407" "Mrs Snawley" "Wackford Squeers" 2
+"1408" "Mrs Snawley" "Wackford SqueersJunior" 1
+"1409" "Mrs Snevellicci" "Newman Noggs" 1
+"1410" "Mrs Snevellicci" "Nicholas Nickleby" 1
+"1411" "Mrs Snevellicci" "Ninetta Crummles" 1
+"1412" "Mrs Snevellicci" "Smike" 1
+"1413" "Mrs Snevellicci" "The Master Crummleses" 1
+"1414" "Mrs Squeers" "Newman Noggs" 6
+"1415" "Mrs Squeers" "Nicholas Nickleby" 12
+"1416" "Mrs Squeers" "Palmer" 1
+"1417" "Mrs Squeers" "Peg Sliderskew" 2
+"1418" "Mrs Squeers" "Ralph Nickleby" 10
+"1419" "Mrs Squeers" "Richard" 1
+"1420" "Mrs Squeers" "Sir Mulberry Hawk" 2
+"1421" "Mrs Squeers" "Smike" 7
+"1422" "Mrs Squeers" "Sprouter" 1
+"1423" "Mrs Squeers" "Tim Linkinwater" 2
+"1424" "Mrs Squeers" "Wackford Squeers" 13
+"1425" "Mrs Squeers" "Wackford SqueersJunior" 7
+"1426" "Mrs Squeers" "William" 1
+"1427" "Newman Noggs" "Nicholas Nickleby" 28
+"1428" "Newman Noggs" "Ninetta Crummles" 5
+"1429" "Newman Noggs" "Palmer" 1
+"1430" "Newman Noggs" "Peg Sliderskew" 5
+"1431" "Newman Noggs" "Ralph Nickleby" 26
+"1432" "Newman Noggs" "Richard" 1
+"1433" "Newman Noggs" "Sir Matthew Pupker" 1
+"1434" "Newman Noggs" "Sir Mulberry Hawk" 8
+"1435" "Newman Noggs" "Sir Thomas Grimble" 1
+"1436" "Newman Noggs" "Sir Tumley Snuffim" 2
+"1437" "Newman Noggs" "Smike" 15
+"1438" "Newman Noggs" "Sprouter" 1
+"1439" "Newman Noggs" "The Hawkinses" 1
+"1440" "Newman Noggs" "The Master Crummleses" 4
+"1441" "Newman Noggs" "The Miss Dowdles" 1
+"1442" "Newman Noggs" "The Misses Kenwigses" 5
+"1443" "Newman Noggs" "Tim Linkinwater" 5
+"1444" "Newman Noggs" "Tom" 1
+"1445" "Newman Noggs" "Wackford Squeers" 13
+"1446" "Newman Noggs" "Wackford SqueersJunior" 1
+"1447" "Newman Noggs" "Walter Bray" 1
+"1448" "Newman Noggs" "William" 1
+"1449" "Newman Noggs" "William2" 1
+"1450" "Newman Noggs" "young Lillyvick" 1
+"1451" "Nicholas Nickleby" "Ninetta Crummles" 6
+"1452" "Nicholas Nickleby" "Peg Sliderskew" 6
+"1453" "Nicholas Nickleby" "Phoebe" 1
+"1454" "Nicholas Nickleby" "Ralph Nickleby" 41
+"1455" "Nicholas Nickleby" "Richard" 1
+"1456" "Nicholas Nickleby" "Sir Mulberry Hawk" 10
+"1457" "Nicholas Nickleby" "Sir Thomas Grimble" 1
+"1458" "Nicholas Nickleby" "Sir Tumley Snuffim" 2
+"1459" "Nicholas Nickleby" "Smike" 30
+"1460" "Nicholas Nickleby" "Snittle Timberry" 1
+"1461" "Nicholas Nickleby" "The African Swallower" 1
+"1462" "Nicholas Nickleby" "The Hawkinses" 1
+"1463" "Nicholas Nickleby" "The Master Crummleses" 6
+"1464" "Nicholas Nickleby" "The Miss Dowdles" 1
+"1465" "Nicholas Nickleby" "The Misses Kenwigses" 5
+"1466" "Nicholas Nickleby" "Tim Linkinwater" 15
+"1467" "Nicholas Nickleby" "Tom" 2
+"1468" "Nicholas Nickleby" "Wackford Squeers" 22
+"1469" "Nicholas Nickleby" "Wackford SqueersJunior" 9
+"1470" "Nicholas Nickleby" "Walter Bray" 4
+"1471" "Nicholas Nickleby" "William" 1
+"1472" "Nicholas Nickleby" "William2" 1
+"1473" "Nicholas Nickleby" "young Lillyvick" 1
+"1474" "Ninetta Crummles" "Ralph Nickleby" 2
+"1475" "Ninetta Crummles" "Smike" 6
+"1476" "Ninetta Crummles" "The Master Crummleses" 4
+"1477" "Ninetta Crummles" "The Misses Kenwigses" 1
+"1478" "Ninetta Crummles" "Tim Linkinwater" 1
+"1479" "Ninetta Crummles" "Wackford Squeers" 2
+"1480" "Palmer" "Peg Sliderskew" 1
+"1481" "Palmer" "Ralph Nickleby" 1
+"1482" "Palmer" "Sprouter" 1
+"1483" "Palmer" "Wackford Squeers" 1
+"1484" "Peg Sliderskew" "Ralph Nickleby" 7
+"1485" "Peg Sliderskew" "Sir Mulberry Hawk" 1
+"1486" "Peg Sliderskew" "Smike" 2
+"1487" "Peg Sliderskew" "Sprouter" 1
+"1488" "Peg Sliderskew" "Tim Linkinwater" 2
+"1489" "Peg Sliderskew" "Wackford Squeers" 4
+"1490" "Peg Sliderskew" "Walter Bray" 2
+"1491" "Phoebe" "Ralph Nickleby" 1
+"1492" "Phoebe" "Smike" 1
+"1493" "Phoebe" "Wackford Squeers" 1
+"1494" "Ralph Nickleby" "Richard" 1
+"1495" "Ralph Nickleby" "Sir Matthew Pupker" 1
+"1496" "Ralph Nickleby" "Sir Mulberry Hawk" 9
+"1497" "Ralph Nickleby" "Sir Tumley Snuffim" 3
+"1498" "Ralph Nickleby" "Smike" 18
+"1499" "Ralph Nickleby" "Sprouter" 1
+"1500" "Ralph Nickleby" "The Miss Dowdles" 1
+"1501" "Ralph Nickleby" "The Misses Kenwigses" 3
+"1502" "Ralph Nickleby" "Tim Linkinwater" 11
+"1503" "Ralph Nickleby" "Tom" 3
+"1504" "Ralph Nickleby" "Tom Tix" 1
+"1505" "Ralph Nickleby" "Wackford Squeers" 20
+"1506" "Ralph Nickleby" "Wackford SqueersJunior" 7
+"1507" "Ralph Nickleby" "Walter Bray" 4
+"1508" "Ralph Nickleby" "William" 1
+"1509" "Ralph Nickleby" "William2" 1
+"1510" "Ralph Nickleby" "young Lillyvick" 1
+"1511" "Richard" "Wackford Squeers" 1
+"1512" "Sir Mulberry Hawk" "Sir Thomas Grimble" 1
+"1513" "Sir Mulberry Hawk" "Sir Tumley Snuffim" 2
+"1514" "Sir Mulberry Hawk" "Smike" 4
+"1515" "Sir Mulberry Hawk" "The Hawkinses" 1
+"1516" "Sir Mulberry Hawk" "The Miss Dowdles" 1
+"1517" "Sir Mulberry Hawk" "Tim Linkinwater" 2
+"1518" "Sir Mulberry Hawk" "Wackford Squeers" 3
+"1519" "Sir Mulberry Hawk" "Wackford SqueersJunior" 2
+"1520" "Sir Mulberry Hawk" "William2" 1
+"1521" "Sir Thomas Grimble" "Smike" 1
+"1522" "Sir Thomas Grimble" "The Hawkinses" 1
+"1523" "Sir Thomas Grimble" "Tim Linkinwater" 1
+"1524" "Sir Tumley Snuffim" "Smike" 1
+"1525" "Sir Tumley Snuffim" "Tom" 1
+"1526" "Sir Tumley Snuffim" "Tom Tix" 1
+"1527" "Smike" "The Hawkinses" 1
+"1528" "Smike" "The Master Crummleses" 5
+"1529" "Smike" "The Misses Kenwigses" 3
+"1530" "Smike" "Tim Linkinwater" 10
+"1531" "Smike" "Tom" 2
+"1532" "Smike" "Wackford Squeers" 15
+"1533" "Smike" "Wackford SqueersJunior" 8
+"1534" "Smike" "William2" 1
+"1535" "Smike" "young Lillyvick" 1
+"1536" "Snittle Timberry" "The African Swallower" 1
+"1537" "Snittle Timberry" "The Master Crummleses" 1
+"1538" "Snittle Timberry" "Tim Linkinwater" 1
+"1539" "Sprouter" "Wackford Squeers" 1
+"1540" "The African Swallower" "The Master Crummleses" 1
+"1541" "The African Swallower" "Tim Linkinwater" 1
+"1542" "The Hawkinses" "Tim Linkinwater" 1
+"1543" "The Master Crummleses" "The Misses Kenwigses" 1
+"1544" "The Master Crummleses" "Tim Linkinwater" 1
+"1545" "The Misses Kenwigses" "Tom" 1
+"1546" "The Misses Kenwigses" "Wackford Squeers" 1
+"1547" "The Misses Kenwigses" "young Lillyvick" 1
+"1548" "Tim Linkinwater" "Tom" 1
+"1549" "Tim Linkinwater" "Wackford Squeers" 6
+"1550" "Tim Linkinwater" "Wackford SqueersJunior" 3
+"1551" "Tim Linkinwater" "Walter Bray" 1
+"1552" "Tom" "Tom Tix" 1
+"1553" "Wackford Squeers" "Wackford SqueersJunior" 10
+"1554" "Wackford Squeers" "William" 1
+"1555" "Wackford Squeers" "young Lillyvick" 1

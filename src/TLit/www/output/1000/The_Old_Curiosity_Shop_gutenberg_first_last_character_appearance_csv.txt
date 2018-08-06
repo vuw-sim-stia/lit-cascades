@@ -1,0 +1,113 @@
+"","Character","Node","Type","Appearances"
+"1","Abel Garland",50,"First Appearance",32
+"2","Abel Garland",255,"Last Appearance",32
+"3","Barbara",77,"First Appearance",17
+"4","Barbara",255,"Last Appearance",17
+"5","Becky Morgan",187,"First Appearance",2
+"6","Becky Morgan",188,"Last Appearance",2
+"7","Dame West",88,"First Appearance",1
+"8","Dame West",88,"Last Appearance",1
+"9","Daniel Quilp",254,"Last Appearance",77
+"10","Daniel Quilp",10,"First Appearance",77
+"11","David",187,"First Appearance",2
+"12","David",188,"Last Appearance",2
+"13","Dick Swiveller",7,"First Appearance",72
+"14","Dick Swiveller",255,"Last Appearance",72
+"15","Foxey",125,"First Appearance",2
+"16","Foxey",215,"Last Appearance",2
+"17","Frederick Trent",254,"Last Appearance",13
+"18","Frederick Trent",21,"First Appearance",13
+"19","George",92,"First Appearance",4
+"20","George",163,"Last Appearance",4
+"21","Harry",88,"First Appearance",1
+"22","Harry",88,"Last Appearance",1
+"23","Isaac List",101,"First Appearance",8
+"24","Isaac List",254,"Last Appearance",8
+"25","Jacob Nubbles",255,"Last Appearance",24
+"26","Jacob Nubbles",48,"First Appearance",24
+"27","James Groves",101,"First Appearance",6
+"28","James Groves",254,"Last Appearance",6
+"29","Jane Wackles",28,"First Appearance",3
+"30","Jane Wackles",30,"Last Appearance",3
+"31","Jerry",64,"First Appearance",4
+"32","Jerry",130,"Last Appearance",4
+"33","Joe Jowl",145,"First Appearance",3
+"34","Joe Jowl",254,"Last Appearance",3
+"35","John Owen",182,"Last Appearance",1
+"36","John Owen",182,"First Appearance",1
+"37","Kit Nubbles",3,"First Appearance",85
+"38","Kit Nubbles",255,"Last Appearance",85
+"39","Little Nell",3,"First Appearance",97
+"40","Little Nell",255,"Last Appearance",97
+"41","Maunders",66,"First Appearance",1
+"42","Maunders",66,"Last Appearance",1
+"43","Melissa Wackles",28,"Last Appearance",1
+"44","Melissa Wackles",28,"First Appearance",1
+"45","Miss Cheggs",28,"First Appearance",3
+"46","Miss Cheggs",30,"Last Appearance",3
+"47","Miss Edwards",109,"First Appearance",3
+"48","Miss Edwards",111,"Last Appearance",3
+"49","Miss Monflathers",100,"First Appearance",5
+"50","Miss Monflathers",111,"Last Appearance",5
+"51","Mr Cheggs",200,"Last Appearance",8
+"52","Mr Cheggs",28,"First Appearance",8
+"53","Mr Chuckster",50,"First Appearance",17
+"54","Mr Chuckster",254,"Last Appearance",17
+"55","Mr Garland",50,"First Appearance",34
+"56","Mr Garland",255,"Last Appearance",34
+"57","Mr Grinder",61,"First Appearance",1
+"58","Mr Grinder",61,"Last Appearance",1
+"59","Mr Harris",60,"First Appearance",12
+"60","Mr Harris",130,"Last Appearance",12
+"61","Mr Marton",182,"Last Appearance",2
+"62","Mr Marton",181,"First Appearance",2
+"63","Mr Slum",97,"First Appearance",4
+"64","Mr Slum",163,"Last Appearance",4
+"65","Mr Tomkinley",50,"First Appearance",1
+"66","Mr Tomkinley",50,"Last Appearance",1
+"67","Mr Vuffin",66,"First Appearance",1
+"68","Mr Vuffin",66,"Last Appearance",1
+"69","Mr Witherden",231,"Last Appearance",15
+"70","Mr Witherden",50,"First Appearance",15
+"71","Mrs Betsy Quilp",11,"First Appearance",28
+"72","Mrs Betsy Quilp",253,"Last Appearance",28
+"73","Mrs Garland",72,"First Appearance",12
+"74","Mrs Garland",253,"Last Appearance",12
+"75","Mrs George",14,"First Appearance",1
+"76","Mrs George",14,"Last Appearance",1
+"77","Mrs Henrietta Simmons",15,"Last Appearance",2
+"78","Mrs Henrietta Simmons",14,"First Appearance",2
+"79","Mrs Jarley",93,"First Appearance",15
+"80","Mrs Jarley",254,"Last Appearance",15
+"81","Mrs Jiniwin",13,"First Appearance",10
+"82","Mrs Jiniwin",253,"Last Appearance",10
+"83","Mrs Nubbles",35,"First Appearance",10
+"84","Mrs Nubbles",211,"Last Appearance",10
+"85","Mrs Wackles",28,"First Appearance",3
+"86","Mrs Wackles",30,"Last Appearance",3
+"87","Nell Trent",255,"Last Appearance",97
+"88","Nell Trent",3,"First Appearance",97
+"89","Nell's Grandfather",2,"First Appearance",64
+"90","Nell's Grandfather",241,"Last Appearance",64
+"91","Richard Evans",182,"First Appearance",1
+"92","Richard Evans",182,"Last Appearance",1
+"93","Sally Brass",114,"First Appearance",49
+"94","Sally Brass",254,"Last Appearance",49
+"95","Sampson Brass",252,"Last Appearance",66
+"96","Sampson Brass",38,"First Appearance",66
+"97","Sophia Wackles",26,"First Appearance",10
+"98","Sophia Wackles",200,"Last Appearance",10
+"99","Sophronia Sphynx",198,"First Appearance",14
+"100","Sophronia Sphynx",254,"Last Appearance",14
+"101","Sweet William",66,"First Appearance",1
+"102","Sweet William",66,"Last Appearance",1
+"103","The Bachelor",253,"Last Appearance",12
+"104","The Bachelor",24,"First Appearance",12
+"105","The Clergyman",56,"First Appearance",6
+"106","The Clergyman",253,"Last Appearance",6
+"107","Thomas Codlin",56,"First Appearance",23
+"108","Thomas Codlin",254,"Last Appearance",23
+"109","Tom Scott",63,"First Appearance",10
+"110","Tom Scott",253,"Last Appearance",10
+"111","Whisker",50,"First Appearance",7
+"112","Whisker",237,"Last Appearance",7

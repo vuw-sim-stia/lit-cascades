@@ -1,0 +1,65 @@
+"Character","Node"
+"Admiral Crawford",14
+"Baddeley",3
+"Betsey Price",10
+"Captain Walsh",1
+"Charles",2
+"Charles Anderson",1
+"Charles Maddox",3
+"Charlie Price",3
+"Colonel Harrison",1
+"Dr Grant",30
+"Edmund Bertram",129
+"Ellis",1
+"Fanny Price",164
+"Henry Crawford",122
+"John Groom",1
+"Johnny Price",1
+"Julia Bertram",66
+"Lady Bertram",6
+"Lady Flora Stornaway",5
+"Lady Prescott",1
+"Lady Ravenshaw",2
+"Lord Ravenshaw",2
+"Lord Stornaway",1
+"Maddison",1
+"Margaret Fraser",4
+"Maria Bertram",79
+"Mary Crawford",110
+"Mary Price",1
+"Miss Anderson",2
+"Miss Augusta Sneyd",1
+"Miss Lee",6
+"Mr Campbell",2
+"Mr Fraser",4
+"Mr Green",1
+"Mr Harding",1
+"Mr Price",10
+"Mr Rushworth",61
+"Mrs Brown",1
+"Mrs Chapman",1
+"Mrs Crawford",3
+"Mrs Holford",1
+"Mrs Janet Fraser",7
+"Mrs Jefferies",1
+"Mrs Norris",20
+"Mrs Rushworth",1
+"Mrs Sneyd",1
+"Mrs. Admiral Maxwell",1
+"Mrs. Frances Price",15
+"Nanny",3
+"Old Scholey",1
+"Rebecca",11
+"Richard Price",1
+"Robert",1
+"Sam Price",4
+"Sir Charles",1
+"Sir Thomas Bertram",100
+"Smith",2
+"Sneyd",1
+"Susan PriceMP",21
+"The Aylmers",1
+"Tom Bertram",46
+"Tom Oliver",1
+"Turner",1
+"William Price",49

@@ -1,0 +1,49 @@
+"Character","Node"
+"Annamaria Middleton",3
+"Anne Steele",25
+"Betty",4
+"Biddy Henshawe",1
+"Cartwright",1
+"ColonelBrandon",58
+"Edward Ferrars",64
+"Elinor Dashwood",32
+"ElizaBrandon",6
+"ElizaWilliams",4
+"Harry Dashwood",3
+"John Willoughby",61
+"Lady Mary Middleton",2
+"Lord Morton",2
+"LordCourtland",1
+"Lucy Steele",46
+"Marianne Dashwood",119
+"Martha Sharpe",1
+"Miss Godby",1
+"Miss Morton",11
+"Miss Sophia Grey",5
+"Miss Sparks",1
+"Miss Walker",1
+"Mr Jennings",1
+"Mr John Dashwood",9
+"Mr Pratt",7
+"Mr Richardson",2
+"Mr Simpson",1
+"Mr Thomas Palmer",17
+"Mr. Rose",1
+"Mrs Charlotte Palmer",28
+"Mrs Dashwood",57
+"Mrs Dennison",1
+"Mrs Fanny Dashwood",17
+"Mrs Ferrars",28
+"Mrs Jennings",74
+"Mrs Richardson",2
+"Mrs Taylor",2
+"MrsBurgess",1
+"MrsClarke",1
+"Robert Ferrars",2
+"Sally",1
+"Sir John Middleton",54
+"The Miss Careys",4
+"The Westons",1
+"The Whitakers",1
+"TheOldGentlemanDashwood",1
+"Thomas",3

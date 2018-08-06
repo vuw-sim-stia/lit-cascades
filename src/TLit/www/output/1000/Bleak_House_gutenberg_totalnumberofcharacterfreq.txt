@@ -1,0 +1,95 @@
+"Character","Node"
+"Ada Clare",126
+"Alfred Pardiggle",2
+"Allan Woodcourt",45
+"Arethusa Skimpole",4
+"Bartholomew Smallweed",9
+"Bob Stables",5
+"Captain Hawden",10
+"Captain Swosser",4
+"Caroline Caddy",37
+"Charley",43
+"Coavinses",11
+"Conversation Kenge",26
+"Darby",2
+"Egbert Pardiggle",3
+"Emma Neckett",8
+"Esther Summerson",86
+"Francis Pardiggle",2
+"George Rouncewell",46
+"Grandfather Smallweed",30
+"Guster",16
+"Inspector Bucket",51
+"James George Bogsby",2
+"Jenny",12
+"Jo",34
+"Jobling",24
+"John Jarndyce",102
+"Judy Smallweed",19
+"Kitty Skimpole",4
+"Krook",30
+"Lady Dedlock",77
+"Laura Skimpole",4
+"Lawrence Boythorn",25
+"Little Swills",7
+"Liz",5
+"Lord Boodle",4
+"Mademoiselle Hortense",13
+"Malta Bagnet",10
+"Matthew Bagnet",20
+"Mercury",20
+"Miss Barbary",4
+"Miss Donny",1
+"Miss Flite",29
+"Miss Wisk",2
+"Mooney",1
+"Mr Badger",9
+"Mr Gridley",21
+"Mr Grubble",1
+"Mr Gusher",2
+"Mr Jellyby",18
+"Mr Pardiggle",2
+"Mr Quale",7
+"Mr Rouncewell",12
+"Mr Skimpole",39
+"Mr Snagsby",39
+"Mr Tangle",1
+"Mr Tulkinghorn",71
+"Mr Turveydrop",18
+"Mrs Badger",5
+"Mrs Bagnet",19
+"Mrs Blinder",7
+"Mrs Bucket",5
+"Mrs Chadband",14
+"Mrs Guppy",4
+"Mrs Jellyby",26
+"Mrs Pardiggle",9
+"Mrs Perkins",7
+"Mrs Piper",7
+"Mrs Rouncewell",24
+"Mrs Skimpole",4
+"Mrs Smallweed",10
+"Mrs Snagsby",28
+"Mrs Woodcourt",10
+"Oswald Pardiggle",3
+"Peepy Jellby",20
+"Peffer",1
+"Phil Squod",17
+"Polly",2
+"Prince Turvey",16
+"Priscilla",2
+"Professor Dingo",4
+"Quebec Bagnet",10
+"Reverend Chadband",10
+"Richard Carstone",102
+"Rosa",14
+"Sir Dedlock",83
+"Sladdery",2
+"Thomas",1
+"Tom Neckett",8
+"Vholes",25
+"Volumnia Dedlock",20
+"Watt Rouncewell",6
+"William Buffy",7
+"William Guppy",50
+"Woolwich Bagnet",9

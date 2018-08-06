@@ -1,0 +1,97 @@
+"","Character","Node","Type","Appearances"
+"1","Annamaria Middleton",21,"First Appearance",2
+"2","Annamaria Middleton",23,"Last Appearance",2
+"3","Anne Steele",47,"Last Appearance",12
+"4","Anne Steele",21,"First Appearance",12
+"5","Betty",40,"Last Appearance",4
+"6","Betty",25,"First Appearance",4
+"7","Biddy Henshawe",30,"Last Appearance",1
+"8","Biddy Henshawe",30,"First Appearance",1
+"9","Cartwright",26,"First Appearance",1
+"10","Cartwright",26,"Last Appearance",1
+"11","ColonelBrandon",50,"Last Appearance",30
+"12","ColonelBrandon",7,"First Appearance",30
+"13","Edward Ferrars",50,"Last Appearance",32
+"14","Edward Ferrars",3,"First Appearance",32
+"15","Elinor Dashwood",40,"Last Appearance",24
+"16","Elinor Dashwood",1,"First Appearance",24
+"17","ElizaBrandon",31,"First Appearance",4
+"18","ElizaBrandon",47,"Last Appearance",4
+"19","ElizaWilliams",32,"Last Appearance",4
+"20","ElizaWilliams",13,"First Appearance",4
+"21","Harry Dashwood",34,"Last Appearance",3
+"22","Harry Dashwood",2,"First Appearance",3
+"23","John Willoughby",50,"Last Appearance",28
+"24","John Willoughby",9,"First Appearance",28
+"25","Lady Mary Middleton",41,"Last Appearance",2
+"26","Lady Mary Middleton",27,"First Appearance",2
+"27","Lord Morton",33,"First Appearance",2
+"28","Lord Morton",34,"Last Appearance",2
+"29","LordCourtland",36,"Last Appearance",1
+"30","LordCourtland",36,"First Appearance",1
+"31","Lucy Steele",50,"Last Appearance",19
+"32","Lucy Steele",21,"First Appearance",19
+"33","Marianne Dashwood",50,"Last Appearance",50
+"34","Marianne Dashwood",1,"First Appearance",50
+"35","Martha Sharpe",38,"First Appearance",1
+"36","Martha Sharpe",38,"Last Appearance",1
+"37","Miss Godby",38,"Last Appearance",1
+"38","Miss Godby",38,"First Appearance",1
+"39","Miss Morton",50,"Last Appearance",7
+"40","Miss Morton",33,"First Appearance",7
+"41","Miss Sophia Grey",44,"Last Appearance",3
+"42","Miss Sophia Grey",30,"First Appearance",3
+"43","Miss Sparks",38,"First Appearance",1
+"44","Miss Sparks",38,"Last Appearance",1
+"45","Miss Walker",30,"Last Appearance",1
+"46","Miss Walker",30,"First Appearance",1
+"47","Mr Jennings",11,"Last Appearance",1
+"48","Mr Jennings",11,"First Appearance",1
+"49","Mr John Dashwood",49,"Last Appearance",6
+"50","Mr John Dashwood",2,"First Appearance",6
+"51","Mr Pratt",49,"Last Appearance",7
+"52","Mr Pratt",22,"First Appearance",7
+"53","Mr Richardson",38,"First Appearance",1
+"54","Mr Richardson",38,"Last Appearance",1
+"55","Mr Simpson",21,"Last Appearance",1
+"56","Mr Simpson",21,"First Appearance",1
+"57","Mr Thomas Palmer",46,"Last Appearance",13
+"58","Mr Thomas Palmer",19,"First Appearance",13
+"59","Mr. Rose",21,"Last Appearance",1
+"60","Mr. Rose",21,"First Appearance",1
+"61","Mrs Charlotte Palmer",19,"First Appearance",18
+"62","Mrs Charlotte Palmer",46,"Last Appearance",18
+"63","Mrs Dashwood",50,"Last Appearance",36
+"64","Mrs Dashwood",1,"First Appearance",36
+"65","Mrs Dennison",36,"Last Appearance",1
+"66","Mrs Dennison",36,"First Appearance",1
+"67","Mrs Fanny Dashwood",50,"Last Appearance",12
+"68","Mrs Fanny Dashwood",1,"First Appearance",12
+"69","Mrs Ferrars",4,"First Appearance",16
+"70","Mrs Ferrars",50,"Last Appearance",16
+"71","Mrs Jennings",50,"Last Appearance",38
+"72","Mrs Jennings",7,"First Appearance",38
+"73","Mrs Richardson",38,"Last Appearance",1
+"74","Mrs Richardson",38,"First Appearance",1
+"75","Mrs Taylor",30,"Last Appearance",1
+"76","Mrs Taylor",30,"First Appearance",1
+"77","MrsBurgess",49,"Last Appearance",1
+"78","MrsBurgess",49,"First Appearance",1
+"79","MrsClarke",38,"First Appearance",1
+"80","MrsClarke",38,"Last Appearance",1
+"81","Robert Ferrars",37,"Last Appearance",2
+"82","Robert Ferrars",3,"First Appearance",2
+"83","Sally",47,"Last Appearance",1
+"84","Sally",47,"First Appearance",1
+"85","Sir John Middleton",50,"Last Appearance",33
+"86","Sir John Middleton",4,"First Appearance",33
+"87","The Miss Careys",13,"First Appearance",3
+"88","The Miss Careys",45,"Last Appearance",3
+"89","The Westons",20,"Last Appearance",1
+"90","The Westons",20,"First Appearance",1
+"91","The Whitakers",18,"Last Appearance",1
+"92","The Whitakers",18,"First Appearance",1
+"93","TheOldGentlemanDashwood",1,"Last Appearance",1
+"94","TheOldGentlemanDashwood",1,"First Appearance",1
+"95","Thomas",47,"First Appearance",2
+"96","Thomas",49,"Last Appearance",2

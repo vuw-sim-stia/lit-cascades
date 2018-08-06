@@ -1,0 +1,26 @@
+"Character","Node"
+"Adam Smith Gradgrind",1
+"Bitzer",9
+"Bounderby",31
+"E.W.B. Childers",3
+"Emma Gordon",2
+"Harthouse",11
+"Jane Gradgrind",3
+"Kidderminster",2
+"Lady Scadgers",4
+"Louisa Gradgrind",27
+"M’Choakumchild",6
+"Malthus Gradgrind",1
+"Mr Sleary",5
+"Mrs Blackpool",4
+"Mrs Gradgrind",8
+"Mrs Pegler",10
+"Mrs Sparsit",15
+"Nickits",2
+"Rachael",10
+"Signor Jupe",2
+"Sissy Jupe",19
+"Slackbridge",3
+"Stephen Blackpool",13
+"Thomas Gradgrind",26
+"Tom Gradgrind",22

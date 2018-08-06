@@ -1,0 +1,71 @@
+"Character","Node"
+"Anonymous Woman",6
+"Anthony Chuzzlewit",29
+"Augustus Moddle",23
+"Bullamy",3
+"Captain Kedgick",4
+"Charity Pecksniff",44
+"Chevy Slyme",14
+"Chiggle",2
+"Chuffey",37
+"Cicero",1
+"Colonel Diver",6
+"Colonel Groper",1
+"David Crimple",9
+"Doctor Dunkle",3
+"Doctor Jobling",14
+"General Choke",4
+"General Fladdock",2
+"George Chuzzlewit",5
+"Jack Coach",1
+"Jane",3
+"Jeff Brick",9
+"Jodd",1
+"John Westlock",66
+"Jonas Chuzzlewit",94
+"Julius Bib",1
+"La Fayette Kettle",4
+"Lewsome",11
+"Major Chollop",4
+"Major Pawkins",3
+"Mark Tapley",91
+"Martin Jr",146
+"Martin Sr",66
+"Mary",5
+"Mercy Pecksniff",62
+"Miss Codger",1
+"Miss Toppit",1
+"Misses Mould",1
+"Mr Bevan",11
+"Mr Fips",9
+"Mr Gander",4
+"Mr Izzard",1
+"Mr Jinkins",20
+"Mr Mould",11
+"Mr Norris",4
+"Mr Pip",2
+"Mr/Mrs Spottletoe",9
+"Mrs Gamp",49
+"Mrs Gill",1
+"Mrs Hominy",5
+"Mrs Lupin",30
+"Mrs Mould",5
+"Mrs Ned Chuzzlewit",8
+"Mrs Norris",1
+"Mrs Pawkins",4
+"Mrs Prig",16
+"Mrs Todgers",40
+"Nadgett",19
+"Oscar Buffum",2
+"Pogram",6
+"Professor Mullit",1
+"Professor Piper",1
+"Ruth Pinch",15
+"Seth Pecksniff",151
+"Sophia",1
+"Tacker",4
+"Tigg Montague",48
+"Tom Pinch",68
+"William Simmons",1
+"Young Bailey",30
+"Zephaniah Scadder",8

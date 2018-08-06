@@ -1,0 +1,393 @@
+"id1" "id2" "label"
+"1" "Annamaria Middleton" "Anne Steele" 2
+"2" "Annamaria Middleton" "Edward Ferrars" 1
+"3" "Annamaria Middleton" "Elinor Dashwood" 2
+"4" "Annamaria Middleton" "Lucy Steele" 3
+"5" "Annamaria Middleton" "Marianne Dashwood" 3
+"6" "Annamaria Middleton" "Sir John Middleton" 2
+"7" "Anne Steele" "Betty" 1
+"8" "Anne Steele" "ColonelBrandon" 6
+"9" "Anne Steele" "Edward Ferrars" 17
+"10" "Anne Steele" "Elinor Dashwood" 11
+"11" "Anne Steele" "ElizaBrandon" 1
+"12" "Anne Steele" "Harry Dashwood" 1
+"13" "Anne Steele" "John Willoughby" 4
+"14" "Anne Steele" "LordCourtland" 1
+"15" "Anne Steele" "Lucy Steele" 24
+"16" "Anne Steele" "Marianne Dashwood" 20
+"17" "Anne Steele" "Martha Sharpe" 1
+"18" "Anne Steele" "Miss Godby" 1
+"19" "Anne Steele" "Miss Morton" 4
+"20" "Anne Steele" "Miss Sophia Grey" 1
+"21" "Anne Steele" "Miss Sparks" 1
+"22" "Anne Steele" "Mr John Dashwood" 3
+"23" "Anne Steele" "Mr Pratt" 5
+"24" "Anne Steele" "Mr Richardson" 2
+"25" "Anne Steele" "Mr Simpson" 1
+"26" "Anne Steele" "Mr Thomas Palmer" 4
+"27" "Anne Steele" "Mr. Rose" 1
+"28" "Anne Steele" "Mrs Charlotte Palmer" 4
+"29" "Anne Steele" "Mrs Dashwood" 5
+"30" "Anne Steele" "Mrs Dennison" 1
+"31" "Anne Steele" "Mrs Fanny Dashwood" 5
+"32" "Anne Steele" "Mrs Ferrars" 7
+"33" "Anne Steele" "Mrs Jennings" 13
+"34" "Anne Steele" "Mrs Richardson" 2
+"35" "Anne Steele" "MrsClarke" 1
+"36" "Anne Steele" "Sally" 1
+"37" "Anne Steele" "Sir John Middleton" 11
+"38" "Anne Steele" "Thomas" 1
+"39" "Betty" "ColonelBrandon" 1
+"40" "Betty" "Edward Ferrars" 3
+"41" "Betty" "Elinor Dashwood" 3
+"42" "Betty" "John Willoughby" 2
+"43" "Betty" "Lucy Steele" 3
+"44" "Betty" "Marianne Dashwood" 4
+"45" "Betty" "Mr Pratt" 1
+"46" "Betty" "Mr Richardson" 1
+"47" "Betty" "Mr Thomas Palmer" 1
+"48" "Betty" "Mrs Charlotte Palmer" 2
+"49" "Betty" "Mrs Dashwood" 1
+"50" "Betty" "Mrs Ferrars" 1
+"51" "Betty" "Mrs Jennings" 4
+"52" "Betty" "Mrs Richardson" 1
+"53" "Betty" "Sir John Middleton" 2
+"54" "Biddy Henshawe" "Marianne Dashwood" 1
+"55" "Biddy Henshawe" "Miss Sophia Grey" 1
+"56" "Biddy Henshawe" "Mrs Jennings" 1
+"57" "Biddy Henshawe" "Mrs Taylor" 1
+"58" "Cartwright" "ColonelBrandon" 1
+"59" "Cartwright" "John Willoughby" 1
+"60" "Cartwright" "Marianne Dashwood" 1
+"61" "Cartwright" "Mr Thomas Palmer" 1
+"62" "Cartwright" "Mrs Charlotte Palmer" 1
+"63" "Cartwright" "Mrs Jennings" 1
+"64" "ColonelBrandon" "Edward Ferrars" 23
+"65" "ColonelBrandon" "Elinor Dashwood" 12
+"66" "ColonelBrandon" "ElizaBrandon" 4
+"67" "ColonelBrandon" "ElizaWilliams" 4
+"68" "ColonelBrandon" "Harry Dashwood" 1
+"69" "ColonelBrandon" "John Willoughby" 29
+"70" "ColonelBrandon" "Lady Mary Middleton" 2
+"71" "ColonelBrandon" "Lord Morton" 2
+"72" "ColonelBrandon" "LordCourtland" 1
+"73" "ColonelBrandon" "Lucy Steele" 15
+"74" "ColonelBrandon" "Marianne Dashwood" 52
+"75" "ColonelBrandon" "Miss Morton" 7
+"76" "ColonelBrandon" "Miss Sophia Grey" 3
+"77" "ColonelBrandon" "Miss Walker" 1
+"78" "ColonelBrandon" "Mr Jennings" 1
+"79" "ColonelBrandon" "Mr John Dashwood" 4
+"80" "ColonelBrandon" "Mr Pratt" 2
+"81" "ColonelBrandon" "Mr Thomas Palmer" 10
+"82" "ColonelBrandon" "Mrs Charlotte Palmer" 17
+"83" "ColonelBrandon" "Mrs Dashwood" 24
+"84" "ColonelBrandon" "Mrs Dennison" 1
+"85" "ColonelBrandon" "Mrs Fanny Dashwood" 5
+"86" "ColonelBrandon" "Mrs Ferrars" 14
+"87" "ColonelBrandon" "Mrs Jennings" 40
+"88" "ColonelBrandon" "Mrs Taylor" 1
+"89" "ColonelBrandon" "MrsBurgess" 1
+"90" "ColonelBrandon" "Sally" 1
+"91" "ColonelBrandon" "Sir John Middleton" 25
+"92" "ColonelBrandon" "The Miss Careys" 3
+"93" "ColonelBrandon" "The Westons" 1
+"94" "ColonelBrandon" "Thomas" 2
+"95" "Edward Ferrars" "Elinor Dashwood" 14
+"96" "Edward Ferrars" "ElizaBrandon" 1
+"97" "Edward Ferrars" "ElizaWilliams" 1
+"98" "Edward Ferrars" "Harry Dashwood" 1
+"99" "Edward Ferrars" "John Willoughby" 12
+"100" "Edward Ferrars" "Lady Mary Middleton" 1
+"101" "Edward Ferrars" "Lord Morton" 1
+"102" "Edward Ferrars" "LordCourtland" 1
+"103" "Edward Ferrars" "Lucy Steele" 33
+"104" "Edward Ferrars" "Marianne Dashwood" 52
+"105" "Edward Ferrars" "Martha Sharpe" 1
+"106" "Edward Ferrars" "Miss Godby" 1
+"107" "Edward Ferrars" "Miss Morton" 9
+"108" "Edward Ferrars" "Miss Sparks" 1
+"109" "Edward Ferrars" "Mr John Dashwood" 6
+"110" "Edward Ferrars" "Mr Pratt" 7
+"111" "Edward Ferrars" "Mr Richardson" 2
+"112" "Edward Ferrars" "Mr Simpson" 1
+"113" "Edward Ferrars" "Mr Thomas Palmer" 4
+"114" "Edward Ferrars" "Mr. Rose" 1
+"115" "Edward Ferrars" "Mrs Charlotte Palmer" 6
+"116" "Edward Ferrars" "Mrs Dashwood" 28
+"117" "Edward Ferrars" "Mrs Dennison" 1
+"118" "Edward Ferrars" "Mrs Fanny Dashwood" 11
+"119" "Edward Ferrars" "Mrs Ferrars" 22
+"120" "Edward Ferrars" "Mrs Jennings" 32
+"121" "Edward Ferrars" "Mrs Richardson" 2
+"122" "Edward Ferrars" "MrsBurgess" 1
+"123" "Edward Ferrars" "MrsClarke" 1
+"124" "Edward Ferrars" "Robert Ferrars" 2
+"125" "Edward Ferrars" "Sally" 1
+"126" "Edward Ferrars" "Sir John Middleton" 19
+"127" "Edward Ferrars" "The Miss Careys" 2
+"128" "Edward Ferrars" "The Whitakers" 1
+"129" "Edward Ferrars" "Thomas" 2
+"130" "Elinor Dashwood" "ElizaWilliams" 3
+"131" "Elinor Dashwood" "Harry Dashwood" 1
+"132" "Elinor Dashwood" "John Willoughby" 12
+"133" "Elinor Dashwood" "Lord Morton" 1
+"134" "Elinor Dashwood" "Lucy Steele" 14
+"135" "Elinor Dashwood" "Marianne Dashwood" 29
+"136" "Elinor Dashwood" "Martha Sharpe" 1
+"137" "Elinor Dashwood" "Miss Godby" 1
+"138" "Elinor Dashwood" "Miss Morton" 4
+"139" "Elinor Dashwood" "Miss Sophia Grey" 1
+"140" "Elinor Dashwood" "Miss Sparks" 1
+"141" "Elinor Dashwood" "Mr Pratt" 2
+"142" "Elinor Dashwood" "Mr Richardson" 2
+"143" "Elinor Dashwood" "Mr Simpson" 1
+"144" "Elinor Dashwood" "Mr Thomas Palmer" 4
+"145" "Elinor Dashwood" "Mr. Rose" 1
+"146" "Elinor Dashwood" "Mrs Charlotte Palmer" 7
+"147" "Elinor Dashwood" "Mrs Dashwood" 13
+"148" "Elinor Dashwood" "Mrs Fanny Dashwood" 4
+"149" "Elinor Dashwood" "Mrs Ferrars" 7
+"150" "Elinor Dashwood" "Mrs Jennings" 17
+"151" "Elinor Dashwood" "Mrs Richardson" 2
+"152" "Elinor Dashwood" "MrsClarke" 1
+"153" "Elinor Dashwood" "Robert Ferrars" 1
+"154" "Elinor Dashwood" "Sir John Middleton" 15
+"155" "Elinor Dashwood" "The Miss Careys" 2
+"156" "Elinor Dashwood" "The Whitakers" 1
+"157" "ElizaBrandon" "John Willoughby" 6
+"158" "ElizaBrandon" "Lucy Steele" 1
+"159" "ElizaBrandon" "Marianne Dashwood" 5
+"160" "ElizaBrandon" "Mr Pratt" 1
+"161" "ElizaBrandon" "Mrs Charlotte Palmer" 1
+"162" "ElizaBrandon" "Mrs Dashwood" 3
+"163" "ElizaBrandon" "Mrs Jennings" 1
+"164" "ElizaBrandon" "Sally" 1
+"165" "ElizaBrandon" "Thomas" 1
+"166" "ElizaWilliams" "John Willoughby" 4
+"167" "ElizaWilliams" "Marianne Dashwood" 4
+"168" "ElizaWilliams" "Mrs Charlotte Palmer" 1
+"169" "ElizaWilliams" "Mrs Dashwood" 2
+"170" "ElizaWilliams" "Mrs Jennings" 4
+"171" "ElizaWilliams" "Sir John Middleton" 3
+"172" "ElizaWilliams" "The Miss Careys" 1
+"173" "Harry Dashwood" "Lucy Steele" 1
+"174" "Harry Dashwood" "Marianne Dashwood" 3
+"175" "Harry Dashwood" "Miss Morton" 1
+"176" "Harry Dashwood" "Mr John Dashwood" 1
+"177" "Harry Dashwood" "Mrs Dashwood" 2
+"178" "Harry Dashwood" "Mrs Fanny Dashwood" 2
+"179" "Harry Dashwood" "Mrs Ferrars" 2
+"180" "Harry Dashwood" "Mrs Jennings" 1
+"181" "Harry Dashwood" "Sir John Middleton" 1
+"182" "John Willoughby" "Lady Mary Middleton" 1
+"183" "John Willoughby" "Lucy Steele" 6
+"184" "John Willoughby" "Marianne Dashwood" 56
+"185" "John Willoughby" "Miss Sophia Grey" 4
+"186" "John Willoughby" "Miss Walker" 1
+"187" "John Willoughby" "Mr Jennings" 1
+"188" "John Willoughby" "Mr John Dashwood" 1
+"189" "John Willoughby" "Mr Pratt" 1
+"190" "John Willoughby" "Mr Thomas Palmer" 8
+"191" "John Willoughby" "Mrs Charlotte Palmer" 17
+"192" "John Willoughby" "Mrs Dashwood" 23
+"193" "John Willoughby" "Mrs Fanny Dashwood" 1
+"194" "John Willoughby" "Mrs Ferrars" 3
+"195" "John Willoughby" "Mrs Jennings" 37
+"196" "John Willoughby" "Mrs Taylor" 1
+"197" "John Willoughby" "Sally" 1
+"198" "John Willoughby" "Sir John Middleton" 30
+"199" "John Willoughby" "The Miss Careys" 4
+"200" "John Willoughby" "The Westons" 1
+"201" "John Willoughby" "The Whitakers" 1
+"202" "John Willoughby" "Thomas" 1
+"203" "Lady Mary Middleton" "Marianne Dashwood" 1
+"204" "Lady Mary Middleton" "Miss Morton" 1
+"205" "Lady Mary Middleton" "Mr John Dashwood" 1
+"206" "Lady Mary Middleton" "Mrs Ferrars" 1
+"207" "Lady Mary Middleton" "Mrs Jennings" 1
+"208" "Lady Mary Middleton" "Sir John Middleton" 1
+"209" "Lord Morton" "Lucy Steele" 1
+"210" "Lord Morton" "Marianne Dashwood" 1
+"211" "Lord Morton" "Miss Morton" 2
+"212" "Lord Morton" "Mrs Ferrars" 2
+"213" "Lord Morton" "Mrs Jennings" 1
+"214" "Lord Morton" "Sir John Middleton" 2
+"215" "LordCourtland" "Lucy Steele" 1
+"216" "LordCourtland" "Marianne Dashwood" 1
+"217" "LordCourtland" "Mr John Dashwood" 1
+"218" "LordCourtland" "Mrs Dashwood" 1
+"219" "LordCourtland" "Mrs Dennison" 1
+"220" "LordCourtland" "Mrs Fanny Dashwood" 1
+"221" "LordCourtland" "Mrs Jennings" 1
+"222" "Lucy Steele" "Marianne Dashwood" 37
+"223" "Lucy Steele" "Martha Sharpe" 1
+"224" "Lucy Steele" "Miss Godby" 1
+"225" "Lucy Steele" "Miss Morton" 7
+"226" "Lucy Steele" "Miss Sophia Grey" 1
+"227" "Lucy Steele" "Miss Sparks" 1
+"228" "Lucy Steele" "Mr John Dashwood" 5
+"229" "Lucy Steele" "Mr Pratt" 7
+"230" "Lucy Steele" "Mr Richardson" 2
+"231" "Lucy Steele" "Mr Simpson" 1
+"232" "Lucy Steele" "Mr Thomas Palmer" 6
+"233" "Lucy Steele" "Mr. Rose" 1
+"234" "Lucy Steele" "Mrs Charlotte Palmer" 8
+"235" "Lucy Steele" "Mrs Dashwood" 15
+"236" "Lucy Steele" "Mrs Dennison" 1
+"237" "Lucy Steele" "Mrs Fanny Dashwood" 7
+"238" "Lucy Steele" "Mrs Ferrars" 16
+"239" "Lucy Steele" "Mrs Jennings" 24
+"240" "Lucy Steele" "Mrs Richardson" 2
+"241" "Lucy Steele" "MrsBurgess" 1
+"242" "Lucy Steele" "MrsClarke" 1
+"243" "Lucy Steele" "Sally" 1
+"244" "Lucy Steele" "Sir John Middleton" 13
+"245" "Lucy Steele" "Thomas" 2
+"246" "Marianne Dashwood" "Miss Godby" 1
+"247" "Marianne Dashwood" "Miss Morton" 7
+"248" "Marianne Dashwood" "Miss Sophia Grey" 5
+"249" "Marianne Dashwood" "Miss Sparks" 1
+"250" "Marianne Dashwood" "Miss Walker" 1
+"251" "Marianne Dashwood" "Mr Jennings" 1
+"252" "Marianne Dashwood" "Mr John Dashwood" 7
+"253" "Marianne Dashwood" "Mr Pratt" 6
+"254" "Marianne Dashwood" "Mr Richardson" 1
+"255" "Marianne Dashwood" "Mr Simpson" 1
+"256" "Marianne Dashwood" "Mr Thomas Palmer" 16
+"257" "Marianne Dashwood" "Mr. Rose" 1
+"258" "Marianne Dashwood" "Mrs Charlotte Palmer" 26
+"259" "Marianne Dashwood" "Mrs Dashwood" 49
+"260" "Marianne Dashwood" "Mrs Dennison" 1
+"261" "Marianne Dashwood" "Mrs Fanny Dashwood" 12
+"262" "Marianne Dashwood" "Mrs Ferrars" 20
+"263" "Marianne Dashwood" "Mrs Jennings" 69
+"264" "Marianne Dashwood" "Mrs Richardson" 1
+"265" "Marianne Dashwood" "Mrs Taylor" 2
+"266" "Marianne Dashwood" "MrsBurgess" 1
+"267" "Marianne Dashwood" "MrsClarke" 1
+"268" "Marianne Dashwood" "Robert Ferrars" 1
+"269" "Marianne Dashwood" "Sally" 1
+"270" "Marianne Dashwood" "Sir John Middleton" 48
+"271" "Marianne Dashwood" "The Miss Careys" 4
+"272" "Marianne Dashwood" "The Westons" 1
+"273" "Marianne Dashwood" "The Whitakers" 1
+"274" "Marianne Dashwood" "Thomas" 2
+"275" "Martha Sharpe" "Miss Morton" 1
+"276" "Martha Sharpe" "Mr Richardson" 1
+"277" "Martha Sharpe" "Mrs Richardson" 1
+"278" "Miss Godby" "Miss Morton" 1
+"279" "Miss Godby" "Miss Sparks" 1
+"280" "Miss Godby" "Mrs Jennings" 1
+"281" "Miss Godby" "MrsClarke" 1
+"282" "Miss Morton" "Miss Sparks" 1
+"283" "Miss Morton" "Mr John Dashwood" 2
+"284" "Miss Morton" "Mr Richardson" 1
+"285" "Miss Morton" "Mrs Dashwood" 2
+"286" "Miss Morton" "Mrs Fanny Dashwood" 2
+"287" "Miss Morton" "Mrs Ferrars" 9
+"288" "Miss Morton" "Mrs Jennings" 6
+"289" "Miss Morton" "Mrs Richardson" 1
+"290" "Miss Morton" "MrsClarke" 1
+"291" "Miss Morton" "Robert Ferrars" 1
+"292" "Miss Morton" "Sir John Middleton" 3
+"293" "Miss Morton" "Thomas" 1
+"294" "Miss Sophia Grey" "Miss Walker" 1
+"295" "Miss Sophia Grey" "Mrs Charlotte Palmer" 2
+"296" "Miss Sophia Grey" "Mrs Ferrars" 1
+"297" "Miss Sophia Grey" "Mrs Jennings" 5
+"298" "Miss Sophia Grey" "Mrs Taylor" 2
+"299" "Miss Sophia Grey" "Sir John Middleton" 2
+"300" "Miss Sparks" "Mrs Jennings" 1
+"301" "Miss Sparks" "MrsClarke" 1
+"302" "Miss Walker" "Mrs Charlotte Palmer" 1
+"303" "Miss Walker" "Mrs Jennings" 1
+"304" "Miss Walker" "Mrs Taylor" 1
+"305" "Miss Walker" "Sir John Middleton" 1
+"306" "Mr Jennings" "Mrs Dashwood" 1
+"307" "Mr Jennings" "Mrs Jennings" 1
+"308" "Mr Jennings" "Sir John Middleton" 1
+"309" "Mr John Dashwood" "Mr Pratt" 1
+"310" "Mr John Dashwood" "Mr Thomas Palmer" 1
+"311" "Mr John Dashwood" "Mrs Charlotte Palmer" 1
+"312" "Mr John Dashwood" "Mrs Dashwood" 4
+"313" "Mr John Dashwood" "Mrs Dennison" 1
+"314" "Mr John Dashwood" "Mrs Fanny Dashwood" 4
+"315" "Mr John Dashwood" "Mrs Ferrars" 5
+"316" "Mr John Dashwood" "Mrs Jennings" 6
+"317" "Mr John Dashwood" "MrsBurgess" 1
+"318" "Mr John Dashwood" "Sir John Middleton" 3
+"319" "Mr Pratt" "Mr Richardson" 1
+"320" "Mr Pratt" "Mr Thomas Palmer" 1
+"321" "Mr Pratt" "Mrs Dashwood" 3
+"322" "Mr Pratt" "Mrs Fanny Dashwood" 1
+"323" "Mr Pratt" "Mrs Ferrars" 2
+"324" "Mr Pratt" "Mrs Jennings" 2
+"325" "Mr Pratt" "Mrs Richardson" 1
+"326" "Mr Pratt" "Sally" 1
+"327" "Mr Pratt" "Sir John Middleton" 1
+"328" "Mr Pratt" "Thomas" 1
+"329" "Mr Richardson" "Mr Thomas Palmer" 1
+"330" "Mr Richardson" "Mrs Jennings" 1
+"331" "Mr Richardson" "Mrs Richardson" 2
+"332" "Mr Richardson" "Sir John Middleton" 1
+"333" "Mr Simpson" "Mr. Rose" 1
+"334" "Mr Simpson" "Mrs Jennings" 1
+"335" "Mr Simpson" "Sir John Middleton" 1
+"336" "Mr Thomas Palmer" "Mrs Charlotte Palmer" 15
+"337" "Mr Thomas Palmer" "Mrs Dashwood" 6
+"338" "Mr Thomas Palmer" "Mrs Fanny Dashwood" 1
+"339" "Mr Thomas Palmer" "Mrs Ferrars" 1
+"340" "Mr Thomas Palmer" "Mrs Jennings" 14
+"341" "Mr Thomas Palmer" "Mrs Richardson" 1
+"342" "Mr Thomas Palmer" "Sir John Middleton" 10
+"343" "Mr Thomas Palmer" "The Westons" 1
+"344" "Mr. Rose" "Mrs Jennings" 1
+"345" "Mr. Rose" "Sir John Middleton" 1
+"346" "Mrs Charlotte Palmer" "Mrs Dashwood" 10
+"347" "Mrs Charlotte Palmer" "Mrs Fanny Dashwood" 1
+"348" "Mrs Charlotte Palmer" "Mrs Ferrars" 3
+"349" "Mrs Charlotte Palmer" "Mrs Jennings" 26
+"350" "Mrs Charlotte Palmer" "Mrs Taylor" 1
+"351" "Mrs Charlotte Palmer" "Sir John Middleton" 14
+"352" "Mrs Charlotte Palmer" "The Westons" 1
+"353" "Mrs Dashwood" "Mrs Dennison" 1
+"354" "Mrs Dashwood" "Mrs Fanny Dashwood" 11
+"355" "Mrs Dashwood" "Mrs Ferrars" 13
+"356" "Mrs Dashwood" "Mrs Jennings" 28
+"357" "Mrs Dashwood" "MrsBurgess" 1
+"358" "Mrs Dashwood" "Robert Ferrars" 1
+"359" "Mrs Dashwood" "Sally" 1
+"360" "Mrs Dashwood" "Sir John Middleton" 26
+"361" "Mrs Dashwood" "The Miss Careys" 2
+"362" "Mrs Dashwood" "The Westons" 1
+"363" "Mrs Dashwood" "The Whitakers" 1
+"364" "Mrs Dashwood" "TheOldGentlemanDashwood" 1
+"365" "Mrs Dashwood" "Thomas" 3
+"366" "Mrs Dennison" "Mrs Fanny Dashwood" 1
+"367" "Mrs Dennison" "Mrs Jennings" 1
+"368" "Mrs Fanny Dashwood" "Mrs Ferrars" 6
+"369" "Mrs Fanny Dashwood" "Mrs Jennings" 6
+"370" "Mrs Fanny Dashwood" "Robert Ferrars" 1
+"371" "Mrs Fanny Dashwood" "Sir John Middleton" 5
+"372" "Mrs Fanny Dashwood" "TheOldGentlemanDashwood" 1
+"373" "Mrs Ferrars" "Mrs Jennings" 16
+"374" "Mrs Ferrars" "MrsBurgess" 1
+"375" "Mrs Ferrars" "Robert Ferrars" 1
+"376" "Mrs Ferrars" "Sir John Middleton" 6
+"377" "Mrs Ferrars" "Thomas" 2
+"378" "Mrs Jennings" "Mrs Richardson" 1
+"379" "Mrs Jennings" "Mrs Taylor" 2
+"380" "Mrs Jennings" "MrsBurgess" 1
+"381" "Mrs Jennings" "MrsClarke" 1
+"382" "Mrs Jennings" "Robert Ferrars" 1
+"383" "Mrs Jennings" "Sir John Middleton" 36
+"384" "Mrs Jennings" "The Miss Careys" 3
+"385" "Mrs Jennings" "The Whitakers" 1
+"386" "Mrs Richardson" "Sir John Middleton" 1
+"387" "Mrs Taylor" "Sir John Middleton" 1
+"388" "Sally" "Thomas" 1
+"389" "Sir John Middleton" "The Miss Careys" 3
+"390" "Sir John Middleton" "The Westons" 1
+"391" "Sir John Middleton" "The Whitakers" 1
+"392" "The Miss Careys" "The Whitakers" 1

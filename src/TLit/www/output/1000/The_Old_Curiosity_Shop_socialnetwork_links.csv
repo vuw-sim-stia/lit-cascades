@@ -1,0 +1,439 @@
+"id1" "id2" "label"
+"1" "Abel Garland" "Barbara" 10
+"2" "Abel Garland" "Daniel Quilp" 6
+"3" "Abel Garland" "Dick Swiveller" 13
+"4" "Abel Garland" "Jacob Nubbles" 12
+"5" "Abel Garland" "Kit Nubbles" 28
+"6" "Abel Garland" "Little Nell" 8
+"7" "Abel Garland" "Mr Cheggs" 1
+"8" "Abel Garland" "Mr Chuckster" 14
+"9" "Abel Garland" "Mr Garland" 23
+"10" "Abel Garland" "Mr Tomkinley" 1
+"11" "Abel Garland" "Mr Witherden" 8
+"12" "Abel Garland" "Mrs Betsy Quilp" 1
+"13" "Abel Garland" "Mrs Garland" 10
+"14" "Abel Garland" "Mrs Jiniwin" 1
+"15" "Abel Garland" "Mrs Nubbles" 3
+"16" "Abel Garland" "Nell Trent" 8
+"17" "Abel Garland" "Nell's Grandfather" 1
+"18" "Abel Garland" "Sally Brass" 8
+"19" "Abel Garland" "Sampson Brass" 8
+"20" "Abel Garland" "Sophronia Sphynx" 6
+"21" "Abel Garland" "The Bachelor" 2
+"22" "Abel Garland" "The Clergyman" 2
+"23" "Abel Garland" "Thomas Codlin" 1
+"24" "Abel Garland" "Tom Scott" 1
+"25" "Abel Garland" "Whisker" 6
+"26" "Barbara" "Dick Swiveller" 3
+"27" "Barbara" "Jacob Nubbles" 13
+"28" "Barbara" "Kit Nubbles" 17
+"29" "Barbara" "Little Nell" 6
+"30" "Barbara" "Mr Chuckster" 2
+"31" "Barbara" "Mr Garland" 12
+"32" "Barbara" "Mrs Garland" 7
+"33" "Barbara" "Mrs Nubbles" 2
+"34" "Barbara" "Nell Trent" 6
+"35" "Barbara" "Sally Brass" 1
+"36" "Barbara" "Sampson Brass" 2
+"37" "Barbara" "Sophronia Sphynx" 1
+"38" "Barbara" "Whisker" 3
+"39" "Becky Morgan" "David" 2
+"40" "Becky Morgan" "Little Nell" 1
+"41" "Becky Morgan" "Nell Trent" 1
+"42" "Becky Morgan" "Nell's Grandfather" 1
+"43" "Dame West" "Harry" 1
+"44" "Dame West" "Little Nell" 1
+"45" "Dame West" "Nell Trent" 1
+"46" "Daniel Quilp" "Dick Swiveller" 29
+"47" "Daniel Quilp" "Foxey" 1
+"48" "Daniel Quilp" "Frederick Trent" 8
+"49" "Daniel Quilp" "George" 1
+"50" "Daniel Quilp" "Isaac List" 1
+"51" "Daniel Quilp" "Jacob Nubbles" 5
+"52" "Daniel Quilp" "James Groves" 2
+"53" "Daniel Quilp" "Joe Jowl" 1
+"54" "Daniel Quilp" "Kit Nubbles" 29
+"55" "Daniel Quilp" "Little Nell" 24
+"56" "Daniel Quilp" "Miss Monflathers" 1
+"57" "Daniel Quilp" "Mr Cheggs" 4
+"58" "Daniel Quilp" "Mr Chuckster" 5
+"59" "Daniel Quilp" "Mr Garland" 8
+"60" "Daniel Quilp" "Mr Slum" 1
+"61" "Daniel Quilp" "Mr Witherden" 5
+"62" "Daniel Quilp" "Mrs Betsy Quilp" 26
+"63" "Daniel Quilp" "Mrs Garland" 2
+"64" "Daniel Quilp" "Mrs George" 1
+"65" "Daniel Quilp" "Mrs Henrietta Simmons" 2
+"66" "Daniel Quilp" "Mrs Jarley" 5
+"67" "Daniel Quilp" "Mrs Jiniwin" 9
+"68" "Daniel Quilp" "Mrs Nubbles" 3
+"69" "Daniel Quilp" "Nell Trent" 24
+"70" "Daniel Quilp" "Nell's Grandfather" 11
+"71" "Daniel Quilp" "Sally Brass" 20
+"72" "Daniel Quilp" "Sampson Brass" 37
+"73" "Daniel Quilp" "Sophia Wackles" 4
+"74" "Daniel Quilp" "Sophronia Sphynx" 5
+"75" "Daniel Quilp" "The Bachelor" 2
+"76" "Daniel Quilp" "Thomas Codlin" 8
+"77" "Daniel Quilp" "Tom Scott" 7
+"78" "Daniel Quilp" "Whisker" 1
+"79" "David" "Little Nell" 1
+"80" "David" "Nell Trent" 1
+"81" "David" "Nell's Grandfather" 1
+"82" "Dick Swiveller" "Foxey" 1
+"83" "Dick Swiveller" "Frederick Trent" 12
+"84" "Dick Swiveller" "Isaac List" 1
+"85" "Dick Swiveller" "Jacob Nubbles" 7
+"86" "Dick Swiveller" "James Groves" 1
+"87" "Dick Swiveller" "Jane Wackles" 3
+"88" "Dick Swiveller" "Jerry" 1
+"89" "Dick Swiveller" "Joe Jowl" 1
+"90" "Dick Swiveller" "Kit Nubbles" 27
+"91" "Dick Swiveller" "Little Nell" 12
+"92" "Dick Swiveller" "Melissa Wackles" 1
+"93" "Dick Swiveller" "Miss Cheggs" 3
+"94" "Dick Swiveller" "Mr Cheggs" 8
+"95" "Dick Swiveller" "Mr Chuckster" 8
+"96" "Dick Swiveller" "Mr Garland" 12
+"97" "Dick Swiveller" "Mr Harris" 2
+"98" "Dick Swiveller" "Mr Witherden" 6
+"99" "Dick Swiveller" "Mrs Betsy Quilp" 10
+"100" "Dick Swiveller" "Mrs Garland" 3
+"101" "Dick Swiveller" "Mrs Jarley" 1
+"102" "Dick Swiveller" "Mrs Jiniwin" 3
+"103" "Dick Swiveller" "Mrs Nubbles" 1
+"104" "Dick Swiveller" "Mrs Wackles" 3
+"105" "Dick Swiveller" "Nell Trent" 12
+"106" "Dick Swiveller" "Nell's Grandfather" 7
+"107" "Dick Swiveller" "Sally Brass" 33
+"108" "Dick Swiveller" "Sampson Brass" 40
+"109" "Dick Swiveller" "Sophia Wackles" 10
+"110" "Dick Swiveller" "Sophronia Sphynx" 13
+"111" "Dick Swiveller" "The Bachelor" 3
+"112" "Dick Swiveller" "The Clergyman" 1
+"113" "Dick Swiveller" "Thomas Codlin" 6
+"114" "Dick Swiveller" "Tom Scott" 4
+"115" "Dick Swiveller" "Whisker" 2
+"116" "Foxey" "Sally Brass" 1
+"117" "Foxey" "Sampson Brass" 2
+"118" "Frederick Trent" "Isaac List" 1
+"119" "Frederick Trent" "James Groves" 1
+"120" "Frederick Trent" "Jane Wackles" 1
+"121" "Frederick Trent" "Joe Jowl" 1
+"122" "Frederick Trent" "Kit Nubbles" 2
+"123" "Frederick Trent" "Little Nell" 6
+"124" "Frederick Trent" "Miss Cheggs" 1
+"125" "Frederick Trent" "Mr Cheggs" 1
+"126" "Frederick Trent" "Mr Chuckster" 1
+"127" "Frederick Trent" "Mr Garland" 1
+"128" "Frederick Trent" "Mrs Betsy Quilp" 5
+"129" "Frederick Trent" "Mrs Jarley" 1
+"130" "Frederick Trent" "Mrs Jiniwin" 2
+"131" "Frederick Trent" "Mrs Wackles" 1
+"132" "Frederick Trent" "Nell Trent" 6
+"133" "Frederick Trent" "Nell's Grandfather" 3
+"134" "Frederick Trent" "Sally Brass" 1
+"135" "Frederick Trent" "Sampson Brass" 1
+"136" "Frederick Trent" "Sophia Wackles" 5
+"137" "Frederick Trent" "Sophronia Sphynx" 1
+"138" "Frederick Trent" "The Bachelor" 1
+"139" "Frederick Trent" "Thomas Codlin" 1
+"140" "George" "Kit Nubbles" 1
+"141" "George" "Little Nell" 4
+"142" "George" "Mr Slum" 3
+"143" "George" "Mrs Jarley" 3
+"144" "George" "Nell Trent" 4
+"145" "George" "Nell's Grandfather" 3
+"146" "Harry" "Little Nell" 1
+"147" "Harry" "Nell Trent" 1
+"148" "Isaac List" "James Groves" 5
+"149" "Isaac List" "Joe Jowl" 3
+"150" "Isaac List" "Kit Nubbles" 2
+"151" "Isaac List" "Little Nell" 5
+"152" "Isaac List" "Mr Chuckster" 1
+"153" "Isaac List" "Mr Garland" 1
+"154" "Isaac List" "Mrs Jarley" 2
+"155" "Isaac List" "Nell Trent" 5
+"156" "Isaac List" "Nell's Grandfather" 5
+"157" "Isaac List" "Sally Brass" 1
+"158" "Isaac List" "Sophronia Sphynx" 1
+"159" "Isaac List" "Thomas Codlin" 1
+"160" "Jacob Nubbles" "Kit Nubbles" 23
+"161" "Jacob Nubbles" "Little Nell" 7
+"162" "Jacob Nubbles" "Mr Cheggs" 2
+"163" "Jacob Nubbles" "Mr Chuckster" 3
+"164" "Jacob Nubbles" "Mr Garland" 13
+"165" "Jacob Nubbles" "Mrs Garland" 9
+"166" "Jacob Nubbles" "Mrs Nubbles" 7
+"167" "Jacob Nubbles" "Nell Trent" 7
+"168" "Jacob Nubbles" "Sally Brass" 2
+"169" "Jacob Nubbles" "Sampson Brass" 3
+"170" "Jacob Nubbles" "Sophia Wackles" 1
+"171" "Jacob Nubbles" "Sophronia Sphynx" 1
+"172" "Jacob Nubbles" "Whisker" 1
+"173" "James Groves" "Joe Jowl" 1
+"174" "James Groves" "Kit Nubbles" 1
+"175" "James Groves" "Little Nell" 4
+"176" "James Groves" "Mr Chuckster" 1
+"177" "James Groves" "Mr Garland" 1
+"178" "James Groves" "Mrs Jarley" 2
+"179" "James Groves" "Nell Trent" 4
+"180" "James Groves" "Nell's Grandfather" 4
+"181" "James Groves" "Sally Brass" 2
+"182" "James Groves" "Sampson Brass" 1
+"183" "James Groves" "Sophronia Sphynx" 1
+"184" "James Groves" "Thomas Codlin" 1
+"185" "Jane Wackles" "Melissa Wackles" 1
+"186" "Jane Wackles" "Miss Cheggs" 3
+"187" "Jane Wackles" "Mr Cheggs" 3
+"188" "Jane Wackles" "Mrs Wackles" 3
+"189" "Jane Wackles" "Sophia Wackles" 3
+"190" "Jerry" "Little Nell" 2
+"191" "Jerry" "Maunders" 1
+"192" "Jerry" "Mr Harris" 4
+"193" "Jerry" "Mr Vuffin" 1
+"194" "Jerry" "Nell Trent" 2
+"195" "Jerry" "Nell's Grandfather" 1
+"196" "Jerry" "Sally Brass" 1
+"197" "Jerry" "Sweet William" 1
+"198" "Jerry" "Thomas Codlin" 4
+"199" "Joe Jowl" "Kit Nubbles" 1
+"200" "Joe Jowl" "Mr Chuckster" 1
+"201" "Joe Jowl" "Mr Garland" 1
+"202" "Joe Jowl" "Mrs Jarley" 1
+"203" "Joe Jowl" "Sally Brass" 1
+"204" "Joe Jowl" "Sophronia Sphynx" 1
+"205" "Joe Jowl" "Thomas Codlin" 1
+"206" "John Owen" "Mr Marton" 1
+"207" "John Owen" "Richard Evans" 1
+"208" "John Owen" "The Bachelor" 1
+"209" "Kit Nubbles" "Little Nell" 28
+"210" "Kit Nubbles" "Miss Monflathers" 1
+"211" "Kit Nubbles" "Mr Cheggs" 2
+"212" "Kit Nubbles" "Mr Chuckster" 14
+"213" "Kit Nubbles" "Mr Garland" 27
+"214" "Kit Nubbles" "Mr Slum" 1
+"215" "Kit Nubbles" "Mr Witherden" 11
+"216" "Kit Nubbles" "Mrs Betsy Quilp" 7
+"217" "Kit Nubbles" "Mrs Garland" 11
+"218" "Kit Nubbles" "Mrs Jarley" 3
+"219" "Kit Nubbles" "Mrs Jiniwin" 1
+"220" "Kit Nubbles" "Mrs Nubbles" 10
+"221" "Kit Nubbles" "Nell Trent" 28
+"222" "Kit Nubbles" "Nell's Grandfather" 9
+"223" "Kit Nubbles" "Sally Brass" 19
+"224" "Kit Nubbles" "Sampson Brass" 28
+"225" "Kit Nubbles" "Sophia Wackles" 1
+"226" "Kit Nubbles" "Sophronia Sphynx" 5
+"227" "Kit Nubbles" "The Bachelor" 1
+"228" "Kit Nubbles" "The Clergyman" 1
+"229" "Kit Nubbles" "Thomas Codlin" 3
+"230" "Kit Nubbles" "Tom Scott" 2
+"231" "Kit Nubbles" "Whisker" 6
+"232" "Little Nell" "Maunders" 1
+"233" "Little Nell" "Miss Edwards" 3
+"234" "Little Nell" "Miss Monflathers" 5
+"235" "Little Nell" "Mr Cheggs" 2
+"236" "Little Nell" "Mr Chuckster" 4
+"237" "Little Nell" "Mr Garland" 6
+"238" "Little Nell" "Mr Grinder" 1
+"239" "Little Nell" "Mr Harris" 5
+"240" "Little Nell" "Mr Marton" 1
+"241" "Little Nell" "Mr Slum" 4
+"242" "Little Nell" "Mr Vuffin" 1
+"243" "Little Nell" "Mr Witherden" 3
+"244" "Little Nell" "Mrs Betsy Quilp" 11
+"245" "Little Nell" "Mrs Garland" 4
+"246" "Little Nell" "Mrs Jarley" 12
+"247" "Little Nell" "Mrs Jiniwin" 1
+"248" "Little Nell" "Mrs Nubbles" 4
+"249" "Little Nell" "Nell Trent" 97
+"250" "Little Nell" "Nell's Grandfather" 49
+"251" "Little Nell" "Sampson Brass" 7
+"252" "Little Nell" "Sophia Wackles" 1
+"253" "Little Nell" "Sweet William" 1
+"254" "Little Nell" "The Bachelor" 4
+"255" "Little Nell" "The Clergyman" 5
+"256" "Little Nell" "Thomas Codlin" 7
+"257" "Little Nell" "Whisker" 1
+"258" "Maunders" "Mr Harris" 1
+"259" "Maunders" "Mr Vuffin" 1
+"260" "Maunders" "Nell Trent" 1
+"261" "Maunders" "Nell's Grandfather" 1
+"262" "Maunders" "Sweet William" 1
+"263" "Maunders" "Thomas Codlin" 1
+"264" "Melissa Wackles" "Miss Cheggs" 1
+"265" "Melissa Wackles" "Mr Cheggs" 1
+"266" "Melissa Wackles" "Mrs Wackles" 1
+"267" "Melissa Wackles" "Sophia Wackles" 1
+"268" "Miss Cheggs" "Mr Cheggs" 3
+"269" "Miss Cheggs" "Mrs Wackles" 3
+"270" "Miss Cheggs" "Sophia Wackles" 3
+"271" "Miss Edwards" "Miss Monflathers" 3
+"272" "Miss Edwards" "Mrs Jarley" 1
+"273" "Miss Edwards" "Nell Trent" 3
+"274" "Miss Edwards" "Nell's Grandfather" 1
+"275" "Miss Monflathers" "Mrs Jarley" 3
+"276" "Miss Monflathers" "Nell Trent" 5
+"277" "Miss Monflathers" "Nell's Grandfather" 3
+"278" "Mr Cheggs" "Mr Garland" 1
+"279" "Mr Cheggs" "Mrs Betsy Quilp" 2
+"280" "Mr Cheggs" "Mrs Garland" 1
+"281" "Mr Cheggs" "Mrs Wackles" 3
+"282" "Mr Cheggs" "Nell Trent" 2
+"283" "Mr Cheggs" "Nell's Grandfather" 1
+"284" "Mr Cheggs" "Sally Brass" 2
+"285" "Mr Cheggs" "Sampson Brass" 1
+"286" "Mr Cheggs" "Sophia Wackles" 6
+"287" "Mr Cheggs" "Sophronia Sphynx" 1
+"288" "Mr Cheggs" "Thomas Codlin" 1
+"289" "Mr Cheggs" "Tom Scott" 1
+"290" "Mr Chuckster" "Mr Garland" 11
+"291" "Mr Chuckster" "Mr Tomkinley" 1
+"292" "Mr Chuckster" "Mr Witherden" 8
+"293" "Mr Chuckster" "Mrs Garland" 2
+"294" "Mr Chuckster" "Mrs Jarley" 1
+"295" "Mr Chuckster" "Nell Trent" 4
+"296" "Mr Chuckster" "Nell's Grandfather" 1
+"297" "Mr Chuckster" "Sally Brass" 7
+"298" "Mr Chuckster" "Sampson Brass" 8
+"299" "Mr Chuckster" "Sophronia Sphynx" 3
+"300" "Mr Chuckster" "The Bachelor" 1
+"301" "Mr Chuckster" "Thomas Codlin" 1
+"302" "Mr Chuckster" "Whisker" 3
+"303" "Mr Garland" "Mr Tomkinley" 1
+"304" "Mr Garland" "Mr Witherden" 5
+"305" "Mr Garland" "Mrs Betsy Quilp" 1
+"306" "Mr Garland" "Mrs Garland" 10
+"307" "Mr Garland" "Mrs Jarley" 1
+"308" "Mr Garland" "Mrs Jiniwin" 1
+"309" "Mr Garland" "Mrs Nubbles" 1
+"310" "Mr Garland" "Nell Trent" 6
+"311" "Mr Garland" "Nell's Grandfather" 1
+"312" "Mr Garland" "Sally Brass" 9
+"313" "Mr Garland" "Sampson Brass" 9
+"314" "Mr Garland" "Sophronia Sphynx" 4
+"315" "Mr Garland" "The Bachelor" 3
+"316" "Mr Garland" "The Clergyman" 2
+"317" "Mr Garland" "Thomas Codlin" 2
+"318" "Mr Garland" "Tom Scott" 1
+"319" "Mr Garland" "Whisker" 5
+"320" "Mr Grinder" "Mr Harris" 1
+"321" "Mr Grinder" "Nell Trent" 1
+"322" "Mr Grinder" "Thomas Codlin" 1
+"323" "Mr Harris" "Mr Vuffin" 1
+"324" "Mr Harris" "Nell Trent" 5
+"325" "Mr Harris" "Nell's Grandfather" 5
+"326" "Mr Harris" "Sally Brass" 2
+"327" "Mr Harris" "Sweet William" 1
+"328" "Mr Harris" "Thomas Codlin" 12
+"329" "Mr Harris" "Tom Scott" 2
+"330" "Mr Marton" "Nell Trent" 1
+"331" "Mr Marton" "Nell's Grandfather" 1
+"332" "Mr Marton" "Richard Evans" 1
+"333" "Mr Marton" "The Bachelor" 2
+"334" "Mr Marton" "The Clergyman" 1
+"335" "Mr Slum" "Mrs Jarley" 4
+"336" "Mr Slum" "Nell Trent" 4
+"337" "Mr Slum" "Nell's Grandfather" 2
+"338" "Mr Tomkinley" "Mr Witherden" 1
+"339" "Mr Tomkinley" "The Bachelor" 1
+"340" "Mr Tomkinley" "Whisker" 1
+"341" "Mr Vuffin" "Nell Trent" 1
+"342" "Mr Vuffin" "Nell's Grandfather" 1
+"343" "Mr Vuffin" "Sweet William" 1
+"344" "Mr Vuffin" "Thomas Codlin" 1
+"345" "Mr Witherden" "Mrs Garland" 2
+"346" "Mr Witherden" "Nell Trent" 3
+"347" "Mr Witherden" "Nell's Grandfather" 1
+"348" "Mr Witherden" "Sally Brass" 6
+"349" "Mr Witherden" "Sampson Brass" 10
+"350" "Mr Witherden" "Sophronia Sphynx" 1
+"351" "Mr Witherden" "The Bachelor" 1
+"352" "Mr Witherden" "Whisker" 3
+"353" "Mrs Betsy Quilp" "Mrs Garland" 1
+"354" "Mrs Betsy Quilp" "Mrs George" 1
+"355" "Mrs Betsy Quilp" "Mrs Henrietta Simmons" 2
+"356" "Mrs Betsy Quilp" "Mrs Jiniwin" 10
+"357" "Mrs Betsy Quilp" "Mrs Nubbles" 1
+"358" "Mrs Betsy Quilp" "Nell Trent" 11
+"359" "Mrs Betsy Quilp" "Nell's Grandfather" 5
+"360" "Mrs Betsy Quilp" "Sally Brass" 1
+"361" "Mrs Betsy Quilp" "Sampson Brass" 8
+"362" "Mrs Betsy Quilp" "Sophia Wackles" 2
+"363" "Mrs Betsy Quilp" "Sophronia Sphynx" 1
+"364" "Mrs Betsy Quilp" "The Bachelor" 2
+"365" "Mrs Betsy Quilp" "The Clergyman" 1
+"366" "Mrs Betsy Quilp" "Thomas Codlin" 5
+"367" "Mrs Betsy Quilp" "Tom Scott" 5
+"368" "Mrs Garland" "Mrs Jiniwin" 1
+"369" "Mrs Garland" "Mrs Nubbles" 1
+"370" "Mrs Garland" "Nell Trent" 4
+"371" "Mrs Garland" "Nell's Grandfather" 1
+"372" "Mrs Garland" "Sampson Brass" 1
+"373" "Mrs Garland" "Sophronia Sphynx" 2
+"374" "Mrs Garland" "The Bachelor" 1
+"375" "Mrs Garland" "The Clergyman" 1
+"376" "Mrs Garland" "Thomas Codlin" 1
+"377" "Mrs Garland" "Tom Scott" 1
+"378" "Mrs Garland" "Whisker" 1
+"379" "Mrs George" "Mrs Henrietta Simmons" 1
+"380" "Mrs George" "Mrs Jiniwin" 1
+"381" "Mrs Henrietta Simmons" "Mrs Jiniwin" 2
+"382" "Mrs Jarley" "Nell Trent" 12
+"383" "Mrs Jarley" "Nell's Grandfather" 10
+"384" "Mrs Jarley" "Sally Brass" 1
+"385" "Mrs Jarley" "Sophronia Sphynx" 1
+"386" "Mrs Jarley" "Thomas Codlin" 1
+"387" "Mrs Jiniwin" "Nell Trent" 1
+"388" "Mrs Jiniwin" "Nell's Grandfather" 1
+"389" "Mrs Jiniwin" "Sampson Brass" 2
+"390" "Mrs Jiniwin" "Sophronia Sphynx" 1
+"391" "Mrs Jiniwin" "The Bachelor" 2
+"392" "Mrs Jiniwin" "The Clergyman" 1
+"393" "Mrs Jiniwin" "Thomas Codlin" 2
+"394" "Mrs Jiniwin" "Tom Scott" 2
+"395" "Mrs Nubbles" "Nell Trent" 4
+"396" "Mrs Wackles" "Sophia Wackles" 3
+"397" "Nell Trent" "Nell's Grandfather" 49
+"398" "Nell Trent" "Sampson Brass" 7
+"399" "Nell Trent" "Sophia Wackles" 1
+"400" "Nell Trent" "Sweet William" 1
+"401" "Nell Trent" "The Bachelor" 4
+"402" "Nell Trent" "The Clergyman" 5
+"403" "Nell Trent" "Thomas Codlin" 7
+"404" "Nell Trent" "Whisker" 1
+"405" "Nell's Grandfather" "Sampson Brass" 2
+"406" "Nell's Grandfather" "Sweet William" 1
+"407" "Nell's Grandfather" "The Bachelor" 3
+"408" "Nell's Grandfather" "The Clergyman" 3
+"409" "Nell's Grandfather" "Thomas Codlin" 6
+"410" "Richard Evans" "The Bachelor" 1
+"411" "Sally Brass" "Sampson Brass" 41
+"412" "Sally Brass" "Sophia Wackles" 2
+"413" "Sally Brass" "Sophronia Sphynx" 9
+"414" "Sally Brass" "The Bachelor" 1
+"415" "Sally Brass" "Thomas Codlin" 7
+"416" "Sally Brass" "Tom Scott" 5
+"417" "Sampson Brass" "Sophia Wackles" 1
+"418" "Sampson Brass" "Sophronia Sphynx" 7
+"419" "Sampson Brass" "The Bachelor" 1
+"420" "Sampson Brass" "Thomas Codlin" 5
+"421" "Sampson Brass" "Tom Scott" 5
+"422" "Sampson Brass" "Whisker" 1
+"423" "Sophia Wackles" "Sophronia Sphynx" 1
+"424" "Sophia Wackles" "Thomas Codlin" 1
+"425" "Sophia Wackles" "Tom Scott" 1
+"426" "Sophronia Sphynx" "The Bachelor" 1
+"427" "Sophronia Sphynx" "The Clergyman" 1
+"428" "Sophronia Sphynx" "Thomas Codlin" 2
+"429" "Sophronia Sphynx" "Tom Scott" 1
+"430" "Sophronia Sphynx" "Whisker" 1
+"431" "Sweet William" "Thomas Codlin" 1
+"432" "The Bachelor" "The Clergyman" 2
+"433" "The Bachelor" "Thomas Codlin" 3
+"434" "The Bachelor" "Tom Scott" 3
+"435" "The Bachelor" "Whisker" 1
+"436" "The Clergyman" "Thomas Codlin" 2
+"437" "The Clergyman" "Tom Scott" 1
+"438" "Thomas Codlin" "Tom Scott" 10

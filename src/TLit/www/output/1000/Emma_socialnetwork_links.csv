@@ -1,0 +1,836 @@
+"id1" "id2" "label"
+"1" "ColonelCampbell" "DrHughes" 1
+"2" "ColonelCampbell" "ElizabethMartin" 1
+"3" "ColonelCampbell" "EmmaWoodhouse" 25
+"4" "ColonelCampbell" "FrankChurchill" 15
+"5" "ColonelCampbell" "Harriet Smith" 8
+"6" "ColonelCampbell" "JohnKnightley" 3
+"7" "ColonelCampbell" "JohnSaunders" 1
+"8" "ColonelCampbell" "LiutenantFairfax" 1
+"9" "ColonelCampbell" "Miss Martin" 1
+"10" "ColonelCampbell" "MissBates" 17
+"11" "ColonelCampbell" "MissCaroline Otway" 1
+"12" "ColonelCampbell" "MissJaneFairfax" 26
+"13" "ColonelCampbell" "MissOtway" 1
+"14" "ColonelCampbell" "Mr. Wingfield" 1
+"15" "ColonelCampbell" "MrBragge" 1
+"16" "ColonelCampbell" "MrCole" 3
+"17" "ColonelCampbell" "MrGeorgeKnightley" 9
+"18" "ColonelCampbell" "MrGeorgeOtway" 1
+"19" "ColonelCampbell" "MrGraham" 1
+"20" "ColonelCampbell" "MrOtway" 1
+"21" "ColonelCampbell" "MrPerry" 4
+"22" "ColonelCampbell" "MrPhillipElton" 7
+"23" "ColonelCampbell" "MrsBates" 11
+"24" "ColonelCampbell" "MrsBragge" 2
+"25" "ColonelCampbell" "MrsCampbell" 19
+"26" "ColonelCampbell" "MrsChurchill" 2
+"27" "ColonelCampbell" "MrsCole" 6
+"28" "ColonelCampbell" "MrsElton" 8
+"29" "ColonelCampbell" "MrsFordEM" 1
+"30" "ColonelCampbell" "MrsGoddard" 1
+"31" "ColonelCampbell" "MrsHughes" 1
+"32" "ColonelCampbell" "MrsIsabellaKnightley" 3
+"33" "ColonelCampbell" "MrsMartin" 1
+"34" "ColonelCampbell" "MrsPartridge" 1
+"35" "ColonelCampbell" "MrsPerry" 2
+"36" "ColonelCampbell" "MrsSmallridge" 1
+"37" "ColonelCampbell" "MrsStokes" 1
+"38" "ColonelCampbell" "MrsSuckling" 1
+"39" "ColonelCampbell" "MrSuckling" 3
+"40" "ColonelCampbell" "MrsWeston" 13
+"41" "ColonelCampbell" "MrWeston" 6
+"42" "ColonelCampbell" "OldJohnAbdy" 1
+"43" "ColonelCampbell" "OldMrChurchill" 3
+"44" "ColonelCampbell" "Patty" 3
+"45" "ColonelCampbell" "RobertMartin" 1
+"46" "DrHughes" "EmmaWoodhouse" 1
+"47" "DrHughes" "FrankChurchill" 1
+"48" "DrHughes" "MissBates" 1
+"49" "DrHughes" "MissCaroline Otway" 1
+"50" "DrHughes" "MissJaneFairfax" 1
+"51" "DrHughes" "MissOtway" 1
+"52" "DrHughes" "MrGeorgeOtway" 1
+"53" "DrHughes" "MrOtway" 1
+"54" "DrHughes" "MrsElton" 1
+"55" "DrHughes" "MrsHughes" 1
+"56" "DrHughes" "MrsStokes" 1
+"57" "DrHughes" "MrsWeston" 1
+"58" "DrHughes" "MrWeston" 1
+"59" "ElizabethMartin" "EmmaWoodhouse" 8
+"60" "ElizabethMartin" "FrankChurchill" 3
+"61" "ElizabethMartin" "Harriet Smith" 8
+"62" "ElizabethMartin" "JohnKnightley" 2
+"63" "ElizabethMartin" "Miss Martin" 7
+"64" "ElizabethMartin" "MissBates" 2
+"65" "ElizabethMartin" "MissJaneFairfax" 3
+"66" "ElizabethMartin" "MissNash" 1
+"67" "ElizabethMartin" "MrCole" 2
+"68" "ElizabethMartin" "MrGeorgeKnightley" 3
+"69" "ElizabethMartin" "MrPhillipElton" 6
+"70" "ElizabethMartin" "MrsBates" 2
+"71" "ElizabethMartin" "MrsCampbell" 1
+"72" "ElizabethMartin" "MrsCole" 1
+"73" "ElizabethMartin" "MrsElton" 2
+"74" "ElizabethMartin" "MrsGoddard" 6
+"75" "ElizabethMartin" "MrsIsabellaKnightley" 1
+"76" "ElizabethMartin" "MrsMartin" 7
+"77" "ElizabethMartin" "MrsWeston" 3
+"78" "ElizabethMartin" "MrWeston" 1
+"79" "ElizabethMartin" "OldMrChurchill" 1
+"80" "ElizabethMartin" "RobertMartin" 7
+"81" "ElizabethMartin" "WilliamCox" 1
+"82" "EmmaWoodhouse" "FarmerMitchell" 1
+"83" "EmmaWoodhouse" "FrankChurchill" 84
+"84" "EmmaWoodhouse" "Hannah" 1
+"85" "EmmaWoodhouse" "Harriet Smith" 102
+"86" "EmmaWoodhouse" "Harry" 1
+"87" "EmmaWoodhouse" "HenryKnightley" 10
+"88" "EmmaWoodhouse" "JohnKnightley" 32
+"89" "EmmaWoodhouse" "JohnSaunders" 1
+"90" "EmmaWoodhouse" "LitteIsabellaKnightley" 2
+"91" "EmmaWoodhouse" "LittleEmmaKnightley" 1
+"92" "EmmaWoodhouse" "LittleGeorgeKnightley" 1
+"93" "EmmaWoodhouse" "LittleJohnKnightley" 5
+"94" "EmmaWoodhouse" "Miss Martin" 7
+"95" "EmmaWoodhouse" "MissBates" 55
+"96" "EmmaWoodhouse" "MissBickerton" 2
+"97" "EmmaWoodhouse" "MissCaroline Otway" 1
+"98" "EmmaWoodhouse" "MissGilbert" 1
+"99" "EmmaWoodhouse" "MissJaneFairfax" 85
+"100" "EmmaWoodhouse" "MissNash" 7
+"101" "EmmaWoodhouse" "MissOtway" 2
+"102" "EmmaWoodhouse" "MissPrince" 1
+"103" "EmmaWoodhouse" "MissRichardson" 1
+"104" "EmmaWoodhouse" "Mr. Wingfield" 4
+"105" "EmmaWoodhouse" "MrBragge" 1
+"106" "EmmaWoodhouse" "MrCole" 18
+"107" "EmmaWoodhouse" "MrCoxe" 2
+"108" "EmmaWoodhouse" "MrGeorgeKnightley" 98
+"109" "EmmaWoodhouse" "MrGeorgeOtway" 2
+"110" "EmmaWoodhouse" "MrGraham" 1
+"111" "EmmaWoodhouse" "MrOtway" 1
+"112" "EmmaWoodhouse" "MrPerry" 23
+"113" "EmmaWoodhouse" "MrPhillipElton" 70
+"114" "EmmaWoodhouse" "MrsBates" 33
+"115" "EmmaWoodhouse" "MrsBird" 1
+"116" "EmmaWoodhouse" "MrsBragge" 4
+"117" "EmmaWoodhouse" "MrsBrown" 1
+"118" "EmmaWoodhouse" "MrsCampbell" 19
+"119" "EmmaWoodhouse" "MrsChurchill" 20
+"120" "EmmaWoodhouse" "MrsCole" 16
+"121" "EmmaWoodhouse" "MrsElton" 41
+"122" "EmmaWoodhouse" "MrsFordEM" 1
+"123" "EmmaWoodhouse" "MrsGilbert" 2
+"124" "EmmaWoodhouse" "MrsGoddard" 30
+"125" "EmmaWoodhouse" "MrsHodges" 5
+"126" "EmmaWoodhouse" "MrsHughes" 1
+"127" "EmmaWoodhouse" "MrsIsabellaKnightley" 31
+"128" "EmmaWoodhouse" "MrsJamesCooper" 1
+"129" "EmmaWoodhouse" "MrsMartin" 8
+"130" "EmmaWoodhouse" "MrsPartridge" 2
+"131" "EmmaWoodhouse" "MrsPerry" 8
+"132" "EmmaWoodhouse" "MrsSmallridge" 3
+"133" "EmmaWoodhouse" "MrsStokes" 3
+"134" "EmmaWoodhouse" "MrsSuckling" 3
+"135" "EmmaWoodhouse" "MrSuckling" 8
+"136" "EmmaWoodhouse" "MrsWeston" 88
+"137" "EmmaWoodhouse" "MrWeston" 70
+"138" "EmmaWoodhouse" "MrWoodhouse" 14
+"139" "EmmaWoodhouse" "OldJohnAbdy" 1
+"140" "EmmaWoodhouse" "OldMrChurchill" 12
+"141" "EmmaWoodhouse" "Patty" 7
+"142" "EmmaWoodhouse" "RobertMartin" 25
+"143" "EmmaWoodhouse" "Serle" 3
+"144" "EmmaWoodhouse" "WilliamCox" 3
+"145" "EmmaWoodhouse" "WilliamLarkins" 7
+"146" "FarmerMitchell" "MrGeorgeKnightley" 1
+"147" "FarmerMitchell" "MrsWeston" 1
+"148" "FarmerMitchell" "MrWeston" 1
+"149" "FarmerMitchell" "MrWoodhouse" 1
+"150" "FrankChurchill" "Harriet Smith" 45
+"151" "FrankChurchill" "HenryKnightley" 3
+"152" "FrankChurchill" "JohnKnightley" 9
+"153" "FrankChurchill" "JohnSaunders" 1
+"154" "FrankChurchill" "LittleJohnKnightley" 1
+"155" "FrankChurchill" "Miss Martin" 3
+"156" "FrankChurchill" "MissBates" 33
+"157" "FrankChurchill" "MissBickerton" 1
+"158" "FrankChurchill" "MissCaroline Otway" 1
+"159" "FrankChurchill" "MissGilbert" 1
+"160" "FrankChurchill" "MissJaneFairfax" 55
+"161" "FrankChurchill" "MissNash" 2
+"162" "FrankChurchill" "MissOtway" 1
+"163" "FrankChurchill" "MrBragge" 1
+"164" "FrankChurchill" "MrCole" 8
+"165" "FrankChurchill" "MrCoxe" 2
+"166" "FrankChurchill" "MrGeorgeKnightley" 49
+"167" "FrankChurchill" "MrGeorgeOtway" 2
+"168" "FrankChurchill" "MrOtway" 1
+"169" "FrankChurchill" "MrPerry" 12
+"170" "FrankChurchill" "MrPhillipElton" 22
+"171" "FrankChurchill" "MrsBates" 19
+"172" "FrankChurchill" "MrsBragge" 1
+"173" "FrankChurchill" "MrsCampbell" 12
+"174" "FrankChurchill" "MrsChurchill" 22
+"175" "FrankChurchill" "MrsCole" 7
+"176" "FrankChurchill" "MrsElton" 20
+"177" "FrankChurchill" "MrsFordEM" 1
+"178" "FrankChurchill" "MrsGilbert" 2
+"179" "FrankChurchill" "MrsGoddard" 8
+"180" "FrankChurchill" "MrsHodges" 3
+"181" "FrankChurchill" "MrsHughes" 1
+"182" "FrankChurchill" "MrsIsabellaKnightley" 13
+"183" "FrankChurchill" "MrsMartin" 3
+"184" "FrankChurchill" "MrsPerry" 4
+"185" "FrankChurchill" "MrsSmallridge" 2
+"186" "FrankChurchill" "MrsStokes" 3
+"187" "FrankChurchill" "MrsSuckling" 1
+"188" "FrankChurchill" "MrSuckling" 2
+"189" "FrankChurchill" "MrsWeston" 61
+"190" "FrankChurchill" "MrWeston" 53
+"191" "FrankChurchill" "MrWoodhouse" 3
+"192" "FrankChurchill" "OldJohnAbdy" 1
+"193" "FrankChurchill" "OldMrChurchill" 13
+"194" "FrankChurchill" "Patty" 3
+"195" "FrankChurchill" "RobertMartin" 5
+"196" "FrankChurchill" "WilliamCox" 3
+"197" "FrankChurchill" "WilliamLarkins" 5
+"198" "Hannah" "MrGeorgeKnightley" 1
+"199" "Hannah" "MrsIsabellaKnightley" 1
+"200" "Hannah" "MrsWeston" 1
+"201" "Hannah" "MrWeston" 1
+"202" "Hannah" "MrWoodhouse" 1
+"203" "Harriet Smith" "HenryKnightley" 5
+"204" "Harriet Smith" "JohnKnightley" 23
+"205" "Harriet Smith" "JohnSaunders" 1
+"206" "Harriet Smith" "LitteIsabellaKnightley" 1
+"207" "Harriet Smith" "LittleGeorgeKnightley" 1
+"208" "Harriet Smith" "LittleJohnKnightley" 2
+"209" "Harriet Smith" "Miss Martin" 7
+"210" "Harriet Smith" "MissBates" 25
+"211" "Harriet Smith" "MissBickerton" 2
+"212" "Harriet Smith" "MissGilbert" 1
+"213" "Harriet Smith" "MissJaneFairfax" 42
+"214" "Harriet Smith" "MissNash" 7
+"215" "Harriet Smith" "MissOtway" 1
+"216" "Harriet Smith" "MissPrince" 1
+"217" "Harriet Smith" "MissRichardson" 1
+"218" "Harriet Smith" "Mr. Wingfield" 2
+"219" "Harriet Smith" "MrCole" 9
+"220" "Harriet Smith" "MrCoxe" 1
+"221" "Harriet Smith" "MrGeorgeKnightley" 64
+"222" "Harriet Smith" "MrGeorgeOtway" 1
+"223" "Harriet Smith" "MrGraham" 1
+"224" "Harriet Smith" "MrPerry" 12
+"225" "Harriet Smith" "MrPhillipElton" 58
+"226" "Harriet Smith" "MrsBates" 18
+"227" "Harriet Smith" "MrsBragge" 1
+"228" "Harriet Smith" "MrsBrown" 1
+"229" "Harriet Smith" "MrsCampbell" 8
+"230" "Harriet Smith" "MrsChurchill" 8
+"231" "Harriet Smith" "MrsCole" 6
+"232" "Harriet Smith" "MrsElton" 23
+"233" "Harriet Smith" "MrsFordEM" 1
+"234" "Harriet Smith" "MrsGilbert" 2
+"235" "Harriet Smith" "MrsGoddard" 29
+"236" "Harriet Smith" "MrsHodges" 3
+"237" "Harriet Smith" "MrsIsabellaKnightley" 18
+"238" "Harriet Smith" "MrsMartin" 8
+"239" "Harriet Smith" "MrsPerry" 3
+"240" "Harriet Smith" "MrsSmallridge" 1
+"241" "Harriet Smith" "MrsSuckling" 1
+"242" "Harriet Smith" "MrSuckling" 2
+"243" "Harriet Smith" "MrsWeston" 47
+"244" "Harriet Smith" "MrWeston" 36
+"245" "Harriet Smith" "MrWoodhouse" 7
+"246" "Harriet Smith" "OldMrChurchill" 5
+"247" "Harriet Smith" "Patty" 3
+"248" "Harriet Smith" "RobertMartin" 24
+"249" "Harriet Smith" "Serle" 1
+"250" "Harriet Smith" "WilliamCox" 3
+"251" "Harriet Smith" "WilliamLarkins" 2
+"252" "Harry" "MissJaneFairfax" 1
+"253" "Harry" "MrGeorgeKnightley" 1
+"254" "Harry" "MrPhillipElton" 1
+"255" "Harry" "MrsElton" 1
+"256" "Harry" "MrsHodges" 1
+"257" "Harry" "WilliamLarkins" 1
+"258" "HenryKnightley" "JohnKnightley" 6
+"259" "HenryKnightley" "LitteIsabellaKnightley" 1
+"260" "HenryKnightley" "LittleGeorgeKnightley" 1
+"261" "HenryKnightley" "LittleJohnKnightley" 5
+"262" "HenryKnightley" "MissBates" 3
+"263" "HenryKnightley" "MissBickerton" 1
+"264" "HenryKnightley" "MissJaneFairfax" 4
+"265" "HenryKnightley" "MrCole" 2
+"266" "HenryKnightley" "MrGeorgeKnightley" 6
+"267" "HenryKnightley" "MrPhillipElton" 3
+"268" "HenryKnightley" "MrsBates" 3
+"269" "HenryKnightley" "MrsChurchill" 1
+"270" "HenryKnightley" "MrsCole" 1
+"271" "HenryKnightley" "MrsElton" 2
+"272" "HenryKnightley" "MrsIsabellaKnightley" 3
+"273" "HenryKnightley" "MrsSmallridge" 1
+"274" "HenryKnightley" "MrsWeston" 6
+"275" "HenryKnightley" "MrWeston" 3
+"276" "HenryKnightley" "MrWoodhouse" 3
+"277" "HenryKnightley" "OldMrChurchill" 1
+"278" "HenryKnightley" "RobertMartin" 1
+"279" "HenryKnightley" "WilliamLarkins" 2
+"280" "JohnKnightley" "LitteIsabellaKnightley" 2
+"281" "JohnKnightley" "LittleEmmaKnightley" 1
+"282" "JohnKnightley" "LittleGeorgeKnightley" 1
+"283" "JohnKnightley" "LittleJohnKnightley" 5
+"284" "JohnKnightley" "Miss Martin" 1
+"285" "JohnKnightley" "MissBates" 6
+"286" "JohnKnightley" "MissJaneFairfax" 12
+"287" "JohnKnightley" "Mr. Wingfield" 4
+"288" "JohnKnightley" "MrCole" 3
+"289" "JohnKnightley" "MrGeorgeKnightley" 23
+"290" "JohnKnightley" "MrGraham" 1
+"291" "JohnKnightley" "MrPerry" 6
+"292" "JohnKnightley" "MrPhillipElton" 16
+"293" "JohnKnightley" "MrsBates" 8
+"294" "JohnKnightley" "MrsBragge" 1
+"295" "JohnKnightley" "MrsCampbell" 3
+"296" "JohnKnightley" "MrsChurchill" 1
+"297" "JohnKnightley" "MrsCole" 2
+"298" "JohnKnightley" "MrsElton" 9
+"299" "JohnKnightley" "MrsGoddard" 8
+"300" "JohnKnightley" "MrsIsabellaKnightley" 20
+"301" "JohnKnightley" "MrsMartin" 1
+"302" "JohnKnightley" "MrsPerry" 2
+"303" "JohnKnightley" "MrsSuckling" 1
+"304" "JohnKnightley" "MrSuckling" 1
+"305" "JohnKnightley" "MrsWeston" 20
+"306" "JohnKnightley" "MrWeston" 13
+"307" "JohnKnightley" "MrWoodhouse" 4
+"308" "JohnKnightley" "OldMrChurchill" 2
+"309" "JohnKnightley" "Patty" 2
+"310" "JohnKnightley" "RobertMartin" 4
+"311" "JohnKnightley" "WilliamLarkins" 1
+"312" "JohnSaunders" "MissBates" 1
+"313" "JohnSaunders" "MissJaneFairfax" 1
+"314" "JohnSaunders" "MrsBates" 1
+"315" "JohnSaunders" "MrsChurchill" 1
+"316" "JohnSaunders" "MrsFordEM" 1
+"317" "JohnSaunders" "MrsGoddard" 1
+"318" "JohnSaunders" "MrsWeston" 1
+"319" "JohnSaunders" "Patty" 1
+"320" "LitteIsabellaKnightley" "LittleGeorgeKnightley" 1
+"321" "LitteIsabellaKnightley" "MissBates" 1
+"322" "LitteIsabellaKnightley" "Mr. Wingfield" 1
+"323" "LitteIsabellaKnightley" "MrGeorgeKnightley" 1
+"324" "LitteIsabellaKnightley" "MrPerry" 1
+"325" "LitteIsabellaKnightley" "MrPhillipElton" 1
+"326" "LitteIsabellaKnightley" "MrsBates" 1
+"327" "LitteIsabellaKnightley" "MrsIsabellaKnightley" 2
+"328" "LitteIsabellaKnightley" "MrsPerry" 1
+"329" "LitteIsabellaKnightley" "MrsWeston" 1
+"330" "LittleEmmaKnightley" "MrGeorgeKnightley" 1
+"331" "LittleEmmaKnightley" "MrsIsabellaKnightley" 1
+"332" "LittleEmmaKnightley" "RobertMartin" 1
+"333" "LittleGeorgeKnightley" "MrPhillipElton" 1
+"334" "LittleGeorgeKnightley" "MrsIsabellaKnightley" 1
+"335" "LittleGeorgeKnightley" "MrsWeston" 1
+"336" "LittleJohnKnightley" "MissBates" 1
+"337" "LittleJohnKnightley" "MissJaneFairfax" 1
+"338" "LittleJohnKnightley" "MrCole" 1
+"339" "LittleJohnKnightley" "MrGeorgeKnightley" 3
+"340" "LittleJohnKnightley" "MrPhillipElton" 1
+"341" "LittleJohnKnightley" "MrsBates" 3
+"342" "LittleJohnKnightley" "MrsChurchill" 1
+"343" "LittleJohnKnightley" "MrsElton" 2
+"344" "LittleJohnKnightley" "MrsIsabellaKnightley" 3
+"345" "LittleJohnKnightley" "MrSuckling" 1
+"346" "LittleJohnKnightley" "MrsWeston" 4
+"347" "LittleJohnKnightley" "MrWeston" 4
+"348" "LittleJohnKnightley" "MrWoodhouse" 2
+"349" "LittleJohnKnightley" "OldMrChurchill" 1
+"350" "LittleJohnKnightley" "RobertMartin" 1
+"351" "LittleJohnKnightley" "WilliamLarkins" 1
+"352" "LiutenantFairfax" "MissBates" 1
+"353" "LiutenantFairfax" "MissJaneFairfax" 1
+"354" "LiutenantFairfax" "MrsBates" 1
+"355" "LiutenantFairfax" "MrsCampbell" 1
+"356" "Miss Martin" "MissBates" 1
+"357" "Miss Martin" "MissJaneFairfax" 2
+"358" "Miss Martin" "MissNash" 1
+"359" "Miss Martin" "MrCole" 2
+"360" "Miss Martin" "MrGeorgeKnightley" 2
+"361" "Miss Martin" "MrPhillipElton" 5
+"362" "Miss Martin" "MrsBates" 1
+"363" "Miss Martin" "MrsCampbell" 1
+"364" "Miss Martin" "MrsElton" 2
+"365" "Miss Martin" "MrsGoddard" 5
+"366" "Miss Martin" "MrsIsabellaKnightley" 1
+"367" "Miss Martin" "MrsMartin" 7
+"368" "Miss Martin" "MrsWeston" 3
+"369" "Miss Martin" "MrWeston" 1
+"370" "Miss Martin" "OldMrChurchill" 1
+"371" "Miss Martin" "RobertMartin" 7
+"372" "Miss Martin" "WilliamCox" 1
+"373" "MissBates" "MissBickerton" 1
+"374" "MissBates" "MissCaroline Otway" 1
+"375" "MissBates" "MissJaneFairfax" 50
+"376" "MissBates" "MissNash" 2
+"377" "MissBates" "MissOtway" 1
+"378" "MissBates" "Mr. Wingfield" 2
+"379" "MissBates" "MrBragge" 1
+"380" "MissBates" "MrCole" 10
+"381" "MissBates" "MrCoxe" 2
+"382" "MissBates" "MrGeorgeKnightley" 34
+"383" "MissBates" "MrGeorgeOtway" 2
+"384" "MissBates" "MrOtway" 1
+"385" "MissBates" "MrPerry" 8
+"386" "MissBates" "MrPhillipElton" 22
+"387" "MissBates" "MrsBates" 26
+"388" "MissBates" "MrsBragge" 2
+"389" "MissBates" "MrsCampbell" 12
+"390" "MissBates" "MrsChurchill" 5
+"391" "MissBates" "MrsCole" 13
+"392" "MissBates" "MrsElton" 20
+"393" "MissBates" "MrsFordEM" 1
+"394" "MissBates" "MrsGoddard" 7
+"395" "MissBates" "MrsHodges" 4
+"396" "MissBates" "MrsHughes" 1
+"397" "MissBates" "MrsIsabellaKnightley" 6
+"398" "MissBates" "MrsMartin" 1
+"399" "MissBates" "MrsPerry" 7
+"400" "MissBates" "MrsSmallridge" 2
+"401" "MissBates" "MrsStokes" 2
+"402" "MissBates" "MrsSuckling" 1
+"403" "MissBates" "MrSuckling" 3
+"404" "MissBates" "MrsWeston" 32
+"405" "MissBates" "MrWeston" 19
+"406" "MissBates" "MrWoodhouse" 2
+"407" "MissBates" "OldJohnAbdy" 1
+"408" "MissBates" "OldMrChurchill" 2
+"409" "MissBates" "Patty" 6
+"410" "MissBates" "RobertMartin" 1
+"411" "MissBates" "Serle" 2
+"412" "MissBates" "WilliamCox" 2
+"413" "MissBates" "WilliamLarkins" 3
+"414" "MissBickerton" "MrGeorgeKnightley" 1
+"415" "MissBickerton" "MrPhillipElton" 2
+"416" "MissBickerton" "MrsElton" 1
+"417" "MissBickerton" "MrsGoddard" 1
+"418" "MissBickerton" "MrWoodhouse" 1
+"419" "MissCaroline Otway" "MissJaneFairfax" 1
+"420" "MissCaroline Otway" "MissOtway" 1
+"421" "MissCaroline Otway" "MrGeorgeOtway" 1
+"422" "MissCaroline Otway" "MrOtway" 1
+"423" "MissCaroline Otway" "MrsElton" 1
+"424" "MissCaroline Otway" "MrsHughes" 1
+"425" "MissCaroline Otway" "MrsStokes" 1
+"426" "MissCaroline Otway" "MrsWeston" 1
+"427" "MissCaroline Otway" "MrWeston" 1
+"428" "MissGilbert" "MissJaneFairfax" 1
+"429" "MissGilbert" "MrCole" 1
+"430" "MissGilbert" "MrGeorgeKnightley" 1
+"431" "MissGilbert" "MrsGilbert" 1
+"432" "MissGilbert" "MrsWeston" 1
+"433" "MissGilbert" "MrWeston" 1
+"434" "MissGilbert" "WilliamCox" 1
+"435" "MissJaneFairfax" "MissNash" 1
+"436" "MissJaneFairfax" "MissOtway" 2
+"437" "MissJaneFairfax" "Mr. Wingfield" 2
+"438" "MissJaneFairfax" "MrBragge" 1
+"439" "MissJaneFairfax" "MrCole" 11
+"440" "MissJaneFairfax" "MrCoxe" 2
+"441" "MissJaneFairfax" "MrGeorgeKnightley" 53
+"442" "MissJaneFairfax" "MrGeorgeOtway" 2
+"443" "MissJaneFairfax" "MrGraham" 1
+"444" "MissJaneFairfax" "MrOtway" 1
+"445" "MissJaneFairfax" "MrPerry" 11
+"446" "MissJaneFairfax" "MrPhillipElton" 26
+"447" "MissJaneFairfax" "MrsBates" 30
+"448" "MissJaneFairfax" "MrsBragge" 4
+"449" "MissJaneFairfax" "MrsCampbell" 20
+"450" "MissJaneFairfax" "MrsChurchill" 11
+"451" "MissJaneFairfax" "MrsCole" 13
+"452" "MissJaneFairfax" "MrsElton" 30
+"453" "MissJaneFairfax" "MrsFordEM" 1
+"454" "MissJaneFairfax" "MrsGilbert" 1
+"455" "MissJaneFairfax" "MrsGoddard" 6
+"456" "MissJaneFairfax" "MrsHodges" 5
+"457" "MissJaneFairfax" "MrsHughes" 1
+"458" "MissJaneFairfax" "MrsIsabellaKnightley" 13
+"459" "MissJaneFairfax" "MrsMartin" 2
+"460" "MissJaneFairfax" "MrsPartridge" 1
+"461" "MissJaneFairfax" "MrsPerry" 6
+"462" "MissJaneFairfax" "MrsSmallridge" 3
+"463" "MissJaneFairfax" "MrsStokes" 1
+"464" "MissJaneFairfax" "MrsSuckling" 3
+"465" "MissJaneFairfax" "MrSuckling" 5
+"466" "MissJaneFairfax" "MrsWeston" 50
+"467" "MissJaneFairfax" "MrWeston" 33
+"468" "MissJaneFairfax" "MrWoodhouse" 2
+"469" "MissJaneFairfax" "OldJohnAbdy" 1
+"470" "MissJaneFairfax" "OldMrChurchill" 9
+"471" "MissJaneFairfax" "Patty" 7
+"472" "MissJaneFairfax" "RobertMartin" 4
+"473" "MissJaneFairfax" "Serle" 1
+"474" "MissJaneFairfax" "WilliamCox" 3
+"475" "MissJaneFairfax" "WilliamLarkins" 6
+"476" "MissNash" "MissPrince" 1
+"477" "MissNash" "MissRichardson" 1
+"478" "MissNash" "MrCole" 2
+"479" "MissNash" "MrGeorgeKnightley" 2
+"480" "MissNash" "MrPerry" 3
+"481" "MissNash" "MrPhillipElton" 7
+"482" "MissNash" "MrsBates" 1
+"483" "MissNash" "MrsGoddard" 5
+"484" "MissNash" "MrsMartin" 2
+"485" "MissNash" "MrsWeston" 1
+"486" "MissNash" "RobertMartin" 6
+"487" "MissNash" "WilliamCox" 1
+"488" "MissOtway" "MrGeorgeKnightley" 1
+"489" "MissOtway" "MrGeorgeOtway" 1
+"490" "MissOtway" "MrOtway" 1
+"491" "MissOtway" "MrPhillipElton" 1
+"492" "MissOtway" "MrsElton" 2
+"493" "MissOtway" "MrsHughes" 1
+"494" "MissOtway" "MrsStokes" 1
+"495" "MissOtway" "MrsWeston" 1
+"496" "MissOtway" "MrWeston" 2
+"497" "MissPrince" "MissRichardson" 1
+"498" "MissPrince" "MrsGoddard" 1
+"499" "MissPrince" "MrsMartin" 1
+"500" "MissPrince" "RobertMartin" 1
+"501" "MissRichardson" "MrsGoddard" 1
+"502" "MissRichardson" "MrsMartin" 1
+"503" "MissRichardson" "RobertMartin" 1
+"504" "Mr. Wingfield" "MrGeorgeKnightley" 2
+"505" "Mr. Wingfield" "MrGraham" 1
+"506" "Mr. Wingfield" "MrPerry" 3
+"507" "Mr. Wingfield" "MrPhillipElton" 1
+"508" "Mr. Wingfield" "MrsBates" 3
+"509" "Mr. Wingfield" "MrsCampbell" 1
+"510" "Mr. Wingfield" "MrsElton" 1
+"511" "Mr. Wingfield" "MrsGoddard" 1
+"512" "Mr. Wingfield" "MrsIsabellaKnightley" 4
+"513" "Mr. Wingfield" "MrsPerry" 1
+"514" "Mr. Wingfield" "MrsWeston" 1
+"515" "Mr. Wingfield" "Patty" 1
+"516" "MrBragge" "MrGeorgeKnightley" 1
+"517" "MrBragge" "MrPhillipElton" 1
+"518" "MrBragge" "MrsBragge" 1
+"519" "MrBragge" "MrsChurchill" 1
+"520" "MrBragge" "MrsCole" 1
+"521" "MrBragge" "MrsElton" 2
+"522" "MrBragge" "MrsSmallridge" 1
+"523" "MrBragge" "MrsSuckling" 1
+"524" "MrBragge" "MrSuckling" 2
+"525" "MrBragge" "MrsWeston" 1
+"526" "MrBragge" "MrWeston" 1
+"527" "MrBragge" "OldMrChurchill" 1
+"528" "MrCole" "MrCoxe" 2
+"529" "MrCole" "MrGeorgeKnightley" 11
+"530" "MrCole" "MrPerry" 3
+"531" "MrCole" "MrPhillipElton" 11
+"532" "MrCole" "MrsBates" 5
+"533" "MrCole" "MrsBragge" 1
+"534" "MrCole" "MrsCampbell" 2
+"535" "MrCole" "MrsChurchill" 1
+"536" "MrCole" "MrsCole" 8
+"537" "MrCole" "MrsElton" 5
+"538" "MrCole" "MrsGilbert" 1
+"539" "MrCole" "MrsGoddard" 4
+"540" "MrCole" "MrsIsabellaKnightley" 2
+"541" "MrCole" "MrsMartin" 2
+"542" "MrCole" "MrsPerry" 1
+"543" "MrCole" "MrSuckling" 1
+"544" "MrCole" "MrsWeston" 11
+"545" "MrCole" "MrWeston" 6
+"546" "MrCole" "MrWoodhouse" 2
+"547" "MrCole" "OldMrChurchill" 1
+"548" "MrCole" "Patty" 1
+"549" "MrCole" "RobertMartin" 3
+"550" "MrCole" "Serle" 1
+"551" "MrCole" "WilliamCox" 2
+"552" "MrCoxe" "MrGeorgeKnightley" 2
+"553" "MrCoxe" "MrPhillipElton" 2
+"554" "MrCoxe" "MrsBates" 1
+"555" "MrCoxe" "MrsChurchill" 1
+"556" "MrCoxe" "MrsCole" 1
+"557" "MrCoxe" "MrsGoddard" 1
+"558" "MrCoxe" "MrsWeston" 2
+"559" "MrCoxe" "MrWeston" 2
+"560" "MrCoxe" "OldMrChurchill" 1
+"561" "MrGeorgeKnightley" "MrGeorgeOtway" 1
+"562" "MrGeorgeKnightley" "MrPerry" 13
+"563" "MrGeorgeKnightley" "MrPhillipElton" 40
+"564" "MrGeorgeKnightley" "MrsBates" 18
+"565" "MrGeorgeKnightley" "MrsBragge" 2
+"566" "MrGeorgeKnightley" "MrsCampbell" 6
+"567" "MrGeorgeKnightley" "MrsChurchill" 9
+"568" "MrGeorgeKnightley" "MrsCole" 12
+"569" "MrGeorgeKnightley" "MrsElton" 26
+"570" "MrGeorgeKnightley" "MrsGilbert" 2
+"571" "MrGeorgeKnightley" "MrsGoddard" 17
+"572" "MrGeorgeKnightley" "MrsHodges" 5
+"573" "MrGeorgeKnightley" "MrsIsabellaKnightley" 20
+"574" "MrGeorgeKnightley" "MrsMartin" 2
+"575" "MrGeorgeKnightley" "MrsPerry" 7
+"576" "MrGeorgeKnightley" "MrsSmallridge" 2
+"577" "MrGeorgeKnightley" "MrsSuckling" 3
+"578" "MrGeorgeKnightley" "MrSuckling" 4
+"579" "MrGeorgeKnightley" "MrsWeston" 54
+"580" "MrGeorgeKnightley" "MrWeston" 42
+"581" "MrGeorgeKnightley" "MrWoodhouse" 11
+"582" "MrGeorgeKnightley" "OldMrChurchill" 8
+"583" "MrGeorgeKnightley" "Patty" 6
+"584" "MrGeorgeKnightley" "RobertMartin" 15
+"585" "MrGeorgeKnightley" "Serle" 2
+"586" "MrGeorgeKnightley" "WilliamCox" 2
+"587" "MrGeorgeKnightley" "WilliamLarkins" 7
+"588" "MrGeorgeOtway" "MrOtway" 1
+"589" "MrGeorgeOtway" "MrPhillipElton" 1
+"590" "MrGeorgeOtway" "MrsBates" 1
+"591" "MrGeorgeOtway" "MrsElton" 2
+"592" "MrGeorgeOtway" "MrsHughes" 1
+"593" "MrGeorgeOtway" "MrsStokes" 1
+"594" "MrGeorgeOtway" "MrsWeston" 2
+"595" "MrGeorgeOtway" "MrWeston" 1
+"596" "MrGeorgeOtway" "WilliamCox" 1
+"597" "MrGraham" "MrPerry" 1
+"598" "MrGraham" "MrsBates" 1
+"599" "MrGraham" "MrsCampbell" 1
+"600" "MrGraham" "MrsIsabellaKnightley" 1
+"601" "MrOtway" "MrsElton" 1
+"602" "MrOtway" "MrsHughes" 1
+"603" "MrOtway" "MrsStokes" 1
+"604" "MrOtway" "MrsWeston" 1
+"605" "MrOtway" "MrWeston" 1
+"606" "MrPerry" "MrPhillipElton" 10
+"607" "MrPerry" "MrsBates" 7
+"608" "MrPerry" "MrsBragge" 1
+"609" "MrPerry" "MrsCampbell" 3
+"610" "MrPerry" "MrsChurchill" 2
+"611" "MrPerry" "MrsCole" 2
+"612" "MrPerry" "MrsElton" 4
+"613" "MrPerry" "MrsGoddard" 8
+"614" "MrPerry" "MrsHodges" 1
+"615" "MrPerry" "MrsIsabellaKnightley" 4
+"616" "MrPerry" "MrsPerry" 4
+"617" "MrPerry" "MrsSmallridge" 1
+"618" "MrPerry" "MrsStokes" 1
+"619" "MrPerry" "MrSuckling" 1
+"620" "MrPerry" "MrsWeston" 12
+"621" "MrPerry" "MrWeston" 11
+"622" "MrPerry" "MrWoodhouse" 2
+"623" "MrPerry" "OldMrChurchill" 2
+"624" "MrPerry" "Patty" 2
+"625" "MrPerry" "RobertMartin" 2
+"626" "MrPerry" "Serle" 1
+"627" "MrPerry" "WilliamLarkins" 1
+"628" "MrPhillipElton" "MrsBates" 11
+"629" "MrPhillipElton" "MrsBird" 1
+"630" "MrPhillipElton" "MrsBragge" 1
+"631" "MrPhillipElton" "MrsBrown" 1
+"632" "MrPhillipElton" "MrsCampbell" 6
+"633" "MrPhillipElton" "MrsChurchill" 5
+"634" "MrPhillipElton" "MrsCole" 7
+"635" "MrPhillipElton" "MrsElton" 28
+"636" "MrPhillipElton" "MrsGilbert" 1
+"637" "MrPhillipElton" "MrsGoddard" 20
+"638" "MrPhillipElton" "MrsHodges" 2
+"639" "MrPhillipElton" "MrsIsabellaKnightley" 11
+"640" "MrPhillipElton" "MrsJamesCooper" 1
+"641" "MrPhillipElton" "MrsMartin" 5
+"642" "MrPhillipElton" "MrsPartridge" 1
+"643" "MrPhillipElton" "MrsPerry" 4
+"644" "MrPhillipElton" "MrsSuckling" 1
+"645" "MrPhillipElton" "MrSuckling" 6
+"646" "MrPhillipElton" "MrsWeston" 29
+"647" "MrPhillipElton" "MrWeston" 23
+"648" "MrPhillipElton" "MrWoodhouse" 6
+"649" "MrPhillipElton" "OldJohnAbdy" 1
+"650" "MrPhillipElton" "OldMrChurchill" 4
+"651" "MrPhillipElton" "Patty" 1
+"652" "MrPhillipElton" "RobertMartin" 16
+"653" "MrPhillipElton" "WilliamCox" 2
+"654" "MrPhillipElton" "WilliamLarkins" 1
+"655" "MrsBates" "MrsBragge" 1
+"656" "MrsBates" "MrsCampbell" 8
+"657" "MrsBates" "MrsChurchill" 3
+"658" "MrsBates" "MrsCole" 6
+"659" "MrsBates" "MrsElton" 7
+"660" "MrsBates" "MrsFordEM" 1
+"661" "MrsBates" "MrsGoddard" 7
+"662" "MrsBates" "MrsHodges" 1
+"663" "MrsBates" "MrsIsabellaKnightley" 7
+"664" "MrsBates" "MrsMartin" 1
+"665" "MrsBates" "MrsPerry" 4
+"666" "MrsBates" "MrsSmallridge" 1
+"667" "MrsBates" "MrSuckling" 1
+"668" "MrsBates" "MrsWeston" 19
+"669" "MrsBates" "MrWeston" 12
+"670" "MrsBates" "MrWoodhouse" 3
+"671" "MrsBates" "OldMrChurchill" 1
+"672" "MrsBates" "Patty" 5
+"673" "MrsBates" "RobertMartin" 1
+"674" "MrsBates" "Serle" 1
+"675" "MrsBates" "WilliamCox" 2
+"676" "MrsBates" "WilliamLarkins" 1
+"677" "MrsBird" "MrsElton" 1
+"678" "MrsBird" "MrsJamesCooper" 1
+"679" "MrsBird" "MrsPartridge" 1
+"680" "MrsBird" "MrWeston" 1
+"681" "MrsBragge" "MrsCampbell" 1
+"682" "MrsBragge" "MrsCole" 1
+"683" "MrsBragge" "MrsElton" 4
+"684" "MrsBragge" "MrsIsabellaKnightley" 1
+"685" "MrsBragge" "MrsPartridge" 1
+"686" "MrsBragge" "MrsSmallridge" 1
+"687" "MrsBragge" "MrsSuckling" 2
+"688" "MrsBragge" "MrSuckling" 2
+"689" "MrsBragge" "MrsWeston" 3
+"690" "MrsBragge" "MrWeston" 1
+"691" "MrsBrown" "MrsCole" 1
+"692" "MrsBrown" "MrsElton" 1
+"693" "MrsCampbell" "MrsChurchill" 2
+"694" "MrsCampbell" "MrsCole" 3
+"695" "MrsCampbell" "MrsElton" 5
+"696" "MrsCampbell" "MrsIsabellaKnightley" 3
+"697" "MrsCampbell" "MrsMartin" 1
+"698" "MrsCampbell" "MrsPartridge" 1
+"699" "MrsCampbell" "MrsPerry" 1
+"700" "MrsCampbell" "MrSuckling" 2
+"701" "MrsCampbell" "MrsWeston" 10
+"702" "MrsCampbell" "MrWeston" 5
+"703" "MrsCampbell" "OldJohnAbdy" 1
+"704" "MrsCampbell" "OldMrChurchill" 4
+"705" "MrsCampbell" "RobertMartin" 1
+"706" "MrsChurchill" "MrsElton" 6
+"707" "MrsChurchill" "MrsFordEM" 1
+"708" "MrsChurchill" "MrsGoddard" 1
+"709" "MrsChurchill" "MrsIsabellaKnightley" 2
+"710" "MrsChurchill" "MrsSmallridge" 1
+"711" "MrsChurchill" "MrsSuckling" 1
+"712" "MrsChurchill" "MrSuckling" 2
+"713" "MrsChurchill" "MrsWeston" 19
+"714" "MrsChurchill" "MrWeston" 18
+"715" "MrsChurchill" "OldJohnAbdy" 1
+"716" "MrsChurchill" "OldMrChurchill" 11
+"717" "MrsChurchill" "Patty" 1
+"718" "MrsChurchill" "RobertMartin" 1
+"719" "MrsChurchill" "WilliamLarkins" 1
+"720" "MrsCole" "MrsElton" 5
+"721" "MrsCole" "MrsGoddard" 4
+"722" "MrsCole" "MrsHodges" 1
+"723" "MrsCole" "MrsIsabellaKnightley" 2
+"724" "MrsCole" "MrsPerry" 3
+"725" "MrsCole" "MrsSmallridge" 1
+"726" "MrsCole" "MrsSuckling" 1
+"727" "MrsCole" "MrSuckling" 1
+"728" "MrsCole" "MrsWeston" 7
+"729" "MrsCole" "MrWeston" 5
+"730" "MrsCole" "MrWoodhouse" 1
+"731" "MrsCole" "Patty" 2
+"732" "MrsCole" "Serle" 1
+"733" "MrsElton" "MrsGilbert" 1
+"734" "MrsElton" "MrsGoddard" 5
+"735" "MrsElton" "MrsHodges" 2
+"736" "MrsElton" "MrsHughes" 1
+"737" "MrsElton" "MrsIsabellaKnightley" 8
+"738" "MrsElton" "MrsJamesCooper" 1
+"739" "MrsElton" "MrsMartin" 2
+"740" "MrsElton" "MrsPartridge" 2
+"741" "MrsElton" "MrsPerry" 4
+"742" "MrsElton" "MrsSmallridge" 2
+"743" "MrsElton" "MrsStokes" 1
+"744" "MrsElton" "MrsSuckling" 3
+"745" "MrsElton" "MrSuckling" 9
+"746" "MrsElton" "MrsWeston" 25
+"747" "MrsElton" "MrWeston" 21
+"748" "MrsElton" "MrWoodhouse" 4
+"749" "MrsElton" "OldJohnAbdy" 1
+"750" "MrsElton" "OldMrChurchill" 3
+"751" "MrsElton" "Patty" 2
+"752" "MrsElton" "RobertMartin" 3
+"753" "MrsElton" "WilliamCox" 1
+"754" "MrsElton" "WilliamLarkins" 2
+"755" "MrsFordEM" "MrsGoddard" 1
+"756" "MrsFordEM" "MrsWeston" 1
+"757" "MrsFordEM" "Patty" 1
+"758" "MrsGilbert" "MrsWeston" 2
+"759" "MrsGilbert" "MrWeston" 2
+"760" "MrsGilbert" "WilliamCox" 1
+"761" "MrsGoddard" "MrsIsabellaKnightley" 3
+"762" "MrsGoddard" "MrsMartin" 6
+"763" "MrsGoddard" "MrsPerry" 1
+"764" "MrsGoddard" "MrsWeston" 12
+"765" "MrsGoddard" "MrWeston" 10
+"766" "MrsGoddard" "MrWoodhouse" 3
+"767" "MrsGoddard" "Patty" 2
+"768" "MrsGoddard" "RobertMartin" 13
+"769" "MrsGoddard" "Serle" 2
+"770" "MrsHodges" "MrsWeston" 4
+"771" "MrsHodges" "MrWeston" 1
+"772" "MrsHodges" "Patty" 2
+"773" "MrsHodges" "WilliamLarkins" 3
+"774" "MrsHughes" "MrsStokes" 1
+"775" "MrsHughes" "MrsWeston" 1
+"776" "MrsHughes" "MrWeston" 1
+"777" "MrsIsabellaKnightley" "MrsMartin" 1
+"778" "MrsIsabellaKnightley" "MrsPerry" 3
+"779" "MrsIsabellaKnightley" "MrsSuckling" 1
+"780" "MrsIsabellaKnightley" "MrSuckling" 1
+"781" "MrsIsabellaKnightley" "MrsWeston" 23
+"782" "MrsIsabellaKnightley" "MrWeston" 17
+"783" "MrsIsabellaKnightley" "MrWoodhouse" 6
+"784" "MrsIsabellaKnightley" "OldMrChurchill" 2
+"785" "MrsIsabellaKnightley" "Patty" 2
+"786" "MrsIsabellaKnightley" "RobertMartin" 2
+"787" "MrsJamesCooper" "MrsPartridge" 1
+"788" "MrsJamesCooper" "MrWeston" 1
+"789" "MrsMartin" "MrsWeston" 3
+"790" "MrsMartin" "MrWeston" 1
+"791" "MrsMartin" "OldMrChurchill" 1
+"792" "MrsMartin" "RobertMartin" 8
+"793" "MrsMartin" "WilliamCox" 1
+"794" "MrsPartridge" "MrSuckling" 1
+"795" "MrsPartridge" "MrsWeston" 1
+"796" "MrsPartridge" "MrWeston" 1
+"797" "MrsPerry" "MrsWeston" 4
+"798" "MrsPerry" "MrWeston" 5
+"799" "MrsPerry" "MrWoodhouse" 1
+"800" "MrsPerry" "Patty" 1
+"801" "MrsSmallridge" "MrsSuckling" 1
+"802" "MrsSmallridge" "MrSuckling" 1
+"803" "MrsSmallridge" "MrWeston" 1
+"804" "MrsSmallridge" "OldMrChurchill" 1
+"805" "MrsSmallridge" "WilliamLarkins" 1
+"806" "MrsStokes" "MrsWeston" 3
+"807" "MrsStokes" "MrWeston" 3
+"808" "MrsStokes" "MrWoodhouse" 1
+"809" "MrsSuckling" "MrSuckling" 2
+"810" "MrsSuckling" "MrsWeston" 2
+"811" "MrsSuckling" "MrWeston" 2
+"812" "MrSuckling" "MrsWeston" 6
+"813" "MrSuckling" "MrWeston" 4
+"814" "MrSuckling" "OldMrChurchill" 1
+"815" "MrsWeston" "MrWeston" 61
+"816" "MrsWeston" "MrWoodhouse" 10
+"817" "MrsWeston" "OldMrChurchill" 13
+"818" "MrsWeston" "Patty" 5
+"819" "MrsWeston" "RobertMartin" 4
+"820" "MrsWeston" "Serle" 1
+"821" "MrsWeston" "WilliamCox" 3
+"822" "MrsWeston" "WilliamLarkins" 4
+"823" "MrWeston" "MrWoodhouse" 8
+"824" "MrWeston" "OldMrChurchill" 13
+"825" "MrWeston" "RobertMartin" 2
+"826" "MrWeston" "Serle" 1
+"827" "MrWeston" "WilliamCox" 1
+"828" "MrWeston" "WilliamLarkins" 2
+"829" "MrWoodhouse" "OldMrChurchill" 1
+"830" "MrWoodhouse" "Serle" 2
+"831" "OldMrChurchill" "RobertMartin" 1
+"832" "OldMrChurchill" "WilliamLarkins" 1
+"833" "Patty" "WilliamLarkins" 1
+"834" "RobertMartin" "WilliamCox" 1
+"835" "RobertMartin" "WilliamLarkins" 1

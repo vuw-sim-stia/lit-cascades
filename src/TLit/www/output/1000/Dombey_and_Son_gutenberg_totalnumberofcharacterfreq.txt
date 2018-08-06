@@ -1,0 +1,74 @@
+"Character","Node"
+"Alex Macstinger",7
+"Alice Brown",16
+"Anne",1
+"Barnet Skettles Jr",5
+"Berinthia",6
+"Bill Bitherstone",2
+"Briggs",9
+"Captain Bunsby",14
+"Captain Cuttle",91
+"Charles Macstinger",2
+"Cornelia Blimber",25
+"Cousin Feenix",23
+"Diogenes",26
+"Doctor Blimber",29
+"Doctor Parker Peps",4
+"Florence Dombey",217
+"Flowers",5
+"Harriet Carker",22
+"James Carker",9
+"Jemima",5
+"Joe",2
+"John",8
+"Johnson",5
+"Juliana Macstinger",4
+"Kate",2
+"Lady Skettles",10
+"Lucretia Tox",60
+"Major Bagstock",57
+"Martha",1
+"Mary Daws",2
+"Master Bitherstone",11
+"Melia",1
+"Miss Pankey",3
+"Mr Baps",3
+"Mr Brogley",8
+"Mr Carker",85
+"Mr Chick",13
+"Mr Clark",1
+"Mr Dombey",191
+"Mr Feeder",21
+"Mr Morfin",9
+"Mr Perch",22
+"Mr Pilkins",4
+"Mr Sownds",7
+"Mr Toodle",12
+"Mr Toots",69
+"Mrs Baps",2
+"Mrs Blimber",23
+"Mrs Blockitt",1
+"Mrs Bokum",2
+"Mrs Brown",15
+"Mrs Chick",45
+"Mrs Dombey I",13
+"Mrs Dombey II",95
+"Mrs Miff",7
+"Mrs Perch",16
+"Mrs Polly Toodle",45
+"Mrs Skewton",48
+"Mrs Wickam",14
+"Old Glubb",3
+"Paul Dombey",91
+"Reverend Feeder",1
+"Reverend Melchisedech",3
+"Robin Toodle",34
+"Sir Barnet Skettles",5
+"Solomon Gills",34
+"Susan Nipper",71
+"The Game Chicken",1
+"The Native",13
+"Towlinson",23
+"Tozer",8
+"Walter Gay",99
+"Withers",13

@@ -1,0 +1,125 @@
+"","Character","Node","Type","Appearances"
+"1","Affery Flintwinch",15,"First Appearance",42
+"2","Affery Flintwinch",367,"Last Appearance",42
+"3","Amy Dorrit",374,"Last Appearance",148
+"4","Amy Dorrit",24,"First Appearance",148
+"5","Anastasia Rugg",186,"Last Appearance",4
+"6","Anastasia Rugg",132,"First Appearance",4
+"7","Arthur Clennam",374,"Last Appearance",210
+"8","Arthur Clennam",9,"First Appearance",210
+"9","Augustus Stiltstalking",140,"First Appearance",1
+"10","Augustus Stiltstalking",140,"Last Appearance",1
+"11","Bob",293,"Last Appearance",4
+"12","Bob",31,"First Appearance",4
+"13","Captain Maroon",63,"Last Appearance",1
+"14","Captain Maroon",63,"First Appearance",1
+"15","Captain Martin",101,"Last Appearance",1
+"16","Captain Martin",101,"First Appearance",1
+"17","Christopher Casby",63,"First Appearance",25
+"18","Christopher Casby",364,"Last Appearance",25
+"19","Clarence Barnacle",138,"Last Appearance",3
+"20","Clarence Barnacle",48,"First Appearance",3
+"21","Daniel Doyce",374,"Last Appearance",41
+"22","Daniel Doyce",53,"First Appearance",41
+"23","Dawes",301,"Last Appearance",1
+"24","Dawes",301,"First Appearance",1
+"25","Doctor Haggage",31,"Last Appearance",2
+"26","Doctor Haggage",28,"First Appearance",2
+"27","Edward Dorrit",34,"First Appearance",24
+"28","Edward Dorrit",374,"Last Appearance",24
+"29","Ephraim Flintwinch",354,"Last Appearance",1
+"30","Ephraim Flintwinch",354,"First Appearance",1
+"31","Fanny Dorrit",374,"Last Appearance",73
+"32","Fanny Dorrit",33,"First Appearance",73
+"33","Ferdinand Barnacle",335,"Last Appearance",12
+"34","Ferdinand Barnacle",49,"First Appearance",12
+"35","Flora Finching",65,"First Appearance",36
+"36","Flora Finching",374,"Last Appearance",36
+"37","Harriet Beadle",369,"Last Appearance",19
+"38","Harriet Beadle",7,"First Appearance",19
+"39","Henry Gowan",366,"Last Appearance",47
+"40","Henry Gowan",90,"First Appearance",47
+"41","Jeremiah Flintwinch",360,"Last Appearance",44
+"42","Jeremiah Flintwinch",16,"First Appearance",44
+"43","John Baptist Cavalletto",2,"First Appearance",22
+"44","John Baptist Cavalletto",342,"Last Appearance",22
+"45","John Chivery",328,"Last Appearance",2
+"46","John Chivery",326,"First Appearance",2
+"47","John Edward Nandy",164,"First Appearance",9
+"48","John Edward Nandy",261,"Last Appearance",9
+"49","Lady Stiltstalking",91,"First Appearance",1
+"50","Lady Stiltstalking",91,"Last Appearance",1
+"51","Lord Decimus Tite Barnacle",66,"First Appearance",5
+"52","Lord Decimus Tite Barnacle",183,"Last Appearance",5
+"53","Lord Lancaster Stiltstalking",140,"Last Appearance",2
+"54","Lord Lancaster Stiltstalking",139,"First Appearance",2
+"55","Madame Barronneau",4,"First Appearance",2
+"56","Madame Barronneau",5,"Last Appearance",2
+"57","Maggy",45,"First Appearance",34
+"58","Maggy",374,"Last Appearance",34
+"59","Minnie Meagles",7,"First Appearance",34
+"60","Minnie Meagles",374,"Last Appearance",34
+"61","Miss Tite Barnacles",181,"First Appearance",1
+"62","Miss Tite Barnacles",181,"Last Appearance",1
+"63","Miss Wade",10,"First Appearance",21
+"64","Miss Wade",368,"Last Appearance",21
+"65","Mr Cripples",42,"First Appearance",3
+"66","Mr Cripples",104,"Last Appearance",3
+"67","Mr F.'s Aunt",70,"First Appearance",18
+"68","Mr F.'s Aunt",372,"Last Appearance",18
+"69","Mr Frederick Dorrit",36,"First Appearance",13
+"70","Mr Frederick Dorrit",355,"Last Appearance",13
+"71","Mr John Chivery",374,"Last Appearance",26
+"72","Mr John Chivery",94,"First Appearance",26
+"73","Mr Meagles",7,"First Appearance",51
+"74","Mr Meagles",374,"Last Appearance",51
+"75","Mr Merdle",107,"First Appearance",46
+"76","Mr Merdle",365,"Last Appearance",46
+"77","Mr Pancks",63,"First Appearance",57
+"78","Mr Pancks",374,"Last Appearance",57
+"79","Mr Plornish",332,"Last Appearance",17
+"80","Mr Plornish",45,"First Appearance",17
+"81","Mr Rugg",132,"First Appearance",17
+"82","Mr Rugg",370,"Last Appearance",17
+"83","Mr Sparkler",365,"Last Appearance",31
+"84","Mr Sparkler",111,"First Appearance",31
+"85","Mr Tite Barnacle",256,"Last Appearance",11
+"86","Mr Tite Barnacle",44,"First Appearance",11
+"87","Mr William Dorrit",345,"Last Appearance",84
+"88","Mr William Dorrit",26,"First Appearance",84
+"89","Mr Wobbler",51,"First Appearance",1
+"90","Mr Wobbler",51,"Last Appearance",1
+"91","Mrs Bangham",293,"Last Appearance",8
+"92","Mrs Bangham",27,"First Appearance",8
+"93","Mrs Captain Barbary",63,"Last Appearance",1
+"94","Mrs Captain Barbary",63,"First Appearance",1
+"95","Mrs Chivery",330,"Last Appearance",7
+"96","Mrs Chivery",94,"First Appearance",7
+"97","Mrs Clennam",15,"First Appearance",44
+"98","Mrs Clennam",361,"Last Appearance",44
+"99","Mrs General",365,"Last Appearance",37
+"100","Mrs General",196,"First Appearance",37
+"101","Mrs Gowan",248,"Last Appearance",24
+"102","Mrs Gowan",139,"First Appearance",24
+"103","Mrs Meagles",367,"Last Appearance",19
+"104","Mrs Meagles",7,"First Appearance",19
+"105","Mrs Merdle",365,"Last Appearance",36
+"106","Mrs Merdle",106,"First Appearance",36
+"107","Mrs Plornish",61,"First Appearance",21
+"108","Mrs Plornish",367,"Last Appearance",21
+"109","Mrs Tickit",369,"Last Appearance",6
+"110","Mrs Tickit",88,"First Appearance",6
+"111","Mrs Tite Barnacle",181,"Last Appearance",2
+"112","Mrs Tite Barnacle",48,"First Appearance",2
+"113","Physician",322,"Last Appearance",7
+"114","Physician",16,"First Appearance",7
+"115","Rigaud",2,"First Appearance",58
+"116","Rigaud",367,"Last Appearance",58
+"117","Slingo",34,"Last Appearance",1
+"118","Slingo",34,"First Appearance",1
+"119","Tinkler",291,"Last Appearance",5
+"120","Tinkler",213,"First Appearance",5
+"121","Treasury",279,"Last Appearance",5
+"122","Treasury",111,"First Appearance",5
+"123","Tudor Stiltstalking",140,"First Appearance",2
+"124","Tudor Stiltstalking",182,"Last Appearance",2

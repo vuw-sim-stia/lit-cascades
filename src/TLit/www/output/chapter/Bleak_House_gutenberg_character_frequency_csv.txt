@@ -1,0 +1,726 @@
+"","Character","Node","Appearances"
+"1","Ada Clare",61,30
+"2","Ada Clare",64,30
+"3","Ada Clare",50,30
+"4","Ada Clare",51,30
+"5","Ada Clare",65,30
+"6","Ada Clare",8,30
+"7","Ada Clare",15,30
+"8","Ada Clare",45,30
+"9","Ada Clare",5,30
+"10","Ada Clare",3,30
+"11","Ada Clare",24,30
+"12","Ada Clare",9,30
+"13","Ada Clare",37,30
+"14","Ada Clare",4,30
+"15","Ada Clare",18,30
+"16","Ada Clare",59,30
+"17","Ada Clare",23,30
+"18","Ada Clare",44,30
+"19","Ada Clare",67,30
+"20","Ada Clare",36,30
+"21","Ada Clare",60,30
+"22","Ada Clare",43,30
+"23","Ada Clare",17,30
+"24","Ada Clare",13,30
+"25","Ada Clare",14,30
+"26","Ada Clare",62,30
+"27","Ada Clare",35,30
+"28","Ada Clare",31,30
+"29","Ada Clare",6,30
+"30","Ada Clare",30,30
+"31","Alfred Pardiggle",8,1
+"32","Allan Woodcourt",60,17
+"33","Allan Woodcourt",45,17
+"34","Allan Woodcourt",35,17
+"35","Allan Woodcourt",67,17
+"36","Allan Woodcourt",61,17
+"37","Allan Woodcourt",52,17
+"38","Allan Woodcourt",65,17
+"39","Allan Woodcourt",59,17
+"40","Allan Woodcourt",30,17
+"41","Allan Woodcourt",50,17
+"42","Allan Woodcourt",47,17
+"43","Allan Woodcourt",51,17
+"44","Allan Woodcourt",64,17
+"45","Allan Woodcourt",36,17
+"46","Allan Woodcourt",46,17
+"47","Allan Woodcourt",17,17
+"48","Allan Woodcourt",14,17
+"49","Arethusa Skimpole",61,2
+"50","Arethusa Skimpole",43,2
+"51","Bartholomew Smallweed",39,4
+"52","Bartholomew Smallweed",33,4
+"53","Bartholomew Smallweed",20,4
+"54","Bartholomew Smallweed",21,4
+"55","Bob Stables",58,4
+"56","Bob Stables",28,4
+"57","Bob Stables",2,4
+"58","Bob Stables",40,4
+"59","Captain Hawden",29,8
+"60","Captain Hawden",26,8
+"61","Captain Hawden",21,8
+"62","Captain Hawden",54,8
+"63","Captain Hawden",27,8
+"64","Captain Hawden",10,8
+"65","Captain Hawden",11,8
+"66","Captain Hawden",5,8
+"67","Captain Swosser",17,2
+"68","Captain Swosser",13,2
+"69","Caroline Caddy",23,15
+"70","Caroline Caddy",65,15
+"71","Caroline Caddy",37,15
+"72","Caroline Caddy",38,15
+"73","Caroline Caddy",14,15
+"74","Caroline Caddy",6,15
+"75","Caroline Caddy",17,15
+"76","Caroline Caddy",30,15
+"77","Caroline Caddy",35,15
+"78","Caroline Caddy",51,15
+"79","Caroline Caddy",39,15
+"80","Caroline Caddy",67,15
+"81","Caroline Caddy",4,15
+"82","Caroline Caddy",50,15
+"83","Caroline Caddy",5,15
+"84","Charley",61,16
+"85","Charley",62,16
+"86","Charley",44,16
+"87","Charley",35,16
+"88","Charley",21,16
+"89","Charley",67,16
+"90","Charley",57,16
+"91","Charley",45,16
+"92","Charley",15,16
+"93","Charley",23,16
+"94","Charley",30,16
+"95","Charley",31,16
+"96","Charley",64,16
+"97","Charley",51,16
+"98","Charley",36,16
+"99","Charley",37,16
+"100","Coavinses",10,6
+"101","Coavinses",37,6
+"102","Coavinses",61,6
+"103","Coavinses",6,6
+"104","Coavinses",9,6
+"105","Coavinses",15,6
+"106","Conversation Kenge",17,14
+"107","Conversation Kenge",4,14
+"108","Conversation Kenge",35,14
+"109","Conversation Kenge",13,14
+"110","Conversation Kenge",9,14
+"111","Conversation Kenge",38,14
+"112","Conversation Kenge",24,14
+"113","Conversation Kenge",6,14
+"114","Conversation Kenge",14,14
+"115","Conversation Kenge",39,14
+"116","Conversation Kenge",3,14
+"117","Conversation Kenge",18,14
+"118","Conversation Kenge",62,14
+"119","Conversation Kenge",65,14
+"120","Darby",22,1
+"121","Egbert Pardiggle",8,1
+"122","Emma Neckett",15,6
+"123","Emma Neckett",39,6
+"124","Emma Neckett",67,6
+"125","Emma Neckett",37,6
+"126","Emma Neckett",31,6
+"127","Emma Neckett",23,6
+"128","Esther Summerson",43,34
+"129","Esther Summerson",19,34
+"130","Esther Summerson",17,34
+"131","Esther Summerson",61,34
+"132","Esther Summerson",36,34
+"133","Esther Summerson",24,34
+"134","Esther Summerson",64,34
+"135","Esther Summerson",23,34
+"136","Esther Summerson",60,34
+"137","Esther Summerson",7,34
+"138","Esther Summerson",4,34
+"139","Esther Summerson",38,34
+"140","Esther Summerson",62,34
+"141","Esther Summerson",45,34
+"142","Esther Summerson",8,34
+"143","Esther Summerson",37,34
+"144","Esther Summerson",6,34
+"145","Esther Summerson",51,34
+"146","Esther Summerson",29,34
+"147","Esther Summerson",35,34
+"148","Esther Summerson",13,34
+"149","Esther Summerson",65,34
+"150","Esther Summerson",18,34
+"151","Esther Summerson",59,34
+"152","Esther Summerson",50,34
+"153","Esther Summerson",57,34
+"154","Esther Summerson",44,34
+"155","Esther Summerson",9,34
+"156","Esther Summerson",63,34
+"157","Esther Summerson",30,34
+"158","Esther Summerson",56,34
+"159","Esther Summerson",14,34
+"160","Esther Summerson",3,34
+"161","Esther Summerson",67,34
+"162","Francis Pardiggle",8,1
+"163","George Rouncewell",27,10
+"164","George Rouncewell",34,10
+"165","George Rouncewell",24,10
+"166","George Rouncewell",26,10
+"167","George Rouncewell",21,10
+"168","George Rouncewell",52,10
+"169","George Rouncewell",58,10
+"170","George Rouncewell",47,10
+"171","George Rouncewell",63,10
+"172","George Rouncewell",49,10
+"173","Grandfather Smallweed",27,9
+"174","Grandfather Smallweed",34,9
+"175","Grandfather Smallweed",62,9
+"176","Grandfather Smallweed",54,9
+"177","Grandfather Smallweed",26,9
+"178","Grandfather Smallweed",33,9
+"179","Grandfather Smallweed",39,9
+"180","Grandfather Smallweed",21,9
+"181","Grandfather Smallweed",20,9
+"182","Guster",59,7
+"183","Guster",19,7
+"184","Guster",42,7
+"185","Guster",25,7
+"186","Guster",22,7
+"187","Guster",10,7
+"188","Guster",11,7
+"189","Inspector Bucket",42,15
+"190","Inspector Bucket",25,15
+"191","Inspector Bucket",63,15
+"192","Inspector Bucket",56,15
+"193","Inspector Bucket",62,15
+"194","Inspector Bucket",58,15
+"195","Inspector Bucket",57,15
+"196","Inspector Bucket",22,15
+"197","Inspector Bucket",26,15
+"198","Inspector Bucket",49,15
+"199","Inspector Bucket",53,15
+"200","Inspector Bucket",54,15
+"201","Inspector Bucket",24,15
+"202","Inspector Bucket",55,15
+"203","Inspector Bucket",59,15
+"204","James George Bogsby",33,1
+"205","Jenny",22,5
+"206","Jenny",31,5
+"207","Jenny",35,5
+"208","Jenny",57,5
+"209","Jenny",8,5
+"210","Jo",64,12
+"211","Jo",31,12
+"212","Jo",11,12
+"213","Jo",46,12
+"214","Jo",22,12
+"215","Jo",25,12
+"216","Jo",19,12
+"217","Jo",47,12
+"218","Jo",29,12
+"219","Jo",54,12
+"220","Jo",16,12
+"221","Jo",57,12
+"222","Jobling",54,7
+"223","Jobling",39,7
+"224","Jobling",33,7
+"225","Jobling",64,7
+"226","Jobling",20,7
+"227","Jobling",32,7
+"228","Jobling",55,7
+"229","John Jarndyce",9,34
+"230","John Jarndyce",37,34
+"231","John Jarndyce",38,34
+"232","John Jarndyce",15,34
+"233","John Jarndyce",17,34
+"234","John Jarndyce",62,34
+"235","John Jarndyce",64,34
+"236","John Jarndyce",24,34
+"237","John Jarndyce",4,34
+"238","John Jarndyce",35,34
+"239","John Jarndyce",45,34
+"240","John Jarndyce",29,34
+"241","John Jarndyce",5,34
+"242","John Jarndyce",39,34
+"243","John Jarndyce",44,34
+"244","John Jarndyce",60,34
+"245","John Jarndyce",55,34
+"246","John Jarndyce",18,34
+"247","John Jarndyce",65,34
+"248","John Jarndyce",8,34
+"249","John Jarndyce",30,34
+"250","John Jarndyce",50,34
+"251","John Jarndyce",3,34
+"252","John Jarndyce",36,34
+"253","John Jarndyce",14,34
+"254","John Jarndyce",43,34
+"255","John Jarndyce",13,34
+"256","John Jarndyce",6,34
+"257","John Jarndyce",23,34
+"258","John Jarndyce",57,34
+"259","John Jarndyce",51,34
+"260","John Jarndyce",56,34
+"261","John Jarndyce",61,34
+"262","John Jarndyce",47,34
+"263","Judy Smallweed",47,7
+"264","Judy Smallweed",34,7
+"265","Judy Smallweed",21,7
+"266","Judy Smallweed",33,7
+"267","Judy Smallweed",27,7
+"268","Judy Smallweed",26,7
+"269","Judy Smallweed",39,7
+"270","Kitty Skimpole",43,2
+"271","Kitty Skimpole",61,2
+"272","Krook",11,13
+"273","Krook",29,13
+"274","Krook",54,13
+"275","Krook",16,13
+"276","Krook",19,13
+"277","Krook",14,13
+"278","Krook",10,13
+"279","Krook",5,13
+"280","Krook",32,13
+"281","Krook",39,13
+"282","Krook",33,13
+"283","Krook",20,13
+"284","Krook",62,13
+"285","Lady Dedlock",16,26
+"286","Lady Dedlock",56,26
+"287","Lady Dedlock",28,26
+"288","Lady Dedlock",9,26
+"289","Lady Dedlock",37,26
+"290","Lady Dedlock",7,26
+"291","Lady Dedlock",42,26
+"292","Lady Dedlock",57,26
+"293","Lady Dedlock",18,26
+"294","Lady Dedlock",41,26
+"295","Lady Dedlock",58,26
+"296","Lady Dedlock",40,26
+"297","Lady Dedlock",43,26
+"298","Lady Dedlock",55,26
+"299","Lady Dedlock",54,26
+"300","Lady Dedlock",36,26
+"301","Lady Dedlock",32,26
+"302","Lady Dedlock",48,26
+"303","Lady Dedlock",66,26
+"304","Lady Dedlock",39,26
+"305","Lady Dedlock",29,26
+"306","Lady Dedlock",2,26
+"307","Lady Dedlock",33,26
+"308","Lady Dedlock",12,26
+"309","Lady Dedlock",23,26
+"310","Lady Dedlock",53,26
+"311","Laura Skimpole",43,2
+"312","Laura Skimpole",61,2
+"313","Lawrence Boythorn",16,13
+"314","Lawrence Boythorn",23,13
+"315","Lawrence Boythorn",15,13
+"316","Lawrence Boythorn",43,13
+"317","Lawrence Boythorn",18,13
+"318","Lawrence Boythorn",37,13
+"319","Lawrence Boythorn",57,13
+"320","Lawrence Boythorn",36,13
+"321","Lawrence Boythorn",12,13
+"322","Lawrence Boythorn",66,13
+"323","Lawrence Boythorn",13,13
+"324","Lawrence Boythorn",35,13
+"325","Lawrence Boythorn",9,13
+"326","Little Swills",11,5
+"327","Little Swills",19,5
+"328","Little Swills",32,5
+"329","Little Swills",39,5
+"330","Little Swills",33,5
+"331","Liz",57,4
+"332","Liz",31,4
+"333","Liz",22,4
+"334","Liz",46,4
+"335","Lord Boodle",12,3
+"336","Lord Boodle",66,3
+"337","Lord Boodle",28,3
+"338","Mademoiselle Hortense",22,6
+"339","Mademoiselle Hortense",42,6
+"340","Mademoiselle Hortense",23,6
+"341","Mademoiselle Hortense",12,6
+"342","Mademoiselle Hortense",18,6
+"343","Mademoiselle Hortense",54,6
+"344","Malta Bagnet",49,4
+"345","Malta Bagnet",34,4
+"346","Malta Bagnet",27,4
+"347","Malta Bagnet",55,4
+"348","Matthew Bagnet",55,5
+"349","Matthew Bagnet",52,5
+"350","Matthew Bagnet",27,5
+"351","Matthew Bagnet",49,5
+"352","Matthew Bagnet",34,5
+"353","Mercury",29,9
+"354","Mercury",2,9
+"355","Mercury",55,9
+"356","Mercury",16,9
+"357","Mercury",40,9
+"358","Mercury",53,9
+"359","Mercury",48,9
+"360","Mercury",54,9
+"361","Mercury",33,9
+"362","Miss Barbary",3,3
+"363","Miss Barbary",55,3
+"364","Miss Barbary",29,3
+"365","Miss Donny",3,1
+"366","Miss Flite",23,14
+"367","Miss Flite",30,14
+"368","Miss Flite",20,14
+"369","Miss Flite",14,14
+"370","Miss Flite",24,14
+"371","Miss Flite",11,14
+"372","Miss Flite",45,14
+"373","Miss Flite",33,14
+"374","Miss Flite",65,14
+"375","Miss Flite",35,14
+"376","Miss Flite",17,14
+"377","Miss Flite",50,14
+"378","Miss Flite",60,14
+"379","Miss Flite",47,14
+"380","Miss Wisk",30,1
+"381","Mooney",11,1
+"382","Mr Badger",14,6
+"383","Mr Badger",18,6
+"384","Mr Badger",23,6
+"385","Mr Badger",13,6
+"386","Mr Badger",50,6
+"387","Mr Badger",17,6
+"388","Mr Gridley",1,13
+"389","Mr Gridley",47,13
+"390","Mr Gridley",16,13
+"391","Mr Gridley",26,13
+"392","Mr Gridley",52,13
+"393","Mr Gridley",56,13
+"394","Mr Gridley",49,13
+"395","Mr Gridley",22,13
+"396","Mr Gridley",60,13
+"397","Mr Gridley",24,13
+"398","Mr Gridley",27,13
+"399","Mr Gridley",15,13
+"400","Mr Gridley",35,13
+"401","Mr Grubble",37,1
+"402","Mr Gusher",8,2
+"403","Mr Gusher",15,2
+"404","Mr Jellyby",8,8
+"405","Mr Jellyby",67,8
+"406","Mr Jellyby",30,8
+"407","Mr Jellyby",50,8
+"408","Mr Jellyby",14,8
+"409","Mr Jellyby",38,8
+"410","Mr Jellyby",23,8
+"411","Mr Jellyby",4,8
+"412","Mr Pardiggle",8,1
+"413","Mr Quale",14,6
+"414","Mr Quale",23,6
+"415","Mr Quale",5,6
+"416","Mr Quale",15,6
+"417","Mr Quale",4,6
+"418","Mr Quale",30,6
+"419","Mr Rouncewell",28,7
+"420","Mr Rouncewell",63,7
+"421","Mr Rouncewell",7,7
+"422","Mr Rouncewell",41,7
+"423","Mr Rouncewell",18,7
+"424","Mr Rouncewell",40,7
+"425","Mr Rouncewell",48,7
+"426","Mr Skimpole",57,12
+"427","Mr Skimpole",37,12
+"428","Mr Skimpole",18,12
+"429","Mr Skimpole",61,12
+"430","Mr Skimpole",8,12
+"431","Mr Skimpole",6,12
+"432","Mr Skimpole",39,12
+"433","Mr Skimpole",43,12
+"434","Mr Skimpole",31,12
+"435","Mr Skimpole",15,12
+"436","Mr Skimpole",44,12
+"437","Mr Skimpole",9,12
+"438","Mr Snagsby",22,13
+"439","Mr Snagsby",47,13
+"440","Mr Snagsby",59,13
+"441","Mr Snagsby",11,13
+"442","Mr Snagsby",33,13
+"443","Mr Snagsby",10,13
+"444","Mr Snagsby",46,13
+"445","Mr Snagsby",25,13
+"446","Mr Snagsby",32,13
+"447","Mr Snagsby",20,13
+"448","Mr Snagsby",54,13
+"449","Mr Snagsby",42,13
+"450","Mr Snagsby",19,13
+"451","Mr Tangle",1,1
+"452","Mr Tulkinghorn",27,30
+"453","Mr Tulkinghorn",28,30
+"454","Mr Tulkinghorn",20,30
+"455","Mr Tulkinghorn",48,30
+"456","Mr Tulkinghorn",24,30
+"457","Mr Tulkinghorn",7,30
+"458","Mr Tulkinghorn",47,30
+"459","Mr Tulkinghorn",49,30
+"460","Mr Tulkinghorn",25,30
+"461","Mr Tulkinghorn",10,30
+"462","Mr Tulkinghorn",11,30
+"463","Mr Tulkinghorn",42,30
+"464","Mr Tulkinghorn",41,30
+"465","Mr Tulkinghorn",54,30
+"466","Mr Tulkinghorn",26,30
+"467","Mr Tulkinghorn",34,30
+"468","Mr Tulkinghorn",2,30
+"469","Mr Tulkinghorn",39,30
+"470","Mr Tulkinghorn",40,30
+"471","Mr Tulkinghorn",57,30
+"472","Mr Tulkinghorn",59,30
+"473","Mr Tulkinghorn",33,30
+"474","Mr Tulkinghorn",53,30
+"475","Mr Tulkinghorn",29,30
+"476","Mr Tulkinghorn",44,30
+"477","Mr Tulkinghorn",12,30
+"478","Mr Tulkinghorn",15,30
+"479","Mr Tulkinghorn",22,30
+"480","Mr Tulkinghorn",55,30
+"481","Mr Tulkinghorn",16,30
+"482","Mr Turveydrop",50,6
+"483","Mr Turveydrop",38,6
+"484","Mr Turveydrop",14,6
+"485","Mr Turveydrop",23,6
+"486","Mr Turveydrop",30,6
+"487","Mr Turveydrop",67,6
+"488","Mrs Badger",13,3
+"489","Mrs Badger",30,3
+"490","Mrs Badger",17,3
+"491","Mrs Bagnet",52,5
+"492","Mrs Bagnet",27,5
+"493","Mrs Bagnet",49,5
+"494","Mrs Bagnet",34,5
+"495","Mrs Bagnet",55,5
+"496","Mrs Blinder",31,4
+"497","Mrs Blinder",23,4
+"498","Mrs Blinder",47,4
+"499","Mrs Blinder",15,4
+"500","Mrs Bucket",53,3
+"501","Mrs Bucket",54,3
+"502","Mrs Bucket",49,3
+"503","Mrs Chadband",54,6
+"504","Mrs Chadband",44,6
+"505","Mrs Chadband",19,6
+"506","Mrs Chadband",24,6
+"507","Mrs Chadband",3,6
+"508","Mrs Chadband",25,6
+"509","Mrs Guppy",64,3
+"510","Mrs Guppy",9,3
+"511","Mrs Guppy",38,3
+"512","Mrs Jellyby",23,12
+"513","Mrs Jellyby",6,12
+"514","Mrs Jellyby",50,12
+"515","Mrs Jellyby",4,12
+"516","Mrs Jellyby",14,12
+"517","Mrs Jellyby",30,12
+"518","Mrs Jellyby",67,12
+"519","Mrs Jellyby",15,12
+"520","Mrs Jellyby",8,12
+"521","Mrs Jellyby",47,12
+"522","Mrs Jellyby",38,12
+"523","Mrs Jellyby",5,12
+"524","Mrs Pardiggle",47,4
+"525","Mrs Pardiggle",8,4
+"526","Mrs Pardiggle",15,4
+"527","Mrs Pardiggle",30,4
+"528","Mrs Perkins",11,5
+"529","Mrs Perkins",20,5
+"530","Mrs Perkins",39,5
+"531","Mrs Perkins",33,5
+"532","Mrs Perkins",32,5
+"533","Mrs Piper",33,5
+"534","Mrs Piper",11,5
+"535","Mrs Piper",32,5
+"536","Mrs Piper",39,5
+"537","Mrs Piper",20,5
+"538","Mrs Rouncewell",34,9
+"539","Mrs Rouncewell",28,9
+"540","Mrs Rouncewell",12,9
+"541","Mrs Rouncewell",58,9
+"542","Mrs Rouncewell",40,9
+"543","Mrs Rouncewell",16,9
+"544","Mrs Rouncewell",55,9
+"545","Mrs Rouncewell",56,9
+"546","Mrs Rouncewell",7,9
+"547","Mrs Skimpole",6,3
+"548","Mrs Skimpole",43,3
+"549","Mrs Skimpole",18,3
+"550","Mrs Smallweed",39,5
+"551","Mrs Smallweed",34,5
+"552","Mrs Smallweed",21,5
+"553","Mrs Smallweed",54,5
+"554","Mrs Smallweed",33,5
+"555","Mrs Snagsby",33,12
+"556","Mrs Snagsby",10,12
+"557","Mrs Snagsby",11,12
+"558","Mrs Snagsby",54,12
+"559","Mrs Snagsby",31,12
+"560","Mrs Snagsby",20,12
+"561","Mrs Snagsby",25,12
+"562","Mrs Snagsby",46,12
+"563","Mrs Snagsby",22,12
+"564","Mrs Snagsby",47,12
+"565","Mrs Snagsby",59,12
+"566","Mrs Snagsby",19,12
+"567","Mrs Woodcourt",30,7
+"568","Mrs Woodcourt",62,7
+"569","Mrs Woodcourt",60,7
+"570","Mrs Woodcourt",61,7
+"571","Mrs Woodcourt",44,7
+"572","Mrs Woodcourt",64,7
+"573","Mrs Woodcourt",17,7
+"574","Oswald Pardiggle",8,1
+"575","Peepy Jellby",67,9
+"576","Peepy Jellby",30,9
+"577","Peepy Jellby",23,9
+"578","Peepy Jellby",4,9
+"579","Peepy Jellby",38,9
+"580","Peepy Jellby",14,9
+"581","Peepy Jellby",50,9
+"582","Peepy Jellby",6,9
+"583","Peepy Jellby",5,9
+"584","Peffer",10,1
+"585","Phil Squod",26,7
+"586","Phil Squod",21,7
+"587","Phil Squod",24,7
+"588","Phil Squod",56,7
+"589","Phil Squod",34,7
+"590","Phil Squod",66,7
+"591","Phil Squod",47,7
+"592","Polly",20,1
+"593","Prince Turvey",50,6
+"594","Prince Turvey",17,6
+"595","Prince Turvey",30,6
+"596","Prince Turvey",38,6
+"597","Prince Turvey",23,6
+"598","Prince Turvey",14,6
+"599","Priscilla",4,2
+"600","Priscilla",5,2
+"601","Professor Dingo",13,2
+"602","Professor Dingo",17,2
+"603","Quebec Bagnet",55,4
+"604","Quebec Bagnet",27,4
+"605","Quebec Bagnet",34,4
+"606","Quebec Bagnet",49,4
+"607","Reverend Chadband",25,3
+"608","Reverend Chadband",19,3
+"609","Reverend Chadband",54,3
+"610","Richard Carstone",6,30
+"611","Richard Carstone",37,30
+"612","Richard Carstone",23,30
+"613","Richard Carstone",50,30
+"614","Richard Carstone",14,30
+"615","Richard Carstone",61,30
+"616","Richard Carstone",17,30
+"617","Richard Carstone",64,30
+"618","Richard Carstone",4,30
+"619","Richard Carstone",59,30
+"620","Richard Carstone",44,30
+"621","Richard Carstone",67,30
+"622","Richard Carstone",45,30
+"623","Richard Carstone",62,30
+"624","Richard Carstone",9,30
+"625","Richard Carstone",13,30
+"626","Richard Carstone",8,30
+"627","Richard Carstone",46,30
+"628","Richard Carstone",60,30
+"629","Richard Carstone",18,30
+"630","Richard Carstone",43,30
+"631","Richard Carstone",5,30
+"632","Richard Carstone",30,30
+"633","Richard Carstone",20,30
+"634","Richard Carstone",35,30
+"635","Richard Carstone",65,30
+"636","Richard Carstone",24,30
+"637","Richard Carstone",51,30
+"638","Richard Carstone",39,30
+"639","Richard Carstone",3,30
+"640","Rosa",48,6
+"641","Rosa",16,6
+"642","Rosa",28,6
+"643","Rosa",12,6
+"644","Rosa",7,6
+"645","Rosa",63,6
+"646","Sir Dedlock",66,25
+"647","Sir Dedlock",43,25
+"648","Sir Dedlock",52,25
+"649","Sir Dedlock",54,25
+"650","Sir Dedlock",18,25
+"651","Sir Dedlock",41,25
+"652","Sir Dedlock",48,25
+"653","Sir Dedlock",49,25
+"654","Sir Dedlock",40,25
+"655","Sir Dedlock",27,25
+"656","Sir Dedlock",62,25
+"657","Sir Dedlock",56,25
+"658","Sir Dedlock",7,25
+"659","Sir Dedlock",16,25
+"660","Sir Dedlock",57,25
+"661","Sir Dedlock",55,25
+"662","Sir Dedlock",12,25
+"663","Sir Dedlock",28,25
+"664","Sir Dedlock",29,25
+"665","Sir Dedlock",36,25
+"666","Sir Dedlock",2,25
+"667","Sir Dedlock",58,25
+"668","Sir Dedlock",63,25
+"669","Sir Dedlock",53,25
+"670","Sir Dedlock",9,25
+"671","Sladdery",58,2
+"672","Sladdery",2,2
+"673","Thomas",40,1
+"674","Tom Neckett",23,4
+"675","Tom Neckett",31,4
+"676","Tom Neckett",15,4
+"677","Tom Neckett",67,4
+"678","Vholes",39,8
+"679","Vholes",45,8
+"680","Vholes",65,8
+"681","Vholes",51,8
+"682","Vholes",60,8
+"683","Vholes",37,8
+"684","Vholes",43,8
+"685","Vholes",62,8
+"686","Volumnia Dedlock",53,7
+"687","Volumnia Dedlock",41,7
+"688","Volumnia Dedlock",66,7
+"689","Volumnia Dedlock",40,7
+"690","Volumnia Dedlock",58,7
+"691","Volumnia Dedlock",56,7
+"692","Volumnia Dedlock",28,7
+"693","Watt Rouncewell",7,3
+"694","Watt Rouncewell",12,3
+"695","Watt Rouncewell",63,3
+"696","William Buffy",28,5
+"697","William Buffy",58,5
+"698","William Buffy",12,5
+"699","William Buffy",53,5
+"700","William Buffy",66,5
+"701","William Guppy",13,20
+"702","William Guppy",24,20
+"703","William Guppy",21,20
+"704","William Guppy",9,20
+"705","William Guppy",4,20
+"706","William Guppy",48,20
+"707","William Guppy",29,20
+"708","William Guppy",38,20
+"709","William Guppy",20,20
+"710","William Guppy",54,20
+"711","William Guppy",19,20
+"712","William Guppy",55,20
+"713","William Guppy",44,20
+"714","William Guppy",39,20
+"715","William Guppy",33,20
+"716","William Guppy",32,20
+"717","William Guppy",62,20
+"718","William Guppy",64,20
+"719","William Guppy",7,20
+"720","William Guppy",14,20
+"721","Woolwich Bagnet",27,5
+"722","Woolwich Bagnet",52,5
+"723","Woolwich Bagnet",34,5
+"724","Woolwich Bagnet",55,5
+"725","Woolwich Bagnet",49,5

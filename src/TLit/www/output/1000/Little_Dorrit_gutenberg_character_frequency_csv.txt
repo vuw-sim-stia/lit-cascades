@@ -1,0 +1,1531 @@
+"","Character","Node","Appearances"
+"1","Affery Flintwinch",16,42
+"2","Affery Flintwinch",18,42
+"3","Affery Flintwinch",356,42
+"4","Affery Flintwinch",159,42
+"5","Affery Flintwinch",310,42
+"6","Affery Flintwinch",23,42
+"7","Affery Flintwinch",283,42
+"8","Affery Flintwinch",312,42
+"9","Affery Flintwinch",77,42
+"10","Affery Flintwinch",245,42
+"11","Affery Flintwinch",82,42
+"12","Affery Flintwinch",353,42
+"13","Affery Flintwinch",19,42
+"14","Affery Flintwinch",308,42
+"15","Affery Flintwinch",154,42
+"16","Affery Flintwinch",17,42
+"17","Affery Flintwinch",349,42
+"18","Affery Flintwinch",160,42
+"19","Affery Flintwinch",367,42
+"20","Affery Flintwinch",20,42
+"21","Affery Flintwinch",24,42
+"22","Affery Flintwinch",81,42
+"23","Affery Flintwinch",347,42
+"24","Affery Flintwinch",155,42
+"25","Affery Flintwinch",360,42
+"26","Affery Flintwinch",83,42
+"27","Affery Flintwinch",80,42
+"28","Affery Flintwinch",244,42
+"29","Affery Flintwinch",355,42
+"30","Affery Flintwinch",157,42
+"31","Affery Flintwinch",247,42
+"32","Affery Flintwinch",309,42
+"33","Affery Flintwinch",346,42
+"34","Affery Flintwinch",65,42
+"35","Affery Flintwinch",350,42
+"36","Affery Flintwinch",156,42
+"37","Affery Flintwinch",15,42
+"38","Affery Flintwinch",246,42
+"39","Affery Flintwinch",153,42
+"40","Affery Flintwinch",313,42
+"41","Affery Flintwinch",25,42
+"42","Affery Flintwinch",311,42
+"43","Amy Dorrit",45,148
+"44","Amy Dorrit",62,148
+"45","Amy Dorrit",218,148
+"46","Amy Dorrit",332,148
+"47","Amy Dorrit",336,148
+"48","Amy Dorrit",79,148
+"49","Amy Dorrit",213,148
+"50","Amy Dorrit",345,148
+"51","Amy Dorrit",82,148
+"52","Amy Dorrit",40,148
+"53","Amy Dorrit",44,148
+"54","Amy Dorrit",185,148
+"55","Amy Dorrit",228,148
+"56","Amy Dorrit",42,148
+"57","Amy Dorrit",103,148
+"58","Amy Dorrit",221,148
+"59","Amy Dorrit",233,148
+"60","Amy Dorrit",294,148
+"61","Amy Dorrit",96,148
+"62","Amy Dorrit",126,148
+"63","Amy Dorrit",365,148
+"64","Amy Dorrit",189,148
+"65","Amy Dorrit",99,148
+"66","Amy Dorrit",41,148
+"67","Amy Dorrit",166,148
+"68","Amy Dorrit",130,148
+"69","Amy Dorrit",122,148
+"70","Amy Dorrit",128,148
+"71","Amy Dorrit",229,148
+"72","Amy Dorrit",129,148
+"73","Amy Dorrit",33,148
+"74","Amy Dorrit",39,148
+"75","Amy Dorrit",77,148
+"76","Amy Dorrit",104,148
+"77","Amy Dorrit",286,148
+"78","Amy Dorrit",216,148
+"79","Amy Dorrit",168,148
+"80","Amy Dorrit",344,148
+"81","Amy Dorrit",108,148
+"82","Amy Dorrit",125,148
+"83","Amy Dorrit",288,148
+"84","Amy Dorrit",167,148
+"85","Amy Dorrit",101,148
+"86","Amy Dorrit",43,148
+"87","Amy Dorrit",343,148
+"88","Amy Dorrit",234,148
+"89","Amy Dorrit",107,148
+"90","Amy Dorrit",372,148
+"91","Amy Dorrit",34,148
+"92","Amy Dorrit",37,148
+"93","Amy Dorrit",357,148
+"94","Amy Dorrit",94,148
+"95","Amy Dorrit",331,148
+"96","Amy Dorrit",187,148
+"97","Amy Dorrit",371,148
+"98","Amy Dorrit",36,148
+"99","Amy Dorrit",46,148
+"100","Amy Dorrit",102,148
+"101","Amy Dorrit",25,148
+"102","Amy Dorrit",111,148
+"103","Amy Dorrit",66,148
+"104","Amy Dorrit",154,148
+"105","Amy Dorrit",78,148
+"106","Amy Dorrit",127,148
+"107","Amy Dorrit",227,148
+"108","Amy Dorrit",271,148
+"109","Amy Dorrit",368,148
+"110","Amy Dorrit",190,148
+"111","Amy Dorrit",95,148
+"112","Amy Dorrit",328,148
+"113","Amy Dorrit",120,148
+"114","Amy Dorrit",369,148
+"115","Amy Dorrit",359,148
+"116","Amy Dorrit",290,148
+"117","Amy Dorrit",215,148
+"118","Amy Dorrit",97,148
+"119","Amy Dorrit",370,148
+"120","Amy Dorrit",293,148
+"121","Amy Dorrit",276,148
+"122","Amy Dorrit",217,148
+"123","Amy Dorrit",273,148
+"124","Amy Dorrit",105,148
+"125","Amy Dorrit",269,148
+"126","Amy Dorrit",346,148
+"127","Amy Dorrit",83,148
+"128","Amy Dorrit",226,148
+"129","Amy Dorrit",117,148
+"130","Amy Dorrit",165,148
+"131","Amy Dorrit",84,148
+"132","Amy Dorrit",267,148
+"133","Amy Dorrit",121,148
+"134","Amy Dorrit",316,148
+"135","Amy Dorrit",225,148
+"136","Amy Dorrit",173,148
+"137","Amy Dorrit",268,148
+"138","Amy Dorrit",193,148
+"139","Amy Dorrit",106,148
+"140","Amy Dorrit",266,148
+"141","Amy Dorrit",188,148
+"142","Amy Dorrit",214,148
+"143","Amy Dorrit",186,148
+"144","Amy Dorrit",210,148
+"145","Amy Dorrit",205,148
+"146","Amy Dorrit",172,148
+"147","Amy Dorrit",211,148
+"148","Amy Dorrit",115,148
+"149","Amy Dorrit",75,148
+"150","Amy Dorrit",170,148
+"151","Amy Dorrit",109,148
+"152","Amy Dorrit",204,148
+"153","Amy Dorrit",250,148
+"154","Amy Dorrit",289,148
+"155","Amy Dorrit",315,148
+"156","Amy Dorrit",209,148
+"157","Amy Dorrit",366,148
+"158","Amy Dorrit",240,148
+"159","Amy Dorrit",208,148
+"160","Amy Dorrit",61,148
+"161","Amy Dorrit",249,148
+"162","Amy Dorrit",275,148
+"163","Amy Dorrit",231,148
+"164","Amy Dorrit",230,148
+"165","Amy Dorrit",35,148
+"166","Amy Dorrit",131,148
+"167","Amy Dorrit",169,148
+"168","Amy Dorrit",327,148
+"169","Amy Dorrit",153,148
+"170","Amy Dorrit",292,148
+"171","Amy Dorrit",374,148
+"172","Amy Dorrit",358,148
+"173","Amy Dorrit",171,148
+"174","Amy Dorrit",38,148
+"175","Amy Dorrit",222,148
+"176","Amy Dorrit",248,148
+"177","Amy Dorrit",143,148
+"178","Amy Dorrit",201,148
+"179","Amy Dorrit",285,148
+"180","Amy Dorrit",206,148
+"181","Amy Dorrit",116,148
+"182","Amy Dorrit",223,148
+"183","Amy Dorrit",64,148
+"184","Amy Dorrit",274,148
+"185","Amy Dorrit",24,148
+"186","Amy Dorrit",224,148
+"187","Amy Dorrit",76,148
+"188","Amy Dorrit",373,148
+"189","Amy Dorrit",65,148
+"190","Amy Dorrit",86,148
+"191","Anastasia Rugg",186,4
+"192","Anastasia Rugg",134,4
+"193","Anastasia Rugg",132,4
+"194","Anastasia Rugg",133,4
+"195","Arthur Clennam",150,210
+"196","Arthur Clennam",45,210
+"197","Arthur Clennam",39,210
+"198","Arthur Clennam",242,210
+"199","Arthur Clennam",372,210
+"200","Arthur Clennam",336,210
+"201","Arthur Clennam",18,210
+"202","Arthur Clennam",212,210
+"203","Arthur Clennam",122,210
+"204","Arthur Clennam",324,210
+"205","Arthur Clennam",161,210
+"206","Arthur Clennam",123,210
+"207","Arthur Clennam",355,210
+"208","Arthur Clennam",140,210
+"209","Arthur Clennam",354,210
+"210","Arthur Clennam",312,210
+"211","Arthur Clennam",235,210
+"212","Arthur Clennam",159,210
+"213","Arthur Clennam",217,210
+"214","Arthur Clennam",41,210
+"215","Arthur Clennam",328,210
+"216","Arthur Clennam",181,210
+"217","Arthur Clennam",25,210
+"218","Arthur Clennam",188,210
+"219","Arthur Clennam",240,210
+"220","Arthur Clennam",17,210
+"221","Arthur Clennam",356,210
+"222","Arthur Clennam",78,210
+"223","Arthur Clennam",365,210
+"224","Arthur Clennam",241,210
+"225","Arthur Clennam",64,210
+"226","Arthur Clennam",285,210
+"227","Arthur Clennam",138,210
+"228","Arthur Clennam",295,210
+"229","Arthur Clennam",128,210
+"230","Arthur Clennam",167,210
+"231","Arthur Clennam",205,210
+"232","Arthur Clennam",61,210
+"233","Arthur Clennam",69,210
+"234","Arthur Clennam",139,210
+"235","Arthur Clennam",296,210
+"236","Arthur Clennam",168,210
+"237","Arthur Clennam",185,210
+"238","Arthur Clennam",155,210
+"239","Arthur Clennam",62,210
+"240","Arthur Clennam",130,210
+"241","Arthur Clennam",72,210
+"242","Arthur Clennam",91,210
+"243","Arthur Clennam",46,210
+"244","Arthur Clennam",169,210
+"245","Arthur Clennam",21,210
+"246","Arthur Clennam",73,210
+"247","Arthur Clennam",74,210
+"248","Arthur Clennam",142,210
+"249","Arthur Clennam",37,210
+"250","Arthur Clennam",67,210
+"251","Arthur Clennam",297,210
+"252","Arthur Clennam",357,210
+"253","Arthur Clennam",187,210
+"254","Arthur Clennam",35,210
+"255","Arthur Clennam",38,210
+"256","Arthur Clennam",239,210
+"257","Arthur Clennam",359,210
+"258","Arthur Clennam",349,210
+"259","Arthur Clennam",10,210
+"260","Arthur Clennam",66,210
+"261","Arthur Clennam",361,210
+"262","Arthur Clennam",232,210
+"263","Arthur Clennam",280,210
+"264","Arthur Clennam",373,210
+"265","Arthur Clennam",331,210
+"266","Arthur Clennam",233,210
+"267","Arthur Clennam",183,210
+"268","Arthur Clennam",190,210
+"269","Arthur Clennam",351,210
+"270","Arthur Clennam",16,210
+"271","Arthur Clennam",191,210
+"272","Arthur Clennam",353,210
+"273","Arthur Clennam",81,210
+"274","Arthur Clennam",121,210
+"275","Arthur Clennam",148,210
+"276","Arthur Clennam",370,210
+"277","Arthur Clennam",137,210
+"278","Arthur Clennam",90,210
+"279","Arthur Clennam",345,210
+"280","Arthur Clennam",149,210
+"281","Arthur Clennam",244,210
+"282","Arthur Clennam",281,210
+"283","Arthur Clennam",63,210
+"284","Arthur Clennam",346,210
+"285","Arthur Clennam",193,210
+"286","Arthur Clennam",36,210
+"287","Arthur Clennam",104,210
+"288","Arthur Clennam",237,210
+"289","Arthur Clennam",151,210
+"290","Arthur Clennam",44,210
+"291","Arthur Clennam",75,210
+"292","Arthur Clennam",180,210
+"293","Arthur Clennam",124,210
+"294","Arthur Clennam",76,210
+"295","Arthur Clennam",374,210
+"296","Arthur Clennam",65,210
+"297","Arthur Clennam",144,210
+"298","Arthur Clennam",135,210
+"299","Arthur Clennam",306,210
+"300","Arthur Clennam",77,210
+"301","Arthur Clennam",329,210
+"302","Arthur Clennam",330,210
+"303","Arthur Clennam",126,210
+"304","Arthur Clennam",13,210
+"305","Arthur Clennam",189,210
+"306","Arthur Clennam",119,210
+"307","Arthur Clennam",127,210
+"308","Arthur Clennam",332,210
+"309","Arthur Clennam",42,210
+"310","Arthur Clennam",68,210
+"311","Arthur Clennam",157,210
+"312","Arthur Clennam",334,210
+"313","Arthur Clennam",343,210
+"314","Arthur Clennam",43,210
+"315","Arthur Clennam",70,210
+"316","Arthur Clennam",261,210
+"317","Arthur Clennam",89,210
+"318","Arthur Clennam",243,210
+"319","Arthur Clennam",326,210
+"320","Arthur Clennam",162,210
+"321","Arthur Clennam",371,210
+"322","Arthur Clennam",262,210
+"323","Arthur Clennam",236,210
+"324","Arthur Clennam",337,210
+"325","Arthur Clennam",311,210
+"326","Arthur Clennam",245,210
+"327","Arthur Clennam",186,210
+"328","Arthur Clennam",338,210
+"329","Arthur Clennam",325,210
+"330","Arthur Clennam",170,210
+"331","Arthur Clennam",282,210
+"332","Arthur Clennam",308,210
+"333","Arthur Clennam",173,210
+"334","Arthur Clennam",313,210
+"335","Arthur Clennam",51,210
+"336","Arthur Clennam",358,210
+"337","Arthur Clennam",327,210
+"338","Arthur Clennam",93,210
+"339","Arthur Clennam",305,210
+"340","Arthur Clennam",52,210
+"341","Arthur Clennam",117,210
+"342","Arthur Clennam",87,210
+"343","Arthur Clennam",341,210
+"344","Arthur Clennam",350,210
+"345","Arthur Clennam",310,210
+"346","Arthur Clennam",143,210
+"347","Arthur Clennam",342,210
+"348","Arthur Clennam",260,210
+"349","Arthur Clennam",15,210
+"350","Arthur Clennam",369,210
+"351","Arthur Clennam",175,210
+"352","Arthur Clennam",234,210
+"353","Arthur Clennam",83,210
+"354","Arthur Clennam",147,210
+"355","Arthur Clennam",335,210
+"356","Arthur Clennam",344,210
+"357","Arthur Clennam",84,210
+"358","Arthur Clennam",115,210
+"359","Arthur Clennam",211,210
+"360","Arthur Clennam",194,210
+"361","Arthur Clennam",323,210
+"362","Arthur Clennam",71,210
+"363","Arthur Clennam",298,210
+"364","Arthur Clennam",367,210
+"365","Arthur Clennam",247,210
+"366","Arthur Clennam",309,210
+"367","Arthur Clennam",141,210
+"368","Arthur Clennam",114,210
+"369","Arthur Clennam",263,210
+"370","Arthur Clennam",118,210
+"371","Arthur Clennam",54,210
+"372","Arthur Clennam",49,210
+"373","Arthur Clennam",249,210
+"374","Arthur Clennam",339,210
+"375","Arthur Clennam",238,210
+"376","Arthur Clennam",86,210
+"377","Arthur Clennam",146,210
+"378","Arthur Clennam",352,210
+"379","Arthur Clennam",50,210
+"380","Arthur Clennam",171,210
+"381","Arthur Clennam",248,210
+"382","Arthur Clennam",92,210
+"383","Arthur Clennam",366,210
+"384","Arthur Clennam",14,210
+"385","Arthur Clennam",307,210
+"386","Arthur Clennam",24,210
+"387","Arthur Clennam",23,210
+"388","Arthur Clennam",120,210
+"389","Arthur Clennam",88,210
+"390","Arthur Clennam",9,210
+"391","Arthur Clennam",125,210
+"392","Arthur Clennam",85,210
+"393","Arthur Clennam",250,210
+"394","Arthur Clennam",174,210
+"395","Arthur Clennam",145,210
+"396","Arthur Clennam",340,210
+"397","Arthur Clennam",246,210
+"398","Arthur Clennam",172,210
+"399","Arthur Clennam",368,210
+"400","Arthur Clennam",48,210
+"401","Arthur Clennam",116,210
+"402","Arthur Clennam",347,210
+"403","Arthur Clennam",11,210
+"404","Arthur Clennam",53,210
+"405","Augustus Stiltstalking",140,1
+"406","Bob",34,4
+"407","Bob",31,4
+"408","Bob",292,4
+"409","Bob",293,4
+"410","Captain Maroon",63,1
+"411","Captain Martin",101,1
+"412","Christopher Casby",243,25
+"413","Christopher Casby",295,25
+"414","Christopher Casby",129,25
+"415","Christopher Casby",66,25
+"416","Christopher Casby",67,25
+"417","Christopher Casby",361,25
+"418","Christopher Casby",63,25
+"419","Christopher Casby",65,25
+"420","Christopher Casby",120,25
+"421","Christopher Casby",242,25
+"422","Christopher Casby",70,25
+"423","Christopher Casby",309,25
+"424","Christopher Casby",123,25
+"425","Christopher Casby",310,25
+"426","Christopher Casby",153,25
+"427","Christopher Casby",364,25
+"428","Christopher Casby",363,25
+"429","Christopher Casby",122,25
+"430","Christopher Casby",362,25
+"431","Christopher Casby",193,25
+"432","Christopher Casby",124,25
+"433","Christopher Casby",346,25
+"434","Christopher Casby",186,25
+"435","Christopher Casby",125,25
+"436","Christopher Casby",241,25
+"437","Clarence Barnacle",48,3
+"438","Clarence Barnacle",138,3
+"439","Clarence Barnacle",91,3
+"440","Daniel Doyce",312,41
+"441","Daniel Doyce",149,41
+"442","Daniel Doyce",92,41
+"443","Daniel Doyce",186,41
+"444","Daniel Doyce",241,41
+"445","Daniel Doyce",88,41
+"446","Daniel Doyce",54,41
+"447","Daniel Doyce",120,41
+"448","Daniel Doyce",61,41
+"449","Daniel Doyce",187,41
+"450","Daniel Doyce",305,41
+"451","Daniel Doyce",138,41
+"452","Daniel Doyce",180,41
+"453","Daniel Doyce",89,41
+"454","Daniel Doyce",263,41
+"455","Daniel Doyce",264,41
+"456","Daniel Doyce",91,41
+"457","Daniel Doyce",137,41
+"458","Daniel Doyce",119,41
+"459","Daniel Doyce",84,41
+"460","Daniel Doyce",151,41
+"461","Daniel Doyce",369,41
+"462","Daniel Doyce",373,41
+"463","Daniel Doyce",188,41
+"464","Daniel Doyce",150,41
+"465","Daniel Doyce",240,41
+"466","Daniel Doyce",370,41
+"467","Daniel Doyce",118,41
+"468","Daniel Doyce",86,41
+"469","Daniel Doyce",232,41
+"470","Daniel Doyce",85,41
+"471","Daniel Doyce",53,41
+"472","Daniel Doyce",306,41
+"473","Daniel Doyce",371,41
+"474","Daniel Doyce",323,41
+"475","Daniel Doyce",87,41
+"476","Daniel Doyce",374,41
+"477","Daniel Doyce",93,41
+"478","Daniel Doyce",281,41
+"479","Daniel Doyce",260,41
+"480","Daniel Doyce",233,41
+"481","Dawes",301,1
+"482","Doctor Haggage",31,2
+"483","Doctor Haggage",28,2
+"484","Edward Dorrit",104,24
+"485","Edward Dorrit",35,24
+"486","Edward Dorrit",34,24
+"487","Edward Dorrit",129,24
+"488","Edward Dorrit",374,24
+"489","Edward Dorrit",217,24
+"490","Edward Dorrit",37,24
+"491","Edward Dorrit",192,24
+"492","Edward Dorrit",169,24
+"493","Edward Dorrit",191,24
+"494","Edward Dorrit",204,24
+"495","Edward Dorrit",95,24
+"496","Edward Dorrit",207,24
+"497","Edward Dorrit",219,24
+"498","Edward Dorrit",208,24
+"499","Edward Dorrit",224,24
+"500","Edward Dorrit",39,24
+"501","Edward Dorrit",38,24
+"502","Edward Dorrit",109,24
+"503","Edward Dorrit",206,24
+"504","Edward Dorrit",293,24
+"505","Edward Dorrit",170,24
+"506","Edward Dorrit",63,24
+"507","Edward Dorrit",201,24
+"508","Ephraim Flintwinch",354,1
+"509","Fanny Dorrit",228,73
+"510","Fanny Dorrit",271,73
+"511","Fanny Dorrit",104,73
+"512","Fanny Dorrit",168,73
+"513","Fanny Dorrit",205,73
+"514","Fanny Dorrit",227,73
+"515","Fanny Dorrit",207,73
+"516","Fanny Dorrit",213,73
+"517","Fanny Dorrit",192,73
+"518","Fanny Dorrit",222,73
+"519","Fanny Dorrit",211,73
+"520","Fanny Dorrit",221,73
+"521","Fanny Dorrit",365,73
+"522","Fanny Dorrit",290,73
+"523","Fanny Dorrit",209,73
+"524","Fanny Dorrit",44,73
+"525","Fanny Dorrit",169,73
+"526","Fanny Dorrit",166,73
+"527","Fanny Dorrit",107,73
+"528","Fanny Dorrit",191,73
+"529","Fanny Dorrit",75,73
+"530","Fanny Dorrit",109,73
+"531","Fanny Dorrit",273,73
+"532","Fanny Dorrit",370,73
+"533","Fanny Dorrit",272,73
+"534","Fanny Dorrit",167,73
+"535","Fanny Dorrit",229,73
+"536","Fanny Dorrit",226,73
+"537","Fanny Dorrit",216,73
+"538","Fanny Dorrit",79,73
+"539","Fanny Dorrit",315,73
+"540","Fanny Dorrit",33,73
+"541","Fanny Dorrit",231,73
+"542","Fanny Dorrit",193,73
+"543","Fanny Dorrit",291,73
+"544","Fanny Dorrit",225,73
+"545","Fanny Dorrit",374,73
+"546","Fanny Dorrit",267,73
+"547","Fanny Dorrit",277,73
+"548","Fanny Dorrit",212,73
+"549","Fanny Dorrit",289,73
+"550","Fanny Dorrit",204,73
+"551","Fanny Dorrit",214,73
+"552","Fanny Dorrit",318,73
+"553","Fanny Dorrit",316,73
+"554","Fanny Dorrit",266,73
+"555","Fanny Dorrit",279,73
+"556","Fanny Dorrit",105,73
+"557","Fanny Dorrit",223,73
+"558","Fanny Dorrit",317,73
+"559","Fanny Dorrit",268,73
+"560","Fanny Dorrit",224,73
+"561","Fanny Dorrit",42,73
+"562","Fanny Dorrit",219,73
+"563","Fanny Dorrit",217,73
+"564","Fanny Dorrit",265,73
+"565","Fanny Dorrit",270,73
+"566","Fanny Dorrit",106,73
+"567","Fanny Dorrit",274,73
+"568","Fanny Dorrit",269,73
+"569","Fanny Dorrit",250,73
+"570","Fanny Dorrit",108,73
+"571","Fanny Dorrit",37,73
+"572","Fanny Dorrit",275,73
+"573","Fanny Dorrit",218,73
+"574","Fanny Dorrit",276,73
+"575","Fanny Dorrit",206,73
+"576","Fanny Dorrit",38,73
+"577","Fanny Dorrit",314,73
+"578","Fanny Dorrit",208,73
+"579","Fanny Dorrit",249,73
+"580","Fanny Dorrit",170,73
+"581","Fanny Dorrit",285,73
+"582","Ferdinand Barnacle",256,12
+"583","Ferdinand Barnacle",257,12
+"584","Ferdinand Barnacle",93,12
+"585","Ferdinand Barnacle",49,12
+"586","Ferdinand Barnacle",253,12
+"587","Ferdinand Barnacle",252,12
+"588","Ferdinand Barnacle",335,12
+"589","Ferdinand Barnacle",319,12
+"590","Ferdinand Barnacle",182,12
+"591","Ferdinand Barnacle",92,12
+"592","Ferdinand Barnacle",334,12
+"593","Ferdinand Barnacle",254,12
+"594","Flora Finching",372,36
+"595","Flora Finching",312,36
+"596","Flora Finching",243,36
+"597","Flora Finching",70,36
+"598","Flora Finching",69,36
+"599","Flora Finching",280,36
+"600","Flora Finching",74,36
+"601","Flora Finching",73,36
+"602","Flora Finching",154,36
+"603","Flora Finching",66,36
+"604","Flora Finching",126,36
+"605","Flora Finching",310,36
+"606","Flora Finching",371,36
+"607","Flora Finching",186,36
+"608","Flora Finching",281,36
+"609","Flora Finching",188,36
+"610","Flora Finching",71,36
+"611","Flora Finching",374,36
+"612","Flora Finching",120,36
+"613","Flora Finching",68,36
+"614","Flora Finching",311,36
+"615","Flora Finching",122,36
+"616","Flora Finching",65,36
+"617","Flora Finching",121,36
+"618","Flora Finching",125,36
+"619","Flora Finching",67,36
+"620","Flora Finching",119,36
+"621","Flora Finching",282,36
+"622","Flora Finching",187,36
+"623","Flora Finching",241,36
+"624","Flora Finching",309,36
+"625","Flora Finching",127,36
+"626","Flora Finching",242,36
+"627","Flora Finching",240,36
+"628","Flora Finching",128,36
+"629","Flora Finching",313,36
+"630","Harriet Beadle",7,19
+"631","Harriet Beadle",369,19
+"632","Harriet Beadle",86,19
+"633","Harriet Beadle",87,19
+"634","Harriet Beadle",8,19
+"635","Harriet Beadle",147,19
+"636","Harriet Beadle",145,19
+"637","Harriet Beadle",146,19
+"638","Harriet Beadle",149,19
+"639","Harriet Beadle",237,19
+"640","Harriet Beadle",368,19
+"641","Harriet Beadle",240,19
+"642","Harriet Beadle",299,19
+"643","Harriet Beadle",367,19
+"644","Harriet Beadle",298,19
+"645","Harriet Beadle",144,19
+"646","Harriet Beadle",88,19
+"647","Harriet Beadle",244,19
+"648","Harriet Beadle",9,19
+"649","Henry Gowan",176,47
+"650","Henry Gowan",297,47
+"651","Henry Gowan",205,47
+"652","Henry Gowan",140,47
+"653","Henry Gowan",265,47
+"654","Henry Gowan",235,47
+"655","Henry Gowan",148,47
+"656","Henry Gowan",365,47
+"657","Henry Gowan",90,47
+"658","Henry Gowan",339,47
+"659","Henry Gowan",217,47
+"660","Henry Gowan",302,47
+"661","Henry Gowan",229,47
+"662","Henry Gowan",220,47
+"663","Henry Gowan",222,47
+"664","Henry Gowan",234,47
+"665","Henry Gowan",228,47
+"666","Henry Gowan",303,47
+"667","Henry Gowan",221,47
+"668","Henry Gowan",143,47
+"669","Henry Gowan",237,47
+"670","Henry Gowan",366,47
+"671","Henry Gowan",223,47
+"672","Henry Gowan",211,47
+"673","Henry Gowan",282,47
+"674","Henry Gowan",175,47
+"675","Henry Gowan",236,47
+"676","Henry Gowan",93,47
+"677","Henry Gowan",139,47
+"678","Henry Gowan",138,47
+"679","Henry Gowan",248,47
+"680","Henry Gowan",249,47
+"681","Henry Gowan",141,47
+"682","Henry Gowan",150,47
+"683","Henry Gowan",283,47
+"684","Henry Gowan",204,47
+"685","Henry Gowan",225,47
+"686","Henry Gowan",183,47
+"687","Henry Gowan",177,47
+"688","Henry Gowan",180,47
+"689","Henry Gowan",230,47
+"690","Henry Gowan",142,47
+"691","Henry Gowan",91,47
+"692","Henry Gowan",92,47
+"693","Henry Gowan",181,47
+"694","Henry Gowan",137,47
+"695","Henry Gowan",268,47
+"696","Jeremiah Flintwinch",158,44
+"697","Jeremiah Flintwinch",310,44
+"698","Jeremiah Flintwinch",25,44
+"699","Jeremiah Flintwinch",17,44
+"700","Jeremiah Flintwinch",82,44
+"701","Jeremiah Flintwinch",161,44
+"702","Jeremiah Flintwinch",83,44
+"703","Jeremiah Flintwinch",354,44
+"704","Jeremiah Flintwinch",21,44
+"705","Jeremiah Flintwinch",81,44
+"706","Jeremiah Flintwinch",18,44
+"707","Jeremiah Flintwinch",156,44
+"708","Jeremiah Flintwinch",341,44
+"709","Jeremiah Flintwinch",19,44
+"710","Jeremiah Flintwinch",283,44
+"711","Jeremiah Flintwinch",20,44
+"712","Jeremiah Flintwinch",349,44
+"713","Jeremiah Flintwinch",360,44
+"714","Jeremiah Flintwinch",309,44
+"715","Jeremiah Flintwinch",162,44
+"716","Jeremiah Flintwinch",356,44
+"717","Jeremiah Flintwinch",350,44
+"718","Jeremiah Flintwinch",308,44
+"719","Jeremiah Flintwinch",353,44
+"720","Jeremiah Flintwinch",246,44
+"721","Jeremiah Flintwinch",355,44
+"722","Jeremiah Flintwinch",160,44
+"723","Jeremiah Flintwinch",281,44
+"724","Jeremiah Flintwinch",157,44
+"725","Jeremiah Flintwinch",16,44
+"726","Jeremiah Flintwinch",245,44
+"727","Jeremiah Flintwinch",159,44
+"728","Jeremiah Flintwinch",76,44
+"729","Jeremiah Flintwinch",312,44
+"730","Jeremiah Flintwinch",23,44
+"731","Jeremiah Flintwinch",346,44
+"732","Jeremiah Flintwinch",311,44
+"733","Jeremiah Flintwinch",153,44
+"734","Jeremiah Flintwinch",340,44
+"735","Jeremiah Flintwinch",163,44
+"736","Jeremiah Flintwinch",348,44
+"737","Jeremiah Flintwinch",347,44
+"738","Jeremiah Flintwinch",80,44
+"739","Jeremiah Flintwinch",282,44
+"740","John Baptist Cavalletto",2,22
+"741","John Baptist Cavalletto",237,22
+"742","John Baptist Cavalletto",3,22
+"743","John Baptist Cavalletto",338,22
+"744","John Baptist Cavalletto",4,22
+"745","John Baptist Cavalletto",342,22
+"746","John Baptist Cavalletto",310,22
+"747","John Baptist Cavalletto",5,22
+"748","John Baptist Cavalletto",58,22
+"749","John Baptist Cavalletto",306,22
+"750","John Baptist Cavalletto",6,22
+"751","John Baptist Cavalletto",262,22
+"752","John Baptist Cavalletto",60,22
+"753","John Baptist Cavalletto",341,22
+"754","John Baptist Cavalletto",134,22
+"755","John Baptist Cavalletto",307,22
+"756","John Baptist Cavalletto",339,22
+"757","John Baptist Cavalletto",337,22
+"758","John Baptist Cavalletto",59,22
+"759","John Baptist Cavalletto",340,22
+"760","John Baptist Cavalletto",308,22
+"761","John Baptist Cavalletto",260,22
+"762","John Chivery",326,2
+"763","John Chivery",328,2
+"764","John Edward Nandy",259,9
+"765","John Edward Nandy",167,9
+"766","John Edward Nandy",211,9
+"767","John Edward Nandy",261,9
+"768","John Edward Nandy",164,9
+"769","John Edward Nandy",260,9
+"770","John Edward Nandy",166,9
+"771","John Edward Nandy",165,9
+"772","John Edward Nandy",168,9
+"773","Lady Stiltstalking",91,1
+"774","Lord Decimus Tite Barnacle",135,5
+"775","Lord Decimus Tite Barnacle",183,5
+"776","Lord Decimus Tite Barnacle",182,5
+"777","Lord Decimus Tite Barnacle",66,5
+"778","Lord Decimus Tite Barnacle",67,5
+"779","Lord Lancaster Stiltstalking",139,2
+"780","Lord Lancaster Stiltstalking",140,2
+"781","Madame Barronneau",4,2
+"782","Madame Barronneau",5,2
+"783","Maggy",345,34
+"784","Maggy",261,34
+"785","Maggy",45,34
+"786","Maggy",169,34
+"787","Maggy",370,34
+"788","Maggy",129,34
+"789","Maggy",192,34
+"790","Maggy",260,34
+"791","Maggy",343,34
+"792","Maggy",79,34
+"793","Maggy",168,34
+"794","Maggy",116,34
+"795","Maggy",170,34
+"796","Maggy",117,34
+"797","Maggy",131,34
+"798","Maggy",374,34
+"799","Maggy",211,34
+"800","Maggy",104,34
+"801","Maggy",77,34
+"802","Maggy",173,34
+"803","Maggy",371,34
+"804","Maggy",189,34
+"805","Maggy",172,34
+"806","Maggy",46,34
+"807","Maggy",367,34
+"808","Maggy",76,34
+"809","Maggy",78,34
+"810","Maggy",212,34
+"811","Maggy",130,34
+"812","Maggy",75,34
+"813","Maggy",125,34
+"814","Maggy",171,34
+"815","Maggy",258,34
+"816","Maggy",210,34
+"817","Minnie Meagles",235,34
+"818","Minnie Meagles",145,34
+"819","Minnie Meagles",220,34
+"820","Minnie Meagles",93,34
+"821","Minnie Meagles",144,34
+"822","Minnie Meagles",234,34
+"823","Minnie Meagles",85,34
+"824","Minnie Meagles",366,34
+"825","Minnie Meagles",237,34
+"826","Minnie Meagles",266,34
+"827","Minnie Meagles",10,34
+"828","Minnie Meagles",86,34
+"829","Minnie Meagles",227,34
+"830","Minnie Meagles",91,34
+"831","Minnie Meagles",374,34
+"832","Minnie Meagles",183,34
+"833","Minnie Meagles",11,34
+"834","Minnie Meagles",8,34
+"835","Minnie Meagles",201,34
+"836","Minnie Meagles",89,34
+"837","Minnie Meagles",143,34
+"838","Minnie Meagles",7,34
+"839","Minnie Meagles",222,34
+"840","Minnie Meagles",137,34
+"841","Minnie Meagles",181,34
+"842","Minnie Meagles",151,34
+"843","Minnie Meagles",367,34
+"844","Minnie Meagles",88,34
+"845","Minnie Meagles",250,34
+"846","Minnie Meagles",9,34
+"847","Minnie Meagles",150,34
+"848","Minnie Meagles",149,34
+"849","Minnie Meagles",87,34
+"850","Minnie Meagles",90,34
+"851","Miss Tite Barnacles",181,1
+"852","Miss Wade",367,21
+"853","Miss Wade",88,21
+"854","Miss Wade",298,21
+"855","Miss Wade",244,21
+"856","Miss Wade",296,21
+"857","Miss Wade",340,21
+"858","Miss Wade",146,21
+"859","Miss Wade",242,21
+"860","Miss Wade",240,21
+"861","Miss Wade",299,21
+"862","Miss Wade",366,21
+"863","Miss Wade",368,21
+"864","Miss Wade",149,21
+"865","Miss Wade",147,21
+"866","Miss Wade",87,21
+"867","Miss Wade",239,21
+"868","Miss Wade",301,21
+"869","Miss Wade",10,21
+"870","Miss Wade",300,21
+"871","Miss Wade",297,21
+"872","Miss Wade",145,21
+"873","Mr Cripples",43,3
+"874","Mr Cripples",104,3
+"875","Mr Cripples",42,3
+"876","Mr F.'s Aunt",186,18
+"877","Mr F.'s Aunt",240,18
+"878","Mr F.'s Aunt",122,18
+"879","Mr F.'s Aunt",71,18
+"880","Mr F.'s Aunt",310,18
+"881","Mr F.'s Aunt",281,18
+"882","Mr F.'s Aunt",241,18
+"883","Mr F.'s Aunt",280,18
+"884","Mr F.'s Aunt",121,18
+"885","Mr F.'s Aunt",70,18
+"886","Mr F.'s Aunt",371,18
+"887","Mr F.'s Aunt",187,18
+"888","Mr F.'s Aunt",127,18
+"889","Mr F.'s Aunt",126,18
+"890","Mr F.'s Aunt",125,18
+"891","Mr F.'s Aunt",119,18
+"892","Mr F.'s Aunt",120,18
+"893","Mr F.'s Aunt",372,18
+"894","Mr Frederick Dorrit",99,13
+"895","Mr Frederick Dorrit",216,13
+"896","Mr Frederick Dorrit",293,13
+"897","Mr Frederick Dorrit",192,13
+"898","Mr Frederick Dorrit",355,13
+"899","Mr Frederick Dorrit",36,13
+"900","Mr Frederick Dorrit",353,13
+"901","Mr Frederick Dorrit",289,13
+"902","Mr Frederick Dorrit",100,13
+"903","Mr Frederick Dorrit",37,13
+"904","Mr Frederick Dorrit",201,13
+"905","Mr Frederick Dorrit",291,13
+"906","Mr Frederick Dorrit",206,13
+"907","Mr John Chivery",343,26
+"908","Mr John Chivery",97,26
+"909","Mr John Chivery",192,26
+"910","Mr John Chivery",185,26
+"911","Mr John Chivery",104,26
+"912","Mr John Chivery",328,26
+"913","Mr John Chivery",330,26
+"914","Mr John Chivery",167,26
+"915","Mr John Chivery",95,26
+"916","Mr John Chivery",326,26
+"917","Mr John Chivery",94,26
+"918","Mr John Chivery",288,26
+"919","Mr John Chivery",100,26
+"920","Mr John Chivery",345,26
+"921","Mr John Chivery",193,26
+"922","Mr John Chivery",331,26
+"923","Mr John Chivery",286,26
+"924","Mr John Chivery",285,26
+"925","Mr John Chivery",327,26
+"926","Mr John Chivery",114,26
+"927","Mr John Chivery",115,26
+"928","Mr John Chivery",133,26
+"929","Mr John Chivery",132,26
+"930","Mr John Chivery",374,26
+"931","Mr John Chivery",188,26
+"932","Mr John Chivery",166,26
+"933","Mr Meagles",89,51
+"934","Mr Meagles",11,51
+"935","Mr Meagles",236,51
+"936","Mr Meagles",138,51
+"937","Mr Meagles",235,51
+"938","Mr Meagles",234,51
+"939","Mr Meagles",148,51
+"940","Mr Meagles",8,51
+"941","Mr Meagles",149,51
+"942","Mr Meagles",151,51
+"943","Mr Meagles",237,51
+"944","Mr Meagles",9,51
+"945","Mr Meagles",53,51
+"946","Mr Meagles",92,51
+"947","Mr Meagles",233,51
+"948","Mr Meagles",118,51
+"949","Mr Meagles",229,51
+"950","Mr Meagles",61,51
+"951","Mr Meagles",367,51
+"952","Mr Meagles",240,51
+"953","Mr Meagles",93,51
+"954","Mr Meagles",147,51
+"955","Mr Meagles",374,51
+"956","Mr Meagles",365,51
+"957","Mr Meagles",180,51
+"958","Mr Meagles",143,51
+"959","Mr Meagles",368,51
+"960","Mr Meagles",369,51
+"961","Mr Meagles",88,51
+"962","Mr Meagles",7,51
+"963","Mr Meagles",181,51
+"964","Mr Meagles",52,51
+"965","Mr Meagles",84,51
+"966","Mr Meagles",366,51
+"967","Mr Meagles",91,51
+"968","Mr Meagles",140,51
+"969","Mr Meagles",85,51
+"970","Mr Meagles",145,51
+"971","Mr Meagles",87,51
+"972","Mr Meagles",183,51
+"973","Mr Meagles",175,51
+"974","Mr Meagles",141,51
+"975","Mr Meagles",86,51
+"976","Mr Meagles",10,51
+"977","Mr Meagles",373,51
+"978","Mr Meagles",249,51
+"979","Mr Meagles",146,51
+"980","Mr Meagles",372,51
+"981","Mr Meagles",144,51
+"982","Mr Meagles",54,51
+"983","Mr Meagles",90,51
+"984","Mr Merdle",320,46
+"985","Mr Merdle",175,46
+"986","Mr Merdle",362,46
+"987","Mr Merdle",319,46
+"988","Mr Merdle",254,46
+"989","Mr Merdle",257,46
+"990","Mr Merdle",335,46
+"991","Mr Merdle",285,46
+"992","Mr Merdle",177,46
+"993","Mr Merdle",258,46
+"994","Mr Merdle",365,46
+"995","Mr Merdle",253,46
+"996","Mr Merdle",217,46
+"997","Mr Merdle",271,46
+"998","Mr Merdle",256,46
+"999","Mr Merdle",282,46
+"1000","Mr Merdle",262,46
+"1001","Mr Merdle",314,46
+"1002","Mr Merdle",111,46
+"1003","Mr Merdle",270,46
+"1004","Mr Merdle",252,46
+"1005","Mr Merdle",113,46
+"1006","Mr Merdle",321,46
+"1007","Mr Merdle",322,46
+"1008","Mr Merdle",259,46
+"1009","Mr Merdle",277,46
+"1010","Mr Merdle",265,46
+"1011","Mr Merdle",225,46
+"1012","Mr Merdle",278,46
+"1013","Mr Merdle",290,46
+"1014","Mr Merdle",264,46
+"1015","Mr Merdle",231,46
+"1016","Mr Merdle",112,46
+"1017","Mr Merdle",107,46
+"1018","Mr Merdle",218,46
+"1019","Mr Merdle",179,46
+"1020","Mr Merdle",251,46
+"1021","Mr Merdle",178,46
+"1022","Mr Merdle",110,46
+"1023","Mr Merdle",317,46
+"1024","Mr Merdle",279,46
+"1025","Mr Merdle",255,46
+"1026","Mr Merdle",224,46
+"1027","Mr Merdle",318,46
+"1028","Mr Merdle",273,46
+"1029","Mr Merdle",361,46
+"1030","Mr Pancks",133,57
+"1031","Mr Pancks",243,57
+"1032","Mr Pancks",121,57
+"1033","Mr Pancks",70,57
+"1034","Mr Pancks",363,57
+"1035","Mr Pancks",324,57
+"1036","Mr Pancks",323,57
+"1037","Mr Pancks",120,57
+"1038","Mr Pancks",264,57
+"1039","Mr Pancks",261,57
+"1040","Mr Pancks",259,57
+"1041","Mr Pancks",295,57
+"1042","Mr Pancks",154,57
+"1043","Mr Pancks",128,57
+"1044","Mr Pancks",129,57
+"1045","Mr Pancks",364,57
+"1046","Mr Pancks",337,57
+"1047","Mr Pancks",186,57
+"1048","Mr Pancks",68,57
+"1049","Mr Pancks",361,57
+"1050","Mr Pancks",281,57
+"1051","Mr Pancks",123,57
+"1052","Mr Pancks",242,57
+"1053","Mr Pancks",262,57
+"1054","Mr Pancks",341,57
+"1055","Mr Pancks",193,57
+"1056","Mr Pancks",72,57
+"1057","Mr Pancks",132,57
+"1058","Mr Pancks",362,57
+"1059","Mr Pancks",153,57
+"1060","Mr Pancks",135,57
+"1061","Mr Pancks",240,57
+"1062","Mr Pancks",136,57
+"1063","Mr Pancks",125,57
+"1064","Mr Pancks",122,57
+"1065","Mr Pancks",174,57
+"1066","Mr Pancks",131,57
+"1067","Mr Pancks",189,57
+"1068","Mr Pancks",342,57
+"1069","Mr Pancks",143,57
+"1070","Mr Pancks",305,57
+"1071","Mr Pancks",346,57
+"1072","Mr Pancks",63,57
+"1073","Mr Pancks",374,57
+"1074","Mr Pancks",250,57
+"1075","Mr Pancks",263,57
+"1076","Mr Pancks",280,57
+"1077","Mr Pancks",71,57
+"1078","Mr Pancks",185,57
+"1079","Mr Pancks",134,57
+"1080","Mr Pancks",260,57
+"1081","Mr Pancks",340,57
+"1082","Mr Pancks",173,57
+"1083","Mr Pancks",67,57
+"1084","Mr Pancks",347,57
+"1085","Mr Pancks",258,57
+"1086","Mr Pancks",124,57
+"1087","Mr Plornish",123,17
+"1088","Mr Plornish",332,17
+"1089","Mr Plornish",192,17
+"1090","Mr Plornish",62,17
+"1091","Mr Plornish",61,17
+"1092","Mr Plornish",258,17
+"1093","Mr Plornish",261,17
+"1094","Mr Plornish",165,17
+"1095","Mr Plornish",259,17
+"1096","Mr Plornish",168,17
+"1097","Mr Plornish",129,17
+"1098","Mr Plornish",63,17
+"1099","Mr Plornish",104,17
+"1100","Mr Plornish",125,17
+"1101","Mr Plornish",45,17
+"1102","Mr Plornish",164,17
+"1103","Mr Plornish",64,17
+"1104","Mr Rugg",174,17
+"1105","Mr Rugg",261,17
+"1106","Mr Rugg",337,17
+"1107","Mr Rugg",370,17
+"1108","Mr Rugg",185,17
+"1109","Mr Rugg",134,17
+"1110","Mr Rugg",324,17
+"1111","Mr Rugg",132,17
+"1112","Mr Rugg",186,17
+"1113","Mr Rugg",133,17
+"1114","Mr Rugg",335,17
+"1115","Mr Rugg",361,17
+"1116","Mr Rugg",191,17
+"1117","Mr Rugg",193,17
+"1118","Mr Rugg",326,17
+"1119","Mr Rugg",336,17
+"1120","Mr Rugg",325,17
+"1121","Mr Sparkler",254,31
+"1122","Mr Sparkler",314,31
+"1123","Mr Sparkler",365,31
+"1124","Mr Sparkler",226,31
+"1125","Mr Sparkler",208,31
+"1126","Mr Sparkler",270,31
+"1127","Mr Sparkler",113,31
+"1128","Mr Sparkler",265,31
+"1129","Mr Sparkler",228,31
+"1130","Mr Sparkler",251,31
+"1131","Mr Sparkler",272,31
+"1132","Mr Sparkler",111,31
+"1133","Mr Sparkler",273,31
+"1134","Mr Sparkler",176,31
+"1135","Mr Sparkler",274,31
+"1136","Mr Sparkler",268,31
+"1137","Mr Sparkler",255,31
+"1138","Mr Sparkler",225,31
+"1139","Mr Sparkler",217,31
+"1140","Mr Sparkler",269,31
+"1141","Mr Sparkler",271,31
+"1142","Mr Sparkler",315,31
+"1143","Mr Sparkler",223,31
+"1144","Mr Sparkler",285,31
+"1145","Mr Sparkler",178,31
+"1146","Mr Sparkler",317,31
+"1147","Mr Sparkler",316,31
+"1148","Mr Sparkler",267,31
+"1149","Mr Sparkler",257,31
+"1150","Mr Sparkler",224,31
+"1151","Mr Sparkler",231,31
+"1152","Mr Tite Barnacle",183,11
+"1153","Mr Tite Barnacle",255,11
+"1154","Mr Tite Barnacle",253,11
+"1155","Mr Tite Barnacle",44,11
+"1156","Mr Tite Barnacle",251,11
+"1157","Mr Tite Barnacle",50,11
+"1158","Mr Tite Barnacle",181,11
+"1159","Mr Tite Barnacle",48,11
+"1160","Mr Tite Barnacle",254,11
+"1161","Mr Tite Barnacle",49,11
+"1162","Mr Tite Barnacle",256,11
+"1163","Mr William Dorrit",272,84
+"1164","Mr William Dorrit",99,84
+"1165","Mr William Dorrit",271,84
+"1166","Mr William Dorrit",167,84
+"1167","Mr William Dorrit",278,84
+"1168","Mr William Dorrit",216,84
+"1169","Mr William Dorrit",114,84
+"1170","Mr William Dorrit",279,84
+"1171","Mr William Dorrit",270,84
+"1172","Mr William Dorrit",213,84
+"1173","Mr William Dorrit",94,84
+"1174","Mr William Dorrit",33,84
+"1175","Mr William Dorrit",287,84
+"1176","Mr William Dorrit",49,84
+"1177","Mr William Dorrit",42,84
+"1178","Mr William Dorrit",231,84
+"1179","Mr William Dorrit",284,84
+"1180","Mr William Dorrit",219,84
+"1181","Mr William Dorrit",283,84
+"1182","Mr William Dorrit",29,84
+"1183","Mr William Dorrit",204,84
+"1184","Mr William Dorrit",103,84
+"1185","Mr William Dorrit",188,84
+"1186","Mr William Dorrit",31,84
+"1187","Mr William Dorrit",191,84
+"1188","Mr William Dorrit",202,84
+"1189","Mr William Dorrit",275,84
+"1190","Mr William Dorrit",205,84
+"1191","Mr William Dorrit",165,84
+"1192","Mr William Dorrit",95,84
+"1193","Mr William Dorrit",277,84
+"1194","Mr William Dorrit",218,84
+"1195","Mr William Dorrit",192,84
+"1196","Mr William Dorrit",36,84
+"1197","Mr William Dorrit",215,84
+"1198","Mr William Dorrit",260,84
+"1199","Mr William Dorrit",292,84
+"1200","Mr William Dorrit",286,84
+"1201","Mr William Dorrit",26,84
+"1202","Mr William Dorrit",255,84
+"1203","Mr William Dorrit",166,84
+"1204","Mr William Dorrit",30,84
+"1205","Mr William Dorrit",206,84
+"1206","Mr William Dorrit",225,84
+"1207","Mr William Dorrit",285,84
+"1208","Mr William Dorrit",290,84
+"1209","Mr William Dorrit",229,84
+"1210","Mr William Dorrit",106,84
+"1211","Mr William Dorrit",201,84
+"1212","Mr William Dorrit",38,84
+"1213","Mr William Dorrit",221,84
+"1214","Mr William Dorrit",190,84
+"1215","Mr William Dorrit",224,84
+"1216","Mr William Dorrit",169,84
+"1217","Mr William Dorrit",123,84
+"1218","Mr William Dorrit",170,84
+"1219","Mr William Dorrit",254,84
+"1220","Mr William Dorrit",32,84
+"1221","Mr William Dorrit",281,84
+"1222","Mr William Dorrit",37,84
+"1223","Mr William Dorrit",96,84
+"1224","Mr William Dorrit",217,84
+"1225","Mr William Dorrit",173,84
+"1226","Mr William Dorrit",288,84
+"1227","Mr William Dorrit",62,84
+"1228","Mr William Dorrit",207,84
+"1229","Mr William Dorrit",168,84
+"1230","Mr William Dorrit",185,84
+"1231","Mr William Dorrit",65,84
+"1232","Mr William Dorrit",276,84
+"1233","Mr William Dorrit",35,84
+"1234","Mr William Dorrit",189,84
+"1235","Mr William Dorrit",214,84
+"1236","Mr William Dorrit",289,84
+"1237","Mr William Dorrit",282,84
+"1238","Mr William Dorrit",280,84
+"1239","Mr William Dorrit",203,84
+"1240","Mr William Dorrit",230,84
+"1241","Mr William Dorrit",100,84
+"1242","Mr William Dorrit",228,84
+"1243","Mr William Dorrit",291,84
+"1244","Mr William Dorrit",345,84
+"1245","Mr William Dorrit",208,84
+"1246","Mr William Dorrit",193,84
+"1247","Mr Wobbler",51,1
+"1248","Mrs Bangham",33,8
+"1249","Mrs Bangham",28,8
+"1250","Mrs Bangham",27,8
+"1251","Mrs Bangham",292,8
+"1252","Mrs Bangham",34,8
+"1253","Mrs Bangham",293,8
+"1254","Mrs Bangham",79,8
+"1255","Mrs Bangham",29,8
+"1256","Mrs Captain Barbary",63,1
+"1257","Mrs Chivery",116,7
+"1258","Mrs Chivery",330,7
+"1259","Mrs Chivery",95,7
+"1260","Mrs Chivery",114,7
+"1261","Mrs Chivery",132,7
+"1262","Mrs Chivery",115,7
+"1263","Mrs Chivery",94,7
+"1264","Mrs Clennam",354,44
+"1265","Mrs Clennam",356,44
+"1266","Mrs Clennam",360,44
+"1267","Mrs Clennam",82,44
+"1268","Mrs Clennam",18,44
+"1269","Mrs Clennam",157,44
+"1270","Mrs Clennam",158,44
+"1271","Mrs Clennam",349,44
+"1272","Mrs Clennam",350,44
+"1273","Mrs Clennam",161,44
+"1274","Mrs Clennam",129,44
+"1275","Mrs Clennam",80,44
+"1276","Mrs Clennam",83,44
+"1277","Mrs Clennam",81,44
+"1278","Mrs Clennam",159,44
+"1279","Mrs Clennam",361,44
+"1280","Mrs Clennam",154,44
+"1281","Mrs Clennam",359,44
+"1282","Mrs Clennam",16,44
+"1283","Mrs Clennam",160,44
+"1284","Mrs Clennam",21,44
+"1285","Mrs Clennam",309,44
+"1286","Mrs Clennam",348,44
+"1287","Mrs Clennam",245,44
+"1288","Mrs Clennam",39,44
+"1289","Mrs Clennam",346,44
+"1290","Mrs Clennam",211,44
+"1291","Mrs Clennam",310,44
+"1292","Mrs Clennam",357,44
+"1293","Mrs Clennam",281,44
+"1294","Mrs Clennam",311,44
+"1295","Mrs Clennam",156,44
+"1296","Mrs Clennam",282,44
+"1297","Mrs Clennam",153,44
+"1298","Mrs Clennam",76,44
+"1299","Mrs Clennam",24,44
+"1300","Mrs Clennam",162,44
+"1301","Mrs Clennam",347,44
+"1302","Mrs Clennam",283,44
+"1303","Mrs Clennam",246,44
+"1304","Mrs Clennam",15,44
+"1305","Mrs Clennam",23,44
+"1306","Mrs Clennam",19,44
+"1307","Mrs Clennam",63,44
+"1308","Mrs General",266,37
+"1309","Mrs General",290,37
+"1310","Mrs General",291,37
+"1311","Mrs General",214,37
+"1312","Mrs General",272,37
+"1313","Mrs General",218,37
+"1314","Mrs General",274,37
+"1315","Mrs General",293,37
+"1316","Mrs General",317,37
+"1317","Mrs General",250,37
+"1318","Mrs General",289,37
+"1319","Mrs General",212,37
+"1320","Mrs General",226,37
+"1321","Mrs General",217,37
+"1322","Mrs General",227,37
+"1323","Mrs General",202,37
+"1324","Mrs General",275,37
+"1325","Mrs General",216,37
+"1326","Mrs General",196,37
+"1327","Mrs General",276,37
+"1328","Mrs General",228,37
+"1329","Mrs General",271,37
+"1330","Mrs General",365,37
+"1331","Mrs General",229,37
+"1332","Mrs General",206,37
+"1333","Mrs General",285,37
+"1334","Mrs General",215,37
+"1335","Mrs General",203,37
+"1336","Mrs General",197,37
+"1337","Mrs General",198,37
+"1338","Mrs General",213,37
+"1339","Mrs General",201,37
+"1340","Mrs General",231,37
+"1341","Mrs General",211,37
+"1342","Mrs General",208,37
+"1343","Mrs General",316,37
+"1344","Mrs General",209,37
+"1345","Mrs Gowan",218,24
+"1346","Mrs Gowan",204,24
+"1347","Mrs Gowan",212,24
+"1348","Mrs Gowan",180,24
+"1349","Mrs Gowan",177,24
+"1350","Mrs Gowan",229,24
+"1351","Mrs Gowan",144,24
+"1352","Mrs Gowan",183,24
+"1353","Mrs Gowan",211,24
+"1354","Mrs Gowan",205,24
+"1355","Mrs Gowan",217,24
+"1356","Mrs Gowan",234,24
+"1357","Mrs Gowan",235,24
+"1358","Mrs Gowan",140,24
+"1359","Mrs Gowan",176,24
+"1360","Mrs Gowan",232,24
+"1361","Mrs Gowan",248,24
+"1362","Mrs Gowan",175,24
+"1363","Mrs Gowan",236,24
+"1364","Mrs Gowan",222,24
+"1365","Mrs Gowan",139,24
+"1366","Mrs Gowan",141,24
+"1367","Mrs Gowan",230,24
+"1368","Mrs Gowan",221,24
+"1369","Mrs Meagles",85,19
+"1370","Mrs Meagles",86,19
+"1371","Mrs Meagles",151,19
+"1372","Mrs Meagles",237,19
+"1373","Mrs Meagles",183,19
+"1374","Mrs Meagles",366,19
+"1375","Mrs Meagles",9,19
+"1376","Mrs Meagles",298,19
+"1377","Mrs Meagles",181,19
+"1378","Mrs Meagles",175,19
+"1379","Mrs Meagles",234,19
+"1380","Mrs Meagles",91,19
+"1381","Mrs Meagles",235,19
+"1382","Mrs Meagles",90,19
+"1383","Mrs Meagles",7,19
+"1384","Mrs Meagles",367,19
+"1385","Mrs Meagles",149,19
+"1386","Mrs Meagles",8,19
+"1387","Mrs Meagles",92,19
+"1388","Mrs Merdle",314,36
+"1389","Mrs Merdle",109,36
+"1390","Mrs Merdle",265,36
+"1391","Mrs Merdle",319,36
+"1392","Mrs Merdle",365,36
+"1393","Mrs Merdle",277,36
+"1394","Mrs Merdle",271,36
+"1395","Mrs Merdle",224,36
+"1396","Mrs Merdle",254,36
+"1397","Mrs Merdle",291,36
+"1398","Mrs Merdle",176,36
+"1399","Mrs Merdle",317,36
+"1400","Mrs Merdle",268,36
+"1401","Mrs Merdle",111,36
+"1402","Mrs Merdle",110,36
+"1403","Mrs Merdle",175,36
+"1404","Mrs Merdle",178,36
+"1405","Mrs Merdle",112,36
+"1406","Mrs Merdle",251,36
+"1407","Mrs Merdle",321,36
+"1408","Mrs Merdle",217,36
+"1409","Mrs Merdle",273,36
+"1410","Mrs Merdle",221,36
+"1411","Mrs Merdle",179,36
+"1412","Mrs Merdle",177,36
+"1413","Mrs Merdle",106,36
+"1414","Mrs Merdle",270,36
+"1415","Mrs Merdle",272,36
+"1416","Mrs Merdle",292,36
+"1417","Mrs Merdle",231,36
+"1418","Mrs Merdle",223,36
+"1419","Mrs Merdle",208,36
+"1420","Mrs Merdle",107,36
+"1421","Mrs Merdle",290,36
+"1422","Mrs Merdle",266,36
+"1423","Mrs Merdle",108,36
+"1424","Mrs Plornish",258,21
+"1425","Mrs Plornish",362,21
+"1426","Mrs Plornish",168,21
+"1427","Mrs Plornish",337,21
+"1428","Mrs Plornish",61,21
+"1429","Mrs Plornish",164,21
+"1430","Mrs Plornish",325,21
+"1431","Mrs Plornish",123,21
+"1432","Mrs Plornish",62,21
+"1433","Mrs Plornish",259,21
+"1434","Mrs Plornish",211,21
+"1435","Mrs Plornish",332,21
+"1436","Mrs Plornish",136,21
+"1437","Mrs Plornish",165,21
+"1438","Mrs Plornish",135,21
+"1439","Mrs Plornish",261,21
+"1440","Mrs Plornish",343,21
+"1441","Mrs Plornish",342,21
+"1442","Mrs Plornish",260,21
+"1443","Mrs Plornish",63,21
+"1444","Mrs Plornish",367,21
+"1445","Mrs Tickit",369,6
+"1446","Mrs Tickit",183,6
+"1447","Mrs Tickit",181,6
+"1448","Mrs Tickit",238,6
+"1449","Mrs Tickit",88,6
+"1450","Mrs Tickit",144,6
+"1451","Mrs Tite Barnacle",48,2
+"1452","Mrs Tite Barnacle",181,2
+"1453","Physician",16,7
+"1454","Physician",253,7
+"1455","Physician",320,7
+"1456","Physician",113,7
+"1457","Physician",322,7
+"1458","Physician",178,7
+"1459","Physician",112,7
+"1460","Rigaud",337,58
+"1461","Rigaud",158,58
+"1462","Rigaud",356,58
+"1463","Rigaud",3,58
+"1464","Rigaud",5,58
+"1465","Rigaud",340,58
+"1466","Rigaud",222,58
+"1467","Rigaud",2,58
+"1468","Rigaud",298,58
+"1469","Rigaud",367,58
+"1470","Rigaud",341,58
+"1471","Rigaud",297,58
+"1472","Rigaud",338,58
+"1473","Rigaud",339,58
+"1474","Rigaud",230,58
+"1475","Rigaud",307,58
+"1476","Rigaud",223,58
+"1477","Rigaud",204,58
+"1478","Rigaud",226,58
+"1479","Rigaud",160,58
+"1480","Rigaud",157,58
+"1481","Rigaud",346,58
+"1482","Rigaud",353,58
+"1483","Rigaud",296,58
+"1484","Rigaud",4,58
+"1485","Rigaud",205,58
+"1486","Rigaud",366,58
+"1487","Rigaud",354,58
+"1488","Rigaud",228,58
+"1489","Rigaud",365,58
+"1490","Rigaud",163,58
+"1491","Rigaud",206,58
+"1492","Rigaud",281,58
+"1493","Rigaud",355,58
+"1494","Rigaud",201,58
+"1495","Rigaud",349,58
+"1496","Rigaud",347,58
+"1497","Rigaud",229,58
+"1498","Rigaud",161,58
+"1499","Rigaud",284,58
+"1500","Rigaud",282,58
+"1501","Rigaud",308,58
+"1502","Rigaud",348,58
+"1503","Rigaud",351,58
+"1504","Rigaud",6,58
+"1505","Rigaud",220,58
+"1506","Rigaud",283,58
+"1507","Rigaud",295,58
+"1508","Rigaud",159,58
+"1509","Rigaud",58,58
+"1510","Rigaud",336,58
+"1511","Rigaud",59,58
+"1512","Rigaud",350,58
+"1513","Rigaud",352,58
+"1514","Rigaud",246,58
+"1515","Rigaud",245,58
+"1516","Rigaud",57,58
+"1517","Rigaud",162,58
+"1518","Slingo",34,1
+"1519","Tinkler",272,5
+"1520","Tinkler",271,5
+"1521","Tinkler",291,5
+"1522","Tinkler",214,5
+"1523","Tinkler",213,5
+"1524","Treasury",183,5
+"1525","Treasury",112,5
+"1526","Treasury",111,5
+"1527","Treasury",175,5
+"1528","Treasury",279,5
+"1529","Tudor Stiltstalking",140,2
+"1530","Tudor Stiltstalking",182,2

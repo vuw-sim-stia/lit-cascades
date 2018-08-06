@@ -1,0 +1,47 @@
+"Character","Node"
+"Abel Magwitch",46
+"Avenger",8
+"Bentley Drummle",18
+"Biddy",33
+"Black Bill",1
+"Camilla",9
+"Clara Barley",12
+"Compeyson",18
+"Dunstable",2
+"Estella",68
+"Flopson",4
+"Georiana Pocket",4
+"Herbert Pocket",80
+"Jack",3
+"Joe Gargery",80
+"John Wemmick",43
+"Mary Anne",1
+"Mike",3
+"Millers",5
+"Miss Havisham",78
+"Miss Skiffins",6
+"Molly",2
+"Mr Camilla",5
+"Mr Clarriker",5
+"Mr Havisham",4
+"Mr Hubble",7
+"Mr Jaggers",49
+"Mr Pocket",20
+"Mr Trabb",8
+"Mr Wopsle",30
+"Mrs Brandley",3
+"Mrs Coiler",1
+"Mrs Hubble",6
+"Mrs Joe Gargery",46
+"Mrs Pocket",9
+"Old Barley",7
+"Orlick Dolge",18
+"Pip",106
+"Sarah Pocket",11
+"Skiffins",3
+"Sophia",1
+"Startop",15
+"The Aged",12
+"Trabb's Boy",6
+"Uncle Pumblechook",35
+"William Potkins",2

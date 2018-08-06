@@ -1,0 +1,49 @@
+"","Character","Node","Type","Appearances"
+"1","Charles St Evrémonde",8,"First Appearance",26
+"2","Charles St Evrémonde",45,"Last Appearance",26
+"3","Doctor Manette",4,"First Appearance",29
+"4","Doctor Manette",43,"Last Appearance",29
+"5","Ernest Defarge",5,"First Appearance",19
+"6","Ernest Defarge",45,"Last Appearance",19
+"7","Foulon",28,"Last Appearance",1
+"8","Foulon",28,"First Appearance",1
+"9","Gaspard",5,"First Appearance",2
+"10","Gaspard",22,"Last Appearance",2
+"11","Jacques",5,"First Appearance",10
+"12","Jacques",44,"Last Appearance",10
+"13","Jarvis Lorry",2,"First Appearance",28
+"14","Jarvis Lorry",44,"Last Appearance",28
+"15","Jerry Cruncher",44,"Last Appearance",13
+"16","Jerry Cruncher",2,"First Appearance",13
+"17","Joe",2,"First Appearance",1
+"18","Joe",2,"Last Appearance",1
+"19","Lucie Manette",10,"First Appearance",20
+"20","Lucie Manette",44,"Last Appearance",20
+"21","Marquis St Evrémonde I",40,"First Appearance",1
+"22","Marquis St Evrémonde I",40,"Last Appearance",1
+"23","Marquis St Evrémonde II",42,"Last Appearance",11
+"24","Marquis St Evrémonde II",13,"First Appearance",11
+"25","Miss Pross",44,"Last Appearance",14
+"26","Miss Pross",12,"First Appearance",14
+"27","Mr Stryver",9,"First Appearance",10
+"28","Mr Stryver",30,"Last Appearance",10
+"29","Mrs Cruncher",7,"First Appearance",4
+"30","Mrs Cruncher",44,"Last Appearance",4
+"31","Mrs Stryver",27,"First Appearance",1
+"32","Mrs Stryver",27,"Last Appearance",1
+"33","Roger Cly",45,"Last Appearance",4
+"34","Roger Cly",9,"First Appearance",4
+"35","Solomon Pross",9,"First Appearance",11
+"36","Solomon Pross",45,"Last Appearance",11
+"37","Sydney Carton",9,"First Appearance",15
+"38","Sydney Carton",45,"Last Appearance",15
+"39","The Vengeance",28,"First Appearance",8
+"40","The Vengeance",45,"Last Appearance",8
+"41","Théophile Gabelle",36,"Last Appearance",6
+"42","Théophile Gabelle",14,"First Appearance",6
+"43","Thérèse Defarge",5,"First Appearance",14
+"44","Thérèse Defarge",45,"Last Appearance",14
+"45","Tom",2,"First Appearance",1
+"46","Tom",2,"Last Appearance",1
+"47","Young Jerry Cruncher",7,"First Appearance",1
+"48","Young Jerry Cruncher",7,"Last Appearance",1

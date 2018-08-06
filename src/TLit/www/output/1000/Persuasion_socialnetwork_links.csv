@@ -1,0 +1,543 @@
+"id1" "id2" "label"
+"1" "Admiral Baldwin" "Admiral Croft" 1
+"2" "Admiral Baldwin" "Anne Elliot" 1
+"3" "Admiral Baldwin" "Lord St Ives" 1
+"4" "Admiral Baldwin" "Mr John Shepherd" 1
+"5" "Admiral Baldwin" "Mrs Penelope Clay" 1
+"6" "Admiral Baldwin" "Sir Basil Morley" 1
+"7" "Admiral Baldwin" "Sir Walter Elliot" 1
+"8" "Admiral Brand" "Admiral Croft" 1
+"9" "Admiral Brand" "Anne Elliot" 1
+"10" "Admiral Brand" "Captain Benwick" 1
+"11" "Admiral Brand" "Captain Brigden" 1
+"12" "Admiral Brand" "Captain Frederick Wentworth" 1
+"13" "Admiral Brand" "Elizabeth Elliot" 1
+"14" "Admiral Brand" "Lady Russell" 1
+"15" "Admiral Brand" "Louisa Musgrove" 1
+"16" "Admiral Brand" "Mrs Croft" 1
+"17" "Admiral Brand" "Sir Archibald Drew" 1
+"18" "Admiral Brand" "Sir Walter Elliot" 1
+"19" "Admiral Croft" "Anne Elliot" 23
+"20" "Admiral Croft" "Captain Benwick" 5
+"21" "Admiral Croft" "Captain Brigden" 1
+"22" "Admiral Croft" "Captain Frederick Wentworth" 19
+"23" "Admiral Croft" "Captain Harville" 7
+"24" "Admiral Croft" "Charles Hayter" 4
+"25" "Admiral Croft" "Charles Musgrove" 10
+"26" "Admiral Croft" "Edward Wentworth" 4
+"27" "Admiral Croft" "Elder Mr Charles Musgrove" 10
+"28" "Admiral Croft" "Elizabeth Elliot" 7
+"29" "Admiral Croft" "Governor Trent" 1
+"30" "Admiral Croft" "Henrietta Musgrove" 13
+"31" "Admiral Croft" "Jemima" 1
+"32" "Admiral Croft" "Lady Mary Grierson" 1
+"33" "Admiral Croft" "Lady Russell" 7
+"34" "Admiral Croft" "Lord St Ives" 1
+"35" "Admiral Croft" "Louisa Musgrove" 15
+"36" "Admiral Croft" "Mary Elliot" 14
+"37" "Admiral Croft" "Mr Hayter" 2
+"38" "Admiral Croft" "Mr John Shepherd" 4
+"39" "Admiral Croft" "Mr Robinson" 1
+"40" "Admiral Croft" "Mr William Elliot" 2
+"41" "Admiral Croft" "Mrs Croft" 20
+"42" "Admiral Croft" "Mrs Hayter" 2
+"43" "Admiral Croft" "Mrs Penelope Clay" 8
+"44" "Admiral Croft" "Sir Archibald Drew" 1
+"45" "Admiral Croft" "Sir Basil Morley" 1
+"46" "Admiral Croft" "Sir Walter Elliot" 8
+"47" "Admiral Croft" "The Dowager Countess Dalrymple" 2
+"48" "Admiral Croft" "The Honourable Miss Carteret" 1
+"49" "Anne Elliot" "Captain Benwick" 23
+"50" "Anne Elliot" "Captain Brigden" 1
+"51" "Anne Elliot" "Captain Frederick Wentworth" 55
+"52" "Anne Elliot" "Captain Harville" 23
+"53" "Anne Elliot" "Charles Hayter" 14
+"54" "Anne Elliot" "Charles Musgrove" 35
+"55" "Anne Elliot" "Charles Smith" 2
+"56" "Anne Elliot" "Colonel Wallis" 9
+"57" "Anne Elliot" "Doctor Shirley" 4
+"58" "Anne Elliot" "Edward Wentworth" 7
+"59" "Anne Elliot" "Elder Mr Charles Musgrove" 28
+"60" "Anne Elliot" "Elizabeth Elliot" 38
+"61" "Anne Elliot" "Fanny Harville" 3
+"62" "Anne Elliot" "Governor Trent" 1
+"63" "Anne Elliot" "Harry Musgrove" 1
+"64" "Anne Elliot" "Henrietta Musgrove" 38
+"65" "Anne Elliot" "Jemima" 3
+"66" "Anne Elliot" "Lady Alicia" 2
+"67" "Anne Elliot" "Lady Elliot" 7
+"68" "Anne Elliot" "Lady Mary Grierson" 1
+"69" "Anne Elliot" "Lady Russell" 38
+"70" "Anne Elliot" "Little Charles Musgrove" 1
+"71" "Anne Elliot" "Lord St Ives" 1
+"72" "Anne Elliot" "Louisa Musgrove" 44
+"73" "Anne Elliot" "Mackenzie" 1
+"74" "Anne Elliot" "Mary" 1
+"75" "Anne Elliot" "Mary Elliot" 44
+"76" "Anne Elliot" "Miss Atkinson" 1
+"77" "Anne Elliot" "Mr Hayter" 2
+"78" "Anne Elliot" "Mr John Shepherd" 8
+"79" "Anne Elliot" "Mr Robinson" 2
+"80" "Anne Elliot" "Mr William Elliot" 36
+"81" "Anne Elliot" "Mrs Croft" 21
+"82" "Anne Elliot" "Mrs Frankland" 1
+"83" "Anne Elliot" "Mrs Hayter" 2
+"84" "Anne Elliot" "Mrs Penelope Clay" 27
+"85" "Anne Elliot" "Mrs Shirley" 1
+"86" "Anne Elliot" "Mrs Smith" 14
+"87" "Anne Elliot" "Mrs Speed" 1
+"88" "Anne Elliot" "Mrs William Elliot" 1
+"89" "Anne Elliot" "Nurse Rooke" 3
+"90" "Anne Elliot" "Sarah" 2
+"91" "Anne Elliot" "Sir Archibald Drew" 1
+"92" "Anne Elliot" "Sir Basil Morley" 1
+"93" "Anne Elliot" "Sir Henry Russell" 1
+"94" "Anne Elliot" "Sir Walter Elliot" 39
+"95" "Anne Elliot" "The Dowager Countess Dalrymple" 12
+"96" "Anne Elliot" "The Honourable Miss Carteret" 7
+"97" "Anne Elliot" "The Late Viscount Dalrymple" 2
+"98" "Anne Elliot" "The Miss Hayters" 1
+"99" "Anne Elliot" "Walter Musgrove" 4
+"100" "Captain Benwick" "Captain Brigden" 1
+"101" "Captain Benwick" "Captain Frederick Wentworth" 18
+"102" "Captain Benwick" "Captain Harville" 16
+"103" "Captain Benwick" "Charles Hayter" 8
+"104" "Captain Benwick" "Charles Musgrove" 12
+"105" "Captain Benwick" "Colonel Wallis" 1
+"106" "Captain Benwick" "Doctor Shirley" 1
+"107" "Captain Benwick" "Edward Wentworth" 2
+"108" "Captain Benwick" "Elder Mr Charles Musgrove" 9
+"109" "Captain Benwick" "Elizabeth Elliot" 8
+"110" "Captain Benwick" "Fanny Harville" 3
+"111" "Captain Benwick" "Harry Musgrove" 1
+"112" "Captain Benwick" "Henrietta Musgrove" 12
+"113" "Captain Benwick" "Jemima" 1
+"114" "Captain Benwick" "Lady Alicia" 2
+"115" "Captain Benwick" "Lady Russell" 9
+"116" "Captain Benwick" "Louisa Musgrove" 20
+"117" "Captain Benwick" "Mary Elliot" 13
+"118" "Captain Benwick" "Miss Atkinson" 1
+"119" "Captain Benwick" "Mr Hayter" 1
+"120" "Captain Benwick" "Mr William Elliot" 10
+"121" "Captain Benwick" "Mrs Croft" 6
+"122" "Captain Benwick" "Mrs Frankland" 1
+"123" "Captain Benwick" "Mrs Hayter" 1
+"124" "Captain Benwick" "Mrs Penelope Clay" 8
+"125" "Captain Benwick" "Sarah" 1
+"126" "Captain Benwick" "Sir Archibald Drew" 1
+"127" "Captain Benwick" "Sir Walter Elliot" 9
+"128" "Captain Benwick" "The Dowager Countess Dalrymple" 5
+"129" "Captain Benwick" "The Honourable Miss Carteret" 2
+"130" "Captain Brigden" "Captain Frederick Wentworth" 1
+"131" "Captain Brigden" "Elizabeth Elliot" 1
+"132" "Captain Brigden" "Lady Russell" 1
+"133" "Captain Brigden" "Louisa Musgrove" 1
+"134" "Captain Brigden" "Mrs Croft" 1
+"135" "Captain Brigden" "Sir Archibald Drew" 1
+"136" "Captain Brigden" "Sir Walter Elliot" 1
+"137" "Captain Frederick Wentworth" "Captain Harville" 21
+"138" "Captain Frederick Wentworth" "Charles Hayter" 10
+"139" "Captain Frederick Wentworth" "Charles Musgrove" 26
+"140" "Captain Frederick Wentworth" "Colonel Wallis" 2
+"141" "Captain Frederick Wentworth" "Doctor Shirley" 4
+"142" "Captain Frederick Wentworth" "Edward Wentworth" 6
+"143" "Captain Frederick Wentworth" "Elder Mr Charles Musgrove" 21
+"144" "Captain Frederick Wentworth" "Elizabeth Elliot" 16
+"145" "Captain Frederick Wentworth" "Fanny Harville" 2
+"146" "Captain Frederick Wentworth" "Governor Trent" 1
+"147" "Captain Frederick Wentworth" "Harry Musgrove" 1
+"148" "Captain Frederick Wentworth" "Henrietta Musgrove" 31
+"149" "Captain Frederick Wentworth" "Jemima" 1
+"150" "Captain Frederick Wentworth" "Lady Alicia" 1
+"151" "Captain Frederick Wentworth" "Lady Mary Grierson" 1
+"152" "Captain Frederick Wentworth" "Lady Russell" 21
+"153" "Captain Frederick Wentworth" "Louisa Musgrove" 37
+"154" "Captain Frederick Wentworth" "Mary Elliot" 30
+"155" "Captain Frederick Wentworth" "Miss Atkinson" 1
+"156" "Captain Frederick Wentworth" "Mr Hayter" 1
+"157" "Captain Frederick Wentworth" "Mr John Shepherd" 2
+"158" "Captain Frederick Wentworth" "Mr Robinson" 2
+"159" "Captain Frederick Wentworth" "Mr William Elliot" 17
+"160" "Captain Frederick Wentworth" "Mrs Croft" 18
+"161" "Captain Frederick Wentworth" "Mrs Frankland" 1
+"162" "Captain Frederick Wentworth" "Mrs Hayter" 1
+"163" "Captain Frederick Wentworth" "Mrs Penelope Clay" 10
+"164" "Captain Frederick Wentworth" "Mrs Shirley" 1
+"165" "Captain Frederick Wentworth" "Mrs Smith" 5
+"166" "Captain Frederick Wentworth" "Sarah" 2
+"167" "Captain Frederick Wentworth" "Sir Archibald Drew" 1
+"168" "Captain Frederick Wentworth" "Sir Walter Elliot" 15
+"169" "Captain Frederick Wentworth" "The Dowager Countess Dalrymple" 8
+"170" "Captain Frederick Wentworth" "The Honourable Miss Carteret" 5
+"171" "Captain Frederick Wentworth" "The Late Viscount Dalrymple" 1
+"172" "Captain Frederick Wentworth" "The Miss Hayters" 1
+"173" "Captain Frederick Wentworth" "Walter Musgrove" 1
+"174" "Captain Harville" "Charles Hayter" 7
+"175" "Captain Harville" "Charles Musgrove" 17
+"176" "Captain Harville" "Doctor Shirley" 1
+"177" "Captain Harville" "Edward Wentworth" 1
+"178" "Captain Harville" "Elder Mr Charles Musgrove" 10
+"179" "Captain Harville" "Elizabeth Elliot" 4
+"180" "Captain Harville" "Fanny Harville" 3
+"181" "Captain Harville" "Harry Musgrove" 1
+"182" "Captain Harville" "Henrietta Musgrove" 16
+"183" "Captain Harville" "Jemima" 1
+"184" "Captain Harville" "Lady Mary Grierson" 1
+"185" "Captain Harville" "Lady Russell" 9
+"186" "Captain Harville" "Louisa Musgrove" 21
+"187" "Captain Harville" "Mary Elliot" 16
+"188" "Captain Harville" "Mr Hayter" 1
+"189" "Captain Harville" "Mr William Elliot" 8
+"190" "Captain Harville" "Mrs Croft" 8
+"191" "Captain Harville" "Mrs Hayter" 1
+"192" "Captain Harville" "Mrs Penelope Clay" 6
+"193" "Captain Harville" "Mrs Smith" 1
+"194" "Captain Harville" "Sarah" 2
+"195" "Captain Harville" "Sir Walter Elliot" 4
+"196" "Captain Harville" "The Dowager Countess Dalrymple" 2
+"197" "Charles Hayter" "Charles Musgrove" 12
+"198" "Charles Hayter" "Doctor Shirley" 2
+"199" "Charles Hayter" "Edward Wentworth" 1
+"200" "Charles Hayter" "Elder Mr Charles Musgrove" 10
+"201" "Charles Hayter" "Elizabeth Elliot" 4
+"202" "Charles Hayter" "Fanny Harville" 1
+"203" "Charles Hayter" "Harry Musgrove" 1
+"204" "Charles Hayter" "Henrietta Musgrove" 13
+"205" "Charles Hayter" "Jemima" 1
+"206" "Charles Hayter" "Lady Alicia" 1
+"207" "Charles Hayter" "Lady Russell" 6
+"208" "Charles Hayter" "Louisa Musgrove" 13
+"209" "Charles Hayter" "Mary Elliot" 14
+"210" "Charles Hayter" "Mr Hayter" 2
+"211" "Charles Hayter" "Mr William Elliot" 6
+"212" "Charles Hayter" "Mrs Croft" 4
+"213" "Charles Hayter" "Mrs Hayter" 2
+"214" "Charles Hayter" "Mrs Penelope Clay" 4
+"215" "Charles Hayter" "Mrs Smith" 1
+"216" "Charles Hayter" "Sarah" 1
+"217" "Charles Hayter" "Sir Walter Elliot" 5
+"218" "Charles Hayter" "The Dowager Countess Dalrymple" 2
+"219" "Charles Hayter" "The Honourable Miss Carteret" 1
+"220" "Charles Hayter" "Walter Musgrove" 1
+"221" "Charles Musgrove" "Doctor Shirley" 3
+"222" "Charles Musgrove" "Edward Wentworth" 2
+"223" "Charles Musgrove" "Elder Mr Charles Musgrove" 21
+"224" "Charles Musgrove" "Elizabeth Elliot" 10
+"225" "Charles Musgrove" "Fanny Harville" 1
+"226" "Charles Musgrove" "Harry Musgrove" 1
+"227" "Charles Musgrove" "Henrietta Musgrove" 31
+"228" "Charles Musgrove" "Jemima" 3
+"229" "Charles Musgrove" "Lady Alicia" 1
+"230" "Charles Musgrove" "Lady Elliot" 1
+"231" "Charles Musgrove" "Lady Mary Grierson" 1
+"232" "Charles Musgrove" "Lady Russell" 12
+"233" "Charles Musgrove" "Little Charles Musgrove" 1
+"234" "Charles Musgrove" "Louisa Musgrove" 30
+"235" "Charles Musgrove" "Mackenzie" 1
+"236" "Charles Musgrove" "Mary Elliot" 34
+"237" "Charles Musgrove" "Mr Hayter" 2
+"238" "Charles Musgrove" "Mr Robinson" 2
+"239" "Charles Musgrove" "Mr William Elliot" 14
+"240" "Charles Musgrove" "Mrs Croft" 9
+"241" "Charles Musgrove" "Mrs Hayter" 2
+"242" "Charles Musgrove" "Mrs Penelope Clay" 7
+"243" "Charles Musgrove" "Mrs Smith" 2
+"244" "Charles Musgrove" "Sarah" 2
+"245" "Charles Musgrove" "Sir Walter Elliot" 10
+"246" "Charles Musgrove" "The Dowager Countess Dalrymple" 4
+"247" "Charles Musgrove" "The Honourable Miss Carteret" 3
+"248" "Charles Musgrove" "The Late Viscount Dalrymple" 1
+"249" "Charles Musgrove" "Walter Musgrove" 3
+"250" "Charles Smith" "Lady Russell" 1
+"251" "Charles Smith" "Mary" 1
+"252" "Charles Smith" "Mr William Elliot" 2
+"253" "Charles Smith" "Mrs Smith" 2
+"254" "Colonel Wallis" "Edward Wentworth" 1
+"255" "Colonel Wallis" "Elizabeth Elliot" 8
+"256" "Colonel Wallis" "Lady Elliot" 2
+"257" "Colonel Wallis" "Lady Russell" 4
+"258" "Colonel Wallis" "Louisa Musgrove" 1
+"259" "Colonel Wallis" "Mary Elliot" 1
+"260" "Colonel Wallis" "Mr William Elliot" 9
+"261" "Colonel Wallis" "Mrs Penelope Clay" 5
+"262" "Colonel Wallis" "Mrs Smith" 4
+"263" "Colonel Wallis" "Mrs Speed" 1
+"264" "Colonel Wallis" "Mrs William Elliot" 1
+"265" "Colonel Wallis" "Nurse Rooke" 2
+"266" "Colonel Wallis" "Sir Henry Russell" 1
+"267" "Colonel Wallis" "Sir Walter Elliot" 7
+"268" "Colonel Wallis" "The Dowager Countess Dalrymple" 2
+"269" "Colonel Wallis" "The Honourable Miss Carteret" 2
+"270" "Colonel Wallis" "Walter Musgrove" 1
+"271" "Doctor Shirley" "Elder Mr Charles Musgrove" 3
+"272" "Doctor Shirley" "Henrietta Musgrove" 4
+"273" "Doctor Shirley" "Lady Russell" 1
+"274" "Doctor Shirley" "Louisa Musgrove" 4
+"275" "Doctor Shirley" "Mary Elliot" 3
+"276" "Doctor Shirley" "Mr William Elliot" 1
+"277" "Doctor Shirley" "Mrs Shirley" 1
+"278" "Doctor Shirley" "Walter Musgrove" 1
+"279" "Edward Wentworth" "Elder Mr Charles Musgrove" 3
+"280" "Edward Wentworth" "Elizabeth Elliot" 2
+"281" "Edward Wentworth" "Governor Trent" 1
+"282" "Edward Wentworth" "Henrietta Musgrove" 2
+"283" "Edward Wentworth" "Lady Russell" 2
+"284" "Edward Wentworth" "Louisa Musgrove" 4
+"285" "Edward Wentworth" "Mary Elliot" 2
+"286" "Edward Wentworth" "Mr Hayter" 1
+"287" "Edward Wentworth" "Mr John Shepherd" 1
+"288" "Edward Wentworth" "Mr William Elliot" 2
+"289" "Edward Wentworth" "Mrs Croft" 4
+"290" "Edward Wentworth" "Mrs Hayter" 1
+"291" "Edward Wentworth" "Mrs Penelope Clay" 2
+"292" "Edward Wentworth" "Sir Walter Elliot" 3
+"293" "Edward Wentworth" "The Dowager Countess Dalrymple" 2
+"294" "Edward Wentworth" "The Honourable Miss Carteret" 1
+"295" "Elder Mr Charles Musgrove" "Elizabeth Elliot" 8
+"296" "Elder Mr Charles Musgrove" "Fanny Harville" 1
+"297" "Elder Mr Charles Musgrove" "Harry Musgrove" 1
+"298" "Elder Mr Charles Musgrove" "Henrietta Musgrove" 21
+"299" "Elder Mr Charles Musgrove" "Jemima" 2
+"300" "Elder Mr Charles Musgrove" "Lady Alicia" 1
+"301" "Elder Mr Charles Musgrove" "Lady Russell" 7
+"302" "Elder Mr Charles Musgrove" "Little Charles Musgrove" 1
+"303" "Elder Mr Charles Musgrove" "Louisa Musgrove" 22
+"304" "Elder Mr Charles Musgrove" "Mackenzie" 1
+"305" "Elder Mr Charles Musgrove" "Mary Elliot" 22
+"306" "Elder Mr Charles Musgrove" "Mr Hayter" 1
+"307" "Elder Mr Charles Musgrove" "Mr Robinson" 2
+"308" "Elder Mr Charles Musgrove" "Mr William Elliot" 8
+"309" "Elder Mr Charles Musgrove" "Mrs Croft" 10
+"310" "Elder Mr Charles Musgrove" "Mrs Hayter" 1
+"311" "Elder Mr Charles Musgrove" "Mrs Penelope Clay" 7
+"312" "Elder Mr Charles Musgrove" "Mrs Smith" 1
+"313" "Elder Mr Charles Musgrove" "Sarah" 1
+"314" "Elder Mr Charles Musgrove" "Sir Walter Elliot" 6
+"315" "Elder Mr Charles Musgrove" "The Dowager Countess Dalrymple" 5
+"316" "Elder Mr Charles Musgrove" "The Honourable Miss Carteret" 2
+"317" "Elder Mr Charles Musgrove" "Walter Musgrove" 2
+"318" "Elizabeth Elliot" "Fanny Harville" 1
+"319" "Elizabeth Elliot" "Governor Trent" 1
+"320" "Elizabeth Elliot" "Henrietta Musgrove" 8
+"321" "Elizabeth Elliot" "Lady Alicia" 1
+"322" "Elizabeth Elliot" "Lady Elliot" 6
+"323" "Elizabeth Elliot" "Lady Russell" 24
+"324" "Elizabeth Elliot" "Little Charles Musgrove" 1
+"325" "Elizabeth Elliot" "Louisa Musgrove" 11
+"326" "Elizabeth Elliot" "Mackenzie" 1
+"327" "Elizabeth Elliot" "Mary Elliot" 19
+"328" "Elizabeth Elliot" "Mr John Shepherd" 6
+"329" "Elizabeth Elliot" "Mr William Elliot" 22
+"330" "Elizabeth Elliot" "Mrs Croft" 7
+"331" "Elizabeth Elliot" "Mrs Penelope Clay" 19
+"332" "Elizabeth Elliot" "Mrs Smith" 8
+"333" "Elizabeth Elliot" "Mrs William Elliot" 1
+"334" "Elizabeth Elliot" "Nurse Rooke" 2
+"335" "Elizabeth Elliot" "Sir Archibald Drew" 1
+"336" "Elizabeth Elliot" "Sir Henry Russell" 1
+"337" "Elizabeth Elliot" "Sir Walter Elliot" 33
+"338" "Elizabeth Elliot" "The Dowager Countess Dalrymple" 10
+"339" "Elizabeth Elliot" "The Honourable Miss Carteret" 6
+"340" "Elizabeth Elliot" "The Late Viscount Dalrymple" 2
+"341" "Elizabeth Elliot" "Walter Musgrove" 3
+"342" "Fanny Harville" "Henrietta Musgrove" 1
+"343" "Fanny Harville" "Lady Russell" 1
+"344" "Fanny Harville" "Louisa Musgrove" 3
+"345" "Fanny Harville" "Mary Elliot" 1
+"346" "Fanny Harville" "Mrs Penelope Clay" 1
+"347" "Fanny Harville" "Sir Walter Elliot" 1
+"348" "Fanny Harville" "The Dowager Countess Dalrymple" 1
+"349" "Governor Trent" "Mr John Shepherd" 1
+"350" "Governor Trent" "Mrs Croft" 1
+"351" "Governor Trent" "Mrs Penelope Clay" 1
+"352" "Governor Trent" "Sir Walter Elliot" 1
+"353" "Harry Musgrove" "Henrietta Musgrove" 1
+"354" "Harry Musgrove" "Lady Russell" 1
+"355" "Harry Musgrove" "Louisa Musgrove" 1
+"356" "Harry Musgrove" "Mary Elliot" 1
+"357" "Harry Musgrove" "Sarah" 1
+"358" "Henrietta Musgrove" "Jemima" 2
+"359" "Henrietta Musgrove" "Lady Alicia" 1
+"360" "Henrietta Musgrove" "Lady Mary Grierson" 1
+"361" "Henrietta Musgrove" "Lady Russell" 11
+"362" "Henrietta Musgrove" "Little Charles Musgrove" 1
+"363" "Henrietta Musgrove" "Louisa Musgrove" 35
+"364" "Henrietta Musgrove" "Mackenzie" 1
+"365" "Henrietta Musgrove" "Mary Elliot" 32
+"366" "Henrietta Musgrove" "Mr Hayter" 2
+"367" "Henrietta Musgrove" "Mr William Elliot" 11
+"368" "Henrietta Musgrove" "Mrs Croft" 11
+"369" "Henrietta Musgrove" "Mrs Hayter" 2
+"370" "Henrietta Musgrove" "Mrs Penelope Clay" 7
+"371" "Henrietta Musgrove" "Mrs Shirley" 1
+"372" "Henrietta Musgrove" "Mrs Smith" 1
+"373" "Henrietta Musgrove" "Sarah" 2
+"374" "Henrietta Musgrove" "Sir Walter Elliot" 7
+"375" "Henrietta Musgrove" "The Dowager Countess Dalrymple" 4
+"376" "Henrietta Musgrove" "The Honourable Miss Carteret" 3
+"377" "Henrietta Musgrove" "The Late Viscount Dalrymple" 1
+"378" "Henrietta Musgrove" "The Miss Hayters" 1
+"379" "Henrietta Musgrove" "Walter Musgrove" 2
+"380" "Jemima" "Louisa Musgrove" 2
+"381" "Jemima" "Mary Elliot" 3
+"382" "Jemima" "Mr Hayter" 1
+"383" "Jemima" "Mr Robinson" 1
+"384" "Jemima" "Mr William Elliot" 1
+"385" "Jemima" "Mrs Croft" 1
+"386" "Jemima" "Mrs Hayter" 1
+"387" "Jemima" "Mrs Penelope Clay" 1
+"388" "Jemima" "Sir Walter Elliot" 1
+"389" "Lady Alicia" "Lady Russell" 1
+"390" "Lady Alicia" "Louisa Musgrove" 2
+"391" "Lady Alicia" "Mary Elliot" 1
+"392" "Lady Alicia" "Miss Atkinson" 1
+"393" "Lady Alicia" "Mr William Elliot" 2
+"394" "Lady Alicia" "Mrs Frankland" 1
+"395" "Lady Alicia" "Mrs Penelope Clay" 1
+"396" "Lady Alicia" "Sir Walter Elliot" 1
+"397" "Lady Alicia" "The Dowager Countess Dalrymple" 1
+"398" "Lady Alicia" "The Honourable Miss Carteret" 1
+"399" "Lady Elliot" "Lady Russell" 6
+"400" "Lady Elliot" "Mary Elliot" 3
+"401" "Lady Elliot" "Mr John Shepherd" 1
+"402" "Lady Elliot" "Mr William Elliot" 6
+"403" "Lady Elliot" "Mrs Penelope Clay" 3
+"404" "Lady Elliot" "Mrs Smith" 2
+"405" "Lady Elliot" "Sir Henry Russell" 1
+"406" "Lady Elliot" "Sir Walter Elliot" 6
+"407" "Lady Elliot" "The Dowager Countess Dalrymple" 1
+"408" "Lady Elliot" "The Honourable Miss Carteret" 1
+"409" "Lady Elliot" "The Late Viscount Dalrymple" 1
+"410" "Lady Elliot" "Walter Musgrove" 1
+"411" "Lady Mary Grierson" "Louisa Musgrove" 1
+"412" "Lady Russell" "Little Charles Musgrove" 1
+"413" "Lady Russell" "Louisa Musgrove" 16
+"414" "Lady Russell" "Mackenzie" 1
+"415" "Lady Russell" "Mary Elliot" 20
+"416" "Lady Russell" "Miss Atkinson" 1
+"417" "Lady Russell" "Mr John Shepherd" 5
+"418" "Lady Russell" "Mr William Elliot" 19
+"419" "Lady Russell" "Mrs Croft" 7
+"420" "Lady Russell" "Mrs Frankland" 1
+"421" "Lady Russell" "Mrs Penelope Clay" 13
+"422" "Lady Russell" "Mrs Shirley" 1
+"423" "Lady Russell" "Mrs Smith" 6
+"424" "Lady Russell" "Sarah" 1
+"425" "Lady Russell" "Sir Archibald Drew" 1
+"426" "Lady Russell" "Sir Henry Russell" 1
+"427" "Lady Russell" "Sir Walter Elliot" 22
+"428" "Lady Russell" "The Dowager Countess Dalrymple" 4
+"429" "Lady Russell" "The Honourable Miss Carteret" 4
+"430" "Lady Russell" "The Late Viscount Dalrymple" 1
+"431" "Lady Russell" "Walter Musgrove" 2
+"432" "Little Charles Musgrove" "Louisa Musgrove" 1
+"433" "Little Charles Musgrove" "Mackenzie" 1
+"434" "Little Charles Musgrove" "Mary Elliot" 1
+"435" "Little Charles Musgrove" "Walter Musgrove" 1
+"436" "Lord St Ives" "Mr John Shepherd" 1
+"437" "Lord St Ives" "Mrs Penelope Clay" 1
+"438" "Lord St Ives" "Sir Basil Morley" 1
+"439" "Lord St Ives" "Sir Walter Elliot" 1
+"440" "Louisa Musgrove" "Mackenzie" 1
+"441" "Louisa Musgrove" "Mary Elliot" 31
+"442" "Louisa Musgrove" "Miss Atkinson" 1
+"443" "Louisa Musgrove" "Mr Hayter" 2
+"444" "Louisa Musgrove" "Mr John Shepherd" 1
+"445" "Louisa Musgrove" "Mr William Elliot" 15
+"446" "Louisa Musgrove" "Mrs Croft" 13
+"447" "Louisa Musgrove" "Mrs Frankland" 1
+"448" "Louisa Musgrove" "Mrs Hayter" 2
+"449" "Louisa Musgrove" "Mrs Penelope Clay" 10
+"450" "Louisa Musgrove" "Mrs Shirley" 1
+"451" "Louisa Musgrove" "Mrs Smith" 1
+"452" "Louisa Musgrove" "Sarah" 1
+"453" "Louisa Musgrove" "Sir Archibald Drew" 1
+"454" "Louisa Musgrove" "Sir Walter Elliot" 10
+"455" "Louisa Musgrove" "The Dowager Countess Dalrymple" 6
+"456" "Louisa Musgrove" "The Honourable Miss Carteret" 3
+"457" "Louisa Musgrove" "The Miss Hayters" 1
+"458" "Louisa Musgrove" "Walter Musgrove" 2
+"459" "Mackenzie" "Mary Elliot" 1
+"460" "Mackenzie" "Walter Musgrove" 1
+"461" "Mary" "Mr William Elliot" 1
+"462" "Mary" "Mrs Smith" 1
+"463" "Mary Elliot" "Mr Hayter" 2
+"464" "Mary Elliot" "Mr John Shepherd" 2
+"465" "Mary Elliot" "Mr Robinson" 2
+"466" "Mary Elliot" "Mr William Elliot" 17
+"467" "Mary Elliot" "Mrs Croft" 13
+"468" "Mary Elliot" "Mrs Hayter" 2
+"469" "Mary Elliot" "Mrs Penelope Clay" 12
+"470" "Mary Elliot" "Mrs Smith" 1
+"471" "Mary Elliot" "Sarah" 2
+"472" "Mary Elliot" "Sir Walter Elliot" 16
+"473" "Mary Elliot" "The Dowager Countess Dalrymple" 5
+"474" "Mary Elliot" "The Honourable Miss Carteret" 4
+"475" "Mary Elliot" "The Late Viscount Dalrymple" 2
+"476" "Mary Elliot" "Walter Musgrove" 3
+"477" "Miss Atkinson" "Mr William Elliot" 1
+"478" "Miss Atkinson" "Mrs Frankland" 1
+"479" "Miss Atkinson" "Mrs Penelope Clay" 1
+"480" "Mr Hayter" "Mr William Elliot" 1
+"481" "Mr Hayter" "Mrs Croft" 2
+"482" "Mr Hayter" "Mrs Hayter" 2
+"483" "Mr Hayter" "Mrs Penelope Clay" 1
+"484" "Mr Hayter" "Sir Walter Elliot" 1
+"485" "Mr John Shepherd" "Mrs Croft" 3
+"486" "Mr John Shepherd" "Mrs Penelope Clay" 5
+"487" "Mr John Shepherd" "Sir Basil Morley" 1
+"488" "Mr John Shepherd" "Sir Walter Elliot" 8
+"489" "Mr Robinson" "Mrs Croft" 1
+"490" "Mr William Elliot" "Mrs Croft" 3
+"491" "Mr William Elliot" "Mrs Frankland" 1
+"492" "Mr William Elliot" "Mrs Hayter" 1
+"493" "Mr William Elliot" "Mrs Penelope Clay" 16
+"494" "Mr William Elliot" "Mrs Smith" 11
+"495" "Mr William Elliot" "Mrs Speed" 1
+"496" "Mr William Elliot" "Mrs William Elliot" 1
+"497" "Mr William Elliot" "Nurse Rooke" 2
+"498" "Mr William Elliot" "Sir Henry Russell" 1
+"499" "Mr William Elliot" "Sir Walter Elliot" 21
+"500" "Mr William Elliot" "The Dowager Countess Dalrymple" 8
+"501" "Mr William Elliot" "The Honourable Miss Carteret" 7
+"502" "Mr William Elliot" "The Late Viscount Dalrymple" 2
+"503" "Mr William Elliot" "Walter Musgrove" 2
+"504" "Mrs Croft" "Mrs Hayter" 2
+"505" "Mrs Croft" "Mrs Penelope Clay" 7
+"506" "Mrs Croft" "Mrs Smith" 1
+"507" "Mrs Croft" "Sir Archibald Drew" 1
+"508" "Mrs Croft" "Sir Walter Elliot" 7
+"509" "Mrs Croft" "The Dowager Countess Dalrymple" 2
+"510" "Mrs Croft" "The Honourable Miss Carteret" 1
+"511" "Mrs Frankland" "Mrs Penelope Clay" 1
+"512" "Mrs Hayter" "Mrs Penelope Clay" 1
+"513" "Mrs Hayter" "Sir Walter Elliot" 1
+"514" "Mrs Penelope Clay" "Mrs Smith" 4
+"515" "Mrs Penelope Clay" "Mrs William Elliot" 1
+"516" "Mrs Penelope Clay" "Nurse Rooke" 1
+"517" "Mrs Penelope Clay" "Sir Basil Morley" 1
+"518" "Mrs Penelope Clay" "Sir Henry Russell" 1
+"519" "Mrs Penelope Clay" "Sir Walter Elliot" 20
+"520" "Mrs Penelope Clay" "The Dowager Countess Dalrymple" 5
+"521" "Mrs Penelope Clay" "The Honourable Miss Carteret" 1
+"522" "Mrs Smith" "Mrs Speed" 1
+"523" "Mrs Smith" "Nurse Rooke" 3
+"524" "Mrs Smith" "Sir Henry Russell" 1
+"525" "Mrs Smith" "Sir Walter Elliot" 9
+"526" "Mrs Smith" "The Dowager Countess Dalrymple" 3
+"527" "Mrs Smith" "Walter Musgrove" 1
+"528" "Mrs Speed" "Nurse Rooke" 1
+"529" "Mrs William Elliot" "Sir Walter Elliot" 1
+"530" "Nurse Rooke" "Sir Walter Elliot" 2
+"531" "Nurse Rooke" "The Dowager Countess Dalrymple" 1
+"532" "Nurse Rooke" "Walter Musgrove" 1
+"533" "Sir Archibald Drew" "Sir Walter Elliot" 1
+"534" "Sir Basil Morley" "Sir Walter Elliot" 1
+"535" "Sir Henry Russell" "Sir Walter Elliot" 1
+"536" "Sir Walter Elliot" "The Dowager Countess Dalrymple" 9
+"537" "Sir Walter Elliot" "The Honourable Miss Carteret" 5
+"538" "Sir Walter Elliot" "The Late Viscount Dalrymple" 2
+"539" "Sir Walter Elliot" "Walter Musgrove" 2
+"540" "The Dowager Countess Dalrymple" "The Honourable Miss Carteret" 6
+"541" "The Dowager Countess Dalrymple" "The Late Viscount Dalrymple" 2
+"542" "The Honourable Miss Carteret" "The Late Viscount Dalrymple" 2

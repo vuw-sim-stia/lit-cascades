@@ -1,0 +1,44 @@
+CatherineMorland: Catherine Morland, Miss Morland, our Heroine
+MrRichardMorland: Richard
+SarahMoreland: Sally, Sally Morland, Sarah
+MrsMorland: Mrs Moreland
+MrAllen: Mr Allen
+MrsAllen: Mrs Allen
+GeorgeParry: George Parry
+MrHenryTilney: Tilney, Henry
+MrKing: Mr King
+MrsThorpe: Mrs Thorpe
+JohnThorpe: Mr Thorpe, Thorpe, John
+IsabellaThorpe: Isabella, Miss Thorpe, Belle
+JamesMorland: James, Morland, Mr Morland
+MissAndrews: Miss Andrews
+EleanorTilney: Miss Tilney, Eleanor, Viscountess 
+CaptainFrederickTilney: Captain Tilney, Frederick
+GeneralTilney: General Tilney, The General
+GeneralCourteney: General Courteney
+AnneThorpe: Anne, the second Miss Thorpe
+MariaThorpe: Maria
+MrsTilney: Miss Drummond, Mrs Tilney
+CharlotteDavis: Charlotte Davis 
+Dorothy: Dorothy
+Emily: Emily
+Sophia: Sophia
+SamFletcher: Fletcher 
+TheLadyFrasers: The Lady Frasers
+Freeman: Freeman
+CharlesHodges: Charles Hodges
+MrsHughes: Mrs Hughes
+CaptainHunt: Captain Hunt
+Jackson: Jackson
+MarquisofLongtown: Lord Longtown, Marquis
+LadyAliceLongtown: Alice
+AnneMitchell: Anne Mitchell
+GeorgeMorland: George
+HarrietMorland: Harriet
+LittleRichardMorland: Richie
+MissSmith: Miss Smith
+EdwardThorpe: Edward
+WilliamThorpe: William
+TheViscount: Viscount, man of her choice
+William: Will
+MrDrummond: Mr Drummond

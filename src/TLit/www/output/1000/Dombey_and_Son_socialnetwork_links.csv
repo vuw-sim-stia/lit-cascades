@@ -1,0 +1,791 @@
+"id1" "id2" "label"
+"1" "Alex Macstinger" "Captain Bunsby" 4
+"2" "Alex Macstinger" "Captain Cuttle" 5
+"3" "Alex Macstinger" "Charles Macstinger" 1
+"4" "Alex Macstinger" "Diogenes" 1
+"5" "Alex Macstinger" "Florence Dombey" 4
+"6" "Alex Macstinger" "Juliana Macstinger" 3
+"7" "Alex Macstinger" "Major Bagstock" 1
+"8" "Alex Macstinger" "Mr Brogley" 1
+"9" "Alex Macstinger" "Mr Dombey" 2
+"10" "Alex Macstinger" "Mr Toots" 2
+"11" "Alex Macstinger" "Mrs Bokum" 2
+"12" "Alex Macstinger" "Mrs Chick" 1
+"13" "Alex Macstinger" "Paul Dombey" 1
+"14" "Alex Macstinger" "Reverend Melchisedech" 1
+"15" "Alex Macstinger" "Solomon Gills" 1
+"16" "Alex Macstinger" "Susan Nipper" 4
+"17" "Alex Macstinger" "Walter Gay" 2
+"18" "Alice Brown" "Florence Dombey" 1
+"19" "Alice Brown" "Harriet Carker" 6
+"20" "Alice Brown" "James Carker" 1
+"21" "Alice Brown" "Major Bagstock" 1
+"22" "Alice Brown" "Mr Carker" 2
+"23" "Alice Brown" "Mr Dombey" 5
+"24" "Alice Brown" "Mrs Brown" 7
+"25" "Alice Brown" "Mrs Dombey II" 4
+"26" "Alice Brown" "Mrs Polly Toodle" 1
+"27" "Alice Brown" "Mrs Skewton" 1
+"28" "Alice Brown" "Mrs Wickam" 1
+"29" "Alice Brown" "Paul Dombey" 1
+"30" "Alice Brown" "Robin Toodle" 3
+"31" "Anne" "Florence Dombey" 1
+"32" "Anne" "Mary Daws" 1
+"33" "Anne" "Mr Dombey" 1
+"34" "Anne" "Mr Perch" 1
+"35" "Anne" "Mrs Perch" 1
+"36" "Anne" "Towlinson" 1
+"37" "Barnet Skettles Jr" "Cornelia Blimber" 1
+"38" "Barnet Skettles Jr" "Diogenes" 2
+"39" "Barnet Skettles Jr" "Doctor Blimber" 2
+"40" "Barnet Skettles Jr" "Florence Dombey" 5
+"41" "Barnet Skettles Jr" "Lady Skettles" 4
+"42" "Barnet Skettles Jr" "Mary Daws" 1
+"43" "Barnet Skettles Jr" "Mr Baps" 1
+"44" "Barnet Skettles Jr" "Mr Carker" 2
+"45" "Barnet Skettles Jr" "Mr Dombey" 1
+"46" "Barnet Skettles Jr" "Mr Feeder" 2
+"47" "Barnet Skettles Jr" "Mr Toots" 3
+"48" "Barnet Skettles Jr" "Mrs Blimber" 4
+"49" "Barnet Skettles Jr" "Paul Dombey" 2
+"50" "Barnet Skettles Jr" "Sir Barnet Skettles" 3
+"51" "Barnet Skettles Jr" "Walter Gay" 1
+"52" "Berinthia" "Florence Dombey" 5
+"53" "Berinthia" "Lucretia Tox" 1
+"54" "Berinthia" "Master Bitherstone" 3
+"55" "Berinthia" "Miss Pankey" 2
+"56" "Berinthia" "Mr Chick" 1
+"57" "Berinthia" "Mr Dombey" 4
+"58" "Berinthia" "Mr Toodle" 1
+"59" "Berinthia" "Mrs Chick" 2
+"60" "Berinthia" "Mrs Polly Toodle" 1
+"61" "Berinthia" "Mrs Wickam" 5
+"62" "Berinthia" "Paul Dombey" 6
+"63" "Bill Bitherstone" "Florence Dombey" 2
+"64" "Bill Bitherstone" "Lucretia Tox" 2
+"65" "Bill Bitherstone" "Major Bagstock" 2
+"66" "Bill Bitherstone" "Master Bitherstone" 2
+"67" "Bill Bitherstone" "Mr Dombey" 2
+"68" "Bill Bitherstone" "Mrs Chick" 1
+"69" "Bill Bitherstone" "Paul Dombey" 2
+"70" "Briggs" "Cornelia Blimber" 8
+"71" "Briggs" "Diogenes" 1
+"72" "Briggs" "Doctor Blimber" 8
+"73" "Briggs" "Florence Dombey" 7
+"74" "Briggs" "Johnson" 2
+"75" "Briggs" "Lady Skettles" 1
+"76" "Briggs" "Lucretia Tox" 1
+"77" "Briggs" "Master Bitherstone" 3
+"78" "Briggs" "Melia" 1
+"79" "Briggs" "Mr Dombey" 3
+"80" "Briggs" "Mr Feeder" 7
+"81" "Briggs" "Mr Toots" 9
+"82" "Briggs" "Mrs Blimber" 7
+"83" "Briggs" "Paul Dombey" 7
+"84" "Briggs" "Reverend Feeder" 1
+"85" "Briggs" "Sir Barnet Skettles" 1
+"86" "Briggs" "Susan Nipper" 2
+"87" "Briggs" "Tozer" 7
+"88" "Briggs" "Walter Gay" 1
+"89" "Captain Bunsby" "Captain Cuttle" 12
+"90" "Captain Bunsby" "Charles Macstinger" 2
+"91" "Captain Bunsby" "Cornelia Blimber" 1
+"92" "Captain Bunsby" "Doctor Blimber" 1
+"93" "Captain Bunsby" "Florence Dombey" 8
+"94" "Captain Bunsby" "John" 3
+"95" "Captain Bunsby" "Juliana Macstinger" 3
+"96" "Captain Bunsby" "Mr Carker" 1
+"97" "Captain Bunsby" "Mr Dombey" 3
+"98" "Captain Bunsby" "Mr Feeder" 1
+"99" "Captain Bunsby" "Mr Perch" 1
+"100" "Captain Bunsby" "Mr Toots" 4
+"101" "Captain Bunsby" "Mrs Blimber" 1
+"102" "Captain Bunsby" "Mrs Bokum" 2
+"103" "Captain Bunsby" "Reverend Melchisedech" 1
+"104" "Captain Bunsby" "Robin Toodle" 2
+"105" "Captain Bunsby" "Solomon Gills" 2
+"106" "Captain Bunsby" "Susan Nipper" 6
+"107" "Captain Bunsby" "Walter Gay" 8
+"108" "Captain Cuttle" "Charles Macstinger" 2
+"109" "Captain Cuttle" "Cousin Feenix" 2
+"110" "Captain Cuttle" "Diogenes" 8
+"111" "Captain Cuttle" "Florence Dombey" 58
+"112" "Captain Cuttle" "Harriet Carker" 2
+"113" "Captain Cuttle" "James Carker" 3
+"114" "Captain Cuttle" "John" 3
+"115" "Captain Cuttle" "Juliana Macstinger" 3
+"116" "Captain Cuttle" "Lucretia Tox" 7
+"117" "Captain Cuttle" "Major Bagstock" 5
+"118" "Captain Cuttle" "Mr Brogley" 6
+"119" "Captain Cuttle" "Mr Carker" 16
+"120" "Captain Cuttle" "Mr Chick" 1
+"121" "Captain Cuttle" "Mr Dombey" 30
+"122" "Captain Cuttle" "Mr Morfin" 1
+"123" "Captain Cuttle" "Mr Perch" 7
+"124" "Captain Cuttle" "Mr Sownds" 3
+"125" "Captain Cuttle" "Mr Toots" 29
+"126" "Captain Cuttle" "Mrs Bokum" 1
+"127" "Captain Cuttle" "Mrs Brown" 2
+"128" "Captain Cuttle" "Mrs Chick" 4
+"129" "Captain Cuttle" "Mrs Dombey II" 5
+"130" "Captain Cuttle" "Mrs Miff" 3
+"131" "Captain Cuttle" "Mrs Perch" 4
+"132" "Captain Cuttle" "Mrs Polly Toodle" 6
+"133" "Captain Cuttle" "Mrs Skewton" 2
+"134" "Captain Cuttle" "Mrs Wickam" 1
+"135" "Captain Cuttle" "Paul Dombey" 8
+"136" "Captain Cuttle" "Reverend Melchisedech" 3
+"137" "Captain Cuttle" "Robin Toodle" 15
+"138" "Captain Cuttle" "Solomon Gills" 22
+"139" "Captain Cuttle" "Susan Nipper" 24
+"140" "Captain Cuttle" "The Native" 1
+"141" "Captain Cuttle" "Towlinson" 2
+"142" "Captain Cuttle" "Walter Gay" 62
+"143" "Charles Macstinger" "Juliana Macstinger" 2
+"144" "Cornelia Blimber" "Diogenes" 3
+"145" "Cornelia Blimber" "Doctor Blimber" 21
+"146" "Cornelia Blimber" "Florence Dombey" 21
+"147" "Cornelia Blimber" "Johnson" 4
+"148" "Cornelia Blimber" "Lady Skettles" 3
+"149" "Cornelia Blimber" "Lucretia Tox" 1
+"150" "Cornelia Blimber" "Master Bitherstone" 5
+"151" "Cornelia Blimber" "Melia" 1
+"152" "Cornelia Blimber" "Miss Pankey" 1
+"153" "Cornelia Blimber" "Mr Baps" 2
+"154" "Cornelia Blimber" "Mr Dombey" 7
+"155" "Cornelia Blimber" "Mr Feeder" 18
+"156" "Cornelia Blimber" "Mr Toodle" 1
+"157" "Cornelia Blimber" "Mr Toots" 21
+"158" "Cornelia Blimber" "Mrs Baps" 2
+"159" "Cornelia Blimber" "Mrs Blimber" 19
+"160" "Cornelia Blimber" "Mrs Dombey II" 1
+"161" "Cornelia Blimber" "Mrs Polly Toodle" 1
+"162" "Cornelia Blimber" "Mrs Skewton" 1
+"163" "Cornelia Blimber" "Mrs Wickam" 2
+"164" "Cornelia Blimber" "Old Glubb" 3
+"165" "Cornelia Blimber" "Paul Dombey" 19
+"166" "Cornelia Blimber" "Reverend Feeder" 1
+"167" "Cornelia Blimber" "Sir Barnet Skettles" 3
+"168" "Cornelia Blimber" "Susan Nipper" 6
+"169" "Cornelia Blimber" "Tozer" 7
+"170" "Cornelia Blimber" "Walter Gay" 3
+"171" "Cousin Feenix" "Diogenes" 1
+"172" "Cousin Feenix" "Florence Dombey" 17
+"173" "Cousin Feenix" "Johnson" 1
+"174" "Cousin Feenix" "Lucretia Tox" 5
+"175" "Cousin Feenix" "Major Bagstock" 14
+"176" "Cousin Feenix" "Mr Carker" 7
+"177" "Cousin Feenix" "Mr Chick" 2
+"178" "Cousin Feenix" "Mr Dombey" 17
+"179" "Cousin Feenix" "Mr Perch" 2
+"180" "Cousin Feenix" "Mr Sownds" 4
+"181" "Cousin Feenix" "Mr Toots" 2
+"182" "Cousin Feenix" "Mrs Chick" 3
+"183" "Cousin Feenix" "Mrs Dombey II" 20
+"184" "Cousin Feenix" "Mrs Miff" 4
+"185" "Cousin Feenix" "Mrs Perch" 4
+"186" "Cousin Feenix" "Mrs Skewton" 15
+"187" "Cousin Feenix" "Paul Dombey" 5
+"188" "Cousin Feenix" "Robin Toodle" 1
+"189" "Cousin Feenix" "Susan Nipper" 2
+"190" "Cousin Feenix" "The Native" 3
+"191" "Cousin Feenix" "Towlinson" 3
+"192" "Cousin Feenix" "Walter Gay" 5
+"193" "Cousin Feenix" "Withers" 3
+"194" "Diogenes" "Doctor Blimber" 4
+"195" "Diogenes" "Florence Dombey" 25
+"196" "Diogenes" "Johnson" 1
+"197" "Diogenes" "Lady Skettles" 2
+"198" "Diogenes" "Major Bagstock" 2
+"199" "Diogenes" "Mary Daws" 1
+"200" "Diogenes" "Master Bitherstone" 3
+"201" "Diogenes" "Melia" 1
+"202" "Diogenes" "Mr Brogley" 2
+"203" "Diogenes" "Mr Carker" 4
+"204" "Diogenes" "Mr Dombey" 9
+"205" "Diogenes" "Mr Feeder" 3
+"206" "Diogenes" "Mr Perch" 1
+"207" "Diogenes" "Mr Sownds" 1
+"208" "Diogenes" "Mr Toots" 17
+"209" "Diogenes" "Mrs Blimber" 4
+"210" "Diogenes" "Mrs Chick" 1
+"211" "Diogenes" "Mrs Dombey II" 5
+"212" "Diogenes" "Mrs Miff" 1
+"213" "Diogenes" "Mrs Perch" 1
+"214" "Diogenes" "Mrs Polly Toodle" 1
+"215" "Diogenes" "Mrs Skewton" 1
+"216" "Diogenes" "Paul Dombey" 6
+"217" "Diogenes" "Sir Barnet Skettles" 1
+"218" "Diogenes" "Solomon Gills" 1
+"219" "Diogenes" "Susan Nipper" 9
+"220" "Diogenes" "The Game Chicken" 1
+"221" "Diogenes" "Towlinson" 5
+"222" "Diogenes" "Tozer" 1
+"223" "Diogenes" "Walter Gay" 9
+"224" "Doctor Blimber" "Florence Dombey" 24
+"225" "Doctor Blimber" "Johnson" 4
+"226" "Doctor Blimber" "Lady Skettles" 5
+"227" "Doctor Blimber" "Lucretia Tox" 2
+"228" "Doctor Blimber" "Master Bitherstone" 4
+"229" "Doctor Blimber" "Melia" 1
+"230" "Doctor Blimber" "Miss Pankey" 1
+"231" "Doctor Blimber" "Mr Baps" 2
+"232" "Doctor Blimber" "Mr Dombey" 9
+"233" "Doctor Blimber" "Mr Feeder" 17
+"234" "Doctor Blimber" "Mr Perch" 1
+"235" "Doctor Blimber" "Mr Toots" 23
+"236" "Doctor Blimber" "Mrs Baps" 2
+"237" "Doctor Blimber" "Mrs Blimber" 20
+"238" "Doctor Blimber" "Mrs Dombey II" 1
+"239" "Doctor Blimber" "Mrs Perch" 1
+"240" "Doctor Blimber" "Mrs Skewton" 1
+"241" "Doctor Blimber" "Mrs Wickam" 1
+"242" "Doctor Blimber" "Old Glubb" 1
+"243" "Doctor Blimber" "Paul Dombey" 21
+"244" "Doctor Blimber" "Reverend Feeder" 1
+"245" "Doctor Blimber" "Sir Barnet Skettles" 4
+"246" "Doctor Blimber" "Susan Nipper" 6
+"247" "Doctor Blimber" "Tozer" 6
+"248" "Doctor Blimber" "Walter Gay" 4
+"249" "Doctor Parker Peps" "Florence Dombey" 2
+"250" "Doctor Parker Peps" "Lucretia Tox" 2
+"251" "Doctor Parker Peps" "Mr Dombey" 4
+"252" "Doctor Parker Peps" "Mr Pilkins" 2
+"253" "Doctor Parker Peps" "Mrs Blockitt" 1
+"254" "Doctor Parker Peps" "Mrs Chick" 2
+"255" "Doctor Parker Peps" "Mrs Dombey I" 3
+"256" "Doctor Parker Peps" "Paul Dombey" 2
+"257" "Florence Dombey" "Flowers" 4
+"258" "Florence Dombey" "James Carker" 1
+"259" "Florence Dombey" "Jemima" 2
+"260" "Florence Dombey" "Joe" 2
+"261" "Florence Dombey" "John" 3
+"262" "Florence Dombey" "Johnson" 3
+"263" "Florence Dombey" "Juliana Macstinger" 1
+"264" "Florence Dombey" "Kate" 2
+"265" "Florence Dombey" "Lady Skettles" 9
+"266" "Florence Dombey" "Lucretia Tox" 30
+"267" "Florence Dombey" "Major Bagstock" 21
+"268" "Florence Dombey" "Martha" 1
+"269" "Florence Dombey" "Mary Daws" 2
+"270" "Florence Dombey" "Master Bitherstone" 9
+"271" "Florence Dombey" "Melia" 1
+"272" "Florence Dombey" "Miss Pankey" 3
+"273" "Florence Dombey" "Mr Baps" 3
+"274" "Florence Dombey" "Mr Brogley" 3
+"275" "Florence Dombey" "Mr Carker" 32
+"276" "Florence Dombey" "Mr Chick" 6
+"277" "Florence Dombey" "Mr Clark" 1
+"278" "Florence Dombey" "Mr Dombey" 104
+"279" "Florence Dombey" "Mr Feeder" 17
+"280" "Florence Dombey" "Mr Perch" 10
+"281" "Florence Dombey" "Mr Pilkins" 3
+"282" "Florence Dombey" "Mr Sownds" 6
+"283" "Florence Dombey" "Mr Toodle" 3
+"284" "Florence Dombey" "Mr Toots" 61
+"285" "Florence Dombey" "Mrs Baps" 2
+"286" "Florence Dombey" "Mrs Blimber" 20
+"287" "Florence Dombey" "Mrs Blockitt" 1
+"288" "Florence Dombey" "Mrs Bokum" 1
+"289" "Florence Dombey" "Mrs Brown" 5
+"290" "Florence Dombey" "Mrs Chick" 19
+"291" "Florence Dombey" "Mrs Dombey I" 3
+"292" "Florence Dombey" "Mrs Dombey II" 58
+"293" "Florence Dombey" "Mrs Miff" 6
+"294" "Florence Dombey" "Mrs Perch" 10
+"295" "Florence Dombey" "Mrs Polly Toodle" 24
+"296" "Florence Dombey" "Mrs Skewton" 28
+"297" "Florence Dombey" "Mrs Wickam" 11
+"298" "Florence Dombey" "Old Glubb" 3
+"299" "Florence Dombey" "Paul Dombey" 65
+"300" "Florence Dombey" "Reverend Melchisedech" 1
+"301" "Florence Dombey" "Robin Toodle" 12
+"302" "Florence Dombey" "Sir Barnet Skettles" 4
+"303" "Florence Dombey" "Solomon Gills" 15
+"304" "Florence Dombey" "Susan Nipper" 67
+"305" "Florence Dombey" "The Game Chicken" 1
+"306" "Florence Dombey" "The Native" 4
+"307" "Florence Dombey" "Towlinson" 16
+"308" "Florence Dombey" "Tozer" 6
+"309" "Florence Dombey" "Walter Gay" 65
+"310" "Florence Dombey" "Withers" 6
+"311" "Flowers" "Major Bagstock" 2
+"312" "Flowers" "Mr Carker" 2
+"313" "Flowers" "Mr Dombey" 5
+"314" "Flowers" "Mrs Dombey II" 5
+"315" "Flowers" "Mrs Skewton" 5
+"316" "Flowers" "Withers" 4
+"317" "Harriet Carker" "James Carker" 5
+"318" "Harriet Carker" "Major Bagstock" 1
+"319" "Harriet Carker" "Mr Carker" 15
+"320" "Harriet Carker" "Mr Dombey" 6
+"321" "Harriet Carker" "Mr Morfin" 5
+"322" "Harriet Carker" "Mr Perch" 4
+"323" "Harriet Carker" "Mrs Chick" 1
+"324" "Harriet Carker" "Mrs Dombey II" 3
+"325" "Harriet Carker" "Mrs Polly Toodle" 1
+"326" "Harriet Carker" "Mrs Skewton" 1
+"327" "Harriet Carker" "Mrs Wickam" 1
+"328" "Harriet Carker" "Paul Dombey" 1
+"329" "Harriet Carker" "Solomon Gills" 1
+"330" "Harriet Carker" "Walter Gay" 1
+"331" "James Carker" "Mr Carker" 7
+"332" "James Carker" "Mr Dombey" 3
+"333" "James Carker" "Mr Morfin" 2
+"334" "James Carker" "Mr Perch" 1
+"335" "James Carker" "Mr Toots" 1
+"336" "James Carker" "Mrs Brown" 1
+"337" "James Carker" "Mrs Dombey II" 1
+"338" "James Carker" "Solomon Gills" 2
+"339" "James Carker" "Walter Gay" 2
+"340" "Jemima" "Lucretia Tox" 3
+"341" "Jemima" "Mr Dombey" 3
+"342" "Jemima" "Mr Toodle" 2
+"343" "Jemima" "Mrs Chick" 3
+"344" "Jemima" "Mrs Polly Toodle" 5
+"345" "Jemima" "Paul Dombey" 1
+"346" "Jemima" "Robin Toodle" 4
+"347" "Jemima" "Susan Nipper" 2
+"348" "Joe" "Mr Carker" 1
+"349" "Joe" "Mr Clark" 1
+"350" "Joe" "Mr Dombey" 1
+"351" "Joe" "Mrs Brown" 1
+"352" "Joe" "Solomon Gills" 1
+"353" "Joe" "Walter Gay" 1
+"354" "John" "Lady Skettles" 1
+"355" "John" "Lucretia Tox" 3
+"356" "John" "Martha" 1
+"357" "John" "Mr Carker" 1
+"358" "John" "Mr Chick" 3
+"359" "John" "Mr Dombey" 3
+"360" "John" "Mr Perch" 1
+"361" "John" "Mr Toots" 1
+"362" "John" "Mrs Chick" 3
+"363" "John" "Mrs Dombey I" 1
+"364" "John" "Mrs Polly Toodle" 2
+"365" "John" "Paul Dombey" 3
+"366" "John" "Robin Toodle" 3
+"367" "John" "Solomon Gills" 2
+"368" "John" "Susan Nipper" 2
+"369" "John" "Towlinson" 1
+"370" "John" "Walter Gay" 2
+"371" "Johnson" "Major Bagstock" 1
+"372" "Johnson" "Master Bitherstone" 1
+"373" "Johnson" "Melia" 1
+"374" "Johnson" "Mr Baps" 1
+"375" "Johnson" "Mr Dombey" 2
+"376" "Johnson" "Mr Feeder" 4
+"377" "Johnson" "Mr Toots" 4
+"378" "Johnson" "Mrs Baps" 1
+"379" "Johnson" "Mrs Blimber" 3
+"380" "Johnson" "Mrs Dombey II" 1
+"381" "Johnson" "Mrs Skewton" 1
+"382" "Johnson" "Paul Dombey" 3
+"383" "Johnson" "Tozer" 2
+"384" "Juliana Macstinger" "Mr Brogley" 1
+"385" "Juliana Macstinger" "Mr Dombey" 1
+"386" "Juliana Macstinger" "Mr Toots" 1
+"387" "Juliana Macstinger" "Mrs Bokum" 1
+"388" "Juliana Macstinger" "Solomon Gills" 1
+"389" "Juliana Macstinger" "Susan Nipper" 1
+"390" "Juliana Macstinger" "Walter Gay" 1
+"391" "Kate" "Paul Dombey" 1
+"392" "Lady Skettles" "Lucretia Tox" 1
+"393" "Lady Skettles" "Martha" 1
+"394" "Lady Skettles" "Master Bitherstone" 1
+"395" "Lady Skettles" "Mr Baps" 2
+"396" "Lady Skettles" "Mr Carker" 1
+"397" "Lady Skettles" "Mr Dombey" 2
+"398" "Lady Skettles" "Mr Feeder" 4
+"399" "Lady Skettles" "Mr Perch" 1
+"400" "Lady Skettles" "Mr Toots" 5
+"401" "Lady Skettles" "Mrs Baps" 1
+"402" "Lady Skettles" "Mrs Blimber" 5
+"403" "Lady Skettles" "Mrs Chick" 1
+"404" "Lady Skettles" "Mrs Perch" 1
+"405" "Lady Skettles" "Paul Dombey" 4
+"406" "Lady Skettles" "Reverend Feeder" 1
+"407" "Lady Skettles" "Sir Barnet Skettles" 5
+"408" "Lady Skettles" "Susan Nipper" 4
+"409" "Lady Skettles" "Tozer" 1
+"410" "Lady Skettles" "Walter Gay" 2
+"411" "Lucretia Tox" "Major Bagstock" 20
+"412" "Lucretia Tox" "Master Bitherstone" 3
+"413" "Lucretia Tox" "Miss Pankey" 1
+"414" "Lucretia Tox" "Mr Carker" 6
+"415" "Lucretia Tox" "Mr Chick" 12
+"416" "Lucretia Tox" "Mr Dombey" 41
+"417" "Lucretia Tox" "Mr Feeder" 1
+"418" "Lucretia Tox" "Mr Perch" 1
+"419" "Lucretia Tox" "Mr Pilkins" 3
+"420" "Lucretia Tox" "Mr Sownds" 4
+"421" "Lucretia Tox" "Mr Toodle" 5
+"422" "Lucretia Tox" "Mr Toots" 5
+"423" "Lucretia Tox" "Mrs Blimber" 1
+"424" "Lucretia Tox" "Mrs Chick" 39
+"425" "Lucretia Tox" "Mrs Dombey I" 10
+"426" "Lucretia Tox" "Mrs Dombey II" 6
+"427" "Lucretia Tox" "Mrs Miff" 4
+"428" "Lucretia Tox" "Mrs Perch" 2
+"429" "Lucretia Tox" "Mrs Polly Toodle" 22
+"430" "Lucretia Tox" "Mrs Skewton" 4
+"431" "Lucretia Tox" "Mrs Wickam" 5
+"432" "Lucretia Tox" "Paul Dombey" 37
+"433" "Lucretia Tox" "Robin Toodle" 7
+"434" "Lucretia Tox" "Solomon Gills" 2
+"435" "Lucretia Tox" "Susan Nipper" 10
+"436" "Lucretia Tox" "The Native" 3
+"437" "Lucretia Tox" "Towlinson" 7
+"438" "Lucretia Tox" "Walter Gay" 7
+"439" "Major Bagstock" "Master Bitherstone" 2
+"440" "Major Bagstock" "Mr Carker" 18
+"441" "Major Bagstock" "Mr Chick" 3
+"442" "Major Bagstock" "Mr Dombey" 50
+"443" "Major Bagstock" "Mr Morfin" 1
+"444" "Major Bagstock" "Mr Perch" 4
+"445" "Major Bagstock" "Mr Sownds" 5
+"446" "Major Bagstock" "Mr Toodle" 2
+"447" "Major Bagstock" "Mr Toots" 4
+"448" "Major Bagstock" "Mrs Brown" 1
+"449" "Major Bagstock" "Mrs Chick" 14
+"450" "Major Bagstock" "Mrs Dombey I" 2
+"451" "Major Bagstock" "Mrs Dombey II" 31
+"452" "Major Bagstock" "Mrs Miff" 5
+"453" "Major Bagstock" "Mrs Perch" 4
+"454" "Major Bagstock" "Mrs Polly Toodle" 5
+"455" "Major Bagstock" "Mrs Skewton" 28
+"456" "Major Bagstock" "Mrs Wickam" 1
+"457" "Major Bagstock" "Paul Dombey" 14
+"458" "Major Bagstock" "Robin Toodle" 2
+"459" "Major Bagstock" "Susan Nipper" 1
+"460" "Major Bagstock" "The Native" 12
+"461" "Major Bagstock" "Towlinson" 3
+"462" "Major Bagstock" "Walter Gay" 3
+"463" "Major Bagstock" "Withers" 10
+"464" "Mary Daws" "Mr Carker" 1
+"465" "Mary Daws" "Mr Dombey" 1
+"466" "Mary Daws" "Mr Perch" 1
+"467" "Mary Daws" "Mr Toots" 1
+"468" "Mary Daws" "Mrs Blimber" 1
+"469" "Mary Daws" "Mrs Perch" 1
+"470" "Mary Daws" "Towlinson" 1
+"471" "Mary Daws" "Walter Gay" 1
+"472" "Master Bitherstone" "Melia" 1
+"473" "Master Bitherstone" "Miss Pankey" 3
+"474" "Master Bitherstone" "Mr Dombey" 8
+"475" "Master Bitherstone" "Mr Feeder" 4
+"476" "Master Bitherstone" "Mr Toots" 6
+"477" "Master Bitherstone" "Mrs Blimber" 4
+"478" "Master Bitherstone" "Mrs Chick" 2
+"479" "Master Bitherstone" "Mrs Dombey II" 1
+"480" "Master Bitherstone" "Mrs Wickam" 3
+"481" "Master Bitherstone" "Paul Dombey" 7
+"482" "Master Bitherstone" "Reverend Feeder" 1
+"483" "Master Bitherstone" "Sir Barnet Skettles" 1
+"484" "Master Bitherstone" "Susan Nipper" 2
+"485" "Master Bitherstone" "Towlinson" 1
+"486" "Master Bitherstone" "Tozer" 3
+"487" "Melia" "Mr Dombey" 1
+"488" "Melia" "Mr Feeder" 1
+"489" "Melia" "Mr Toots" 1
+"490" "Melia" "Mrs Blimber" 1
+"491" "Melia" "Tozer" 1
+"492" "Miss Pankey" "Mr Dombey" 3
+"493" "Miss Pankey" "Mr Feeder" 1
+"494" "Miss Pankey" "Mr Toots" 1
+"495" "Miss Pankey" "Mrs Blimber" 1
+"496" "Miss Pankey" "Mrs Chick" 1
+"497" "Miss Pankey" "Mrs Wickam" 2
+"498" "Miss Pankey" "Paul Dombey" 3
+"499" "Mr Baps" "Mr Feeder" 3
+"500" "Mr Baps" "Mr Toots" 3
+"501" "Mr Baps" "Mrs Baps" 2
+"502" "Mr Baps" "Mrs Blimber" 3
+"503" "Mr Baps" "Paul Dombey" 3
+"504" "Mr Baps" "Sir Barnet Skettles" 2
+"505" "Mr Brogley" "Mr Carker" 1
+"506" "Mr Brogley" "Mr Dombey" 1
+"507" "Mr Brogley" "Mr Toots" 1
+"508" "Mr Brogley" "Mrs Polly Toodle" 1
+"509" "Mr Brogley" "Reverend Melchisedech" 1
+"510" "Mr Brogley" "Solomon Gills" 5
+"511" "Mr Brogley" "Susan Nipper" 1
+"512" "Mr Brogley" "Walter Gay" 7
+"513" "Mr Carker" "Mr Chick" 2
+"514" "Mr Carker" "Mr Clark" 1
+"515" "Mr Carker" "Mr Dombey" 62
+"516" "Mr Carker" "Mr Feeder" 1
+"517" "Mr Carker" "Mr Morfin" 9
+"518" "Mr Carker" "Mr Perch" 14
+"519" "Mr Carker" "Mr Sownds" 4
+"520" "Mr Carker" "Mr Toodle" 2
+"521" "Mr Carker" "Mr Toots" 8
+"522" "Mr Carker" "Mrs Blimber" 1
+"523" "Mr Carker" "Mrs Brown" 3
+"524" "Mr Carker" "Mrs Chick" 4
+"525" "Mr Carker" "Mrs Dombey II" 36
+"526" "Mr Carker" "Mrs Miff" 4
+"527" "Mr Carker" "Mrs Perch" 7
+"528" "Mr Carker" "Mrs Polly Toodle" 3
+"529" "Mr Carker" "Mrs Skewton" 21
+"530" "Mr Carker" "Mrs Wickam" 1
+"531" "Mr Carker" "Paul Dombey" 6
+"532" "Mr Carker" "Robin Toodle" 11
+"533" "Mr Carker" "Solomon Gills" 8
+"534" "Mr Carker" "Susan Nipper" 6
+"535" "Mr Carker" "The Game Chicken" 1
+"536" "Mr Carker" "The Native" 6
+"537" "Mr Carker" "Towlinson" 5
+"538" "Mr Carker" "Walter Gay" 20
+"539" "Mr Carker" "Withers" 5
+"540" "Mr Chick" "Mr Dombey" 10
+"541" "Mr Chick" "Mr Sownds" 1
+"542" "Mr Chick" "Mr Toodle" 1
+"543" "Mr Chick" "Mr Toots" 1
+"544" "Mr Chick" "Mrs Chick" 13
+"545" "Mr Chick" "Mrs Dombey I" 4
+"546" "Mr Chick" "Mrs Dombey II" 2
+"547" "Mr Chick" "Mrs Miff" 1
+"548" "Mr Chick" "Mrs Perch" 1
+"549" "Mr Chick" "Mrs Polly Toodle" 6
+"550" "Mr Chick" "Mrs Skewton" 2
+"551" "Mr Chick" "Mrs Wickam" 1
+"552" "Mr Chick" "Paul Dombey" 12
+"553" "Mr Chick" "Robin Toodle" 1
+"554" "Mr Chick" "Susan Nipper" 3
+"555" "Mr Chick" "Towlinson" 3
+"556" "Mr Clark" "Mr Dombey" 1
+"557" "Mr Clark" "Solomon Gills" 1
+"558" "Mr Clark" "Walter Gay" 1
+"559" "Mr Dombey" "Mr Feeder" 5
+"560" "Mr Dombey" "Mr Morfin" 7
+"561" "Mr Dombey" "Mr Perch" 14
+"562" "Mr Dombey" "Mr Pilkins" 4
+"563" "Mr Dombey" "Mr Sownds" 7
+"564" "Mr Dombey" "Mr Toodle" 7
+"565" "Mr Dombey" "Mr Toots" 23
+"566" "Mr Dombey" "Mrs Blimber" 7
+"567" "Mr Dombey" "Mrs Blockitt" 1
+"568" "Mr Dombey" "Mrs Bokum" 1
+"569" "Mr Dombey" "Mrs Brown" 8
+"570" "Mr Dombey" "Mrs Chick" 35
+"571" "Mr Dombey" "Mrs Dombey I" 9
+"572" "Mr Dombey" "Mrs Dombey II" 66
+"573" "Mr Dombey" "Mrs Miff" 7
+"574" "Mr Dombey" "Mrs Perch" 12
+"575" "Mr Dombey" "Mrs Polly Toodle" 30
+"576" "Mr Dombey" "Mrs Skewton" 41
+"577" "Mr Dombey" "Mrs Wickam" 9
+"578" "Mr Dombey" "Paul Dombey" 50
+"579" "Mr Dombey" "Reverend Melchisedech" 2
+"580" "Mr Dombey" "Robin Toodle" 14
+"581" "Mr Dombey" "Solomon Gills" 12
+"582" "Mr Dombey" "Susan Nipper" 34
+"583" "Mr Dombey" "The Game Chicken" 1
+"584" "Mr Dombey" "The Native" 12
+"585" "Mr Dombey" "Towlinson" 20
+"586" "Mr Dombey" "Tozer" 2
+"587" "Mr Dombey" "Walter Gay" 34
+"588" "Mr Dombey" "Withers" 11
+"589" "Mr Feeder" "Mr Toots" 20
+"590" "Mr Feeder" "Mrs Baps" 2
+"591" "Mr Feeder" "Mrs Blimber" 16
+"592" "Mr Feeder" "Mrs Dombey II" 1
+"593" "Mr Feeder" "Mrs Skewton" 1
+"594" "Mr Feeder" "Mrs Wickam" 1
+"595" "Mr Feeder" "Old Glubb" 2
+"596" "Mr Feeder" "Paul Dombey" 15
+"597" "Mr Feeder" "Reverend Feeder" 1
+"598" "Mr Feeder" "Sir Barnet Skettles" 4
+"599" "Mr Feeder" "Susan Nipper" 4
+"600" "Mr Feeder" "The Game Chicken" 1
+"601" "Mr Feeder" "Tozer" 7
+"602" "Mr Feeder" "Walter Gay" 2
+"603" "Mr Morfin" "Mr Perch" 2
+"604" "Mr Morfin" "Mrs Chick" 1
+"605" "Mr Morfin" "Paul Dombey" 1
+"606" "Mr Morfin" "Solomon Gills" 1
+"607" "Mr Morfin" "Walter Gay" 4
+"608" "Mr Perch" "Mr Sownds" 2
+"609" "Mr Perch" "Mr Toodle" 1
+"610" "Mr Perch" "Mr Toots" 2
+"611" "Mr Perch" "Mrs Brown" 1
+"612" "Mr Perch" "Mrs Chick" 1
+"613" "Mr Perch" "Mrs Dombey II" 3
+"614" "Mr Perch" "Mrs Miff" 2
+"615" "Mr Perch" "Mrs Perch" 12
+"616" "Mr Perch" "Mrs Polly Toodle" 1
+"617" "Mr Perch" "Mrs Skewton" 1
+"618" "Mr Perch" "Mrs Wickam" 1
+"619" "Mr Perch" "Paul Dombey" 1
+"620" "Mr Perch" "Robin Toodle" 6
+"621" "Mr Perch" "Solomon Gills" 4
+"622" "Mr Perch" "Susan Nipper" 4
+"623" "Mr Perch" "The Native" 1
+"624" "Mr Perch" "Towlinson" 4
+"625" "Mr Perch" "Walter Gay" 6
+"626" "Mr Pilkins" "Mrs Blockitt" 1
+"627" "Mr Pilkins" "Mrs Chick" 2
+"628" "Mr Pilkins" "Mrs Dombey I" 1
+"629" "Mr Pilkins" "Mrs Wickam" 2
+"630" "Mr Pilkins" "Paul Dombey" 3
+"631" "Mr Pilkins" "Towlinson" 1
+"632" "Mr Sownds" "Mr Toots" 3
+"633" "Mr Sownds" "Mrs Chick" 1
+"634" "Mr Sownds" "Mrs Dombey II" 5
+"635" "Mr Sownds" "Mrs Miff" 7
+"636" "Mr Sownds" "Mrs Perch" 3
+"637" "Mr Sownds" "Mrs Skewton" 4
+"638" "Mr Sownds" "Paul Dombey" 4
+"639" "Mr Sownds" "Robin Toodle" 1
+"640" "Mr Sownds" "The Native" 1
+"641" "Mr Sownds" "Towlinson" 2
+"642" "Mr Sownds" "Walter Gay" 2
+"643" "Mr Toodle" "Mrs Chick" 4
+"644" "Mr Toodle" "Mrs Perch" 1
+"645" "Mr Toodle" "Mrs Polly Toodle" 11
+"646" "Mr Toodle" "Paul Dombey" 4
+"647" "Mr Toodle" "Robin Toodle" 7
+"648" "Mr Toodle" "Solomon Gills" 1
+"649" "Mr Toodle" "Susan Nipper" 3
+"650" "Mr Toodle" "The Native" 1
+"651" "Mr Toodle" "Towlinson" 1
+"652" "Mr Toodle" "Walter Gay" 1
+"653" "Mr Toots" "Mrs Baps" 2
+"654" "Mr Toots" "Mrs Blimber" 21
+"655" "Mr Toots" "Mrs Bokum" 1
+"656" "Mr Toots" "Mrs Chick" 2
+"657" "Mr Toots" "Mrs Dombey II" 6
+"658" "Mr Toots" "Mrs Miff" 3
+"659" "Mr Toots" "Mrs Perch" 2
+"660" "Mr Toots" "Mrs Polly Toodle" 3
+"661" "Mr Toots" "Mrs Skewton" 3
+"662" "Mr Toots" "Old Glubb" 1
+"663" "Mr Toots" "Paul Dombey" 25
+"664" "Mr Toots" "Reverend Feeder" 1
+"665" "Mr Toots" "Robin Toodle" 7
+"666" "Mr Toots" "Sir Barnet Skettles" 4
+"667" "Mr Toots" "Solomon Gills" 7
+"668" "Mr Toots" "Susan Nipper" 28
+"669" "Mr Toots" "The Game Chicken" 1
+"670" "Mr Toots" "The Native" 1
+"671" "Mr Toots" "Towlinson" 3
+"672" "Mr Toots" "Tozer" 7
+"673" "Mr Toots" "Walter Gay" 23
+"674" "Mrs Baps" "Mrs Blimber" 2
+"675" "Mrs Baps" "Paul Dombey" 2
+"676" "Mrs Baps" "Sir Barnet Skettles" 1
+"677" "Mrs Blimber" "Old Glubb" 2
+"678" "Mrs Blimber" "Paul Dombey" 16
+"679" "Mrs Blimber" "Reverend Feeder" 1
+"680" "Mrs Blimber" "Sir Barnet Skettles" 5
+"681" "Mrs Blimber" "Susan Nipper" 4
+"682" "Mrs Blimber" "Tozer" 5
+"683" "Mrs Blimber" "Walter Gay" 3
+"684" "Mrs Blockitt" "Mrs Dombey I" 1
+"685" "Mrs Bokum" "Reverend Melchisedech" 1
+"686" "Mrs Bokum" "Susan Nipper" 1
+"687" "Mrs Brown" "Mrs Dombey II" 3
+"688" "Mrs Brown" "Mrs Perch" 1
+"689" "Mrs Brown" "Mrs Polly Toodle" 1
+"690" "Mrs Brown" "Mrs Wickam" 1
+"691" "Mrs Brown" "Paul Dombey" 1
+"692" "Mrs Brown" "Robin Toodle" 5
+"693" "Mrs Brown" "Solomon Gills" 1
+"694" "Mrs Brown" "Susan Nipper" 2
+"695" "Mrs Brown" "Walter Gay" 2
+"696" "Mrs Chick" "Mrs Dombey I" 10
+"697" "Mrs Chick" "Mrs Dombey II" 4
+"698" "Mrs Chick" "Mrs Miff" 1
+"699" "Mrs Chick" "Mrs Perch" 1
+"700" "Mrs Chick" "Mrs Polly Toodle" 17
+"701" "Mrs Chick" "Mrs Skewton" 2
+"702" "Mrs Chick" "Mrs Wickam" 5
+"703" "Mrs Chick" "Paul Dombey" 32
+"704" "Mrs Chick" "Robin Toodle" 5
+"705" "Mrs Chick" "Solomon Gills" 1
+"706" "Mrs Chick" "Susan Nipper" 8
+"707" "Mrs Chick" "Towlinson" 5
+"708" "Mrs Chick" "Walter Gay" 4
+"709" "Mrs Dombey I" "Mrs Polly Toodle" 2
+"710" "Mrs Dombey I" "Paul Dombey" 9
+"711" "Mrs Dombey I" "Towlinson" 2
+"712" "Mrs Dombey II" "Mrs Miff" 5
+"713" "Mrs Dombey II" "Mrs Perch" 5
+"714" "Mrs Dombey II" "Mrs Skewton" 45
+"715" "Mrs Dombey II" "Paul Dombey" 10
+"716" "Mrs Dombey II" "Robin Toodle" 3
+"717" "Mrs Dombey II" "Susan Nipper" 5
+"718" "Mrs Dombey II" "The Native" 7
+"719" "Mrs Dombey II" "Towlinson" 6
+"720" "Mrs Dombey II" "Walter Gay" 7
+"721" "Mrs Dombey II" "Withers" 12
+"722" "Mrs Miff" "Mrs Perch" 3
+"723" "Mrs Miff" "Mrs Skewton" 4
+"724" "Mrs Miff" "Paul Dombey" 4
+"725" "Mrs Miff" "Robin Toodle" 1
+"726" "Mrs Miff" "The Native" 1
+"727" "Mrs Miff" "Towlinson" 2
+"728" "Mrs Miff" "Walter Gay" 2
+"729" "Mrs Perch" "Mrs Skewton" 4
+"730" "Mrs Perch" "Mrs Wickam" 1
+"731" "Mrs Perch" "Paul Dombey" 2
+"732" "Mrs Perch" "Robin Toodle" 3
+"733" "Mrs Perch" "Solomon Gills" 1
+"734" "Mrs Perch" "Susan Nipper" 2
+"735" "Mrs Perch" "The Native" 2
+"736" "Mrs Perch" "Towlinson" 7
+"737" "Mrs Perch" "Walter Gay" 4
+"738" "Mrs Polly Toodle" "Mrs Wickam" 2
+"739" "Mrs Polly Toodle" "Paul Dombey" 21
+"740" "Mrs Polly Toodle" "Robin Toodle" 10
+"741" "Mrs Polly Toodle" "Solomon Gills" 3
+"742" "Mrs Polly Toodle" "Susan Nipper" 21
+"743" "Mrs Polly Toodle" "The Native" 3
+"744" "Mrs Polly Toodle" "Towlinson" 4
+"745" "Mrs Polly Toodle" "Walter Gay" 10
+"746" "Mrs Skewton" "Paul Dombey" 6
+"747" "Mrs Skewton" "Susan Nipper" 2
+"748" "Mrs Skewton" "The Native" 6
+"749" "Mrs Skewton" "Towlinson" 5
+"750" "Mrs Skewton" "Walter Gay" 2
+"751" "Mrs Skewton" "Withers" 13
+"752" "Mrs Wickam" "Old Glubb" 1
+"753" "Mrs Wickam" "Paul Dombey" 12
+"754" "Mrs Wickam" "Solomon Gills" 1
+"755" "Mrs Wickam" "Susan Nipper" 2
+"756" "Mrs Wickam" "Towlinson" 2
+"757" "Mrs Wickam" "Tozer" 1
+"758" "Mrs Wickam" "Walter Gay" 1
+"759" "Old Glubb" "Paul Dombey" 3
+"760" "Old Glubb" "Tozer" 1
+"761" "Paul Dombey" "Robin Toodle" 3
+"762" "Paul Dombey" "Sir Barnet Skettles" 3
+"763" "Paul Dombey" "Solomon Gills" 2
+"764" "Paul Dombey" "Susan Nipper" 21
+"765" "Paul Dombey" "Towlinson" 6
+"766" "Paul Dombey" "Tozer" 6
+"767" "Paul Dombey" "Walter Gay" 14
+"768" "Paul Dombey" "Withers" 1
+"769" "Reverend Feeder" "Sir Barnet Skettles" 1
+"770" "Reverend Feeder" "Susan Nipper" 1
+"771" "Reverend Feeder" "Tozer" 1
+"772" "Reverend Melchisedech" "Robin Toodle" 1
+"773" "Reverend Melchisedech" "Walter Gay" 2
+"774" "Robin Toodle" "Solomon Gills" 5
+"775" "Robin Toodle" "Susan Nipper" 6
+"776" "Robin Toodle" "The Native" 1
+"777" "Robin Toodle" "Walter Gay" 11
+"778" "Sir Barnet Skettles" "Susan Nipper" 1
+"779" "Sir Barnet Skettles" "Tozer" 1
+"780" "Solomon Gills" "Susan Nipper" 9
+"781" "Solomon Gills" "Towlinson" 1
+"782" "Solomon Gills" "Walter Gay" 27
+"783" "Susan Nipper" "The Game Chicken" 1
+"784" "Susan Nipper" "The Native" 1
+"785" "Susan Nipper" "Towlinson" 7
+"786" "Susan Nipper" "Tozer" 1
+"787" "Susan Nipper" "Walter Gay" 31
+"788" "The Native" "Towlinson" 3
+"789" "The Native" "Withers" 3
+"790" "Towlinson" "Walter Gay" 3

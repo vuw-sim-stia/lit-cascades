@@ -1,0 +1,518 @@
+"","Character","Node","Appearances"
+"1","Adam Smith Gradgrind",9,1
+"2","Bitzer",2,16
+"3","Bitzer",74,16
+"4","Bitzer",117,16
+"5","Bitzer",73,16
+"6","Bitzer",49,16
+"7","Bitzer",118,16
+"8","Bitzer",48,16
+"9","Bitzer",75,16
+"10","Bitzer",47,16
+"11","Bitzer",121,16
+"12","Bitzer",78,16
+"13","Bitzer",11,16
+"14","Bitzer",72,16
+"15","Bitzer",50,16
+"16","Bitzer",116,16
+"17","Bitzer",58,16
+"18","Bounderby",7,83
+"19","Bounderby",75,83
+"20","Bounderby",104,83
+"21","Bounderby",112,83
+"22","Bounderby",58,83
+"23","Bounderby",40,83
+"24","Bounderby",39,83
+"25","Bounderby",101,83
+"26","Bounderby",121,83
+"27","Bounderby",73,83
+"28","Bounderby",17,83
+"29","Bounderby",13,83
+"30","Bounderby",105,83
+"31","Bounderby",43,83
+"32","Bounderby",98,83
+"33","Bounderby",108,83
+"34","Bounderby",113,83
+"35","Bounderby",54,83
+"36","Bounderby",30,83
+"37","Bounderby",81,83
+"38","Bounderby",109,83
+"39","Bounderby",78,83
+"40","Bounderby",68,83
+"41","Bounderby",44,83
+"42","Bounderby",18,83
+"43","Bounderby",57,83
+"44","Bounderby",53,83
+"45","Bounderby",115,83
+"46","Bounderby",117,83
+"47","Bounderby",11,83
+"48","Bounderby",67,83
+"49","Bounderby",83,83
+"50","Bounderby",97,83
+"51","Bounderby",15,83
+"52","Bounderby",46,83
+"53","Bounderby",107,83
+"54","Bounderby",59,83
+"55","Bounderby",95,83
+"56","Bounderby",52,83
+"57","Bounderby",33,83
+"58","Bounderby",96,83
+"59","Bounderby",49,83
+"60","Bounderby",77,83
+"61","Bounderby",106,83
+"62","Bounderby",61,83
+"63","Bounderby",9,83
+"64","Bounderby",26,83
+"65","Bounderby",51,83
+"66","Bounderby",22,83
+"67","Bounderby",31,83
+"68","Bounderby",41,83
+"69","Bounderby",12,83
+"70","Bounderby",120,83
+"71","Bounderby",8,83
+"72","Bounderby",19,83
+"73","Bounderby",69,83
+"74","Bounderby",74,83
+"75","Bounderby",72,83
+"76","Bounderby",92,83
+"77","Bounderby",111,83
+"78","Bounderby",70,83
+"79","Bounderby",62,83
+"80","Bounderby",14,83
+"81","Bounderby",48,83
+"82","Bounderby",55,83
+"83","Bounderby",82,83
+"84","Bounderby",6,83
+"85","Bounderby",100,83
+"86","Bounderby",71,83
+"87","Bounderby",16,83
+"88","Bounderby",63,83
+"89","Bounderby",110,83
+"90","Bounderby",102,83
+"91","Bounderby",20,83
+"92","Bounderby",99,83
+"93","Bounderby",10,83
+"94","Bounderby",32,83
+"95","Bounderby",50,83
+"96","Bounderby",42,83
+"97","Bounderby",45,83
+"98","Bounderby",65,83
+"99","Bounderby",60,83
+"100","Bounderby",103,83
+"101","E.W.B. Childers",114,5
+"102","E.W.B. Childers",118,5
+"103","E.W.B. Childers",15,5
+"104","E.W.B. Childers",14,5
+"105","E.W.B. Childers",13,5
+"106","Emma Gordon",114,2
+"107","Emma Gordon",16,2
+"108","Harthouse",68,29
+"109","Harthouse",51,29
+"110","Harthouse",74,29
+"111","Harthouse",97,29
+"112","Harthouse",81,29
+"113","Harthouse",94,29
+"114","Harthouse",96,29
+"115","Harthouse",75,29
+"116","Harthouse",55,29
+"117","Harthouse",73,29
+"118","Harthouse",72,29
+"119","Harthouse",82,29
+"120","Harthouse",60,29
+"121","Harthouse",53,29
+"122","Harthouse",115,29
+"123","Harthouse",83,29
+"124","Harthouse",93,29
+"125","Harthouse",54,29
+"126","Harthouse",95,29
+"127","Harthouse",70,29
+"128","Harthouse",59,29
+"129","Harthouse",84,29
+"130","Harthouse",69,29
+"131","Harthouse",71,29
+"132","Harthouse",52,29
+"133","Harthouse",67,29
+"134","Harthouse",92,29
+"135","Harthouse",77,29
+"136","Harthouse",78,29
+"137","Jane Gradgrind",45,3
+"138","Jane Gradgrind",9,3
+"139","Jane Gradgrind",79,3
+"140","Kidderminster",13,5
+"141","Kidderminster",14,5
+"142","Kidderminster",17,5
+"143","Kidderminster",15,5
+"144","Kidderminster",113,5
+"145","Lady Scadgers",120,4
+"146","Lady Scadgers",44,4
+"147","Lady Scadgers",18,4
+"148","Lady Scadgers",96,4
+"149","Louisa Gradgrind",98,66
+"150","Louisa Gradgrind",40,66
+"151","Louisa Gradgrind",79,66
+"152","Louisa Gradgrind",67,66
+"153","Louisa Gradgrind",68,66
+"154","Louisa Gradgrind",15,66
+"155","Louisa Gradgrind",43,66
+"156","Louisa Gradgrind",78,66
+"157","Louisa Gradgrind",59,66
+"158","Louisa Gradgrind",90,66
+"159","Louisa Gradgrind",118,66
+"160","Louisa Gradgrind",92,66
+"161","Louisa Gradgrind",41,66
+"162","Louisa Gradgrind",69,66
+"163","Louisa Gradgrind",109,66
+"164","Louisa Gradgrind",77,66
+"165","Louisa Gradgrind",102,66
+"166","Louisa Gradgrind",89,66
+"167","Louisa Gradgrind",70,66
+"168","Louisa Gradgrind",65,66
+"169","Louisa Gradgrind",112,66
+"170","Louisa Gradgrind",121,66
+"171","Louisa Gradgrind",74,66
+"172","Louisa Gradgrind",82,66
+"173","Louisa Gradgrind",96,66
+"174","Louisa Gradgrind",8,66
+"175","Louisa Gradgrind",117,66
+"176","Louisa Gradgrind",111,66
+"177","Louisa Gradgrind",45,66
+"178","Louisa Gradgrind",83,66
+"179","Louisa Gradgrind",72,66
+"180","Louisa Gradgrind",113,66
+"181","Louisa Gradgrind",6,66
+"182","Louisa Gradgrind",26,66
+"183","Louisa Gradgrind",22,66
+"184","Louisa Gradgrind",107,66
+"185","Louisa Gradgrind",91,66
+"186","Louisa Gradgrind",52,66
+"187","Louisa Gradgrind",63,66
+"188","Louisa Gradgrind",71,66
+"189","Louisa Gradgrind",99,66
+"190","Louisa Gradgrind",87,66
+"191","Louisa Gradgrind",25,66
+"192","Louisa Gradgrind",53,66
+"193","Louisa Gradgrind",61,66
+"194","Louisa Gradgrind",101,66
+"195","Louisa Gradgrind",81,66
+"196","Louisa Gradgrind",75,66
+"197","Louisa Gradgrind",116,66
+"198","Louisa Gradgrind",103,66
+"199","Louisa Gradgrind",73,66
+"200","Louisa Gradgrind",19,66
+"201","Louisa Gradgrind",60,66
+"202","Louisa Gradgrind",85,66
+"203","Louisa Gradgrind",64,66
+"204","Louisa Gradgrind",97,66
+"205","Louisa Gradgrind",39,66
+"206","Louisa Gradgrind",115,66
+"207","Louisa Gradgrind",24,66
+"208","Louisa Gradgrind",18,66
+"209","Louisa Gradgrind",114,66
+"210","Louisa Gradgrind",21,66
+"211","Louisa Gradgrind",9,66
+"212","Louisa Gradgrind",42,66
+"213","Louisa Gradgrind",86,66
+"214","Louisa Gradgrind",20,66
+"215","M’Choakumchild",1,7
+"216","M’Choakumchild",21,7
+"217","M’Choakumchild",24,7
+"218","M’Choakumchild",11,7
+"219","M’Choakumchild",3,7
+"220","M’Choakumchild",39,7
+"221","M’Choakumchild",10,7
+"222","Malthus Gradgrind",9,1
+"223","Mr Sleary",112,14
+"224","Mr Sleary",117,14
+"225","Mr Sleary",118,14
+"226","Mr Sleary",26,14
+"227","Mr Sleary",16,14
+"228","Mr Sleary",17,14
+"229","Mr Sleary",14,14
+"230","Mr Sleary",5,14
+"231","Mr Sleary",113,14
+"232","Mr Sleary",15,14
+"233","Mr Sleary",115,14
+"234","Mr Sleary",116,14
+"235","Mr Sleary",119,14
+"236","Mr Sleary",114,14
+"237","Mrs Blackpool",31,6
+"238","Mrs Blackpool",35,6
+"239","Mrs Blackpool",28,6
+"240","Mrs Blackpool",36,6
+"241","Mrs Blackpool",121,6
+"242","Mrs Blackpool",37,6
+"243","Mrs Gradgrind",39,14
+"244","Mrs Gradgrind",7,14
+"245","Mrs Gradgrind",24,14
+"246","Mrs Gradgrind",22,14
+"247","Mrs Gradgrind",19,14
+"248","Mrs Gradgrind",10,14
+"249","Mrs Gradgrind",26,14
+"250","Mrs Gradgrind",9,14
+"251","Mrs Gradgrind",79,14
+"252","Mrs Gradgrind",80,14
+"253","Mrs Gradgrind",8,14
+"254","Mrs Gradgrind",43,14
+"255","Mrs Gradgrind",78,14
+"256","Mrs Gradgrind",23,14
+"257","Mrs Pegler",81,15
+"258","Mrs Pegler",11,15
+"259","Mrs Pegler",34,15
+"260","Mrs Pegler",101,15
+"261","Mrs Pegler",74,15
+"262","Mrs Pegler",33,15
+"263","Mrs Pegler",7,15
+"264","Mrs Pegler",63,15
+"265","Mrs Pegler",62,15
+"266","Mrs Pegler",106,15
+"267","Mrs Pegler",65,15
+"268","Mrs Pegler",18,15
+"269","Mrs Pegler",120,15
+"270","Mrs Pegler",100,15
+"271","Mrs Pegler",105,15
+"272","Mrs Sparsit",66,33
+"273","Mrs Sparsit",78,33
+"274","Mrs Sparsit",73,33
+"275","Mrs Sparsit",18,33
+"276","Mrs Sparsit",49,33
+"277","Mrs Sparsit",44,33
+"278","Mrs Sparsit",19,33
+"279","Mrs Sparsit",82,33
+"280","Mrs Sparsit",72,33
+"281","Mrs Sparsit",83,33
+"282","Mrs Sparsit",84,33
+"283","Mrs Sparsit",30,33
+"284","Mrs Sparsit",46,33
+"285","Mrs Sparsit",31,33
+"286","Mrs Sparsit",20,33
+"287","Mrs Sparsit",32,33
+"288","Mrs Sparsit",75,33
+"289","Mrs Sparsit",92,33
+"290","Mrs Sparsit",45,33
+"291","Mrs Sparsit",96,33
+"292","Mrs Sparsit",105,33
+"293","Mrs Sparsit",74,33
+"294","Mrs Sparsit",50,33
+"295","Mrs Sparsit",77,33
+"296","Mrs Sparsit",106,33
+"297","Mrs Sparsit",47,33
+"298","Mrs Sparsit",51,33
+"299","Mrs Sparsit",85,33
+"300","Mrs Sparsit",40,33
+"301","Mrs Sparsit",48,33
+"302","Mrs Sparsit",86,33
+"303","Mrs Sparsit",81,33
+"304","Mrs Sparsit",120,33
+"305","Nickits",72,4
+"306","Nickits",68,4
+"307","Nickits",70,4
+"308","Nickits",67,4
+"309","Rachael",34,26
+"310","Rachael",102,26
+"311","Rachael",27,26
+"312","Rachael",63,26
+"313","Rachael",104,26
+"314","Rachael",64,26
+"315","Rachael",36,26
+"316","Rachael",106,26
+"317","Rachael",103,26
+"318","Rachael",112,26
+"319","Rachael",101,26
+"320","Rachael",108,26
+"321","Rachael",111,26
+"322","Rachael",110,26
+"323","Rachael",58,26
+"324","Rachael",35,26
+"325","Rachael",62,26
+"326","Rachael",121,26
+"327","Rachael",105,26
+"328","Rachael",65,26
+"329","Rachael",37,26
+"330","Rachael",28,26
+"331","Rachael",107,26
+"332","Rachael",38,26
+"333","Rachael",109,26
+"334","Rachael",66,26
+"335","Signor Jupe",5,2
+"336","Signor Jupe",13,2
+"337","Sissy Jupe",118,41
+"338","Sissy Jupe",15,41
+"339","Sissy Jupe",110,41
+"340","Sissy Jupe",97,41
+"341","Sissy Jupe",89,41
+"342","Sissy Jupe",17,41
+"343","Sissy Jupe",24,41
+"344","Sissy Jupe",101,41
+"345","Sissy Jupe",116,41
+"346","Sissy Jupe",13,41
+"347","Sissy Jupe",121,41
+"348","Sissy Jupe",3,41
+"349","Sissy Jupe",78,41
+"350","Sissy Jupe",21,41
+"351","Sissy Jupe",20,41
+"352","Sissy Jupe",102,41
+"353","Sissy Jupe",11,41
+"354","Sissy Jupe",113,41
+"355","Sissy Jupe",43,41
+"356","Sissy Jupe",2,41
+"357","Sissy Jupe",26,41
+"358","Sissy Jupe",90,41
+"359","Sissy Jupe",103,41
+"360","Sissy Jupe",114,41
+"361","Sissy Jupe",107,41
+"362","Sissy Jupe",39,41
+"363","Sissy Jupe",5,41
+"364","Sissy Jupe",104,41
+"365","Sissy Jupe",106,41
+"366","Sissy Jupe",94,41
+"367","Sissy Jupe",16,41
+"368","Sissy Jupe",19,41
+"369","Sissy Jupe",109,41
+"370","Sissy Jupe",108,41
+"371","Sissy Jupe",93,41
+"372","Sissy Jupe",112,41
+"373","Sissy Jupe",105,41
+"374","Sissy Jupe",79,41
+"375","Sissy Jupe",25,41
+"376","Sissy Jupe",117,41
+"377","Sissy Jupe",91,41
+"378","Slackbridge",100,7
+"379","Slackbridge",58,7
+"380","Slackbridge",60,7
+"381","Slackbridge",56,7
+"382","Slackbridge",57,7
+"383","Slackbridge",101,7
+"384","Slackbridge",59,7
+"385","Stephen Blackpool",110,33
+"386","Stephen Blackpool",30,33
+"387","Stephen Blackpool",102,33
+"388","Stephen Blackpool",104,33
+"389","Stephen Blackpool",100,33
+"390","Stephen Blackpool",103,33
+"391","Stephen Blackpool",58,33
+"392","Stephen Blackpool",31,33
+"393","Stephen Blackpool",57,33
+"394","Stephen Blackpool",108,33
+"395","Stephen Blackpool",98,33
+"396","Stephen Blackpool",63,33
+"397","Stephen Blackpool",65,33
+"398","Stephen Blackpool",121,33
+"399","Stephen Blackpool",27,33
+"400","Stephen Blackpool",28,33
+"401","Stephen Blackpool",106,33
+"402","Stephen Blackpool",37,33
+"403","Stephen Blackpool",60,33
+"404","Stephen Blackpool",109,33
+"405","Stephen Blackpool",107,33
+"406","Stephen Blackpool",111,33
+"407","Stephen Blackpool",36,33
+"408","Stephen Blackpool",32,33
+"409","Stephen Blackpool",33,33
+"410","Stephen Blackpool",59,33
+"411","Stephen Blackpool",61,33
+"412","Stephen Blackpool",66,33
+"413","Stephen Blackpool",35,33
+"414","Stephen Blackpool",64,33
+"415","Stephen Blackpool",101,33
+"416","Stephen Blackpool",62,33
+"417","Stephen Blackpool",112,33
+"418","Thomas Gradgrind",95,59
+"419","Thomas Gradgrind",8,59
+"420","Thomas Gradgrind",99,59
+"421","Thomas Gradgrind",24,59
+"422","Thomas Gradgrind",10,59
+"423","Thomas Gradgrind",2,59
+"424","Thomas Gradgrind",83,59
+"425","Thomas Gradgrind",6,59
+"426","Thomas Gradgrind",97,59
+"427","Thomas Gradgrind",13,59
+"428","Thomas Gradgrind",118,59
+"429","Thomas Gradgrind",18,59
+"430","Thomas Gradgrind",71,59
+"431","Thomas Gradgrind",21,59
+"432","Thomas Gradgrind",101,59
+"433","Thomas Gradgrind",39,59
+"434","Thomas Gradgrind",89,59
+"435","Thomas Gradgrind",70,59
+"436","Thomas Gradgrind",72,59
+"437","Thomas Gradgrind",109,59
+"438","Thomas Gradgrind",26,59
+"439","Thomas Gradgrind",119,59
+"440","Thomas Gradgrind",112,59
+"441","Thomas Gradgrind",44,59
+"442","Thomas Gradgrind",103,59
+"443","Thomas Gradgrind",41,59
+"444","Thomas Gradgrind",5,59
+"445","Thomas Gradgrind",14,59
+"446","Thomas Gradgrind",115,59
+"447","Thomas Gradgrind",67,59
+"448","Thomas Gradgrind",111,59
+"449","Thomas Gradgrind",113,59
+"450","Thomas Gradgrind",17,59
+"451","Thomas Gradgrind",43,59
+"452","Thomas Gradgrind",116,59
+"453","Thomas Gradgrind",52,59
+"454","Thomas Gradgrind",114,59
+"455","Thomas Gradgrind",105,59
+"456","Thomas Gradgrind",20,59
+"457","Thomas Gradgrind",87,59
+"458","Thomas Gradgrind",117,59
+"459","Thomas Gradgrind",45,59
+"460","Thomas Gradgrind",106,59
+"461","Thomas Gradgrind",11,59
+"462","Thomas Gradgrind",15,59
+"463","Thomas Gradgrind",19,59
+"464","Thomas Gradgrind",16,59
+"465","Thomas Gradgrind",121,59
+"466","Thomas Gradgrind",9,59
+"467","Thomas Gradgrind",3,59
+"468","Thomas Gradgrind",102,59
+"469","Thomas Gradgrind",42,59
+"470","Thomas Gradgrind",96,59
+"471","Thomas Gradgrind",69,59
+"472","Thomas Gradgrind",98,59
+"473","Thomas Gradgrind",78,59
+"474","Thomas Gradgrind",7,59
+"475","Thomas Gradgrind",40,59
+"476","Thomas Gradgrind",51,59
+"477","Tom Gradgrind",92,41
+"478","Tom Gradgrind",83,41
+"479","Tom Gradgrind",55,41
+"480","Tom Gradgrind",103,41
+"481","Tom Gradgrind",106,41
+"482","Tom Gradgrind",64,41
+"483","Tom Gradgrind",21,41
+"484","Tom Gradgrind",117,41
+"485","Tom Gradgrind",71,41
+"486","Tom Gradgrind",109,41
+"487","Tom Gradgrind",84,41
+"488","Tom Gradgrind",22,41
+"489","Tom Gradgrind",115,41
+"490","Tom Gradgrind",67,41
+"491","Tom Gradgrind",76,41
+"492","Tom Gradgrind",105,41
+"493","Tom Gradgrind",112,41
+"494","Tom Gradgrind",82,41
+"495","Tom Gradgrind",53,41
+"496","Tom Gradgrind",5,41
+"497","Tom Gradgrind",88,41
+"498","Tom Gradgrind",45,41
+"499","Tom Gradgrind",81,41
+"500","Tom Gradgrind",94,41
+"501","Tom Gradgrind",102,41
+"502","Tom Gradgrind",65,41
+"503","Tom Gradgrind",68,41
+"504","Tom Gradgrind",107,41
+"505","Tom Gradgrind",26,41
+"506","Tom Gradgrind",63,41
+"507","Tom Gradgrind",54,41
+"508","Tom Gradgrind",73,41
+"509","Tom Gradgrind",69,41
+"510","Tom Gradgrind",19,41
+"511","Tom Gradgrind",40,41
+"512","Tom Gradgrind",70,41
+"513","Tom Gradgrind",75,41
+"514","Tom Gradgrind",116,41
+"515","Tom Gradgrind",9,41
+"516","Tom Gradgrind",101,41
+"517","Tom Gradgrind",121,41

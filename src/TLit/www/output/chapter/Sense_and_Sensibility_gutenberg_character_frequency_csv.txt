@@ -1,0 +1,433 @@
+"","Character","Node","Appearances"
+"1","Annamaria Middleton",21,2
+"2","Annamaria Middleton",23,2
+"3","Anne Steele",34,12
+"4","Anne Steele",22,12
+"5","Anne Steele",21,12
+"6","Anne Steele",23,12
+"7","Anne Steele",46,12
+"8","Anne Steele",47,12
+"9","Anne Steele",24,12
+"10","Anne Steele",38,12
+"11","Anne Steele",39,12
+"12","Anne Steele",25,12
+"13","Anne Steele",32,12
+"14","Anne Steele",36,12
+"15","Betty",25,4
+"16","Betty",37,4
+"17","Betty",40,4
+"18","Betty",38,4
+"19","Biddy Henshawe",30,1
+"20","Cartwright",26,1
+"21","ColonelBrandon",36,30
+"22","ColonelBrandon",13,30
+"23","ColonelBrandon",47,30
+"24","ColonelBrandon",50,30
+"25","ColonelBrandon",43,30
+"26","ColonelBrandon",11,30
+"27","ColonelBrandon",26,30
+"28","ColonelBrandon",46,30
+"29","ColonelBrandon",19,30
+"30","ColonelBrandon",10,30
+"31","ColonelBrandon",34,30
+"32","ColonelBrandon",30,30
+"33","ColonelBrandon",20,30
+"34","ColonelBrandon",41,30
+"35","ColonelBrandon",8,30
+"36","ColonelBrandon",9,30
+"37","ColonelBrandon",31,30
+"38","ColonelBrandon",45,30
+"39","ColonelBrandon",7,30
+"40","ColonelBrandon",40,30
+"41","ColonelBrandon",33,30
+"42","ColonelBrandon",27,30
+"43","ColonelBrandon",49,30
+"44","ColonelBrandon",42,30
+"45","ColonelBrandon",32,30
+"46","ColonelBrandon",12,30
+"47","ColonelBrandon",14,30
+"48","ColonelBrandon",44,30
+"49","ColonelBrandon",39,30
+"50","ColonelBrandon",48,30
+"51","Edward Ferrars",19,32
+"52","Edward Ferrars",23,32
+"53","Edward Ferrars",22,32
+"54","Edward Ferrars",47,32
+"55","Edward Ferrars",34,32
+"56","Edward Ferrars",4,32
+"57","Edward Ferrars",17,32
+"58","Edward Ferrars",49,32
+"59","Edward Ferrars",5,32
+"60","Edward Ferrars",33,32
+"61","Edward Ferrars",28,32
+"62","Edward Ferrars",8,32
+"63","Edward Ferrars",3,32
+"64","Edward Ferrars",40,32
+"65","Edward Ferrars",29,32
+"66","Edward Ferrars",48,32
+"67","Edward Ferrars",41,32
+"68","Edward Ferrars",10,32
+"69","Edward Ferrars",16,32
+"70","Edward Ferrars",37,32
+"71","Edward Ferrars",38,32
+"72","Edward Ferrars",21,32
+"73","Edward Ferrars",50,32
+"74","Edward Ferrars",36,32
+"75","Edward Ferrars",24,32
+"76","Edward Ferrars",45,32
+"77","Edward Ferrars",18,32
+"78","Edward Ferrars",32,32
+"79","Edward Ferrars",42,32
+"80","Edward Ferrars",35,32
+"81","Edward Ferrars",39,32
+"82","Edward Ferrars",25,32
+"83","Elinor Dashwood",1,24
+"84","Elinor Dashwood",20,24
+"85","Elinor Dashwood",14,24
+"86","Elinor Dashwood",9,24
+"87","Elinor Dashwood",11,24
+"88","Elinor Dashwood",31,24
+"89","Elinor Dashwood",13,24
+"90","Elinor Dashwood",23,24
+"91","Elinor Dashwood",40,24
+"92","Elinor Dashwood",5,24
+"93","Elinor Dashwood",10,24
+"94","Elinor Dashwood",3,24
+"95","Elinor Dashwood",21,24
+"96","Elinor Dashwood",34,24
+"97","Elinor Dashwood",32,24
+"98","Elinor Dashwood",22,24
+"99","Elinor Dashwood",18,24
+"100","Elinor Dashwood",12,24
+"101","Elinor Dashwood",17,24
+"102","Elinor Dashwood",24,24
+"103","Elinor Dashwood",38,24
+"104","Elinor Dashwood",27,24
+"105","Elinor Dashwood",39,24
+"106","Elinor Dashwood",25,24
+"107","ElizaBrandon",46,4
+"108","ElizaBrandon",31,4
+"109","ElizaBrandon",47,4
+"110","ElizaBrandon",44,4
+"111","ElizaWilliams",32,4
+"112","ElizaWilliams",31,4
+"113","ElizaWilliams",14,4
+"114","ElizaWilliams",13,4
+"115","Harry Dashwood",2,3
+"116","Harry Dashwood",33,3
+"117","Harry Dashwood",34,3
+"118","John Willoughby",13,28
+"119","John Willoughby",26,28
+"120","John Willoughby",20,28
+"121","John Willoughby",50,28
+"122","John Willoughby",10,28
+"123","John Willoughby",18,28
+"124","John Willoughby",46,28
+"125","John Willoughby",47,28
+"126","John Willoughby",27,28
+"127","John Willoughby",14,28
+"128","John Willoughby",9,28
+"129","John Willoughby",19,28
+"130","John Willoughby",16,28
+"131","John Willoughby",43,28
+"132","John Willoughby",42,28
+"133","John Willoughby",32,28
+"134","John Willoughby",44,28
+"135","John Willoughby",28,28
+"136","John Willoughby",11,28
+"137","John Willoughby",31,28
+"138","John Willoughby",36,28
+"139","John Willoughby",12,28
+"140","John Willoughby",30,28
+"141","John Willoughby",29,28
+"142","John Willoughby",25,28
+"143","John Willoughby",45,28
+"144","John Willoughby",37,28
+"145","John Willoughby",15,28
+"146","Lady Mary Middleton",41,2
+"147","Lady Mary Middleton",27,2
+"148","Lord Morton",34,2
+"149","Lord Morton",33,2
+"150","LordCourtland",36,1
+"151","Lucy Steele",24,19
+"152","Lucy Steele",32,19
+"153","Lucy Steele",41,19
+"154","Lucy Steele",22,19
+"155","Lucy Steele",34,19
+"156","Lucy Steele",48,19
+"157","Lucy Steele",21,19
+"158","Lucy Steele",23,19
+"159","Lucy Steele",38,19
+"160","Lucy Steele",36,19
+"161","Lucy Steele",40,19
+"162","Lucy Steele",37,19
+"163","Lucy Steele",50,19
+"164","Lucy Steele",25,19
+"165","Lucy Steele",42,19
+"166","Lucy Steele",47,19
+"167","Lucy Steele",46,19
+"168","Lucy Steele",49,19
+"169","Lucy Steele",35,19
+"170","Marianne Dashwood",14,50
+"171","Marianne Dashwood",34,50
+"172","Marianne Dashwood",26,50
+"173","Marianne Dashwood",20,50
+"174","Marianne Dashwood",46,50
+"175","Marianne Dashwood",27,50
+"176","Marianne Dashwood",49,50
+"177","Marianne Dashwood",2,50
+"178","Marianne Dashwood",42,50
+"179","Marianne Dashwood",41,50
+"180","Marianne Dashwood",29,50
+"181","Marianne Dashwood",9,50
+"182","Marianne Dashwood",11,50
+"183","Marianne Dashwood",38,50
+"184","Marianne Dashwood",43,50
+"185","Marianne Dashwood",23,50
+"186","Marianne Dashwood",21,50
+"187","Marianne Dashwood",1,50
+"188","Marianne Dashwood",24,50
+"189","Marianne Dashwood",39,50
+"190","Marianne Dashwood",32,50
+"191","Marianne Dashwood",17,50
+"192","Marianne Dashwood",7,50
+"193","Marianne Dashwood",19,50
+"194","Marianne Dashwood",31,50
+"195","Marianne Dashwood",36,50
+"196","Marianne Dashwood",28,50
+"197","Marianne Dashwood",8,50
+"198","Marianne Dashwood",10,50
+"199","Marianne Dashwood",25,50
+"200","Marianne Dashwood",3,50
+"201","Marianne Dashwood",48,50
+"202","Marianne Dashwood",18,50
+"203","Marianne Dashwood",44,50
+"204","Marianne Dashwood",4,50
+"205","Marianne Dashwood",45,50
+"206","Marianne Dashwood",12,50
+"207","Marianne Dashwood",47,50
+"208","Marianne Dashwood",30,50
+"209","Marianne Dashwood",6,50
+"210","Marianne Dashwood",50,50
+"211","Marianne Dashwood",22,50
+"212","Marianne Dashwood",35,50
+"213","Marianne Dashwood",13,50
+"214","Marianne Dashwood",37,50
+"215","Marianne Dashwood",40,50
+"216","Marianne Dashwood",33,50
+"217","Marianne Dashwood",16,50
+"218","Marianne Dashwood",15,50
+"219","Marianne Dashwood",5,50
+"220","Martha Sharpe",38,1
+"221","Miss Godby",38,1
+"222","Miss Morton",50,7
+"223","Miss Morton",33,7
+"224","Miss Morton",34,7
+"225","Miss Morton",41,7
+"226","Miss Morton",38,7
+"227","Miss Morton",37,7
+"228","Miss Morton",49,7
+"229","Miss Sophia Grey",30,3
+"230","Miss Sophia Grey",32,3
+"231","Miss Sophia Grey",44,3
+"232","Miss Sparks",38,1
+"233","Miss Walker",30,1
+"234","Mr Jennings",11,1
+"235","Mr John Dashwood",2,6
+"236","Mr John Dashwood",36,6
+"237","Mr John Dashwood",33,6
+"238","Mr John Dashwood",41,6
+"239","Mr John Dashwood",37,6
+"240","Mr John Dashwood",49,6
+"241","Mr Pratt",47,7
+"242","Mr Pratt",23,7
+"243","Mr Pratt",38,7
+"244","Mr Pratt",49,7
+"245","Mr Pratt",48,7
+"246","Mr Pratt",22,7
+"247","Mr Pratt",36,7
+"248","Mr Richardson",38,1
+"249","Mr Simpson",21,1
+"250","Mr Thomas Palmer",21,13
+"251","Mr Thomas Palmer",38,13
+"252","Mr Thomas Palmer",20,13
+"253","Mr Thomas Palmer",42,13
+"254","Mr Thomas Palmer",26,13
+"255","Mr Thomas Palmer",27,13
+"256","Mr Thomas Palmer",39,13
+"257","Mr Thomas Palmer",43,13
+"258","Mr Thomas Palmer",44,13
+"259","Mr Thomas Palmer",46,13
+"260","Mr Thomas Palmer",37,13
+"261","Mr Thomas Palmer",36,13
+"262","Mr Thomas Palmer",19,13
+"263","Mr. Rose",21,1
+"264","Mrs Charlotte Palmer",39,18
+"265","Mrs Charlotte Palmer",40,18
+"266","Mrs Charlotte Palmer",26,18
+"267","Mrs Charlotte Palmer",29,18
+"268","Mrs Charlotte Palmer",42,18
+"269","Mrs Charlotte Palmer",27,18
+"270","Mrs Charlotte Palmer",43,18
+"271","Mrs Charlotte Palmer",37,18
+"272","Mrs Charlotte Palmer",36,18
+"273","Mrs Charlotte Palmer",46,18
+"274","Mrs Charlotte Palmer",30,18
+"275","Mrs Charlotte Palmer",19,18
+"276","Mrs Charlotte Palmer",25,18
+"277","Mrs Charlotte Palmer",44,18
+"278","Mrs Charlotte Palmer",32,18
+"279","Mrs Charlotte Palmer",21,18
+"280","Mrs Charlotte Palmer",35,18
+"281","Mrs Charlotte Palmer",20,18
+"282","Mrs Dashwood",33,36
+"283","Mrs Dashwood",9,36
+"284","Mrs Dashwood",41,36
+"285","Mrs Dashwood",37,36
+"286","Mrs Dashwood",2,36
+"287","Mrs Dashwood",20,36
+"288","Mrs Dashwood",4,36
+"289","Mrs Dashwood",17,36
+"290","Mrs Dashwood",12,36
+"291","Mrs Dashwood",14,36
+"292","Mrs Dashwood",48,36
+"293","Mrs Dashwood",49,36
+"294","Mrs Dashwood",43,36
+"295","Mrs Dashwood",47,36
+"296","Mrs Dashwood",7,36
+"297","Mrs Dashwood",25,36
+"298","Mrs Dashwood",6,36
+"299","Mrs Dashwood",28,36
+"300","Mrs Dashwood",8,36
+"301","Mrs Dashwood",1,36
+"302","Mrs Dashwood",19,36
+"303","Mrs Dashwood",11,36
+"304","Mrs Dashwood",35,36
+"305","Mrs Dashwood",27,36
+"306","Mrs Dashwood",3,36
+"307","Mrs Dashwood",10,36
+"308","Mrs Dashwood",34,36
+"309","Mrs Dashwood",18,36
+"310","Mrs Dashwood",36,36
+"311","Mrs Dashwood",32,36
+"312","Mrs Dashwood",15,36
+"313","Mrs Dashwood",45,36
+"314","Mrs Dashwood",5,36
+"315","Mrs Dashwood",50,36
+"316","Mrs Dashwood",16,36
+"317","Mrs Dashwood",46,36
+"318","Mrs Dennison",36,1
+"319","Mrs Fanny Dashwood",24,12
+"320","Mrs Fanny Dashwood",6,12
+"321","Mrs Fanny Dashwood",3,12
+"322","Mrs Fanny Dashwood",22,12
+"323","Mrs Fanny Dashwood",33,12
+"324","Mrs Fanny Dashwood",2,12
+"325","Mrs Fanny Dashwood",36,12
+"326","Mrs Fanny Dashwood",1,12
+"327","Mrs Fanny Dashwood",50,12
+"328","Mrs Fanny Dashwood",41,12
+"329","Mrs Fanny Dashwood",34,12
+"330","Mrs Fanny Dashwood",5,12
+"331","Mrs Ferrars",24,16
+"332","Mrs Ferrars",48,16
+"333","Mrs Ferrars",49,16
+"334","Mrs Ferrars",17,16
+"335","Mrs Ferrars",34,16
+"336","Mrs Ferrars",4,16
+"337","Mrs Ferrars",41,16
+"338","Mrs Ferrars",35,16
+"339","Mrs Ferrars",33,16
+"340","Mrs Ferrars",19,16
+"341","Mrs Ferrars",50,16
+"342","Mrs Ferrars",39,16
+"343","Mrs Ferrars",37,16
+"344","Mrs Ferrars",32,16
+"345","Mrs Ferrars",47,16
+"346","Mrs Ferrars",22,16
+"347","Mrs Jennings",27,38
+"348","Mrs Jennings",42,38
+"349","Mrs Jennings",13,38
+"350","Mrs Jennings",29,38
+"351","Mrs Jennings",10,38
+"352","Mrs Jennings",50,38
+"353","Mrs Jennings",35,38
+"354","Mrs Jennings",12,38
+"355","Mrs Jennings",14,38
+"356","Mrs Jennings",37,38
+"357","Mrs Jennings",38,38
+"358","Mrs Jennings",7,38
+"359","Mrs Jennings",25,38
+"360","Mrs Jennings",41,38
+"361","Mrs Jennings",8,38
+"362","Mrs Jennings",16,38
+"363","Mrs Jennings",30,38
+"364","Mrs Jennings",45,38
+"365","Mrs Jennings",49,38
+"366","Mrs Jennings",36,38
+"367","Mrs Jennings",21,38
+"368","Mrs Jennings",34,38
+"369","Mrs Jennings",33,38
+"370","Mrs Jennings",11,38
+"371","Mrs Jennings",46,38
+"372","Mrs Jennings",24,38
+"373","Mrs Jennings",40,38
+"374","Mrs Jennings",18,38
+"375","Mrs Jennings",28,38
+"376","Mrs Jennings",31,38
+"377","Mrs Jennings",39,38
+"378","Mrs Jennings",20,38
+"379","Mrs Jennings",32,38
+"380","Mrs Jennings",26,38
+"381","Mrs Jennings",19,38
+"382","Mrs Jennings",48,38
+"383","Mrs Jennings",44,38
+"384","Mrs Jennings",43,38
+"385","Mrs Richardson",38,1
+"386","Mrs Taylor",30,1
+"387","MrsBurgess",49,1
+"388","MrsClarke",38,1
+"389","Robert Ferrars",3,2
+"390","Robert Ferrars",37,2
+"391","Sally",47,1
+"392","Sir John Middleton",10,33
+"393","Sir John Middleton",8,33
+"394","Sir John Middleton",12,33
+"395","Sir John Middleton",22,33
+"396","Sir John Middleton",44,33
+"397","Sir John Middleton",14,33
+"398","Sir John Middleton",20,33
+"399","Sir John Middleton",30,33
+"400","Sir John Middleton",25,33
+"401","Sir John Middleton",7,33
+"402","Sir John Middleton",16,33
+"403","Sir John Middleton",36,33
+"404","Sir John Middleton",27,33
+"405","Sir John Middleton",23,33
+"406","Sir John Middleton",29,33
+"407","Sir John Middleton",34,33
+"408","Sir John Middleton",50,33
+"409","Sir John Middleton",24,33
+"410","Sir John Middleton",9,33
+"411","Sir John Middleton",18,33
+"412","Sir John Middleton",38,33
+"413","Sir John Middleton",13,33
+"414","Sir John Middleton",31,33
+"415","Sir John Middleton",4,33
+"416","Sir John Middleton",5,33
+"417","Sir John Middleton",45,33
+"418","Sir John Middleton",11,33
+"419","Sir John Middleton",6,33
+"420","Sir John Middleton",19,33
+"421","Sir John Middleton",33,33
+"422","Sir John Middleton",46,33
+"423","Sir John Middleton",32,33
+"424","Sir John Middleton",21,33
+"425","The Miss Careys",18,3
+"426","The Miss Careys",45,3
+"427","The Miss Careys",13,3
+"428","The Westons",20,1
+"429","The Whitakers",18,1
+"430","TheOldGentlemanDashwood",1,1
+"431","Thomas",49,2
+"432","Thomas",47,2

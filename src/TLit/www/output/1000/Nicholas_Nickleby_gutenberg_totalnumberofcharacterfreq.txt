@@ -1,0 +1,133 @@
+"Character","Node"
+"Alice",4
+"Alphonse",2
+"Arthur Gride",33
+"Augustus Borum",1
+"Baron Von Koeldwethout",5
+"Baron Von Swillenhausen",2
+"Baroness Von Koeldwethout",2
+"Baroness Von Swillenhausen",1
+"Belling",3
+"Bolder",3
+"Brooks",1
+"Captain Adams",2
+"Cecilia Bobster",2
+"Charles Cheeryble",31
+"Charley",1
+"Charlotte Borum",1
+"Cobbey",2
+"Colonel Chowser",3
+"David",1
+"Doctor Lumbey",3
+"Dorker",1
+"Edwin Cheeryble",37
+"Fanny Squeers",22
+"Fluggers",1
+"Frank Cheeryble",26
+"Graymarsh",2
+"Great Ralph Nickleby",1
+"Hannah",1
+"Henrietta Petowker",20
+"Henry Wititterly",8
+"Horatio Peltirogus",1
+"Jane",1
+"Jane Dibabs",1
+"Jenkins",1
+"Jennings",1
+"John Browdie",32
+"John La Creevy",1
+"Julia Wititterly",10
+"Kate Nickleby",124
+"Lord Frederick Verisopht",16
+"Lukin",1
+"Madame Mantalini",21
+"Madeline Bray",36
+"Matilda Price",23
+"Miss Belvawney",2
+"Miss Bravassa",6
+"Miss Browndock",1
+"Miss Cropley",1
+"Miss Gazingi",1
+"Miss Knag",18
+"Miss La Creevy",36
+"Miss Lane",1
+"Miss Ledrook",8
+"Miss Simmonds",1
+"Miss Snevellicci",17
+"Mobbs",2
+"Morleena Kenwigs",13
+"Mortimer Knag",2
+"Mr Bobster",1
+"Mr Bonney",3
+"Mr Borum",1
+"Mr Brooker",5
+"Mr Bulph",2
+"Mr Crowl",6
+"Mr Crummles",30
+"Mr Curdle",2
+"Mr Cutler",1
+"Mr Folair",11
+"Mr Gallanbile",1
+"Mr Glavormelly",1
+"Mr Godfrey Nickleby",1
+"Mr Gregsbury",5
+"Mr Kenwigs",18
+"Mr Lenville",6
+"Mr Lillyvick",18
+"Mr Mantalini",14
+"Mr Nickleby",3
+"Mr Pluck",16
+"Mr Pugstyles",2
+"Mr Pyke",18
+"Mr Scaley",1
+"Mr Snawley",14
+"Mr Snevellicci",2
+"Mr Snobb",2
+"Mr Trimmers",2
+"Mr Watkins",2
+"Mr Westwood",2
+"Mrs Blockson",2
+"Mrs Borum",2
+"Mrs Crummles",19
+"Mrs Curdle",2
+"Mrs Cutler",1
+"Mrs Gallanbile",1
+"Mrs Godfrey Nickleby",1
+"Mrs Gregsbury",1
+"Mrs Grudden",11
+"Mrs Kenwigs",16
+"Mrs Lenville",2
+"Mrs Nickleby",79
+"Mrs Snawley",2
+"Mrs Snevellicci",3
+"Mrs Squeers",27
+"Newman Noggs",81
+"Nicholas Nickleby",226
+"Ninetta Crummles",17
+"Palmer",1
+"Peg Sliderskew",17
+"Phoebe",2
+"Ralph Nickleby",142
+"Richard",1
+"Sir Matthew Pupker",3
+"Sir Mulberry Hawk",34
+"Sir Thomas Grimble",1
+"Sir Tumley Snuffim",4
+"Smike",77
+"Snittle Timberry",5
+"Sprouter",1
+"The African Swallower",3
+"The Hawkinses",1
+"The Master Crummleses",10
+"The Miss Dowdles",1
+"The Misses Kenwigses",13
+"Thomas",1
+"Tim Linkinwater",41
+"Tom",4
+"Tom Tix",2
+"Wackford Squeers",72
+"Wackford SqueersJunior",16
+"Walter Bray",7
+"William",1
+"William2",1
+"young Lillyvick",1

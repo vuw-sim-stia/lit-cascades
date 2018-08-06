@@ -1,0 +1,532 @@
+"id1" "id2" "label"
+"1" "Abel Magwitch" "Avenger" 3
+"2" "Abel Magwitch" "Bentley Drummle" 1
+"3" "Abel Magwitch" "Biddy" 4
+"4" "Abel Magwitch" "Clara Barley" 5
+"5" "Abel Magwitch" "Compeyson" 13
+"6" "Abel Magwitch" "Estella" 8
+"7" "Abel Magwitch" "Herbert Pocket" 15
+"8" "Abel Magwitch" "Jack" 2
+"9" "Abel Magwitch" "Joe Gargery" 12
+"10" "Abel Magwitch" "John Wemmick" 9
+"11" "Abel Magwitch" "Mary Anne" 1
+"12" "Abel Magwitch" "Mike" 1
+"13" "Abel Magwitch" "Miss Havisham" 10
+"14" "Abel Magwitch" "Miss Skiffins" 2
+"15" "Abel Magwitch" "Mr Clarriker" 3
+"16" "Abel Magwitch" "Mr Havisham" 1
+"17" "Abel Magwitch" "Mr Hubble" 1
+"18" "Abel Magwitch" "Mr Jaggers" 7
+"19" "Abel Magwitch" "Mr Pocket" 1
+"20" "Abel Magwitch" "Mr Trabb" 1
+"21" "Abel Magwitch" "Mr Wopsle" 4
+"22" "Abel Magwitch" "Mrs Brandley" 1
+"23" "Abel Magwitch" "Mrs Joe Gargery" 6
+"24" "Abel Magwitch" "Old Barley" 4
+"25" "Abel Magwitch" "Orlick Dolge" 3
+"26" "Abel Magwitch" "Pip" 16
+"27" "Abel Magwitch" "Skiffins" 1
+"28" "Abel Magwitch" "Startop" 3
+"29" "Abel Magwitch" "The Aged" 2
+"30" "Abel Magwitch" "Trabb's Boy" 2
+"31" "Abel Magwitch" "Uncle Pumblechook" 3
+"32" "Avenger" "Bentley Drummle" 2
+"33" "Avenger" "Biddy" 2
+"34" "Avenger" "Camilla" 1
+"35" "Avenger" "Clara Barley" 1
+"36" "Avenger" "Compeyson" 1
+"37" "Avenger" "Estella" 3
+"38" "Avenger" "Herbert Pocket" 5
+"39" "Avenger" "Joe Gargery" 5
+"40" "Avenger" "John Wemmick" 1
+"41" "Avenger" "Miss Havisham" 5
+"42" "Avenger" "Mr Jaggers" 2
+"43" "Avenger" "Mr Pocket" 2
+"44" "Avenger" "Mr Trabb" 2
+"45" "Avenger" "Mr Wopsle" 2
+"46" "Avenger" "Mrs Joe Gargery" 1
+"47" "Avenger" "Mrs Pocket" 1
+"48" "Avenger" "Orlick Dolge" 1
+"49" "Avenger" "Pip" 6
+"50" "Avenger" "Startop" 1
+"51" "Avenger" "Trabb's Boy" 2
+"52" "Avenger" "Uncle Pumblechook" 3
+"53" "Bentley Drummle" "Biddy" 2
+"54" "Bentley Drummle" "Camilla" 4
+"55" "Bentley Drummle" "Compeyson" 1
+"56" "Bentley Drummle" "Dunstable" 1
+"57" "Bentley Drummle" "Estella" 7
+"58" "Bentley Drummle" "Flopson" 1
+"59" "Bentley Drummle" "Georiana Pocket" 3
+"60" "Bentley Drummle" "Herbert Pocket" 9
+"61" "Bentley Drummle" "Joe Gargery" 5
+"62" "Bentley Drummle" "John Wemmick" 4
+"63" "Bentley Drummle" "Millers" 1
+"64" "Bentley Drummle" "Miss Havisham" 8
+"65" "Bentley Drummle" "Miss Skiffins" 1
+"66" "Bentley Drummle" "Molly" 2
+"67" "Bentley Drummle" "Mr Camilla" 2
+"68" "Bentley Drummle" "Mr Jaggers" 5
+"69" "Bentley Drummle" "Mr Pocket" 6
+"70" "Bentley Drummle" "Mr Trabb" 1
+"71" "Bentley Drummle" "Mr Wopsle" 1
+"72" "Bentley Drummle" "Mrs Brandley" 2
+"73" "Bentley Drummle" "Mrs Coiler" 1
+"74" "Bentley Drummle" "Mrs Joe Gargery" 1
+"75" "Bentley Drummle" "Mrs Pocket" 4
+"76" "Bentley Drummle" "Orlick Dolge" 1
+"77" "Bentley Drummle" "Pip" 9
+"78" "Bentley Drummle" "Sarah Pocket" 2
+"79" "Bentley Drummle" "Sophia" 1
+"80" "Bentley Drummle" "Startop" 4
+"81" "Bentley Drummle" "The Aged" 2
+"82" "Bentley Drummle" "Uncle Pumblechook" 2
+"83" "Biddy" "Camilla" 3
+"84" "Biddy" "Clara Barley" 3
+"85" "Biddy" "Compeyson" 3
+"86" "Biddy" "Estella" 12
+"87" "Biddy" "Flopson" 1
+"88" "Biddy" "Georiana Pocket" 1
+"89" "Biddy" "Herbert Pocket" 10
+"90" "Biddy" "Joe Gargery" 17
+"91" "Biddy" "John Wemmick" 1
+"92" "Biddy" "Millers" 1
+"93" "Biddy" "Miss Havisham" 13
+"94" "Biddy" "Mr Camilla" 1
+"95" "Biddy" "Mr Clarriker" 1
+"96" "Biddy" "Mr Havisham" 1
+"97" "Biddy" "Mr Hubble" 1
+"98" "Biddy" "Mr Jaggers" 4
+"99" "Biddy" "Mr Pocket" 4
+"100" "Biddy" "Mr Trabb" 5
+"101" "Biddy" "Mr Wopsle" 7
+"102" "Biddy" "Mrs Hubble" 2
+"103" "Biddy" "Mrs Joe Gargery" 11
+"104" "Biddy" "Mrs Pocket" 2
+"105" "Biddy" "Old Barley" 2
+"106" "Biddy" "Orlick Dolge" 6
+"107" "Biddy" "Pip" 15
+"108" "Biddy" "Sarah Pocket" 4
+"109" "Biddy" "Startop" 2
+"110" "Biddy" "Trabb's Boy" 2
+"111" "Biddy" "Uncle Pumblechook" 10
+"112" "Biddy" "William Potkins" 1
+"113" "Black Bill" "Estella" 1
+"114" "Black Bill" "John Wemmick" 1
+"115" "Black Bill" "Miss Havisham" 1
+"116" "Black Bill" "Mr Jaggers" 1
+"117" "Black Bill" "Mr Pocket" 1
+"118" "Black Bill" "Pip" 1
+"119" "Black Bill" "The Aged" 1
+"120" "Camilla" "Estella" 5
+"121" "Camilla" "Georiana Pocket" 4
+"122" "Camilla" "Herbert Pocket" 5
+"123" "Camilla" "Joe Gargery" 4
+"124" "Camilla" "John Wemmick" 2
+"125" "Camilla" "Miss Havisham" 6
+"126" "Camilla" "Mr Camilla" 3
+"127" "Camilla" "Mr Jaggers" 3
+"128" "Camilla" "Mr Pocket" 6
+"129" "Camilla" "Mr Trabb" 1
+"130" "Camilla" "Mr Wopsle" 1
+"131" "Camilla" "Mrs Hubble" 1
+"132" "Camilla" "Mrs Joe Gargery" 2
+"133" "Camilla" "Mrs Pocket" 2
+"134" "Camilla" "Orlick Dolge" 1
+"135" "Camilla" "Pip" 6
+"136" "Camilla" "Sarah Pocket" 3
+"137" "Camilla" "Startop" 2
+"138" "Camilla" "The Aged" 1
+"139" "Camilla" "Uncle Pumblechook" 3
+"140" "Clara Barley" "Compeyson" 3
+"141" "Clara Barley" "Estella" 6
+"142" "Clara Barley" "Herbert Pocket" 9
+"143" "Clara Barley" "Joe Gargery" 5
+"144" "Clara Barley" "John Wemmick" 4
+"145" "Clara Barley" "Mary Anne" 1
+"146" "Clara Barley" "Miss Havisham" 4
+"147" "Clara Barley" "Miss Skiffins" 2
+"148" "Clara Barley" "Mr Clarriker" 3
+"149" "Clara Barley" "Mr Jaggers" 2
+"150" "Clara Barley" "Mr Trabb" 2
+"151" "Clara Barley" "Mr Wopsle" 2
+"152" "Clara Barley" "Mrs Joe Gargery" 2
+"153" "Clara Barley" "Old Barley" 4
+"154" "Clara Barley" "Orlick Dolge" 2
+"155" "Clara Barley" "Pip" 8
+"156" "Clara Barley" "Skiffins" 1
+"157" "Clara Barley" "Startop" 2
+"158" "Clara Barley" "The Aged" 2
+"159" "Clara Barley" "Trabb's Boy" 2
+"160" "Clara Barley" "Uncle Pumblechook" 3
+"161" "Clara Barley" "William Potkins" 1
+"162" "Compeyson" "Estella" 6
+"163" "Compeyson" "Herbert Pocket" 11
+"164" "Compeyson" "Jack" 2
+"165" "Compeyson" "Joe Gargery" 7
+"166" "Compeyson" "John Wemmick" 5
+"167" "Compeyson" "Miss Havisham" 6
+"168" "Compeyson" "Miss Skiffins" 1
+"169" "Compeyson" "Mr Clarriker" 1
+"170" "Compeyson" "Mr Havisham" 1
+"171" "Compeyson" "Mr Hubble" 1
+"172" "Compeyson" "Mr Jaggers" 4
+"173" "Compeyson" "Mr Pocket" 1
+"174" "Compeyson" "Mr Trabb" 1
+"175" "Compeyson" "Mr Wopsle" 3
+"176" "Compeyson" "Mrs Brandley" 1
+"177" "Compeyson" "Mrs Joe Gargery" 3
+"178" "Compeyson" "Old Barley" 3
+"179" "Compeyson" "Orlick Dolge" 3
+"180" "Compeyson" "Pip" 10
+"181" "Compeyson" "Startop" 2
+"182" "Compeyson" "The Aged" 1
+"183" "Compeyson" "Trabb's Boy" 2
+"184" "Compeyson" "Uncle Pumblechook" 2
+"185" "Dunstable" "Flopson" 1
+"186" "Dunstable" "Herbert Pocket" 1
+"187" "Dunstable" "Joe Gargery" 2
+"188" "Dunstable" "Millers" 1
+"189" "Dunstable" "Mr Hubble" 1
+"190" "Dunstable" "Mr Pocket" 1
+"191" "Dunstable" "Mr Wopsle" 1
+"192" "Dunstable" "Mrs Coiler" 1
+"193" "Dunstable" "Mrs Hubble" 1
+"194" "Dunstable" "Mrs Joe Gargery" 1
+"195" "Dunstable" "Mrs Pocket" 1
+"196" "Dunstable" "Pip" 2
+"197" "Dunstable" "Sophia" 1
+"198" "Dunstable" "Startop" 1
+"199" "Dunstable" "Uncle Pumblechook" 1
+"200" "Estella" "Flopson" 2
+"201" "Estella" "Georiana Pocket" 3
+"202" "Estella" "Herbert Pocket" 24
+"203" "Estella" "Jack" 1
+"204" "Estella" "Joe Gargery" 20
+"205" "Estella" "John Wemmick" 10
+"206" "Estella" "Mary Anne" 1
+"207" "Estella" "Mike" 1
+"208" "Estella" "Millers" 2
+"209" "Estella" "Miss Havisham" 30
+"210" "Estella" "Miss Skiffins" 3
+"211" "Estella" "Molly" 1
+"212" "Estella" "Mr Camilla" 2
+"213" "Estella" "Mr Clarriker" 2
+"214" "Estella" "Mr Havisham" 1
+"215" "Estella" "Mr Jaggers" 16
+"216" "Estella" "Mr Pocket" 10
+"217" "Estella" "Mr Trabb" 5
+"218" "Estella" "Mr Wopsle" 9
+"219" "Estella" "Mrs Brandley" 2
+"220" "Estella" "Mrs Hubble" 1
+"221" "Estella" "Mrs Joe Gargery" 11
+"222" "Estella" "Mrs Pocket" 3
+"223" "Estella" "Old Barley" 3
+"224" "Estella" "Orlick Dolge" 7
+"225" "Estella" "Pip" 31
+"226" "Estella" "Sarah Pocket" 7
+"227" "Estella" "Skiffins" 1
+"228" "Estella" "Startop" 2
+"229" "Estella" "The Aged" 5
+"230" "Estella" "Trabb's Boy" 3
+"231" "Estella" "Uncle Pumblechook" 12
+"232" "Flopson" "Herbert Pocket" 2
+"233" "Flopson" "Joe Gargery" 2
+"234" "Flopson" "Millers" 3
+"235" "Flopson" "Miss Havisham" 2
+"236" "Flopson" "Mr Havisham" 1
+"237" "Flopson" "Mr Jaggers" 2
+"238" "Flopson" "Mr Pocket" 3
+"239" "Flopson" "Mr Trabb" 1
+"240" "Flopson" "Mrs Coiler" 1
+"241" "Flopson" "Mrs Pocket" 3
+"242" "Flopson" "Pip" 3
+"243" "Flopson" "Sophia" 1
+"244" "Flopson" "Startop" 1
+"245" "Flopson" "Uncle Pumblechook" 1
+"246" "Georiana Pocket" "Herbert Pocket" 4
+"247" "Georiana Pocket" "Joe Gargery" 2
+"248" "Georiana Pocket" "John Wemmick" 2
+"249" "Georiana Pocket" "Miss Havisham" 4
+"250" "Georiana Pocket" "Mr Camilla" 2
+"251" "Georiana Pocket" "Mr Jaggers" 2
+"252" "Georiana Pocket" "Mr Pocket" 4
+"253" "Georiana Pocket" "Mrs Joe Gargery" 1
+"254" "Georiana Pocket" "Mrs Pocket" 1
+"255" "Georiana Pocket" "Orlick Dolge" 1
+"256" "Georiana Pocket" "Pip" 4
+"257" "Georiana Pocket" "Sarah Pocket" 3
+"258" "Georiana Pocket" "Startop" 1
+"259" "Georiana Pocket" "The Aged" 1
+"260" "Georiana Pocket" "Uncle Pumblechook" 2
+"261" "Herbert Pocket" "Jack" 2
+"262" "Herbert Pocket" "Joe Gargery" 18
+"263" "Herbert Pocket" "John Wemmick" 17
+"264" "Herbert Pocket" "Mary Anne" 1
+"265" "Herbert Pocket" "Mike" 2
+"266" "Herbert Pocket" "Millers" 2
+"267" "Herbert Pocket" "Miss Havisham" 25
+"268" "Herbert Pocket" "Miss Skiffins" 3
+"269" "Herbert Pocket" "Molly" 1
+"270" "Herbert Pocket" "Mr Camilla" 2
+"271" "Herbert Pocket" "Mr Clarriker" 5
+"272" "Herbert Pocket" "Mr Havisham" 2
+"273" "Herbert Pocket" "Mr Jaggers" 19
+"274" "Herbert Pocket" "Mr Pocket" 13
+"275" "Herbert Pocket" "Mr Trabb" 4
+"276" "Herbert Pocket" "Mr Wopsle" 6
+"277" "Herbert Pocket" "Mrs Brandley" 2
+"278" "Herbert Pocket" "Mrs Coiler" 1
+"279" "Herbert Pocket" "Mrs Joe Gargery" 5
+"280" "Herbert Pocket" "Mrs Pocket" 5
+"281" "Herbert Pocket" "Old Barley" 5
+"282" "Herbert Pocket" "Orlick Dolge" 6
+"283" "Herbert Pocket" "Pip" 33
+"284" "Herbert Pocket" "Sarah Pocket" 5
+"285" "Herbert Pocket" "Skiffins" 2
+"286" "Herbert Pocket" "Sophia" 1
+"287" "Herbert Pocket" "Startop" 7
+"288" "Herbert Pocket" "The Aged" 5
+"289" "Herbert Pocket" "Trabb's Boy" 3
+"290" "Herbert Pocket" "Uncle Pumblechook" 10
+"291" "Herbert Pocket" "William Potkins" 1
+"292" "Jack" "Joe Gargery" 1
+"293" "Jack" "John Wemmick" 2
+"294" "Jack" "Mr Wopsle" 1
+"295" "Jack" "Pip" 1
+"296" "Jack" "Startop" 1
+"297" "Joe Gargery" "John Wemmick" 3
+"298" "Joe Gargery" "Millers" 2
+"299" "Joe Gargery" "Miss Havisham" 23
+"300" "Joe Gargery" "Mr Camilla" 2
+"301" "Joe Gargery" "Mr Clarriker" 2
+"302" "Joe Gargery" "Mr Havisham" 1
+"303" "Joe Gargery" "Mr Hubble" 3
+"304" "Joe Gargery" "Mr Jaggers" 6
+"305" "Joe Gargery" "Mr Pocket" 8
+"306" "Joe Gargery" "Mr Trabb" 6
+"307" "Joe Gargery" "Mr Wopsle" 12
+"308" "Joe Gargery" "Mrs Brandley" 1
+"309" "Joe Gargery" "Mrs Coiler" 1
+"310" "Joe Gargery" "Mrs Hubble" 3
+"311" "Joe Gargery" "Mrs Joe Gargery" 21
+"312" "Joe Gargery" "Mrs Pocket" 3
+"313" "Joe Gargery" "Old Barley" 3
+"314" "Joe Gargery" "Orlick Dolge" 9
+"315" "Joe Gargery" "Pip" 27
+"316" "Joe Gargery" "Sarah Pocket" 6
+"317" "Joe Gargery" "Skiffins" 1
+"318" "Joe Gargery" "Sophia" 1
+"319" "Joe Gargery" "Startop" 5
+"320" "Joe Gargery" "Trabb's Boy" 4
+"321" "Joe Gargery" "Uncle Pumblechook" 20
+"322" "Joe Gargery" "William Potkins" 1
+"323" "John Wemmick" "Mary Anne" 1
+"324" "John Wemmick" "Mike" 2
+"325" "John Wemmick" "Miss Havisham" 10
+"326" "John Wemmick" "Miss Skiffins" 4
+"327" "John Wemmick" "Molly" 2
+"328" "John Wemmick" "Mr Camilla" 1
+"329" "John Wemmick" "Mr Clarriker" 3
+"330" "John Wemmick" "Mr Jaggers" 14
+"331" "John Wemmick" "Mr Pocket" 6
+"332" "John Wemmick" "Mr Wopsle" 2
+"333" "John Wemmick" "Mrs Pocket" 2
+"334" "John Wemmick" "Old Barley" 2
+"335" "John Wemmick" "Pip" 16
+"336" "John Wemmick" "Sarah Pocket" 1
+"337" "John Wemmick" "Skiffins" 2
+"338" "John Wemmick" "Startop" 4
+"339" "John Wemmick" "The Aged" 7
+"340" "John Wemmick" "Uncle Pumblechook" 1
+"341" "Mary Anne" "Miss Skiffins" 1
+"342" "Mary Anne" "Mr Clarriker" 1
+"343" "Mary Anne" "Pip" 1
+"344" "Mary Anne" "The Aged" 1
+"345" "Mike" "Miss Havisham" 1
+"346" "Mike" "Mr Jaggers" 2
+"347" "Mike" "Pip" 2
+"348" "Millers" "Miss Havisham" 2
+"349" "Millers" "Mr Havisham" 1
+"350" "Millers" "Mr Jaggers" 2
+"351" "Millers" "Mr Pocket" 3
+"352" "Millers" "Mr Trabb" 1
+"353" "Millers" "Mrs Coiler" 1
+"354" "Millers" "Mrs Pocket" 3
+"355" "Millers" "Pip" 3
+"356" "Millers" "Sophia" 1
+"357" "Millers" "Startop" 1
+"358" "Millers" "Uncle Pumblechook" 1
+"359" "Miss Havisham" "Miss Skiffins" 2
+"360" "Miss Havisham" "Molly" 1
+"361" "Miss Havisham" "Mr Camilla" 3
+"362" "Miss Havisham" "Mr Clarriker" 2
+"363" "Miss Havisham" "Mr Havisham" 2
+"364" "Miss Havisham" "Mr Jaggers" 19
+"365" "Miss Havisham" "Mr Pocket" 12
+"366" "Miss Havisham" "Mr Trabb" 5
+"367" "Miss Havisham" "Mr Wopsle" 10
+"368" "Miss Havisham" "Mrs Brandley" 2
+"369" "Miss Havisham" "Mrs Hubble" 1
+"370" "Miss Havisham" "Mrs Joe Gargery" 13
+"371" "Miss Havisham" "Mrs Pocket" 4
+"372" "Miss Havisham" "Old Barley" 3
+"373" "Miss Havisham" "Orlick Dolge" 7
+"374" "Miss Havisham" "Pip" 33
+"375" "Miss Havisham" "Sarah Pocket" 7
+"376" "Miss Havisham" "Skiffins" 2
+"377" "Miss Havisham" "Startop" 4
+"378" "Miss Havisham" "The Aged" 5
+"379" "Miss Havisham" "Trabb's Boy" 4
+"380" "Miss Havisham" "Uncle Pumblechook" 15
+"381" "Miss Skiffins" "Molly" 1
+"382" "Miss Skiffins" "Mr Clarriker" 2
+"383" "Miss Skiffins" "Mr Jaggers" 3
+"384" "Miss Skiffins" "Mr Wopsle" 1
+"385" "Miss Skiffins" "Pip" 4
+"386" "Miss Skiffins" "Skiffins" 1
+"387" "Miss Skiffins" "The Aged" 4
+"388" "Molly" "Mr Jaggers" 2
+"389" "Molly" "Mr Pocket" 1
+"390" "Molly" "Mrs Pocket" 1
+"391" "Molly" "Pip" 2
+"392" "Molly" "Startop" 1
+"393" "Molly" "The Aged" 1
+"394" "Mr Camilla" "Mr Jaggers" 2
+"395" "Mr Camilla" "Mr Pocket" 3
+"396" "Mr Camilla" "Mr Wopsle" 1
+"397" "Mr Camilla" "Mrs Hubble" 1
+"398" "Mr Camilla" "Mrs Joe Gargery" 2
+"399" "Mr Camilla" "Mrs Pocket" 1
+"400" "Mr Camilla" "Pip" 3
+"401" "Mr Camilla" "Sarah Pocket" 1
+"402" "Mr Camilla" "Startop" 1
+"403" "Mr Camilla" "The Aged" 1
+"404" "Mr Camilla" "Uncle Pumblechook" 2
+"405" "Mr Clarriker" "Mr Jaggers" 1
+"406" "Mr Clarriker" "Mr Wopsle" 1
+"407" "Mr Clarriker" "Mrs Joe Gargery" 1
+"408" "Mr Clarriker" "Old Barley" 2
+"409" "Mr Clarriker" "Pip" 4
+"410" "Mr Clarriker" "Skiffins" 2
+"411" "Mr Clarriker" "Startop" 1
+"412" "Mr Clarriker" "The Aged" 2
+"413" "Mr Clarriker" "Uncle Pumblechook" 2
+"414" "Mr Clarriker" "William Potkins" 1
+"415" "Mr Havisham" "Mr Jaggers" 2
+"416" "Mr Havisham" "Mr Pocket" 1
+"417" "Mr Havisham" "Mr Trabb" 1
+"418" "Mr Havisham" "Mrs Pocket" 1
+"419" "Mr Havisham" "Pip" 2
+"420" "Mr Havisham" "Uncle Pumblechook" 1
+"421" "Mr Hubble" "Mr Trabb" 1
+"422" "Mr Hubble" "Mr Wopsle" 2
+"423" "Mr Hubble" "Mrs Hubble" 2
+"424" "Mr Hubble" "Mrs Joe Gargery" 3
+"425" "Mr Hubble" "Orlick Dolge" 1
+"426" "Mr Hubble" "Pip" 3
+"427" "Mr Hubble" "Uncle Pumblechook" 3
+"428" "Mr Jaggers" "Mr Pocket" 11
+"429" "Mr Jaggers" "Mr Trabb" 3
+"430" "Mr Jaggers" "Mr Wopsle" 3
+"431" "Mr Jaggers" "Mrs Brandley" 1
+"432" "Mr Jaggers" "Mrs Hubble" 1
+"433" "Mr Jaggers" "Mrs Joe Gargery" 2
+"434" "Mr Jaggers" "Mrs Pocket" 4
+"435" "Mr Jaggers" "Old Barley" 1
+"436" "Mr Jaggers" "Orlick Dolge" 2
+"437" "Mr Jaggers" "Pip" 23
+"438" "Mr Jaggers" "Sarah Pocket" 3
+"439" "Mr Jaggers" "Skiffins" 1
+"440" "Mr Jaggers" "Startop" 2
+"441" "Mr Jaggers" "The Aged" 6
+"442" "Mr Jaggers" "Trabb's Boy" 2
+"443" "Mr Jaggers" "Uncle Pumblechook" 4
+"444" "Mr Pocket" "Mr Trabb" 2
+"445" "Mr Pocket" "Mr Wopsle" 1
+"446" "Mr Pocket" "Mrs Coiler" 1
+"447" "Mr Pocket" "Mrs Hubble" 1
+"448" "Mr Pocket" "Mrs Joe Gargery" 2
+"449" "Mr Pocket" "Mrs Pocket" 6
+"450" "Mr Pocket" "Orlick Dolge" 2
+"451" "Mr Pocket" "Pip" 15
+"452" "Mr Pocket" "Sarah Pocket" 4
+"453" "Mr Pocket" "Sophia" 1
+"454" "Mr Pocket" "Startop" 4
+"455" "Mr Pocket" "The Aged" 2
+"456" "Mr Pocket" "Trabb's Boy" 1
+"457" "Mr Pocket" "Uncle Pumblechook" 5
+"458" "Mr Trabb" "Mr Wopsle" 1
+"459" "Mr Trabb" "Mrs Hubble" 1
+"460" "Mr Trabb" "Mrs Joe Gargery" 3
+"461" "Mr Trabb" "Mrs Pocket" 2
+"462" "Mr Trabb" "Old Barley" 1
+"463" "Mr Trabb" "Orlick Dolge" 3
+"464" "Mr Trabb" "Pip" 6
+"465" "Mr Trabb" "Sarah Pocket" 1
+"466" "Mr Trabb" "Startop" 2
+"467" "Mr Trabb" "Trabb's Boy" 3
+"468" "Mr Trabb" "Uncle Pumblechook" 4
+"469" "Mr Wopsle" "Mrs Hubble" 2
+"470" "Mr Wopsle" "Mrs Joe Gargery" 10
+"471" "Mr Wopsle" "Orlick Dolge" 4
+"472" "Mr Wopsle" "Pip" 13
+"473" "Mr Wopsle" "Sarah Pocket" 2
+"474" "Mr Wopsle" "Skiffins" 1
+"475" "Mr Wopsle" "The Aged" 1
+"476" "Mr Wopsle" "Trabb's Boy" 1
+"477" "Mr Wopsle" "Uncle Pumblechook" 9
+"478" "Mrs Brandley" "Orlick Dolge" 1
+"479" "Mrs Brandley" "Pip" 1
+"480" "Mrs Coiler" "Mrs Pocket" 1
+"481" "Mrs Coiler" "Pip" 1
+"482" "Mrs Coiler" "Sophia" 1
+"483" "Mrs Coiler" "Startop" 1
+"484" "Mrs Hubble" "Mrs Joe Gargery" 3
+"485" "Mrs Hubble" "Orlick Dolge" 1
+"486" "Mrs Hubble" "Pip" 3
+"487" "Mrs Hubble" "Uncle Pumblechook" 3
+"488" "Mrs Joe Gargery" "Old Barley" 2
+"489" "Mrs Joe Gargery" "Orlick Dolge" 5
+"490" "Mrs Joe Gargery" "Pip" 17
+"491" "Mrs Joe Gargery" "Sarah Pocket" 4
+"492" "Mrs Joe Gargery" "Startop" 1
+"493" "Mrs Joe Gargery" "Trabb's Boy" 2
+"494" "Mrs Joe Gargery" "Uncle Pumblechook" 14
+"495" "Mrs Joe Gargery" "William Potkins" 1
+"496" "Mrs Pocket" "Pip" 6
+"497" "Mrs Pocket" "Sophia" 1
+"498" "Mrs Pocket" "Startop" 4
+"499" "Mrs Pocket" "The Aged" 1
+"500" "Mrs Pocket" "Uncle Pumblechook" 1
+"501" "Old Barley" "Orlick Dolge" 1
+"502" "Old Barley" "Pip" 4
+"503" "Old Barley" "Skiffins" 1
+"504" "Old Barley" "Startop" 2
+"505" "Old Barley" "Trabb's Boy" 1
+"506" "Old Barley" "Uncle Pumblechook" 2
+"507" "Old Barley" "William Potkins" 1
+"508" "Orlick Dolge" "Pip" 7
+"509" "Orlick Dolge" "Sarah Pocket" 4
+"510" "Orlick Dolge" "Startop" 1
+"511" "Orlick Dolge" "Trabb's Boy" 2
+"512" "Orlick Dolge" "Uncle Pumblechook" 4
+"513" "Pip" "Sarah Pocket" 7
+"514" "Pip" "Skiffins" 1
+"515" "Pip" "Sophia" 1
+"516" "Pip" "Startop" 5
+"517" "Pip" "The Aged" 7
+"518" "Pip" "Trabb's Boy" 4
+"519" "Pip" "Uncle Pumblechook" 17
+"520" "Pip" "William Potkins" 1
+"521" "Sarah Pocket" "Trabb's Boy" 1
+"522" "Sarah Pocket" "Uncle Pumblechook" 4
+"523" "Skiffins" "Startop" 1
+"524" "Skiffins" "The Aged" 1
+"525" "Skiffins" "Uncle Pumblechook" 1
+"526" "Sophia" "Startop" 1
+"527" "Startop" "The Aged" 1
+"528" "Startop" "Trabb's Boy" 1
+"529" "Startop" "Uncle Pumblechook" 1
+"530" "Trabb's Boy" "Uncle Pumblechook" 3
+"531" "Uncle Pumblechook" "William Potkins" 1

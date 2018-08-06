@@ -1,0 +1,56 @@
+"Character","Node"
+"Admiral Baldwin",1
+"Admiral Brand",1
+"Admiral Croft",12
+"Anne Elliot",24
+"Captain Benwick",10
+"Captain Brigden",1
+"Captain Frederick Wentworth",18
+"Captain Harville",9
+"Charles Hayter",8
+"Charles Musgrove",16
+"Charles Smith",1
+"Colonel Wallis",5
+"Doctor Shirley",2
+"Edward Wentworth",7
+"Elder Mr Charles Musgrove",15
+"Elizabeth Elliot",17
+"Fanny Harville",3
+"Governor Trent",1
+"Harry Musgrove",1
+"Henrietta Musgrove",14
+"Jemima",3
+"Lady Alicia",2
+"Lady Elliot",4
+"Lady Mary Grierson",1
+"Lady Russell",20
+"Little Charles Musgrove",1
+"Lord St Ives",1
+"Louisa Musgrove",15
+"Mackenzie",1
+"Mary",1
+"Mary Elliot",19
+"Miss Atkinson",1
+"Mr Hayter",2
+"Mr John Shepherd",5
+"Mr Robinson",1
+"Mr William Elliot",13
+"Mrs Croft",12
+"Mrs Frankland",1
+"Mrs Hayter",2
+"Mrs Penelope Clay",14
+"Mrs Shirley",1
+"Mrs Smith",6
+"Mrs Speed",1
+"Mrs William Elliot",1
+"Nurse Rooke",2
+"Sarah",2
+"Sir Archibald Drew",1
+"Sir Basil Morley",1
+"Sir Henry Russell",1
+"Sir Walter Elliot",17
+"The Dowager Countess Dalrymple",8
+"The Honourable Miss Carteret",4
+"The Late Viscount Dalrymple",2
+"The Miss Hayters",1
+"Walter Musgrove",4

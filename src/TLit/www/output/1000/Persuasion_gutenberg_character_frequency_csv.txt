@@ -1,0 +1,744 @@
+"","Character","Node","Appearances"
+"1","Admiral Baldwin",7,1
+"2","Admiral Brand",62,1
+"3","Admiral Croft",8,24
+"4","Admiral Croft",30,24
+"5","Admiral Croft",27,24
+"6","Admiral Croft",10,24
+"7","Admiral Croft",18,24
+"8","Admiral Croft",19,24
+"9","Admiral Croft",17,24
+"10","Admiral Croft",61,24
+"11","Admiral Croft",63,24
+"12","Admiral Croft",11,24
+"13","Admiral Croft",7,24
+"14","Admiral Croft",12,24
+"15","Admiral Croft",24,24
+"16","Admiral Croft",91,24
+"17","Admiral Croft",64,24
+"18","Admiral Croft",33,24
+"19","Admiral Croft",25,24
+"20","Admiral Croft",60,24
+"21","Admiral Croft",62,24
+"22","Admiral Croft",23,24
+"23","Admiral Croft",45,24
+"24","Admiral Croft",65,24
+"25","Admiral Croft",46,24
+"26","Admiral Croft",31,24
+"27","Anne Elliot",1,90
+"28","Anne Elliot",7,90
+"29","Anne Elliot",82,90
+"30","Anne Elliot",34,90
+"31","Anne Elliot",63,90
+"32","Anne Elliot",45,90
+"33","Anne Elliot",49,90
+"34","Anne Elliot",18,90
+"35","Anne Elliot",8,90
+"36","Anne Elliot",2,90
+"37","Anne Elliot",93,90
+"38","Anne Elliot",83,90
+"39","Anne Elliot",19,90
+"40","Anne Elliot",56,90
+"41","Anne Elliot",50,90
+"42","Anne Elliot",30,90
+"43","Anne Elliot",3,90
+"44","Anne Elliot",9,90
+"45","Anne Elliot",36,90
+"46","Anne Elliot",20,90
+"47","Anne Elliot",68,90
+"48","Anne Elliot",51,90
+"49","Anne Elliot",4,90
+"50","Anne Elliot",38,90
+"51","Anne Elliot",76,90
+"52","Anne Elliot",58,90
+"53","Anne Elliot",21,90
+"54","Anne Elliot",5,90
+"55","Anne Elliot",52,90
+"56","Anne Elliot",66,90
+"57","Anne Elliot",39,90
+"58","Anne Elliot",44,90
+"59","Anne Elliot",22,90
+"60","Anne Elliot",75,90
+"61","Anne Elliot",6,90
+"62","Anne Elliot",28,90
+"63","Anne Elliot",59,90
+"64","Anne Elliot",23,90
+"65","Anne Elliot",71,90
+"66","Anne Elliot",67,90
+"67","Anne Elliot",40,90
+"68","Anne Elliot",60,90
+"69","Anne Elliot",80,90
+"70","Anne Elliot",72,90
+"71","Anne Elliot",24,90
+"72","Anne Elliot",79,90
+"73","Anne Elliot",85,90
+"74","Anne Elliot",13,90
+"75","Anne Elliot",73,90
+"76","Anne Elliot",41,90
+"77","Anne Elliot",55,90
+"78","Anne Elliot",27,90
+"79","Anne Elliot",25,90
+"80","Anne Elliot",88,90
+"81","Anne Elliot",74,90
+"82","Anne Elliot",70,90
+"83","Anne Elliot",42,90
+"84","Anne Elliot",14,90
+"85","Anne Elliot",57,90
+"86","Anne Elliot",86,90
+"87","Anne Elliot",69,90
+"88","Anne Elliot",84,90
+"89","Anne Elliot",48,90
+"90","Anne Elliot",10,90
+"91","Anne Elliot",15,90
+"92","Anne Elliot",47,90
+"93","Anne Elliot",12,90
+"94","Anne Elliot",43,90
+"95","Anne Elliot",92,90
+"96","Anne Elliot",32,90
+"97","Anne Elliot",11,90
+"98","Anne Elliot",29,90
+"99","Anne Elliot",46,90
+"100","Anne Elliot",77,90
+"101","Anne Elliot",62,90
+"102","Anne Elliot",90,90
+"103","Anne Elliot",87,90
+"104","Anne Elliot",64,90
+"105","Anne Elliot",17,90
+"106","Anne Elliot",61,90
+"107","Anne Elliot",78,90
+"108","Anne Elliot",53,90
+"109","Anne Elliot",54,90
+"110","Anne Elliot",31,90
+"111","Anne Elliot",65,90
+"112","Anne Elliot",35,90
+"113","Anne Elliot",26,90
+"114","Anne Elliot",16,90
+"115","Anne Elliot",81,90
+"116","Anne Elliot",33,90
+"117","Captain Benwick",45,23
+"118","Captain Benwick",42,23
+"119","Captain Benwick",68,23
+"120","Captain Benwick",36,23
+"121","Captain Benwick",48,23
+"122","Captain Benwick",61,23
+"123","Captain Benwick",86,23
+"124","Captain Benwick",44,23
+"125","Captain Benwick",80,23
+"126","Captain Benwick",41,23
+"127","Captain Benwick",39,23
+"128","Captain Benwick",69,23
+"129","Captain Benwick",63,23
+"130","Captain Benwick",81,23
+"131","Captain Benwick",62,23
+"132","Captain Benwick",92,23
+"133","Captain Benwick",90,23
+"134","Captain Benwick",40,23
+"135","Captain Benwick",60,23
+"136","Captain Benwick",87,23
+"137","Captain Benwick",66,23
+"138","Captain Benwick",47,23
+"139","Captain Benwick",35,23
+"140","Captain Brigden",62,1
+"141","Captain Frederick Wentworth",18,56
+"142","Captain Frederick Wentworth",63,56
+"143","Captain Frederick Wentworth",20,56
+"144","Captain Frederick Wentworth",22,56
+"145","Captain Frederick Wentworth",41,56
+"146","Captain Frederick Wentworth",40,56
+"147","Captain Frederick Wentworth",45,56
+"148","Captain Frederick Wentworth",10,56
+"149","Captain Frederick Wentworth",87,56
+"150","Captain Frederick Wentworth",44,56
+"151","Captain Frederick Wentworth",43,56
+"152","Captain Frederick Wentworth",8,56
+"153","Captain Frederick Wentworth",68,56
+"154","Captain Frederick Wentworth",84,56
+"155","Captain Frederick Wentworth",42,56
+"156","Captain Frederick Wentworth",39,56
+"157","Captain Frederick Wentworth",85,56
+"158","Captain Frederick Wentworth",61,56
+"159","Captain Frederick Wentworth",49,56
+"160","Captain Frederick Wentworth",82,56
+"161","Captain Frederick Wentworth",67,56
+"162","Captain Frederick Wentworth",34,56
+"163","Captain Frederick Wentworth",21,56
+"164","Captain Frederick Wentworth",91,56
+"165","Captain Frederick Wentworth",79,56
+"166","Captain Frederick Wentworth",69,56
+"167","Captain Frederick Wentworth",46,56
+"168","Captain Frederick Wentworth",25,56
+"169","Captain Frederick Wentworth",36,56
+"170","Captain Frederick Wentworth",29,56
+"171","Captain Frederick Wentworth",72,56
+"172","Captain Frederick Wentworth",65,56
+"173","Captain Frederick Wentworth",33,56
+"174","Captain Frederick Wentworth",31,56
+"175","Captain Frederick Wentworth",92,56
+"176","Captain Frederick Wentworth",19,56
+"177","Captain Frederick Wentworth",86,56
+"178","Captain Frederick Wentworth",30,56
+"179","Captain Frederick Wentworth",66,56
+"180","Captain Frederick Wentworth",9,56
+"181","Captain Frederick Wentworth",23,56
+"182","Captain Frederick Wentworth",93,56
+"183","Captain Frederick Wentworth",27,56
+"184","Captain Frederick Wentworth",24,56
+"185","Captain Frederick Wentworth",70,56
+"186","Captain Frederick Wentworth",26,56
+"187","Captain Frederick Wentworth",32,56
+"188","Captain Frederick Wentworth",62,56
+"189","Captain Frederick Wentworth",17,56
+"190","Captain Frederick Wentworth",83,56
+"191","Captain Frederick Wentworth",38,56
+"192","Captain Frederick Wentworth",28,56
+"193","Captain Frederick Wentworth",48,56
+"194","Captain Frederick Wentworth",35,56
+"195","Captain Frederick Wentworth",88,56
+"196","Captain Frederick Wentworth",71,56
+"197","Captain Harville",85,25
+"198","Captain Harville",44,25
+"199","Captain Harville",34,25
+"200","Captain Harville",86,25
+"201","Captain Harville",42,25
+"202","Captain Harville",60,25
+"203","Captain Harville",63,25
+"204","Captain Harville",68,25
+"205","Captain Harville",36,25
+"206","Captain Harville",47,25
+"207","Captain Harville",24,25
+"208","Captain Harville",91,25
+"209","Captain Harville",89,25
+"210","Captain Harville",61,25
+"211","Captain Harville",41,25
+"212","Captain Harville",40,25
+"213","Captain Harville",45,25
+"214","Captain Harville",88,25
+"215","Captain Harville",80,25
+"216","Captain Harville",87,25
+"217","Captain Harville",82,25
+"218","Captain Harville",49,25
+"219","Captain Harville",25,25
+"220","Captain Harville",48,25
+"221","Captain Harville",35,25
+"222","Charles Hayter",29,14
+"223","Charles Hayter",61,14
+"224","Charles Hayter",60,14
+"225","Charles Hayter",81,14
+"226","Charles Hayter",48,14
+"227","Charles Hayter",80,14
+"228","Charles Hayter",47,14
+"229","Charles Hayter",92,14
+"230","Charles Hayter",30,14
+"231","Charles Hayter",27,14
+"232","Charles Hayter",85,14
+"233","Charles Hayter",44,14
+"234","Charles Hayter",28,14
+"235","Charles Hayter",32,14
+"236","Charles Musgrove",61,37
+"237","Charles Musgrove",29,37
+"238","Charles Musgrove",82,37
+"239","Charles Musgrove",27,37
+"240","Charles Musgrove",85,37
+"241","Charles Musgrove",19,37
+"242","Charles Musgrove",88,37
+"243","Charles Musgrove",42,37
+"244","Charles Musgrove",91,37
+"245","Charles Musgrove",24,37
+"246","Charles Musgrove",13,37
+"247","Charles Musgrove",89,37
+"248","Charles Musgrove",39,37
+"249","Charles Musgrove",45,37
+"250","Charles Musgrove",83,37
+"251","Charles Musgrove",21,37
+"252","Charles Musgrove",44,37
+"253","Charles Musgrove",48,37
+"254","Charles Musgrove",32,37
+"255","Charles Musgrove",60,37
+"256","Charles Musgrove",16,37
+"257","Charles Musgrove",81,37
+"258","Charles Musgrove",41,37
+"259","Charles Musgrove",40,37
+"260","Charles Musgrove",34,37
+"261","Charles Musgrove",20,37
+"262","Charles Musgrove",84,37
+"263","Charles Musgrove",15,37
+"264","Charles Musgrove",1,37
+"265","Charles Musgrove",31,37
+"266","Charles Musgrove",17,37
+"267","Charles Musgrove",65,37
+"268","Charles Musgrove",74,37
+"269","Charles Musgrove",80,37
+"270","Charles Musgrove",47,37
+"271","Charles Musgrove",14,37
+"272","Charles Musgrove",28,37
+"273","Charles Smith",75,2
+"274","Charles Smith",78,2
+"275","Colonel Wallis",70,9
+"276","Colonel Wallis",77,9
+"277","Colonel Wallis",73,9
+"278","Colonel Wallis",53,9
+"279","Colonel Wallis",58,9
+"280","Colonel Wallis",50,9
+"281","Colonel Wallis",69,9
+"282","Colonel Wallis",76,9
+"283","Colonel Wallis",51,9
+"284","Doctor Shirley",42,4
+"285","Doctor Shirley",28,4
+"286","Doctor Shirley",29,4
+"287","Doctor Shirley",38,4
+"288","Edward Wentworth",8,7
+"289","Edward Wentworth",63,7
+"290","Edward Wentworth",27,7
+"291","Edward Wentworth",70,7
+"292","Edward Wentworth",9,7
+"293","Edward Wentworth",17,7
+"294","Edward Wentworth",90,7
+"295","Elder Mr Charles Musgrove",45,28
+"296","Elder Mr Charles Musgrove",81,28
+"297","Elder Mr Charles Musgrove",29,28
+"298","Elder Mr Charles Musgrove",13,28
+"299","Elder Mr Charles Musgrove",44,28
+"300","Elder Mr Charles Musgrove",65,28
+"301","Elder Mr Charles Musgrove",17,28
+"302","Elder Mr Charles Musgrove",14,28
+"303","Elder Mr Charles Musgrove",16,28
+"304","Elder Mr Charles Musgrove",15,28
+"305","Elder Mr Charles Musgrove",34,28
+"306","Elder Mr Charles Musgrove",68,28
+"307","Elder Mr Charles Musgrove",20,28
+"308","Elder Mr Charles Musgrove",28,28
+"309","Elder Mr Charles Musgrove",90,28
+"310","Elder Mr Charles Musgrove",23,28
+"311","Elder Mr Charles Musgrove",30,28
+"312","Elder Mr Charles Musgrove",25,28
+"313","Elder Mr Charles Musgrove",27,28
+"314","Elder Mr Charles Musgrove",61,28
+"315","Elder Mr Charles Musgrove",43,28
+"316","Elder Mr Charles Musgrove",19,28
+"317","Elder Mr Charles Musgrove",18,28
+"318","Elder Mr Charles Musgrove",84,28
+"319","Elder Mr Charles Musgrove",80,28
+"320","Elder Mr Charles Musgrove",85,28
+"321","Elder Mr Charles Musgrove",48,28
+"322","Elder Mr Charles Musgrove",42,28
+"323","Elizabeth Elliot",68,38
+"324","Elizabeth Elliot",13,38
+"325","Elizabeth Elliot",2,38
+"326","Elizabeth Elliot",1,38
+"327","Elizabeth Elliot",39,38
+"328","Elizabeth Elliot",8,38
+"329","Elizabeth Elliot",49,38
+"330","Elizabeth Elliot",4,38
+"331","Elizabeth Elliot",54,38
+"332","Elizabeth Elliot",81,38
+"333","Elizabeth Elliot",3,38
+"334","Elizabeth Elliot",53,38
+"335","Elizabeth Elliot",80,38
+"336","Elizabeth Elliot",79,38
+"337","Elizabeth Elliot",57,38
+"338","Elizabeth Elliot",58,38
+"339","Elizabeth Elliot",77,38
+"340","Elizabeth Elliot",56,38
+"341","Elizabeth Elliot",67,38
+"342","Elizabeth Elliot",69,38
+"343","Elizabeth Elliot",76,38
+"344","Elizabeth Elliot",70,38
+"345","Elizabeth Elliot",92,38
+"346","Elizabeth Elliot",93,38
+"347","Elizabeth Elliot",65,38
+"348","Elizabeth Elliot",62,38
+"349","Elizabeth Elliot",84,38
+"350","Elizabeth Elliot",83,38
+"351","Elizabeth Elliot",6,38
+"352","Elizabeth Elliot",52,38
+"353","Elizabeth Elliot",11,38
+"354","Elizabeth Elliot",10,38
+"355","Elizabeth Elliot",12,38
+"356","Elizabeth Elliot",50,38
+"357","Elizabeth Elliot",15,38
+"358","Elizabeth Elliot",5,38
+"359","Elizabeth Elliot",61,38
+"360","Elizabeth Elliot",51,38
+"361","Fanny Harville",47,3
+"362","Fanny Harville",35,3
+"363","Fanny Harville",68,3
+"364","Governor Trent",8,1
+"365","Harry Musgrove",44,1
+"366","Henrietta Musgrove",45,39
+"367","Henrietta Musgrove",22,39
+"368","Henrietta Musgrove",32,39
+"369","Henrietta Musgrove",40,39
+"370","Henrietta Musgrove",60,39
+"371","Henrietta Musgrove",91,39
+"372","Henrietta Musgrove",65,39
+"373","Henrietta Musgrove",26,39
+"374","Henrietta Musgrove",82,39
+"375","Henrietta Musgrove",39,39
+"376","Henrietta Musgrove",30,39
+"377","Henrietta Musgrove",13,39
+"378","Henrietta Musgrove",14,39
+"379","Henrietta Musgrove",81,39
+"380","Henrietta Musgrove",38,39
+"381","Henrietta Musgrove",83,39
+"382","Henrietta Musgrove",48,39
+"383","Henrietta Musgrove",17,39
+"384","Henrietta Musgrove",28,39
+"385","Henrietta Musgrove",80,39
+"386","Henrietta Musgrove",16,39
+"387","Henrietta Musgrove",21,39
+"388","Henrietta Musgrove",34,39
+"389","Henrietta Musgrove",61,39
+"390","Henrietta Musgrove",84,39
+"391","Henrietta Musgrove",64,39
+"392","Henrietta Musgrove",31,39
+"393","Henrietta Musgrove",23,39
+"394","Henrietta Musgrove",27,39
+"395","Henrietta Musgrove",88,39
+"396","Henrietta Musgrove",43,39
+"397","Henrietta Musgrove",41,39
+"398","Henrietta Musgrove",29,39
+"399","Henrietta Musgrove",44,39
+"400","Henrietta Musgrove",24,39
+"401","Henrietta Musgrove",33,39
+"402","Henrietta Musgrove",47,39
+"403","Henrietta Musgrove",85,39
+"404","Henrietta Musgrove",42,39
+"405","Jemima",20,3
+"406","Jemima",16,3
+"407","Jemima",60,3
+"408","Lady Alicia",81,2
+"409","Lady Alicia",66,2
+"410","Lady Elliot",2,7
+"411","Lady Elliot",3,7
+"412","Lady Elliot",1,7
+"413","Lady Elliot",59,7
+"414","Lady Elliot",54,7
+"415","Lady Elliot",77,7
+"416","Lady Elliot",58,7
+"417","Lady Mary Grierson",24,1
+"418","Lady Russell",53,39
+"419","Lady Russell",11,39
+"420","Lady Russell",45,39
+"421","Lady Russell",66,39
+"422","Lady Russell",13,39
+"423","Lady Russell",69,39
+"424","Lady Russell",59,39
+"425","Lady Russell",46,39
+"426","Lady Russell",48,39
+"427","Lady Russell",54,39
+"428","Lady Russell",9,39
+"429","Lady Russell",56,39
+"430","Lady Russell",1,39
+"431","Lady Russell",79,39
+"432","Lady Russell",93,39
+"433","Lady Russell",92,39
+"434","Lady Russell",4,39
+"435","Lady Russell",49,39
+"436","Lady Russell",2,39
+"437","Lady Russell",62,39
+"438","Lady Russell",70,39
+"439","Lady Russell",58,39
+"440","Lady Russell",80,39
+"441","Lady Russell",67,39
+"442","Lady Russell",38,39
+"443","Lady Russell",3,39
+"444","Lady Russell",34,39
+"445","Lady Russell",47,39
+"446","Lady Russell",52,39
+"447","Lady Russell",91,39
+"448","Lady Russell",78,39
+"449","Lady Russell",44,39
+"450","Lady Russell",12,39
+"451","Lady Russell",5,39
+"452","Lady Russell",32,39
+"453","Lady Russell",15,39
+"454","Lady Russell",71,39
+"455","Lady Russell",82,39
+"456","Lady Russell",10,39
+"457","Little Charles Musgrove",13,1
+"458","Lord St Ives",7,1
+"459","Louisa Musgrove",36,46
+"460","Louisa Musgrove",16,46
+"461","Louisa Musgrove",22,46
+"462","Louisa Musgrove",66,46
+"463","Louisa Musgrove",32,46
+"464","Louisa Musgrove",80,46
+"465","Louisa Musgrove",38,46
+"466","Louisa Musgrove",60,46
+"467","Louisa Musgrove",47,46
+"468","Louisa Musgrove",40,46
+"469","Louisa Musgrove",48,46
+"470","Louisa Musgrove",46,46
+"471","Louisa Musgrove",82,46
+"472","Louisa Musgrove",44,46
+"473","Louisa Musgrove",13,46
+"474","Louisa Musgrove",14,46
+"475","Louisa Musgrove",17,46
+"476","Louisa Musgrove",35,46
+"477","Louisa Musgrove",41,46
+"478","Louisa Musgrove",34,46
+"479","Louisa Musgrove",26,46
+"480","Louisa Musgrove",65,46
+"481","Louisa Musgrove",62,46
+"482","Louisa Musgrove",28,46
+"483","Louisa Musgrove",81,46
+"484","Louisa Musgrove",84,46
+"485","Louisa Musgrove",85,46
+"486","Louisa Musgrove",91,46
+"487","Louisa Musgrove",21,46
+"488","Louisa Musgrove",30,46
+"489","Louisa Musgrove",27,46
+"490","Louisa Musgrove",31,46
+"491","Louisa Musgrove",42,46
+"492","Louisa Musgrove",90,46
+"493","Louisa Musgrove",61,46
+"494","Louisa Musgrove",45,46
+"495","Louisa Musgrove",68,46
+"496","Louisa Musgrove",23,46
+"497","Louisa Musgrove",29,46
+"498","Louisa Musgrove",33,46
+"499","Louisa Musgrove",49,46
+"500","Louisa Musgrove",39,46
+"501","Louisa Musgrove",24,46
+"502","Louisa Musgrove",63,46
+"503","Louisa Musgrove",89,46
+"504","Louisa Musgrove",69,46
+"505","Mackenzie",13,1
+"506","Mary",75,1
+"507","Mary Elliot",14,45
+"508","Mary Elliot",80,45
+"509","Mary Elliot",92,45
+"510","Mary Elliot",27,45
+"511","Mary Elliot",32,45
+"512","Mary Elliot",82,45
+"513","Mary Elliot",30,45
+"514","Mary Elliot",45,45
+"515","Mary Elliot",1,45
+"516","Mary Elliot",34,45
+"517","Mary Elliot",91,45
+"518","Mary Elliot",17,45
+"519","Mary Elliot",48,45
+"520","Mary Elliot",88,45
+"521","Mary Elliot",40,45
+"522","Mary Elliot",29,45
+"523","Mary Elliot",15,45
+"524","Mary Elliot",16,45
+"525","Mary Elliot",20,45
+"526","Mary Elliot",28,45
+"527","Mary Elliot",13,45
+"528","Mary Elliot",21,45
+"529","Mary Elliot",54,45
+"530","Mary Elliot",11,45
+"531","Mary Elliot",39,45
+"532","Mary Elliot",51,45
+"533","Mary Elliot",61,45
+"534","Mary Elliot",60,45
+"535","Mary Elliot",83,45
+"536","Mary Elliot",84,45
+"537","Mary Elliot",49,45
+"538","Mary Elliot",41,45
+"539","Mary Elliot",19,45
+"540","Mary Elliot",44,45
+"541","Mary Elliot",33,45
+"542","Mary Elliot",5,45
+"543","Mary Elliot",47,45
+"544","Mary Elliot",81,45
+"545","Mary Elliot",10,45
+"546","Mary Elliot",2,45
+"547","Mary Elliot",31,45
+"548","Mary Elliot",42,45
+"549","Mary Elliot",85,45
+"550","Mary Elliot",65,45
+"551","Mary Elliot",12,45
+"552","Miss Atkinson",66,1
+"553","Mr Hayter",60,2
+"554","Mr Hayter",27,2
+"555","Mr John Shepherd",6,8
+"556","Mr John Shepherd",3,8
+"557","Mr John Shepherd",7,8
+"558","Mr John Shepherd",46,8
+"559","Mr John Shepherd",11,8
+"560","Mr John Shepherd",5,8
+"561","Mr John Shepherd",4,8
+"562","Mr John Shepherd",8,8
+"563","Mr Robinson",19,2
+"564","Mr Robinson",20,2
+"565","Mr William Elliot",39,37
+"566","Mr William Elliot",82,37
+"567","Mr William Elliot",79,37
+"568","Mr William Elliot",73,37
+"569","Mr William Elliot",70,37
+"570","Mr William Elliot",59,37
+"571","Mr William Elliot",69,37
+"572","Mr William Elliot",48,37
+"573","Mr William Elliot",60,37
+"574","Mr William Elliot",51,37
+"575","Mr William Elliot",53,37
+"576","Mr William Elliot",1,37
+"577","Mr William Elliot",72,37
+"578","Mr William Elliot",54,37
+"579","Mr William Elliot",77,37
+"580","Mr William Elliot",90,37
+"581","Mr William Elliot",52,37
+"582","Mr William Elliot",81,37
+"583","Mr William Elliot",2,37
+"584","Mr William Elliot",89,37
+"585","Mr William Elliot",92,37
+"586","Mr William Elliot",50,37
+"587","Mr William Elliot",93,37
+"588","Mr William Elliot",58,37
+"589","Mr William Elliot",49,37
+"590","Mr William Elliot",83,37
+"591","Mr William Elliot",75,37
+"592","Mr William Elliot",66,37
+"593","Mr William Elliot",85,37
+"594","Mr William Elliot",76,37
+"595","Mr William Elliot",74,37
+"596","Mr William Elliot",42,37
+"597","Mr William Elliot",78,37
+"598","Mr William Elliot",84,37
+"599","Mr William Elliot",71,37
+"600","Mr William Elliot",65,37
+"601","Mr William Elliot",80,37
+"602","Mrs Croft",18,22
+"603","Mrs Croft",27,22
+"604","Mrs Croft",23,22
+"605","Mrs Croft",60,22
+"606","Mrs Croft",11,22
+"607","Mrs Croft",63,22
+"608","Mrs Croft",17,22
+"609","Mrs Croft",19,22
+"610","Mrs Croft",85,22
+"611","Mrs Croft",91,22
+"612","Mrs Croft",46,22
+"613","Mrs Croft",25,22
+"614","Mrs Croft",12,22
+"615","Mrs Croft",64,22
+"616","Mrs Croft",8,22
+"617","Mrs Croft",65,22
+"618","Mrs Croft",33,22
+"619","Mrs Croft",61,22
+"620","Mrs Croft",62,22
+"621","Mrs Croft",10,22
+"622","Mrs Croft",45,22
+"623","Mrs Croft",87,22
+"624","Mrs Frankland",66,1
+"625","Mrs Hayter",60,2
+"626","Mrs Hayter",27,2
+"627","Mrs Penelope Clay",90,27
+"628","Mrs Penelope Clay",92,27
+"629","Mrs Penelope Clay",82,27
+"630","Mrs Penelope Clay",7,27
+"631","Mrs Penelope Clay",55,27
+"632","Mrs Penelope Clay",5,27
+"633","Mrs Penelope Clay",45,27
+"634","Mrs Penelope Clay",51,27
+"635","Mrs Penelope Clay",12,27
+"636","Mrs Penelope Clay",77,27
+"637","Mrs Penelope Clay",79,27
+"638","Mrs Penelope Clay",50,27
+"639","Mrs Penelope Clay",53,27
+"640","Mrs Penelope Clay",60,27
+"641","Mrs Penelope Clay",57,27
+"642","Mrs Penelope Clay",11,27
+"643","Mrs Penelope Clay",52,27
+"644","Mrs Penelope Clay",8,27
+"645","Mrs Penelope Clay",61,27
+"646","Mrs Penelope Clay",65,27
+"647","Mrs Penelope Clay",80,27
+"648","Mrs Penelope Clay",66,27
+"649","Mrs Penelope Clay",58,27
+"650","Mrs Penelope Clay",84,27
+"651","Mrs Penelope Clay",68,27
+"652","Mrs Penelope Clay",6,27
+"653","Mrs Penelope Clay",59,27
+"654","Mrs Shirley",38,1
+"655","Mrs Smith",67,14
+"656","Mrs Smith",56,14
+"657","Mrs Smith",57,14
+"658","Mrs Smith",72,14
+"659","Mrs Smith",73,14
+"660","Mrs Smith",58,14
+"661","Mrs Smith",78,14
+"662","Mrs Smith",75,14
+"663","Mrs Smith",76,14
+"664","Mrs Smith",77,14
+"665","Mrs Smith",85,14
+"666","Mrs Smith",74,14
+"667","Mrs Smith",79,14
+"668","Mrs Smith",93,14
+"669","Mrs Speed",73,1
+"670","Mrs William Elliot",50,1
+"671","Nurse Rooke",73,3
+"672","Nurse Rooke",76,3
+"673","Nurse Rooke",57,3
+"674","Sarah",44,2
+"675","Sarah",88,2
+"676","Sir Archibald Drew",62,1
+"677","Sir Basil Morley",7,1
+"678","Sir Henry Russell",58,1
+"679","Sir Walter Elliot",58,39
+"680","Sir Walter Elliot",2,39
+"681","Sir Walter Elliot",50,39
+"682","Sir Walter Elliot",5,39
+"683","Sir Walter Elliot",9,39
+"684","Sir Walter Elliot",3,39
+"685","Sir Walter Elliot",7,39
+"686","Sir Walter Elliot",79,39
+"687","Sir Walter Elliot",39,39
+"688","Sir Walter Elliot",74,39
+"689","Sir Walter Elliot",76,39
+"690","Sir Walter Elliot",56,39
+"691","Sir Walter Elliot",83,39
+"692","Sir Walter Elliot",77,39
+"693","Sir Walter Elliot",1,39
+"694","Sir Walter Elliot",52,39
+"695","Sir Walter Elliot",92,39
+"696","Sir Walter Elliot",54,39
+"697","Sir Walter Elliot",6,39
+"698","Sir Walter Elliot",8,39
+"699","Sir Walter Elliot",15,39
+"700","Sir Walter Elliot",84,39
+"701","Sir Walter Elliot",93,39
+"702","Sir Walter Elliot",12,39
+"703","Sir Walter Elliot",55,39
+"704","Sir Walter Elliot",11,39
+"705","Sir Walter Elliot",62,39
+"706","Sir Walter Elliot",80,39
+"707","Sir Walter Elliot",69,39
+"708","Sir Walter Elliot",68,39
+"709","Sir Walter Elliot",67,39
+"710","Sir Walter Elliot",61,39
+"711","Sir Walter Elliot",46,39
+"712","Sir Walter Elliot",81,39
+"713","Sir Walter Elliot",70,39
+"714","Sir Walter Elliot",51,39
+"715","Sir Walter Elliot",4,39
+"716","Sir Walter Elliot",60,39
+"717","Sir Walter Elliot",57,39
+"718","The Dowager Countess Dalrymple",54,12
+"719","The Dowager Countess Dalrymple",68,12
+"720","The Dowager Countess Dalrymple",67,12
+"721","The Dowager Countess Dalrymple",90,12
+"722","The Dowager Countess Dalrymple",81,12
+"723","The Dowager Countess Dalrymple",83,12
+"724","The Dowager Countess Dalrymple",69,12
+"725","The Dowager Countess Dalrymple",57,12
+"726","The Dowager Countess Dalrymple",70,12
+"727","The Dowager Countess Dalrymple",72,12
+"728","The Dowager Countess Dalrymple",65,12
+"729","The Dowager Countess Dalrymple",61,12
+"730","The Honourable Miss Carteret",65,7
+"731","The Honourable Miss Carteret",81,7
+"732","The Honourable Miss Carteret",71,7
+"733","The Honourable Miss Carteret",83,7
+"734","The Honourable Miss Carteret",69,7
+"735","The Honourable Miss Carteret",70,7
+"736","The Honourable Miss Carteret",54,7
+"737","The Late Viscount Dalrymple",83,2
+"738","The Late Viscount Dalrymple",54,2
+"739","The Miss Hayters",26,1
+"740","Walter Musgrove",1,4
+"741","Walter Musgrove",29,4
+"742","Walter Musgrove",13,4
+"743","Walter Musgrove",76,4

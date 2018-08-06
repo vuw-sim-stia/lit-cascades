@@ -1,0 +1,48 @@
+"Character","Node"
+"Anny",1
+"Artful Dodger",27
+"Barney",8
+"Bet",7
+"Bill Sikes",50
+"Blathers",5
+"Brittles",11
+"Charley Bates",25
+"Charlotte",14
+"Conkey Chickweed",3
+"Dick",5
+"Duff",6
+"Edward Leeford",25
+"Fagin",56
+"Grannett",1
+"Harry Maylie",13
+"Jem Spyers",1
+"Kags",2
+"Martha",1
+"Morris Bolter",5
+"Mr Brownlow",31
+"Mr Bumble",37
+"Mr Fang",4
+"Mr Gamfield",5
+"Mr Giles",20
+"Mr Grimwig",13
+"Mr Limbkins",3
+"Mr Lively",1
+"Mr Losberne",27
+"Mr Mann",1
+"Mr Slout",1
+"Mr Sowerberry",14
+"Mrs Bedwin",12
+"Mrs Bolter",1
+"Mrs Corney",9
+"Mrs Mann",4
+"Mrs Maylie",23
+"Mrs Sowerberry",8
+"Nancy",31
+"Ned",2
+"Noah Claypole",23
+"Oliver Twist",111
+"Phil Barker",1
+"Rose Maylie",37
+"Sally",5
+"Toby Crackit",20
+"Tom Chitling",6

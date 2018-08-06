@@ -1,0 +1,63 @@
+"Character","Node"
+"Affery Flintwinch",42
+"Amy Dorrit",148
+"Anastasia Rugg",4
+"Arthur Clennam",210
+"Augustus Stiltstalking",1
+"Bob",4
+"Captain Maroon",1
+"Captain Martin",1
+"Christopher Casby",25
+"Clarence Barnacle",3
+"Daniel Doyce",41
+"Dawes",1
+"Doctor Haggage",2
+"Edward Dorrit",24
+"Ephraim Flintwinch",1
+"Fanny Dorrit",73
+"Ferdinand Barnacle",12
+"Flora Finching",36
+"Harriet Beadle",19
+"Henry Gowan",47
+"Jeremiah Flintwinch",44
+"John Baptist Cavalletto",22
+"John Chivery",2
+"John Edward Nandy",9
+"Lady Stiltstalking",1
+"Lord Decimus Tite Barnacle",5
+"Lord Lancaster Stiltstalking",2
+"Madame Barronneau",2
+"Maggy",34
+"Minnie Meagles",34
+"Miss Tite Barnacles",1
+"Miss Wade",21
+"Mr Cripples",3
+"Mr F.'s Aunt",18
+"Mr Frederick Dorrit",13
+"Mr John Chivery",26
+"Mr Meagles",51
+"Mr Merdle",46
+"Mr Pancks",57
+"Mr Plornish",17
+"Mr Rugg",17
+"Mr Sparkler",31
+"Mr Tite Barnacle",11
+"Mr William Dorrit",84
+"Mr Wobbler",1
+"Mrs Bangham",8
+"Mrs Captain Barbary",1
+"Mrs Chivery",7
+"Mrs Clennam",44
+"Mrs General",37
+"Mrs Gowan",24
+"Mrs Meagles",19
+"Mrs Merdle",36
+"Mrs Plornish",21
+"Mrs Tickit",6
+"Mrs Tite Barnacle",2
+"Physician",7
+"Rigaud",58
+"Slingo",1
+"Tinkler",5
+"Treasury",5
+"Tudor Stiltstalking",2

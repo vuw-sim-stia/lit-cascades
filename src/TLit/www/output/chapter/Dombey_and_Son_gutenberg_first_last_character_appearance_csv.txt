@@ -1,0 +1,147 @@
+"","Character","Node","Type","Appearances"
+"1","Alex Macstinger",18,"First Appearance",5
+"2","Alex Macstinger",60,"Last Appearance",5
+"3","Alice Brown",34,"First Appearance",5
+"4","Alice Brown",58,"Last Appearance",5
+"5","Anne",59,"First Appearance",1
+"6","Anne",59,"Last Appearance",1
+"7","Barnet Skettles Jr",28,"Last Appearance",3
+"8","Barnet Skettles Jr",14,"First Appearance",3
+"9","Berinthia",8,"First Appearance",3
+"10","Berinthia",59,"Last Appearance",3
+"11","Bill Bitherstone",10,"First Appearance",1
+"12","Bill Bitherstone",10,"Last Appearance",1
+"13","Briggs",12,"First Appearance",4
+"14","Briggs",60,"Last Appearance",4
+"15","Captain Bunsby",60,"Last Appearance",5
+"16","Captain Bunsby",15,"First Appearance",5
+"17","Captain Cuttle",62,"Last Appearance",23
+"18","Captain Cuttle",4,"First Appearance",23
+"19","Charles Macstinger",39,"First Appearance",1
+"20","Charles Macstinger",39,"Last Appearance",1
+"21","Cornelia Blimber",11,"First Appearance",6
+"22","Cornelia Blimber",60,"Last Appearance",6
+"23","Cousin Feenix",61,"Last Appearance",8
+"24","Cousin Feenix",21,"First Appearance",8
+"25","Diogenes",56,"Last Appearance",14
+"26","Diogenes",14,"First Appearance",14
+"27","Doctor Blimber",11,"First Appearance",9
+"28","Doctor Blimber",60,"Last Appearance",9
+"29","Doctor Parker Peps",1,"First Appearance",2
+"30","Doctor Parker Peps",8,"Last Appearance",2
+"31","Florence Dombey",1,"First Appearance",51
+"32","Florence Dombey",62,"Last Appearance",51
+"33","Flowers",40,"Last Appearance",3
+"34","Flowers",36,"First Appearance",3
+"35","Harriet Carker",22,"First Appearance",5
+"36","Harriet Carker",58,"Last Appearance",5
+"37","James Carker",13,"First Appearance",6
+"38","James Carker",58,"Last Appearance",6
+"39","Jemima",2,"First Appearance",2
+"40","Jemima",6,"Last Appearance",2
+"41","Joe",6,"Last Appearance",1
+"42","Joe",6,"First Appearance",1
+"43","John",39,"Last Appearance",5
+"44","John",4,"First Appearance",5
+"45","Johnson",12,"First Appearance",3
+"46","Johnson",41,"Last Appearance",3
+"47","Juliana Macstinger",25,"First Appearance",3
+"48","Juliana Macstinger",60,"Last Appearance",3
+"49","Kate",24,"Last Appearance",1
+"50","Kate",24,"First Appearance",1
+"51","Lady Skettles",60,"Last Appearance",6
+"52","Lady Skettles",14,"First Appearance",6
+"53","Lucretia Tox",1,"First Appearance",19
+"54","Lucretia Tox",62,"Last Appearance",19
+"55","Major Bagstock",7,"First Appearance",21
+"56","Major Bagstock",59,"Last Appearance",21
+"57","Martha",24,"First Appearance",1
+"58","Martha",24,"Last Appearance",1
+"59","Mary Daws",59,"Last Appearance",2
+"60","Mary Daws",28,"First Appearance",2
+"61","Master Bitherstone",8,"First Appearance",7
+"62","Master Bitherstone",60,"Last Appearance",7
+"63","Melia",41,"First Appearance",1
+"64","Melia",41,"Last Appearance",1
+"65","Miss Pankey",8,"First Appearance",2
+"66","Miss Pankey",11,"Last Appearance",2
+"67","Mr Baps",14,"Last Appearance",1
+"68","Mr Baps",14,"First Appearance",1
+"69","Mr Brogley",49,"Last Appearance",6
+"70","Mr Brogley",9,"First Appearance",6
+"71","Mr Carker",58,"Last Appearance",29
+"72","Mr Carker",4,"First Appearance",29
+"73","Mr Chick",2,"First Appearance",8
+"74","Mr Chick",59,"Last Appearance",8
+"75","Mr Clark",6,"Last Appearance",1
+"76","Mr Clark",6,"First Appearance",1
+"77","Mr Dombey",62,"Last Appearance",54
+"78","Mr Dombey",1,"First Appearance",54
+"79","Mr Feeder",60,"Last Appearance",6
+"80","Mr Feeder",11,"First Appearance",6
+"81","Mr Morfin",4,"First Appearance",4
+"82","Mr Morfin",58,"Last Appearance",4
+"83","Mr Perch",13,"First Appearance",13
+"84","Mr Perch",59,"Last Appearance",13
+"85","Mr Pilkins",1,"First Appearance",2
+"86","Mr Pilkins",8,"Last Appearance",2
+"87","Mr Sownds",57,"Last Appearance",2
+"88","Mr Sownds",31,"First Appearance",2
+"89","Mr Toodle",2,"First Appearance",8
+"90","Mr Toodle",59,"Last Appearance",8
+"91","Mr Toots",11,"First Appearance",18
+"92","Mr Toots",62,"Last Appearance",18
+"93","Mrs Baps",14,"First Appearance",1
+"94","Mrs Baps",14,"Last Appearance",1
+"95","Mrs Blimber",60,"Last Appearance",7
+"96","Mrs Blimber",11,"First Appearance",7
+"97","Mrs Blockitt",1,"Last Appearance",1
+"98","Mrs Blockitt",1,"First Appearance",1
+"99","Mrs Bokum",60,"First Appearance",1
+"100","Mrs Bokum",60,"Last Appearance",1
+"101","Mrs Brown",6,"First Appearance",6
+"102","Mrs Brown",52,"Last Appearance",6
+"103","Mrs Chick",59,"Last Appearance",16
+"104","Mrs Chick",1,"First Appearance",16
+"105","Mrs Dombey I",29,"Last Appearance",7
+"106","Mrs Dombey I",1,"First Appearance",7
+"107","Mrs Dombey II",10,"First Appearance",26
+"108","Mrs Dombey II",61,"Last Appearance",26
+"109","Mrs Miff",31,"First Appearance",2
+"110","Mrs Miff",57,"Last Appearance",2
+"111","Mrs Perch",13,"First Appearance",11
+"112","Mrs Perch",59,"Last Appearance",11
+"113","Mrs Polly Toodle",59,"Last Appearance",17
+"114","Mrs Polly Toodle",2,"First Appearance",17
+"115","Mrs Skewton",21,"First Appearance",15
+"116","Mrs Skewton",47,"Last Appearance",15
+"117","Mrs Wickam",8,"First Appearance",6
+"118","Mrs Wickam",58,"Last Appearance",6
+"119","Old Glubb",12,"First Appearance",2
+"120","Old Glubb",14,"Last Appearance",2
+"121","Paul Dombey",62,"Last Appearance",31
+"122","Paul Dombey",1,"First Appearance",31
+"123","Reverend Feeder",60,"Last Appearance",1
+"124","Reverend Feeder",60,"First Appearance",1
+"125","Reverend Melchisedech",15,"First Appearance",3
+"126","Reverend Melchisedech",60,"Last Appearance",3
+"127","Robin Toodle",2,"First Appearance",15
+"128","Robin Toodle",59,"Last Appearance",15
+"129","Sir Barnet Skettles",60,"Last Appearance",3
+"130","Sir Barnet Skettles",14,"First Appearance",3
+"131","Solomon Gills",62,"Last Appearance",15
+"132","Solomon Gills",4,"First Appearance",15
+"133","Susan Nipper",3,"First Appearance",24
+"134","Susan Nipper",62,"Last Appearance",24
+"135","The Game Chicken",22,"First Appearance",1
+"136","The Game Chicken",22,"Last Appearance",1
+"137","The Native",20,"First Appearance",6
+"138","The Native",59,"Last Appearance",6
+"139","Towlinson",59,"Last Appearance",14
+"140","Towlinson",5,"First Appearance",14
+"141","Tozer",12,"First Appearance",4
+"142","Tozer",60,"Last Appearance",4
+"143","Walter Gay",4,"First Appearance",28
+"144","Walter Gay",62,"Last Appearance",28
+"145","Withers",21,"First Appearance",6
+"146","Withers",40,"Last Appearance",6

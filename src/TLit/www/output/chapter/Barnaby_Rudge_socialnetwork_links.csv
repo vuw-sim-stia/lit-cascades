@@ -1,0 +1,312 @@
+"id1" "id2" "label"
+"1" "Akerman" "Barnaby Rudge" 1
+"2" "Akerman" "Gabriel Varden" 1
+"3" "Akerman" "Hugh" 2
+"4" "Akerman" "Mr Rudge" 1
+"5" "Akerman" "Ned Dennis" 2
+"6" "Barnaby Rudge" "Dolly Varden" 9
+"7" "Barnaby Rudge" "Edward Chester" 7
+"8" "Barnaby Rudge" "Emma Haredale" 7
+"9" "Barnaby Rudge" "Gabriel Varden" 13
+"10" "Barnaby Rudge" "Gashford" 8
+"11" "Barnaby Rudge" "General Conway" 1
+"12" "Barnaby Rudge" "Geoffrey Haredale" 12
+"13" "Barnaby Rudge" "Herbert" 1
+"14" "Barnaby Rudge" "Hugh" 23
+"15" "Barnaby Rudge" "Joe Willet" 9
+"16" "Barnaby Rudge" "John Chester" 10
+"17" "Barnaby Rudge" "John Grueby" 2
+"18" "Barnaby Rudge" "John Willet" 18
+"19" "Barnaby Rudge" "Lord George Gordon" 9
+"20" "Barnaby Rudge" "Martha Varden" 7
+"21" "Barnaby Rudge" "Mary Jones" 4
+"22" "Barnaby Rudge" "Miggs" 7
+"23" "Barnaby Rudge" "Mr Rudge" 8
+"24" "Barnaby Rudge" "Mrs Rudge" 5
+"25" "Barnaby Rudge" "Ned Dennis" 15
+"26" "Barnaby Rudge" "Peak" 1
+"27" "Barnaby Rudge" "Phil Parkes" 2
+"28" "Barnaby Rudge" "Simon Tappertit" 12
+"29" "Barnaby Rudge" "Solomon Daisy" 3
+"30" "Barnaby Rudge" "Stagg" 4
+"31" "Barnaby Rudge" "The Black Lion" 1
+"32" "Barnaby Rudge" "Tom Cobb" 1
+"33" "Barnaby Rudge" "Tom Green" 1
+"34" "Dolly Varden" "Edward Chester" 10
+"35" "Dolly Varden" "Emma Haredale" 10
+"36" "Dolly Varden" "Gabriel Varden" 17
+"37" "Dolly Varden" "Gashford" 4
+"38" "Dolly Varden" "Geoffrey Haredale" 7
+"39" "Dolly Varden" "Herbert" 1
+"40" "Dolly Varden" "Hugh" 10
+"41" "Dolly Varden" "Joe Willet" 18
+"42" "Dolly Varden" "John Chester" 6
+"43" "Dolly Varden" "John Grueby" 1
+"44" "Dolly Varden" "John Willet" 16
+"45" "Dolly Varden" "Lord George Gordon" 3
+"46" "Dolly Varden" "Martha Varden" 14
+"47" "Dolly Varden" "Miggs" 15
+"48" "Dolly Varden" "Mr Rudge" 1
+"49" "Dolly Varden" "Mrs Rudge" 4
+"50" "Dolly Varden" "Ned Dennis" 5
+"51" "Dolly Varden" "Peak" 1
+"52" "Dolly Varden" "Phil Parkes" 2
+"53" "Dolly Varden" "Simon Tappertit" 7
+"54" "Dolly Varden" "Solomon Daisy" 4
+"55" "Dolly Varden" "The Black Lion" 5
+"56" "Dolly Varden" "Tom Cobb" 4
+"57" "Edward Chester" "Emma Haredale" 8
+"58" "Edward Chester" "Gabriel Varden" 12
+"59" "Edward Chester" "Gashford" 3
+"60" "Edward Chester" "Geoffrey Haredale" 14
+"61" "Edward Chester" "Hugh" 8
+"62" "Edward Chester" "Joe Willet" 11
+"63" "Edward Chester" "John Chester" 8
+"64" "Edward Chester" "John Grueby" 2
+"65" "Edward Chester" "John Willet" 16
+"66" "Edward Chester" "Lord Algernon Percy" 1
+"67" "Edward Chester" "Lord George Gordon" 2
+"68" "Edward Chester" "Martha Varden" 9
+"69" "Edward Chester" "Mary Jones" 2
+"70" "Edward Chester" "Miggs" 7
+"71" "Edward Chester" "Mr Rudge" 2
+"72" "Edward Chester" "Mrs Rudge" 3
+"73" "Edward Chester" "Ned Dennis" 8
+"74" "Edward Chester" "Peak" 2
+"75" "Edward Chester" "Phil Parkes" 1
+"76" "Edward Chester" "Simon Tappertit" 3
+"77" "Edward Chester" "Solomon Daisy" 2
+"78" "Edward Chester" "The Black Lion" 4
+"79" "Edward Chester" "Tom Cobb" 2
+"80" "Emma Haredale" "Gabriel Varden" 7
+"81" "Emma Haredale" "Gashford" 3
+"82" "Emma Haredale" "Geoffrey Haredale" 13
+"83" "Emma Haredale" "Herbert" 1
+"84" "Emma Haredale" "Hugh" 9
+"85" "Emma Haredale" "Joe Willet" 10
+"86" "Emma Haredale" "John Chester" 4
+"87" "Emma Haredale" "John Willet" 12
+"88" "Emma Haredale" "Lord George Gordon" 2
+"89" "Emma Haredale" "Martha Varden" 8
+"90" "Emma Haredale" "Mary Jones" 1
+"91" "Emma Haredale" "Miggs" 7
+"92" "Emma Haredale" "Mr Rudge" 2
+"93" "Emma Haredale" "Mrs Rudge" 3
+"94" "Emma Haredale" "Ned Dennis" 7
+"95" "Emma Haredale" "Phil Parkes" 1
+"96" "Emma Haredale" "Simon Tappertit" 5
+"97" "Emma Haredale" "Solomon Daisy" 3
+"98" "Emma Haredale" "The Black Lion" 2
+"99" "Emma Haredale" "Tom Cobb" 1
+"100" "Gabriel Varden" "Gashford" 4
+"101" "Gabriel Varden" "Geoffrey Haredale" 8
+"102" "Gabriel Varden" "Hugh" 11
+"103" "Gabriel Varden" "Joe Willet" 13
+"104" "Gabriel Varden" "John Chester" 8
+"105" "Gabriel Varden" "John Grueby" 1
+"106" "Gabriel Varden" "John Willet" 17
+"107" "Gabriel Varden" "Lord George Gordon" 3
+"108" "Gabriel Varden" "Mark Gilbert" 1
+"109" "Gabriel Varden" "Martha Varden" 14
+"110" "Gabriel Varden" "Mary Jones" 3
+"111" "Gabriel Varden" "Miggs" 15
+"112" "Gabriel Varden" "Mr Rudge" 3
+"113" "Gabriel Varden" "Mrs Rudge" 5
+"114" "Gabriel Varden" "Ned Dennis" 9
+"115" "Gabriel Varden" "Peak" 2
+"116" "Gabriel Varden" "Phil Parkes" 2
+"117" "Gabriel Varden" "Simon Tappertit" 8
+"118" "Gabriel Varden" "Solomon Daisy" 5
+"119" "Gabriel Varden" "The Black Lion" 4
+"120" "Gabriel Varden" "Tom Cobb" 3
+"121" "Gashford" "General Conway" 1
+"122" "Gashford" "Geoffrey Haredale" 8
+"123" "Gashford" "Hugh" 16
+"124" "Gashford" "Joe Willet" 3
+"125" "Gashford" "John Chester" 3
+"126" "Gashford" "John Grueby" 6
+"127" "Gashford" "John Willet" 10
+"128" "Gashford" "Lord George Gordon" 13
+"129" "Gashford" "Mark Gilbert" 1
+"130" "Gashford" "Martha Varden" 3
+"131" "Gashford" "Mary Jones" 5
+"132" "Gashford" "Miggs" 7
+"133" "Gashford" "Mr Rudge" 1
+"134" "Gashford" "Ned Dennis" 14
+"135" "Gashford" "Phil Parkes" 2
+"136" "Gashford" "Simon Tappertit" 12
+"137" "Gashford" "Solomon Daisy" 2
+"138" "Gashford" "The Black Lion" 1
+"139" "Gashford" "Tom Cobb" 2
+"140" "General Conway" "Hugh" 1
+"141" "General Conway" "Lord George Gordon" 1
+"142" "General Conway" "Ned Dennis" 1
+"143" "General Conway" "Simon Tappertit" 1
+"144" "Geoffrey Haredale" "Hugh" 18
+"145" "Geoffrey Haredale" "Joe Willet" 13
+"146" "Geoffrey Haredale" "John Chester" 13
+"147" "Geoffrey Haredale" "John Fielding" 2
+"148" "Geoffrey Haredale" "John Grueby" 4
+"149" "Geoffrey Haredale" "John Willet" 25
+"150" "Geoffrey Haredale" "Lord Algernon Percy" 1
+"151" "Geoffrey Haredale" "Lord George Gordon" 6
+"152" "Geoffrey Haredale" "Martha Varden" 7
+"153" "Geoffrey Haredale" "Mary Jones" 4
+"154" "Geoffrey Haredale" "Miggs" 7
+"155" "Geoffrey Haredale" "Mr Rudge" 6
+"156" "Geoffrey Haredale" "Mrs Rudge" 3
+"157" "Geoffrey Haredale" "Ned Dennis" 13
+"158" "Geoffrey Haredale" "Phil Parkes" 4
+"159" "Geoffrey Haredale" "Philips" 1
+"160" "Geoffrey Haredale" "Simon Tappertit" 5
+"161" "Geoffrey Haredale" "Solomon Daisy" 7
+"162" "Geoffrey Haredale" "The Black Lion" 2
+"163" "Geoffrey Haredale" "Tom Cobb" 3
+"164" "Herbert" "Joe Willet" 1
+"165" "Herbert" "Lord George Gordon" 1
+"166" "Hugh" "Joe Willet" 13
+"167" "Hugh" "John Chester" 11
+"168" "Hugh" "John Grueby" 6
+"169" "Hugh" "John Willet" 23
+"170" "Hugh" "Lord Algernon Percy" 1
+"171" "Hugh" "Lord George Gordon" 12
+"172" "Hugh" "Mark Gilbert" 1
+"173" "Hugh" "Martha Varden" 6
+"174" "Hugh" "Mary Jones" 5
+"175" "Hugh" "Miggs" 9
+"176" "Hugh" "Mr Rudge" 4
+"177" "Hugh" "Mrs Rudge" 2
+"178" "Hugh" "Ned Dennis" 27
+"179" "Hugh" "Peak" 2
+"180" "Hugh" "Phil Parkes" 3
+"181" "Hugh" "Simon Tappertit" 13
+"182" "Hugh" "Solomon Daisy" 4
+"183" "Hugh" "Stagg" 1
+"184" "Hugh" "The Black Lion" 2
+"185" "Hugh" "Tom Cobb" 2
+"186" "Hugh" "Tom Green" 1
+"187" "Joe Willet" "John Chester" 7
+"188" "Joe Willet" "John Grueby" 2
+"189" "Joe Willet" "John Willet" 23
+"190" "Joe Willet" "Lord Algernon Percy" 1
+"191" "Joe Willet" "Lord George Gordon" 3
+"192" "Joe Willet" "Martha Varden" 13
+"193" "Joe Willet" "Mary Jones" 1
+"194" "Joe Willet" "Miggs" 9
+"195" "Joe Willet" "Mr Rudge" 1
+"196" "Joe Willet" "Mrs Rudge" 2
+"197" "Joe Willet" "Ned Dennis" 4
+"198" "Joe Willet" "Phil Parkes" 4
+"199" "Joe Willet" "Simon Tappertit" 4
+"200" "Joe Willet" "Solomon Daisy" 7
+"201" "Joe Willet" "The Black Lion" 5
+"202" "Joe Willet" "Tom Cobb" 5
+"203" "John Chester" "John Grueby" 1
+"204" "John Chester" "John Willet" 16
+"205" "John Chester" "Lord George Gordon" 3
+"206" "John Chester" "Martha Varden" 4
+"207" "John Chester" "Mary Jones" 3
+"208" "John Chester" "Miggs" 3
+"209" "John Chester" "Mr Rudge" 4
+"210" "John Chester" "Mrs Rudge" 3
+"211" "John Chester" "Ned Dennis" 11
+"212" "John Chester" "Peak" 2
+"213" "John Chester" "Phil Parkes" 2
+"214" "John Chester" "Simon Tappertit" 2
+"215" "John Chester" "Solomon Daisy" 2
+"216" "John Chester" "The Black Lion" 1
+"217" "John Chester" "Tom Cobb" 1
+"218" "John Fielding" "John Grueby" 1
+"219" "John Fielding" "John Willet" 2
+"220" "John Fielding" "Lord George Gordon" 1
+"221" "John Fielding" "Philips" 1
+"222" "John Grueby" "John Willet" 8
+"223" "John Grueby" "Lord Algernon Percy" 1
+"224" "John Grueby" "Lord George Gordon" 7
+"225" "John Grueby" "Mary Jones" 3
+"226" "John Grueby" "Miggs" 1
+"227" "John Grueby" "Ned Dennis" 2
+"228" "John Grueby" "Phil Parkes" 1
+"229" "John Grueby" "Simon Tappertit" 1
+"230" "John Grueby" "Solomon Daisy" 1
+"231" "John Grueby" "Tom Cobb" 1
+"232" "John Willet" "Lord Algernon Percy" 1
+"233" "John Willet" "Lord George Gordon" 10
+"234" "John Willet" "Mark Gilbert" 1
+"235" "John Willet" "Martha Varden" 15
+"236" "John Willet" "Mary Jones" 5
+"237" "John Willet" "Miggs" 11
+"238" "John Willet" "Mr Rudge" 5
+"239" "John Willet" "Mrs Rudge" 5
+"240" "John Willet" "Ned Dennis" 12
+"241" "John Willet" "Peak" 1
+"242" "John Willet" "Phil Parkes" 6
+"243" "John Willet" "Philips" 1
+"244" "John Willet" "Simon Tappertit" 6
+"245" "John Willet" "Solomon Daisy" 11
+"246" "John Willet" "Stagg" 1
+"247" "John Willet" "The Black Lion" 6
+"248" "John Willet" "Tom Cobb" 7
+"249" "John Willet" "Tom Green" 1
+"250" "Lord George Gordon" "Mark Gilbert" 1
+"251" "Lord George Gordon" "Martha Varden" 2
+"252" "Lord George Gordon" "Mary Jones" 4
+"253" "Lord George Gordon" "Miggs" 4
+"254" "Lord George Gordon" "Mr Rudge" 2
+"255" "Lord George Gordon" "Ned Dennis" 10
+"256" "Lord George Gordon" "Phil Parkes" 1
+"257" "Lord George Gordon" "Simon Tappertit" 8
+"258" "Lord George Gordon" "Solomon Daisy" 2
+"259" "Lord George Gordon" "Tom Cobb" 1
+"260" "Mark Gilbert" "Miggs" 1
+"261" "Mark Gilbert" "Ned Dennis" 1
+"262" "Mark Gilbert" "Simon Tappertit" 1
+"263" "Mark Gilbert" "Stagg" 1
+"264" "Martha Varden" "Mary Jones" 3
+"265" "Martha Varden" "Miggs" 13
+"266" "Martha Varden" "Mr Rudge" 2
+"267" "Martha Varden" "Mrs Rudge" 3
+"268" "Martha Varden" "Ned Dennis" 5
+"269" "Martha Varden" "Simon Tappertit" 5
+"270" "Martha Varden" "Solomon Daisy" 3
+"271" "Martha Varden" "The Black Lion" 5
+"272" "Martha Varden" "Tom Cobb" 2
+"273" "Mary Jones" "Miggs" 2
+"274" "Mary Jones" "Mr Rudge" 2
+"275" "Mary Jones" "Mrs Rudge" 1
+"276" "Mary Jones" "Ned Dennis" 5
+"277" "Mary Jones" "Simon Tappertit" 2
+"278" "Miggs" "Mr Rudge" 2
+"279" "Miggs" "Mrs Rudge" 3
+"280" "Miggs" "Ned Dennis" 7
+"281" "Miggs" "Phil Parkes" 1
+"282" "Miggs" "Simon Tappertit" 10
+"283" "Miggs" "Solomon Daisy" 2
+"284" "Miggs" "Stagg" 1
+"285" "Miggs" "The Black Lion" 4
+"286" "Miggs" "Tom Cobb" 2
+"287" "Mr Rudge" "Mrs Rudge" 1
+"288" "Mr Rudge" "Ned Dennis" 5
+"289" "Mr Rudge" "Phil Parkes" 1
+"290" "Mr Rudge" "Simon Tappertit" 2
+"291" "Mr Rudge" "Solomon Daisy" 2
+"292" "Mr Rudge" "Stagg" 1
+"293" "Mr Rudge" "The Black Lion" 1
+"294" "Mr Rudge" "Tom Cobb" 1
+"295" "Mrs Rudge" "Ned Dennis" 1
+"296" "Mrs Rudge" "Simon Tappertit" 3
+"297" "Ned Dennis" "Peak" 2
+"298" "Ned Dennis" "Phil Parkes" 1
+"299" "Ned Dennis" "Simon Tappertit" 12
+"300" "Ned Dennis" "Solomon Daisy" 1
+"301" "Ned Dennis" "Stagg" 1
+"302" "Ned Dennis" "The Black Lion" 1
+"303" "Ned Dennis" "Tom Cobb" 1
+"304" "Phil Parkes" "Simon Tappertit" 1
+"305" "Phil Parkes" "Solomon Daisy" 6
+"306" "Phil Parkes" "Tom Cobb" 5
+"307" "Simon Tappertit" "Solomon Daisy" 1
+"308" "Simon Tappertit" "The Black Lion" 1
+"309" "Simon Tappertit" "Tom Cobb" 1
+"310" "Solomon Daisy" "Tom Cobb" 5
+"311" "The Black Lion" "Tom Cobb" 2

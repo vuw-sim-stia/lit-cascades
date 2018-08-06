@@ -1,0 +1,63 @@
+Betty: Betty
+ColonelBrandon: Colonel Brandon, the Colonel, Brandon
+ElizaWilliams: Eliza Williams, Miss Williams, that poor girl
+ElizaBrandon: Eliza Brandon
+MrsBurgess: Mrs. Burgess
+The Miss Careys: Miss Careys, the Careys
+Cartwright: Cartwright
+MrsClarke: Mrs. Clarke
+LordCourtland: Courtland
+TheOldGentlemanDashwood: late owner, the old gentleman
+MrHenryDashwood:  Henry Dashwood 
+Elinor Dashwood: Elinor Dashwood, Elinor eldest sister, eldest girl, eldest daughter
+Harry Dashwood: Harry
+Mrs Fanny Dashwood: Mrs. John Dashwood, Fanny 
+Mrs Dashwood: Mrs. Dashwood, mother-in-law, widow, Mama
+Mr John Dashwood: Mr. Dashwood, Mr. John Dashwood 
+Margaret Dashwood: Margaret 
+Marianne Dashwood: Mrs. Brandon, Marianne, Miss Dashwood, her sick child
+Doctor Davies: Dr Davies 
+Mrs Dennison: Mrs. Dennison
+Mr Donavan: Mr Donovan 
+Sir Elliot: Elliot
+Lady Elliot: Lady Elliot
+Mr. Ellison: Mr Ellison
+Mrs. Ellison: Mrs. Ellison 
+Mrs Ferrars: Mrs. Ferrars
+Edward Ferrars: Edward, Eldest brother, eldest son, Mr. Ferrars
+Robert Ferrars: younger brother, Robert 
+Old Gibson: Old Gibson
+Miss Godby: Miss Godby
+Miss Sophia Grey: Sophia, Miss Grey, Mrs. Willoughby 
+Mr Harris: Mr. Harris 
+Biddy Henshawe: Biddy Henshawe
+Mr Jennings: Mr. Jennings
+Mrs Jennings: Mrs. Jennings
+Sir John Middleton: Sir John, 
+Lady Mary Middleton: Mary, Lady Middleton 
+Johnny Middleton: Johnny 
+William Middleton: William 
+Annamaria Middleton: Annamaria
+Lord Morton: Lord Morton
+Miss Morton: Miss Morton
+Mr Thomas Palmer: Thomas Palmer, Mr. Palmer
+Mrs Charlotte Palmer: lady of Thomas Palmer, Mrs. Palmer, Charlotte
+Mr Pratt: Mr. Pratt
+Richard Steele: cousin Richard 
+Mrs Richardson: Mrs. Richardson
+Mr Richardson: Mr. Richardson
+Sir Robert Ferrars: Sir Robert 
+Mr. Rose: Mr. Rose
+Sally: Sally
+Martha Sharpe: Martha Sharpe
+Mr Simpson: Mr. Simpson
+Mrs Smith: Mrs. Smith 
+Miss Sparks: Miss Sparks
+Anne Steele: Miss Steele, Anne
+Lucy Steele: youngest Miss Steele, Lucy, Mrs. Robert Ferrars
+Mrs Taylor: Mrs. Taylor
+Thomas: Thomas
+Miss Walker: Miss Walker
+The Westons: The Westons
+John Willoughby: Willoughby, Mr. Willoughby, Marianne's preserver
+The Whitakers: Whitakers

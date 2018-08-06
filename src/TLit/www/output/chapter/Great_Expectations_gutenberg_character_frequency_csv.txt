@@ -1,0 +1,491 @@
+"","Character","Node","Appearances"
+"1","Abel Magwitch",1,22
+"2","Abel Magwitch",54,22
+"3","Abel Magwitch",52,22
+"4","Abel Magwitch",47,22
+"5","Abel Magwitch",2,22
+"6","Abel Magwitch",3,22
+"7","Abel Magwitch",5,22
+"8","Abel Magwitch",51,22
+"9","Abel Magwitch",46,22
+"10","Abel Magwitch",53,22
+"11","Abel Magwitch",10,22
+"12","Abel Magwitch",28,22
+"13","Abel Magwitch",42,22
+"14","Abel Magwitch",56,22
+"15","Abel Magwitch",40,22
+"16","Abel Magwitch",45,22
+"17","Abel Magwitch",43,22
+"18","Abel Magwitch",41,22
+"19","Abel Magwitch",55,22
+"20","Abel Magwitch",16,22
+"21","Abel Magwitch",50,22
+"22","Abel Magwitch",39,22
+"23","Avenger",30,6
+"24","Avenger",28,6
+"25","Avenger",40,6
+"26","Avenger",27,6
+"27","Avenger",34,6
+"28","Avenger",2,6
+"29","Bentley Drummle",48,10
+"30","Bentley Drummle",43,10
+"31","Bentley Drummle",25,10
+"32","Bentley Drummle",26,10
+"33","Bentley Drummle",44,10
+"34","Bentley Drummle",38,10
+"35","Bentley Drummle",27,10
+"36","Bentley Drummle",34,10
+"37","Bentley Drummle",11,10
+"38","Bentley Drummle",23,10
+"39","Biddy",16,17
+"40","Biddy",58,17
+"41","Biddy",7,17
+"42","Biddy",12,17
+"43","Biddy",19,17
+"44","Biddy",34,17
+"45","Biddy",39,17
+"46","Biddy",35,17
+"47","Biddy",53,17
+"48","Biddy",18,17
+"49","Biddy",57,17
+"50","Biddy",22,17
+"51","Biddy",27,17
+"52","Biddy",17,17
+"53","Biddy",15,17
+"54","Biddy",59,17
+"55","Biddy",10,17
+"56","Black Bill",32,1
+"57","Camilla",11,6
+"58","Camilla",25,6
+"59","Camilla",57,6
+"60","Camilla",18,6
+"61","Camilla",34,6
+"62","Camilla",44,6
+"63","Clara Barley",53,9
+"64","Clara Barley",55,9
+"65","Clara Barley",52,9
+"66","Clara Barley",45,9
+"67","Clara Barley",58,9
+"68","Clara Barley",30,9
+"69","Clara Barley",31,9
+"70","Clara Barley",46,9
+"71","Clara Barley",59,9
+"72","Compeyson",5,13
+"73","Compeyson",16,13
+"74","Compeyson",47,13
+"75","Compeyson",41,13
+"76","Compeyson",39,13
+"77","Compeyson",54,13
+"78","Compeyson",46,13
+"79","Compeyson",42,13
+"80","Compeyson",55,13
+"81","Compeyson",43,13
+"82","Compeyson",53,13
+"83","Compeyson",50,13
+"84","Compeyson",28,13
+"85","Dunstable",23,2
+"86","Dunstable",4,2
+"87","Estella",29,34
+"88","Estella",12,34
+"89","Estella",11,34
+"90","Estella",47,34
+"91","Estella",48,34
+"92","Estella",9,34
+"93","Estella",53,34
+"94","Estella",30,34
+"95","Estella",13,34
+"96","Estella",49,34
+"97","Estella",18,34
+"98","Estella",37,34
+"99","Estella",44,34
+"100","Estella",46,34
+"101","Estella",27,34
+"102","Estella",14,34
+"103","Estella",19,34
+"104","Estella",38,34
+"105","Estella",32,34
+"106","Estella",15,34
+"107","Estella",8,34
+"108","Estella",22,34
+"109","Estella",51,34
+"110","Estella",33,34
+"111","Estella",31,34
+"112","Estella",59,34
+"113","Estella",17,34
+"114","Estella",43,34
+"115","Estella",57,34
+"116","Estella",36,34
+"117","Estella",45,34
+"118","Estella",34,34
+"119","Estella",50,34
+"120","Estella",39,34
+"121","Flopson",23,3
+"122","Flopson",33,3
+"123","Flopson",22,3
+"124","Georiana Pocket",44,4
+"125","Georiana Pocket",11,4
+"126","Georiana Pocket",25,4
+"127","Georiana Pocket",57,4
+"128","Herbert Pocket",11,38
+"129","Herbert Pocket",42,38
+"130","Herbert Pocket",37,38
+"131","Herbert Pocket",55,38
+"132","Herbert Pocket",46,38
+"133","Herbert Pocket",24,38
+"134","Herbert Pocket",23,38
+"135","Herbert Pocket",47,38
+"136","Herbert Pocket",15,38
+"137","Herbert Pocket",38,38
+"138","Herbert Pocket",58,38
+"139","Herbert Pocket",51,38
+"140","Herbert Pocket",28,38
+"141","Herbert Pocket",45,38
+"142","Herbert Pocket",21,38
+"143","Herbert Pocket",57,38
+"144","Herbert Pocket",44,38
+"145","Herbert Pocket",20,38
+"146","Herbert Pocket",49,38
+"147","Herbert Pocket",52,38
+"148","Herbert Pocket",26,38
+"149","Herbert Pocket",41,38
+"150","Herbert Pocket",12,38
+"151","Herbert Pocket",36,38
+"152","Herbert Pocket",30,38
+"153","Herbert Pocket",27,38
+"154","Herbert Pocket",29,38
+"155","Herbert Pocket",43,38
+"156","Herbert Pocket",34,38
+"157","Herbert Pocket",31,38
+"158","Herbert Pocket",22,38
+"159","Herbert Pocket",25,38
+"160","Herbert Pocket",39,38
+"161","Herbert Pocket",53,38
+"162","Herbert Pocket",59,38
+"163","Herbert Pocket",40,38
+"164","Herbert Pocket",54,38
+"165","Herbert Pocket",50,38
+"166","Jack",54,2
+"167","Jack",47,2
+"168","Joe Gargery",17,35
+"169","Joe Gargery",34,35
+"170","Joe Gargery",2,35
+"171","Joe Gargery",15,35
+"172","Joe Gargery",9,35
+"173","Joe Gargery",29,35
+"174","Joe Gargery",1,35
+"175","Joe Gargery",57,35
+"176","Joe Gargery",52,35
+"177","Joe Gargery",22,35
+"178","Joe Gargery",7,35
+"179","Joe Gargery",43,35
+"180","Joe Gargery",5,35
+"181","Joe Gargery",11,35
+"182","Joe Gargery",16,35
+"183","Joe Gargery",8,35
+"184","Joe Gargery",13,35
+"185","Joe Gargery",4,35
+"186","Joe Gargery",28,35
+"187","Joe Gargery",14,35
+"188","Joe Gargery",12,35
+"189","Joe Gargery",58,35
+"190","Joe Gargery",39,35
+"191","Joe Gargery",6,35
+"192","Joe Gargery",35,35
+"193","Joe Gargery",3,35
+"194","Joe Gargery",18,35
+"195","Joe Gargery",54,35
+"196","Joe Gargery",10,35
+"197","Joe Gargery",23,35
+"198","Joe Gargery",30,35
+"199","Joe Gargery",19,35
+"200","Joe Gargery",53,35
+"201","Joe Gargery",27,35
+"202","Joe Gargery",59,35
+"203","John Wemmick",44,19
+"204","John Wemmick",39,19
+"205","John Wemmick",36,19
+"206","John Wemmick",47,19
+"207","John Wemmick",26,19
+"208","John Wemmick",32,19
+"209","John Wemmick",46,19
+"210","John Wemmick",25,19
+"211","John Wemmick",37,19
+"212","John Wemmick",24,19
+"213","John Wemmick",40,19
+"214","John Wemmick",51,19
+"215","John Wemmick",54,19
+"216","John Wemmick",52,19
+"217","John Wemmick",21,19
+"218","John Wemmick",45,19
+"219","John Wemmick",48,19
+"220","John Wemmick",20,19
+"221","John Wemmick",55,19
+"222","Mary Anne",45,1
+"223","Mike",51,2
+"224","Mike",20,2
+"225","Millers",23,3
+"226","Millers",22,3
+"227","Millers",33,3
+"228","Miss Havisham",7,37
+"229","Miss Havisham",33,37
+"230","Miss Havisham",12,37
+"231","Miss Havisham",8,37
+"232","Miss Havisham",25,37
+"233","Miss Havisham",52,37
+"234","Miss Havisham",30,37
+"235","Miss Havisham",11,37
+"236","Miss Havisham",15,37
+"237","Miss Havisham",22,37
+"238","Miss Havisham",10,37
+"239","Miss Havisham",51,37
+"240","Miss Havisham",18,37
+"241","Miss Havisham",34,37
+"242","Miss Havisham",29,37
+"243","Miss Havisham",50,37
+"244","Miss Havisham",49,37
+"245","Miss Havisham",39,37
+"246","Miss Havisham",48,37
+"247","Miss Havisham",53,37
+"248","Miss Havisham",57,37
+"249","Miss Havisham",13,37
+"250","Miss Havisham",44,37
+"251","Miss Havisham",19,37
+"252","Miss Havisham",40,37
+"253","Miss Havisham",14,37
+"254","Miss Havisham",32,37
+"255","Miss Havisham",36,37
+"256","Miss Havisham",9,37
+"257","Miss Havisham",42,37
+"258","Miss Havisham",17,37
+"259","Miss Havisham",38,37
+"260","Miss Havisham",43,37
+"261","Miss Havisham",28,37
+"262","Miss Havisham",31,37
+"263","Miss Havisham",37,37
+"264","Miss Havisham",27,37
+"265","Miss Skiffins",48,4
+"266","Miss Skiffins",55,4
+"267","Miss Skiffins",45,4
+"268","Miss Skiffins",37,4
+"269","Molly",26,2
+"270","Molly",48,2
+"271","Mr Camilla",25,3
+"272","Mr Camilla",11,3
+"273","Mr Camilla",18,3
+"274","Mr Clarriker",41,5
+"275","Mr Clarriker",52,5
+"276","Mr Clarriker",45,5
+"277","Mr Clarriker",58,5
+"278","Mr Clarriker",37,5
+"279","Mr Havisham",22,2
+"280","Mr Havisham",42,2
+"281","Mr Hubble",35,3
+"282","Mr Hubble",4,3
+"283","Mr Hubble",5,3
+"284","Mr Jaggers",26,25
+"285","Mr Jaggers",44,25
+"286","Mr Jaggers",30,25
+"287","Mr Jaggers",22,25
+"288","Mr Jaggers",36,25
+"289","Mr Jaggers",32,25
+"290","Mr Jaggers",19,25
+"291","Mr Jaggers",40,25
+"292","Mr Jaggers",51,25
+"293","Mr Jaggers",56,25
+"294","Mr Jaggers",38,25
+"295","Mr Jaggers",20,25
+"296","Mr Jaggers",37,25
+"297","Mr Jaggers",39,25
+"298","Mr Jaggers",48,25
+"299","Mr Jaggers",21,25
+"300","Mr Jaggers",24,25
+"301","Mr Jaggers",49,25
+"302","Mr Jaggers",29,25
+"303","Mr Jaggers",42,25
+"304","Mr Jaggers",33,25
+"305","Mr Jaggers",55,25
+"306","Mr Jaggers",25,25
+"307","Mr Jaggers",18,25
+"308","Mr Jaggers",50,25
+"309","Mr Pocket",57,16
+"310","Mr Pocket",24,16
+"311","Mr Pocket",22,16
+"312","Mr Pocket",32,16
+"313","Mr Pocket",49,16
+"314","Mr Pocket",25,16
+"315","Mr Pocket",21,16
+"316","Mr Pocket",44,16
+"317","Mr Pocket",23,16
+"318","Mr Pocket",18,16
+"319","Mr Pocket",29,16
+"320","Mr Pocket",26,16
+"321","Mr Pocket",11,16
+"322","Mr Pocket",34,16
+"323","Mr Pocket",28,16
+"324","Mr Pocket",33,16
+"325","Mr Trabb",35,6
+"326","Mr Trabb",19,6
+"327","Mr Trabb",22,6
+"328","Mr Trabb",34,6
+"329","Mr Trabb",53,6
+"330","Mr Trabb",30,6
+"331","Mr Wopsle",18,15
+"332","Mr Wopsle",37,15
+"333","Mr Wopsle",47,15
+"334","Mr Wopsle",13,15
+"335","Mr Wopsle",10,15
+"336","Mr Wopsle",15,15
+"337","Mr Wopsle",31,15
+"338","Mr Wopsle",30,15
+"339","Mr Wopsle",4,15
+"340","Mr Wopsle",5,15
+"341","Mr Wopsle",16,15
+"342","Mr Wopsle",6,15
+"343","Mr Wopsle",7,15
+"344","Mr Wopsle",27,15
+"345","Mr Wopsle",17,15
+"346","Mrs Brandley",43,2
+"347","Mrs Brandley",38,2
+"348","Mrs Coiler",23,1
+"349","Mrs Hubble",4,3
+"350","Mrs Hubble",18,3
+"351","Mrs Hubble",35,3
+"352","Mrs Joe Gargery",15,21
+"353","Mrs Joe Gargery",10,21
+"354","Mrs Joe Gargery",1,21
+"355","Mrs Joe Gargery",8,21
+"356","Mrs Joe Gargery",4,21
+"357","Mrs Joe Gargery",17,21
+"358","Mrs Joe Gargery",12,21
+"359","Mrs Joe Gargery",13,21
+"360","Mrs Joe Gargery",35,21
+"361","Mrs Joe Gargery",7,21
+"362","Mrs Joe Gargery",11,21
+"363","Mrs Joe Gargery",5,21
+"364","Mrs Joe Gargery",58,21
+"365","Mrs Joe Gargery",18,21
+"366","Mrs Joe Gargery",9,21
+"367","Mrs Joe Gargery",14,21
+"368","Mrs Joe Gargery",6,21
+"369","Mrs Joe Gargery",19,21
+"370","Mrs Joe Gargery",16,21
+"371","Mrs Joe Gargery",2,21
+"372","Mrs Joe Gargery",53,21
+"373","Mrs Pocket",23,6
+"374","Mrs Pocket",34,6
+"375","Mrs Pocket",26,6
+"376","Mrs Pocket",22,6
+"377","Mrs Pocket",33,6
+"378","Mrs Pocket",25,6
+"379","Old Barley",53,5
+"380","Old Barley",46,5
+"381","Old Barley",58,5
+"382","Old Barley",52,5
+"383","Old Barley",50,5
+"384","Orlick Dolge",43,9
+"385","Orlick Dolge",29,9
+"386","Orlick Dolge",53,9
+"387","Orlick Dolge",17,9
+"388","Orlick Dolge",57,9
+"389","Orlick Dolge",16,9
+"390","Orlick Dolge",15,9
+"391","Orlick Dolge",35,9
+"392","Orlick Dolge",30,9
+"393","Pip",10,49
+"394","Pip",42,49
+"395","Pip",1,49
+"396","Pip",35,49
+"397","Pip",38,49
+"398","Pip",57,49
+"399","Pip",19,49
+"400","Pip",25,49
+"401","Pip",37,49
+"402","Pip",34,49
+"403","Pip",4,49
+"404","Pip",47,49
+"405","Pip",23,49
+"406","Pip",5,49
+"407","Pip",49,49
+"408","Pip",39,49
+"409","Pip",51,49
+"410","Pip",46,49
+"411","Pip",8,49
+"412","Pip",15,49
+"413","Pip",28,49
+"414","Pip",48,49
+"415","Pip",44,49
+"416","Pip",2,49
+"417","Pip",27,49
+"418","Pip",33,49
+"419","Pip",22,49
+"420","Pip",55,49
+"421","Pip",41,49
+"422","Pip",11,49
+"423","Pip",18,49
+"424","Pip",45,49
+"425","Pip",13,49
+"426","Pip",24,49
+"427","Pip",7,49
+"428","Pip",32,49
+"429","Pip",17,49
+"430","Pip",20,49
+"431","Pip",30,49
+"432","Pip",9,49
+"433","Pip",29,49
+"434","Pip",50,49
+"435","Pip",31,49
+"436","Pip",26,49
+"437","Pip",59,49
+"438","Pip",53,49
+"439","Pip",58,49
+"440","Pip",40,49
+"441","Pip",36,49
+"442","Sarah Pocket",19,7
+"443","Sarah Pocket",44,7
+"444","Sarah Pocket",11,7
+"445","Sarah Pocket",57,7
+"446","Sarah Pocket",17,7
+"447","Sarah Pocket",29,7
+"448","Sarah Pocket",15,7
+"449","Skiffins",52,2
+"450","Skiffins",37,2
+"451","Sophia",23,1
+"452","Startop",34,7
+"453","Startop",25,7
+"454","Startop",53,7
+"455","Startop",54,7
+"456","Startop",52,7
+"457","Startop",26,7
+"458","Startop",23,7
+"459","The Aged",55,7
+"460","The Aged",45,7
+"461","The Aged",25,7
+"462","The Aged",48,7
+"463","The Aged",37,7
+"464","The Aged",36,7
+"465","The Aged",32,7
+"466","Trabb's Boy",53,4
+"467","Trabb's Boy",30,4
+"468","Trabb's Boy",19,4
+"469","Trabb's Boy",28,4
+"470","Uncle Pumblechook",4,20
+"471","Uncle Pumblechook",28,20
+"472","Uncle Pumblechook",15,20
+"473","Uncle Pumblechook",52,20
+"474","Uncle Pumblechook",11,20
+"475","Uncle Pumblechook",27,20
+"476","Uncle Pumblechook",19,20
+"477","Uncle Pumblechook",18,20
+"478","Uncle Pumblechook",7,20
+"479","Uncle Pumblechook",12,20
+"480","Uncle Pumblechook",5,20
+"481","Uncle Pumblechook",35,20
+"482","Uncle Pumblechook",57,20
+"483","Uncle Pumblechook",13,20
+"484","Uncle Pumblechook",9,20
+"485","Uncle Pumblechook",22,20
+"486","Uncle Pumblechook",30,20
+"487","Uncle Pumblechook",8,20
+"488","Uncle Pumblechook",58,20
+"489","Uncle Pumblechook",6,20
+"490","William Potkins",58,1

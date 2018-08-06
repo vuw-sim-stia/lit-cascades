@@ -1,0 +1,167 @@
+"Character","Node"
+"Alfred Jingle",34
+"Angelo Cyrus Bantam",6
+"Anthony Humm",3
+"Arabella Allen",32
+"Augustus Snodgrass",82
+"Benjamin Allen",24
+"Betsy",2
+"Bill",2
+"Bob Sawyer",37
+"Boffer",1
+"Brooks",1
+"Brother Mordlin",1
+"Brother Tadger",1
+"Bullman",1
+"Chancery Prisoner",3
+"Charley",1
+"Clergyman",11
+"Colonel Bulder",2
+"Count Smorltork",2
+"Crookey",1
+"Daniel Grummer",7
+"Doctor Payne",3
+"Doctor Slammer",7
+"Dodson",27
+"Dowager Snuphanuph",3
+"Dubbley",4
+"Emily Wardle",22
+"Emma",5
+"Fogg",28
+"Frank Simmery",1
+"Gabriel Grub",6
+"George Heyling",2
+"Goodwin",1
+"Harris",1
+"Henry Beller",1
+"Hon Slumkey",7
+"Hon Snipe",1
+"Horatio Fizkin",5
+"Isabella Wardle",12
+"Jack Bamber",8
+"Jack Hopkins",3
+"Jack Martin",1
+"Jackson",7
+"Jane1",1
+"Jem Hutley",3
+"Job Trotter",24
+"Joe",25
+"Joe Smiggers",1
+"John Edmunds",4
+"John Smauker",4
+"Jonas Mudge",1
+"Kate",2
+"Lady Clubber",1
+"Lieutenant Tappleton",3
+"Lord Mutanhed",3
+"Lud Hudibaras",2
+"Maria Lobbs",4
+"Marquess of Filletoville",2
+"Martha Bardell",27
+"Mary",24
+"Miss Bolo",1
+"Miss Bulder",1
+"Miss Gwynn",1
+"Miss Nupkins",4
+"Miss Smithers",2
+"Miss Tomkins",2
+"Miss Witherfield",3
+"Misses Clubber",1
+"Misses Matinter",1
+"Misses Smithie",1
+"Mr Ayresleigh",1
+"Mr Blotton",2
+"Mr Crawley",1
+"Mr Crushton",3
+"Mr Dowler",14
+"Mr Dumkins",2
+"Mr Grundy",1
+"Mr Gunter",1
+"Mr Hunter",2
+"Mr Jinkins",1
+"Mr Jinks",6
+"Mr Lowten",14
+"Mr Luffey",2
+"Mr Mallard",3
+"Mr Miller",3
+"Mr Mivins",4
+"Mr Namby",3
+"Mr Noddy",1
+"Mr Nupkins",11
+"Mr Perker",46
+"Mr Phunky",5
+"Mr Podder",2
+"Mr Porkenham",1
+"Mr Pott",15
+"Mr Price",2
+"Mr Raddle",6
+"Mr Simpson",2
+"Mr Skimpin",5
+"Mr Slasher",1
+"Mr Smangle",6
+"Mr Smithies",1
+"Mr Smouch",2
+"Mr Snicks",1
+"Mr Staple",1
+"Mr Stareleigh",4
+"Mr Stiggins",11
+"Mr Struggles",2
+"Mr Trundle",19
+"Mr Tuckle",3
+"Mr Wardle",40
+"Mr Watty",1
+"Mr Whiffers",1
+"Mr Wicks",3
+"Mrs Budger",1
+"Mrs Bulder",1
+"Mrs Bunkin",1
+"Mrs Cluppins",12
+"Mrs Craddock",3
+"Mrs Dowler",7
+"Mrs Hunter",6
+"Mrs Mudberry",1
+"Mrs Nupkins",4
+"Mrs Porkenham",1
+"Mrs Pott",12
+"Mrs Raddle",8
+"Mrs Rogers",3
+"Mrs Sanders",10
+"Mrs Smithe",1
+"Mrs Tomlinson",1
+"Mrs Wardle",21
+"Mrs Weller",11
+"Mrs Wugsby",2
+"Muzzle",8
+"Nathaniel Pipkin",4
+"Nathaniel Winkle",103
+"Neddy",3
+"Old Lobbs",4
+"Peter Magnus",7
+"Prince Bladud",3
+"Pruffle",1
+"Quanko Samba",1
+"Rachael Wardle",11
+"Richard Upwitch",1
+"Sam",1
+"Sam Weller",150
+"Samuel Pickwick",245
+"Serjeant Buzfuz",9
+"Serjeant Snubbin",11
+"Sir Geoffrey Manning",3
+"Sir Thomas Blazo",1
+"Sololomon Lucas",3
+"Solomon Pell",10
+"Thomas Burton",1
+"Thomas Clubber",2
+"Thomas Groffin",1
+"Tom Bardell",8
+"Tom Cripps",7
+"Tom Martin",2
+"Tom Roker",9
+"Tom Smart",8
+"Tom Wildspark",1
+"Tommy",1
+"Tony Weller",140
+"Tracy Tupman",85
+"Wilkins",2
+"Wilkins Flasher",3

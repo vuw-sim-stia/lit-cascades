@@ -1,0 +1,935 @@
+"id1" "id2" "label"
+"1" "Adams" "Agnes Wickfield" 2
+"2" "Adams" "Annie Strong" 2
+"3" "Adams" "Daniel Peggotty" 1
+"4" "Adams" "David Copperfield" 1
+"5" "Adams" "Doctor Strong" 3
+"6" "Adams" "Jack Maldon" 2
+"7" "Adams" "Miss Larkins" 1
+"8" "Adams" "Mr Creakle" 1
+"9" "Adams" "Mr Larkins" 1
+"10" "Adams" "Mr Wickfield" 2
+"11" "Adams" "Mrs Markleham" 1
+"12" "Adams" "Uriah" 1
+"13" "Agnes Wickfield" "Annie Strong" 13
+"14" "Agnes Wickfield" "Captain Bailey" 1
+"15" "Agnes Wickfield" "Caroline Crewler" 2
+"16" "Agnes Wickfield" "Clara Peggotty" 11
+"17" "Agnes Wickfield" "Clarissa Spenlow" 7
+"18" "Agnes Wickfield" "Daniel Peggotty" 6
+"19" "Agnes Wickfield" "David Copperfield" 64
+"20" "Agnes Wickfield" "Doctor Strong" 9
+"21" "Agnes Wickfield" "Jack Maldon" 10
+"22" "Agnes Wickfield" "James Steerforth" 10
+"23" "Agnes Wickfield" "Jane Murdstone" 1
+"24" "Agnes Wickfield" "Janet" 4
+"25" "Agnes Wickfield" "Julia Mills" 4
+"26" "Agnes Wickfield" "Lavinia Spenlow" 8
+"27" "Agnes Wickfield" "Little Emily" 7
+"28" "Agnes Wickfield" "Markham" 1
+"29" "Agnes Wickfield" "Martha Endell" 2
+"30" "Agnes Wickfield" "Mealy Potatoes" 1
+"31" "Agnes Wickfield" "Mick Walker" 1
+"32" "Agnes Wickfield" "Miss Betsey Trotwood" 43
+"33" "Agnes Wickfield" "Miss Larkins" 5
+"34" "Agnes Wickfield" "Miss Micawber" 1
+"35" "Agnes Wickfield" "Miss Shepherd" 2
+"36" "Agnes Wickfield" "Misses Nettingall" 1
+"37" "Agnes Wickfield" "Mr Chestle" 1
+"38" "Agnes Wickfield" "Mr Creakle" 1
+"39" "Agnes Wickfield" "Mr Dick" 15
+"40" "Agnes Wickfield" "Mr Gulpidge" 2
+"41" "Agnes Wickfield" "Mr Henry Spiker" 3
+"42" "Agnes Wickfield" "Mr Jorkins" 3
+"43" "Agnes Wickfield" "Mr Larkins" 2
+"44" "Agnes Wickfield" "Mr Mell" 1
+"45" "Agnes Wickfield" "Mr Micawber" 17
+"46" "Agnes Wickfield" "Mr Spenlow" 4
+"47" "Agnes Wickfield" "Mr Waterbrook" 4
+"48" "Agnes Wickfield" "Mr Wickfield" 35
+"49" "Agnes Wickfield" "Mrs Crewler" 2
+"50" "Agnes Wickfield" "Mrs Crupp" 10
+"51" "Agnes Wickfield" "Mrs Gulpidge" 1
+"52" "Agnes Wickfield" "Mrs Gummidge" 2
+"53" "Agnes Wickfield" "Mrs Heep" 7
+"54" "Agnes Wickfield" "Mrs Henry Spiker" 3
+"55" "Agnes Wickfield" "Mrs Markleham" 6
+"56" "Agnes Wickfield" "Mrs Micawber" 6
+"57" "Agnes Wickfield" "Mrs Steerforth" 2
+"58" "Agnes Wickfield" "Mrs Waterbrook" 2
+"59" "Agnes Wickfield" "Reverend Crewler" 1
+"60" "Agnes Wickfield" "Rosa Dartle" 3
+"61" "Agnes Wickfield" "Sophy Crewler" 5
+"62" "Agnes Wickfield" "Tommy Traddles" 24
+"63" "Agnes Wickfield" "Uriah" 36
+"64" "Agnes Wickfield" "William" 1
+"65" "Annie Strong" "Clara Peggotty" 1
+"66" "Annie Strong" "Clarissa Spenlow" 1
+"67" "Annie Strong" "David Copperfield" 11
+"68" "Annie Strong" "Doctor Strong" 10
+"69" "Annie Strong" "Jack Maldon" 13
+"70" "Annie Strong" "Janet" 1
+"71" "Annie Strong" "Julia Mills" 2
+"72" "Annie Strong" "Lavinia Spenlow" 1
+"73" "Annie Strong" "Little Emily" 1
+"74" "Annie Strong" "Miss Betsey Trotwood" 12
+"75" "Annie Strong" "Mr Dick" 7
+"76" "Annie Strong" "Mr Jorkins" 1
+"77" "Annie Strong" "Mr Micawber" 1
+"78" "Annie Strong" "Mr Spenlow" 1
+"79" "Annie Strong" "Mr Wickfield" 13
+"80" "Annie Strong" "Mrs Heep" 1
+"81" "Annie Strong" "Mrs Markleham" 13
+"82" "Annie Strong" "Mrs Steerforth" 1
+"83" "Annie Strong" "Rosa Dartle" 1
+"84" "Annie Strong" "Sophy Crewler" 1
+"85" "Annie Strong" "Tommy Traddles" 2
+"86" "Annie Strong" "Uriah" 6
+"87" "Barkis" "Clara Copperfield" 5
+"88" "Barkis" "Clara Peggotty" 28
+"89" "Barkis" "Daniel Peggotty" 15
+"90" "Barkis" "David Copperfield" 15
+"91" "Barkis" "Doctor Strong" 1
+"92" "Barkis" "Ham Peggotty" 10
+"93" "Barkis" "James Steerforth" 9
+"94" "Barkis" "Jane Murdstone" 7
+"95" "Barkis" "Janet" 1
+"96" "Barkis" "Julia Mills" 1
+"97" "Barkis" "Littimer" 2
+"98" "Barkis" "Little Emily" 15
+"99" "Barkis" "Martha Endell" 3
+"100" "Barkis" "Minnie Joram" 7
+"101" "Barkis" "Miss Betsey Trotwood" 11
+"102" "Barkis" "Miss Mowcher" 1
+"103" "Barkis" "Mr Chillip" 4
+"104" "Barkis" "Mr Creakle" 2
+"105" "Barkis" "Mr Dick" 4
+"106" "Barkis" "Mr Grayper" 1
+"107" "Barkis" "Mr Gummidge" 1
+"108" "Barkis" "Mr Joram" 5
+"109" "Barkis" "Mr Micawber" 1
+"110" "Barkis" "Mr Mills" 1
+"111" "Barkis" "Mr Murdstone" 7
+"112" "Barkis" "Mr Omer" 9
+"113" "Barkis" "Mr Spenlow" 1
+"114" "Barkis" "Mr Tiffey" 1
+"115" "Barkis" "Mrs Crupp" 2
+"116" "Barkis" "Mrs Grayper" 1
+"117" "Barkis" "Mrs Gummidge" 6
+"118" "Barkis" "Mrs Micawber" 1
+"119" "Barkis" "Mrs Steerforth" 1
+"120" "Barkis" "Rosa Dartle" 1
+"121" "Barkis" "Sophy Crewler" 1
+"122" "Barkis" "Tommy Traddles" 3
+"123" "Barkis" "Topsawyer" 1
+"124" "Captain Bailey" "David Copperfield" 1
+"125" "Captain Bailey" "Doctor Strong" 1
+"126" "Captain Bailey" "Miss Betsey Trotwood" 1
+"127" "Captain Bailey" "Miss Larkins" 1
+"128" "Captain Bailey" "Mr Chestle" 1
+"129" "Captain Bailey" "Mr Dick" 1
+"130" "Captain Bailey" "Mr Larkins" 1
+"131" "Captain Hopkins" "Mr Micawber" 2
+"132" "Captain Hopkins" "Mr Murdstone" 1
+"133" "Captain Hopkins" "Mrs Micawber" 2
+"134" "Caroline Crewler" "David Copperfield" 3
+"135" "Caroline Crewler" "Louisa Crewler" 1
+"136" "Caroline Crewler" "Miss Betsey Trotwood" 1
+"137" "Caroline Crewler" "Mr Micawber" 1
+"138" "Caroline Crewler" "Mrs Crewler" 3
+"139" "Caroline Crewler" "Reverend Crewler" 2
+"140" "Caroline Crewler" "Sarah Crewler" 1
+"141" "Caroline Crewler" "Sophy Crewler" 3
+"142" "Caroline Crewler" "Tommy Traddles" 3
+"143" "Charley Pyegrave" "David Copperfield" 1
+"144" "Charley Pyegrave" "James Steerforth" 1
+"145" "Charley Pyegrave" "Little Emily" 1
+"146" "Charley Pyegrave" "Miss Mowcher" 1
+"147" "Clara Copperfield" "Clara Peggotty" 30
+"148" "Clara Copperfield" "Daniel Peggotty" 4
+"149" "Clara Copperfield" "David Copperfield" 24
+"150" "Clara Copperfield" "George Demple" 1
+"151" "Clara Copperfield" "Ham Peggotty" 6
+"152" "Clara Copperfield" "James Steerforth" 8
+"153" "Clara Copperfield" "Jane Murdstone" 18
+"154" "Clara Copperfield" "Janet" 1
+"155" "Clara Copperfield" "Little Emily" 5
+"156" "Clara Copperfield" "Minnie Joram" 2
+"157" "Clara Copperfield" "Miss Betsey Trotwood" 9
+"158" "Clara Copperfield" "Miss Creakle" 1
+"159" "Clara Copperfield" "Mr Chillip" 4
+"160" "Clara Copperfield" "Mr Creakle" 5
+"161" "Clara Copperfield" "Mr Dick" 2
+"162" "Clara Copperfield" "Mr Grayper" 1
+"163" "Clara Copperfield" "Mr Gummidge" 2
+"164" "Clara Copperfield" "Mr Joram" 1
+"165" "Clara Copperfield" "Mr Jorkins" 2
+"166" "Clara Copperfield" "Mr Mell" 2
+"167" "Clara Copperfield" "Mr Murdstone" 22
+"168" "Clara Copperfield" "Mr Omer" 2
+"169" "Clara Copperfield" "Mr Passnidge" 1
+"170" "Clara Copperfield" "Mr Quinion" 1
+"171" "Clara Copperfield" "Mr Sharp" 2
+"172" "Clara Copperfield" "Mr Spenlow" 1
+"173" "Clara Copperfield" "Mr Tiffey" 1
+"174" "Clara Copperfield" "Mrs Creakle" 2
+"175" "Clara Copperfield" "Mrs Grayper" 1
+"176" "Clara Copperfield" "Mrs Gummidge" 5
+"177" "Clara Copperfield" "Mrs Steerforth" 1
+"178" "Clara Copperfield" "Rosa Dartle" 1
+"179" "Clara Copperfield" "Tom Jones" 2
+"180" "Clara Copperfield" "Tommy Traddles" 2
+"181" "Clara Peggotty" "Clarissa Spenlow" 2
+"182" "Clara Peggotty" "Daniel Peggotty" 39
+"183" "Clara Peggotty" "David Copperfield" 61
+"184" "Clara Peggotty" "Doctor Strong" 3
+"185" "Clara Peggotty" "George Demple" 2
+"186" "Clara Peggotty" "Gregory" 1
+"187" "Clara Peggotty" "Ham Peggotty" 30
+"188" "Clara Peggotty" "Jack Maldon" 1
+"189" "Clara Peggotty" "James Steerforth" 20
+"190" "Clara Peggotty" "Jane Murdstone" 20
+"191" "Clara Peggotty" "Janet" 1
+"192" "Clara Peggotty" "Julia Mills" 2
+"193" "Clara Peggotty" "Lavinia Spenlow" 2
+"194" "Clara Peggotty" "Littimer" 3
+"195" "Clara Peggotty" "Little Emily" 38
+"196" "Clara Peggotty" "Martha Endell" 6
+"197" "Clara Peggotty" "Mealy Potatoes" 1
+"198" "Clara Peggotty" "Mick Walker" 1
+"199" "Clara Peggotty" "Minnie Joram" 8
+"200" "Clara Peggotty" "Miss Betsey Trotwood" 34
+"201" "Clara Peggotty" "Miss Creakle" 1
+"202" "Clara Peggotty" "Miss Micawber" 1
+"203" "Clara Peggotty" "Miss Mowcher" 2
+"204" "Clara Peggotty" "Mr Chillip" 8
+"205" "Clara Peggotty" "Mr Creakle" 7
+"206" "Clara Peggotty" "Mr Dick" 12
+"207" "Clara Peggotty" "Mr Grayper" 2
+"208" "Clara Peggotty" "Mr Gummidge" 4
+"209" "Clara Peggotty" "Mr Joram" 8
+"210" "Clara Peggotty" "Mr Jorkins" 1
+"211" "Clara Peggotty" "Mr Mell" 6
+"212" "Clara Peggotty" "Mr Micawber" 6
+"213" "Clara Peggotty" "Mr Mills" 1
+"214" "Clara Peggotty" "Mr Murdstone" 25
+"215" "Clara Peggotty" "Mr Omer" 11
+"216" "Clara Peggotty" "Mr Quinion" 2
+"217" "Clara Peggotty" "Mr Sharp" 2
+"218" "Clara Peggotty" "Mr Spenlow" 3
+"219" "Clara Peggotty" "Mr Tiffey" 3
+"220" "Clara Peggotty" "Mr Wickfield" 3
+"221" "Clara Peggotty" "Mrs Chillip" 1
+"222" "Clara Peggotty" "Mrs Creakle" 2
+"223" "Clara Peggotty" "Mrs Crupp" 6
+"224" "Clara Peggotty" "Mrs Fibbitson" 1
+"225" "Clara Peggotty" "Mrs Grayper" 2
+"226" "Clara Peggotty" "Mrs Gummidge" 20
+"227" "Clara Peggotty" "Mrs Markleham" 1
+"228" "Clara Peggotty" "Mrs Micawber" 4
+"229" "Clara Peggotty" "Mrs Steerforth" 2
+"230" "Clara Peggotty" "Rosa Dartle" 3
+"231" "Clara Peggotty" "Sophy Crewler" 3
+"232" "Clara Peggotty" "Tipp" 1
+"233" "Clara Peggotty" "Tommy Traddles" 15
+"234" "Clara Peggotty" "Tungay" 2
+"235" "Clara Peggotty" "Uriah" 5
+"236" "Clarissa Spenlow" "David Copperfield" 9
+"237" "Clarissa Spenlow" "Jack Maldon" 1
+"238" "Clarissa Spenlow" "Janet" 1
+"239" "Clarissa Spenlow" "Julia Mills" 3
+"240" "Clarissa Spenlow" "Lavinia Spenlow" 14
+"241" "Clarissa Spenlow" "Miss Betsey Trotwood" 8
+"242" "Clarissa Spenlow" "Mr Dick" 2
+"243" "Clarissa Spenlow" "Mr Jorkins" 1
+"244" "Clarissa Spenlow" "Mr Mills" 1
+"245" "Clarissa Spenlow" "Mr Spenlow" 5
+"246" "Clarissa Spenlow" "Mr Tiffey" 1
+"247" "Clarissa Spenlow" "Mr Wickfield" 1
+"248" "Clarissa Spenlow" "Mrs Crewler" 1
+"249" "Clarissa Spenlow" "Mrs Heep" 1
+"250" "Clarissa Spenlow" "Reverend Crewler" 1
+"251" "Clarissa Spenlow" "Sarah Crewler" 1
+"252" "Clarissa Spenlow" "Sophy Crewler" 5
+"253" "Clarissa Spenlow" "Tommy Traddles" 8
+"254" "Clarissa Spenlow" "Uriah" 2
+"255" "Clickett" "David Copperfield" 1
+"256" "Clickett" "Mr Micawber" 1
+"257" "Clickett" "Mrs Micawber" 1
+"258" "Daniel Peggotty" "David Copperfield" 42
+"259" "Daniel Peggotty" "Doctor Strong" 2
+"260" "Daniel Peggotty" "Ham Peggotty" 30
+"261" "Daniel Peggotty" "James Steerforth" 18
+"262" "Daniel Peggotty" "Jane Murdstone" 6
+"263" "Daniel Peggotty" "Janet" 1
+"264" "Daniel Peggotty" "Littimer" 5
+"265" "Daniel Peggotty" "Little Emily" 41
+"266" "Daniel Peggotty" "Martha Endell" 9
+"267" "Daniel Peggotty" "Minnie Joram" 5
+"268" "Daniel Peggotty" "Miss Betsey Trotwood" 17
+"269" "Daniel Peggotty" "Miss Micawber" 1
+"270" "Daniel Peggotty" "Miss Mowcher" 1
+"271" "Daniel Peggotty" "Mr Chillip" 4
+"272" "Daniel Peggotty" "Mr Creakle" 2
+"273" "Daniel Peggotty" "Mr Dick" 4
+"274" "Daniel Peggotty" "Mr Grayper" 1
+"275" "Daniel Peggotty" "Mr Gummidge" 4
+"276" "Daniel Peggotty" "Mr Joram" 5
+"277" "Daniel Peggotty" "Mr Mell" 2
+"278" "Daniel Peggotty" "Mr Micawber" 7
+"279" "Daniel Peggotty" "Mr Murdstone" 3
+"280" "Daniel Peggotty" "Mr Omer" 8
+"281" "Daniel Peggotty" "Mrs Crupp" 2
+"282" "Daniel Peggotty" "Mrs Grayper" 1
+"283" "Daniel Peggotty" "Mrs Gummidge" 28
+"284" "Daniel Peggotty" "Mrs Micawber" 4
+"285" "Daniel Peggotty" "Mrs Steerforth" 4
+"286" "Daniel Peggotty" "Rosa Dartle" 8
+"287" "Daniel Peggotty" "Tommy Traddles" 5
+"288" "Daniel Peggotty" "Topsawyer" 1
+"289" "Daniel Peggotty" "Tungay" 1
+"290" "Daniel Peggotty" "Uriah" 2
+"291" "David Copperfield" "Doctor Strong" 13
+"292" "David Copperfield" "George Demple" 1
+"293" "David Copperfield" "Grainger" 2
+"294" "David Copperfield" "Ham Peggotty" 31
+"295" "David Copperfield" "Jack Maldon" 9
+"296" "David Copperfield" "James Steerforth" 48
+"297" "David Copperfield" "Jane Murdstone" 22
+"298" "David Copperfield" "Janet" 4
+"299" "David Copperfield" "Julia Mills" 12
+"300" "David Copperfield" "Lady Mithers" 1
+"301" "David Copperfield" "Lavinia Spenlow" 10
+"302" "David Copperfield" "Littimer" 10
+"303" "David Copperfield" "Little Emily" 41
+"304" "David Copperfield" "Louisa Crewler" 1
+"305" "David Copperfield" "Markham" 3
+"306" "David Copperfield" "Martha Endell" 9
+"307" "David Copperfield" "Mary Anne Paragon" 2
+"308" "David Copperfield" "Mealy Potatoes" 3
+"309" "David Copperfield" "Mick Walker" 3
+"310" "David Copperfield" "Minnie Joram" 2
+"311" "David Copperfield" "Miss Betsey Trotwood" 92
+"312" "David Copperfield" "Miss Creakle" 4
+"313" "David Copperfield" "Miss Larkins" 4
+"314" "David Copperfield" "Miss Micawber" 5
+"315" "David Copperfield" "Miss Mowcher" 6
+"316" "David Copperfield" "Miss Shepherd" 1
+"317" "David Copperfield" "Mithers" 1
+"318" "David Copperfield" "Mr Chestle" 1
+"319" "David Copperfield" "Mr Chillip" 3
+"320" "David Copperfield" "Mr Creakle" 15
+"321" "David Copperfield" "Mr Dick" 32
+"322" "David Copperfield" "Mr Gulpidge" 1
+"323" "David Copperfield" "Mr Gummidge" 3
+"324" "David Copperfield" "Mr Henry Spiker" 2
+"325" "David Copperfield" "Mr Joram" 5
+"326" "David Copperfield" "Mr Jorkins" 7
+"327" "David Copperfield" "Mr Larkins" 1
+"328" "David Copperfield" "Mr Mell" 9
+"329" "David Copperfield" "Mr Micawber" 53
+"330" "David Copperfield" "Mr Mills" 4
+"331" "David Copperfield" "Mr Murdstone" 23
+"332" "David Copperfield" "Mr Omer" 5
+"333" "David Copperfield" "Mr Passnidge" 1
+"334" "David Copperfield" "Mr Quinion" 6
+"335" "David Copperfield" "Mr Sharp" 5
+"336" "David Copperfield" "Mr Spenlow" 17
+"337" "David Copperfield" "Mr Tiffey" 4
+"338" "David Copperfield" "Mr Waterbrook" 4
+"339" "David Copperfield" "Mr Wickfield" 36
+"340" "David Copperfield" "Mrs Creakle" 4
+"341" "David Copperfield" "Mrs Crewler" 4
+"342" "David Copperfield" "Mrs Crupp" 17
+"343" "David Copperfield" "Mrs Fibbitson" 1
+"344" "David Copperfield" "Mrs Grayper" 1
+"345" "David Copperfield" "Mrs Gulpidge" 1
+"346" "David Copperfield" "Mrs Gummidge" 22
+"347" "David Copperfield" "Mrs Heep" 10
+"348" "David Copperfield" "Mrs Henry Spiker" 2
+"349" "David Copperfield" "Mrs Markleham" 6
+"350" "David Copperfield" "Mrs Mell" 1
+"351" "David Copperfield" "Mrs Micawber" 34
+"352" "David Copperfield" "Mrs Steerforth" 6
+"353" "David Copperfield" "Mrs Waterbrook" 2
+"354" "David Copperfield" "Reverend Crewler" 3
+"355" "David Copperfield" "Rosa Dartle" 12
+"356" "David Copperfield" "Sarah Crewler" 3
+"357" "David Copperfield" "Sophy Crewler" 13
+"358" "David Copperfield" "Tipp" 2
+"359" "David Copperfield" "Tom Jones" 2
+"360" "David Copperfield" "Tommy Traddles" 66
+"361" "David Copperfield" "Tungay" 4
+"362" "David Copperfield" "Uriah" 45
+"363" "David Copperfield" "Yawler" 1
+"364" "Doctor Strong" "Ham Peggotty" 1
+"365" "Doctor Strong" "Jack Maldon" 8
+"366" "Doctor Strong" "James Steerforth" 1
+"367" "Doctor Strong" "Jane Murdstone" 1
+"368" "Doctor Strong" "Little Emily" 2
+"369" "Doctor Strong" "Mealy Potatoes" 1
+"370" "Doctor Strong" "Mick Walker" 1
+"371" "Doctor Strong" "Miss Betsey Trotwood" 9
+"372" "Doctor Strong" "Miss Larkins" 2
+"373" "Doctor Strong" "Miss Shepherd" 1
+"374" "Doctor Strong" "Misses Nettingall" 1
+"375" "Doctor Strong" "Mr Chestle" 1
+"376" "Doctor Strong" "Mr Creakle" 1
+"377" "Doctor Strong" "Mr Dick" 9
+"378" "Doctor Strong" "Mr Larkins" 2
+"379" "Doctor Strong" "Mr Micawber" 3
+"380" "Doctor Strong" "Mr Murdstone" 1
+"381" "Doctor Strong" "Mr Wickfield" 7
+"382" "Doctor Strong" "Mrs Gummidge" 1
+"383" "Doctor Strong" "Mrs Heep" 2
+"384" "Doctor Strong" "Mrs Markleham" 5
+"385" "Doctor Strong" "Mrs Micawber" 3
+"386" "Doctor Strong" "Sophy Crewler" 1
+"387" "Doctor Strong" "Tommy Traddles" 1
+"388" "Doctor Strong" "Uriah" 6
+"389" "George Demple" "James Steerforth" 1
+"390" "George Demple" "Miss Creakle" 1
+"391" "George Demple" "Mr Creakle" 2
+"392" "George Demple" "Mr Mell" 1
+"393" "George Demple" "Mrs Creakle" 1
+"394" "George Demple" "Tommy Traddles" 2
+"395" "Grainger" "James Steerforth" 2
+"396" "Grainger" "Markham" 2
+"397" "Grainger" "Miss Betsey Trotwood" 1
+"398" "Grainger" "Mrs Crupp" 1
+"399" "Gregory" "Mealy Potatoes" 1
+"400" "Gregory" "Mick Walker" 1
+"401" "Gregory" "Mr Micawber" 1
+"402" "Gregory" "Mr Quinion" 1
+"403" "Gregory" "Mrs Micawber" 1
+"404" "Gregory" "Tipp" 1
+"405" "Ham Peggotty" "James Steerforth" 12
+"406" "Ham Peggotty" "Jane Murdstone" 4
+"407" "Ham Peggotty" "Julia Mills" 1
+"408" "Ham Peggotty" "Littimer" 2
+"409" "Ham Peggotty" "Little Emily" 31
+"410" "Ham Peggotty" "Martha Endell" 4
+"411" "Ham Peggotty" "Minnie Joram" 3
+"412" "Ham Peggotty" "Miss Betsey Trotwood" 8
+"413" "Ham Peggotty" "Miss Mowcher" 3
+"414" "Ham Peggotty" "Mr Chillip" 3
+"415" "Ham Peggotty" "Mr Creakle" 1
+"416" "Ham Peggotty" "Mr Dick" 3
+"417" "Ham Peggotty" "Mr Gummidge" 3
+"418" "Ham Peggotty" "Mr Joram" 3
+"419" "Ham Peggotty" "Mr Mell" 1
+"420" "Ham Peggotty" "Mr Mills" 1
+"421" "Ham Peggotty" "Mr Murdstone" 4
+"422" "Ham Peggotty" "Mr Omer" 6
+"423" "Ham Peggotty" "Mrs Crupp" 1
+"424" "Ham Peggotty" "Mrs Grayper" 1
+"425" "Ham Peggotty" "Mrs Gummidge" 22
+"426" "Ham Peggotty" "Rosa Dartle" 1
+"427" "Ham Peggotty" "Tommy Traddles" 2
+"428" "Ham Peggotty" "Tungay" 1
+"429" "Jack Maldon" "Julia Mills" 2
+"430" "Jack Maldon" "Lavinia Spenlow" 1
+"431" "Jack Maldon" "Little Emily" 1
+"432" "Jack Maldon" "Mealy Potatoes" 1
+"433" "Jack Maldon" "Mick Walker" 1
+"434" "Jack Maldon" "Miss Betsey Trotwood" 4
+"435" "Jack Maldon" "Mr Dick" 2
+"436" "Jack Maldon" "Mr Wickfield" 9
+"437" "Jack Maldon" "Mrs Markleham" 8
+"438" "Jack Maldon" "Mrs Steerforth" 1
+"439" "Jack Maldon" "Rosa Dartle" 2
+"440" "Jack Maldon" "Tommy Traddles" 2
+"441" "Jack Maldon" "Uriah" 3
+"442" "James Steerforth" "Jane Murdstone" 7
+"443" "James Steerforth" "Janet" 2
+"444" "James Steerforth" "Lady Mithers" 1
+"445" "James Steerforth" "Littimer" 12
+"446" "James Steerforth" "Little Emily" 17
+"447" "James Steerforth" "Markham" 2
+"448" "James Steerforth" "Martha Endell" 4
+"449" "James Steerforth" "Mealy Potatoes" 1
+"450" "James Steerforth" "Mick Walker" 1
+"451" "James Steerforth" "Minnie Joram" 1
+"452" "James Steerforth" "Miss Betsey Trotwood" 15
+"453" "James Steerforth" "Miss Creakle" 3
+"454" "James Steerforth" "Miss Larkins" 1
+"455" "James Steerforth" "Miss Mowcher" 5
+"456" "James Steerforth" "Miss Shepherd" 1
+"457" "James Steerforth" "Misses Nettingall" 1
+"458" "James Steerforth" "Mithers" 1
+"459" "James Steerforth" "Mr Chillip" 1
+"460" "James Steerforth" "Mr Creakle" 15
+"461" "James Steerforth" "Mr Dick" 2
+"462" "James Steerforth" "Mr Dolloby" 2
+"463" "James Steerforth" "Mr Grayper" 1
+"464" "James Steerforth" "Mr Gulpidge" 1
+"465" "James Steerforth" "Mr Gummidge" 1
+"466" "James Steerforth" "Mr Henry Spiker" 1
+"467" "James Steerforth" "Mr Joram" 4
+"468" "James Steerforth" "Mr Jorkins" 5
+"469" "James Steerforth" "Mr Mell" 8
+"470" "James Steerforth" "Mr Micawber" 5
+"471" "James Steerforth" "Mr Murdstone" 5
+"472" "James Steerforth" "Mr Omer" 2
+"473" "James Steerforth" "Mr Quinion" 1
+"474" "James Steerforth" "Mr Sharp" 5
+"475" "James Steerforth" "Mr Spenlow" 3
+"476" "James Steerforth" "Mr Waterbrook" 1
+"477" "James Steerforth" "Mr Wickfield" 1
+"478" "James Steerforth" "Mrs Creakle" 3
+"479" "James Steerforth" "Mrs Crupp" 8
+"480" "James Steerforth" "Mrs Grayper" 1
+"481" "James Steerforth" "Mrs Gummidge" 8
+"482" "James Steerforth" "Mrs Henry Spiker" 1
+"483" "James Steerforth" "Mrs Mell" 1
+"484" "James Steerforth" "Mrs Micawber" 4
+"485" "James Steerforth" "Mrs Steerforth" 12
+"486" "James Steerforth" "Rosa Dartle" 19
+"487" "James Steerforth" "Tommy Traddles" 20
+"488" "James Steerforth" "Tungay" 6
+"489" "James Steerforth" "Uriah" 3
+"490" "Jane Murdstone" "Janet" 3
+"491" "Jane Murdstone" "Julia Mills" 3
+"492" "Jane Murdstone" "Little Emily" 5
+"493" "Jane Murdstone" "Minnie Joram" 2
+"494" "Jane Murdstone" "Miss Betsey Trotwood" 11
+"495" "Jane Murdstone" "Miss Micawber" 1
+"496" "Jane Murdstone" "Mr Chillip" 3
+"497" "Jane Murdstone" "Mr Creakle" 4
+"498" "Jane Murdstone" "Mr Dick" 7
+"499" "Jane Murdstone" "Mr Grayper" 1
+"500" "Jane Murdstone" "Mr Joram" 1
+"501" "Jane Murdstone" "Mr Jorkins" 1
+"502" "Jane Murdstone" "Mr Mell" 2
+"503" "Jane Murdstone" "Mr Micawber" 1
+"504" "Jane Murdstone" "Mr Mills" 1
+"505" "Jane Murdstone" "Mr Murdstone" 27
+"506" "Jane Murdstone" "Mr Omer" 2
+"507" "Jane Murdstone" "Mr Quinion" 2
+"508" "Jane Murdstone" "Mr Spenlow" 8
+"509" "Jane Murdstone" "Mr Tiffey" 2
+"510" "Jane Murdstone" "Mrs Chillip" 1
+"511" "Jane Murdstone" "Mrs Crupp" 1
+"512" "Jane Murdstone" "Mrs Gummidge" 6
+"513" "Jane Murdstone" "Mrs Micawber" 1
+"514" "Jane Murdstone" "Tipp" 1
+"515" "Jane Murdstone" "Tom Jones" 2
+"516" "Jane Murdstone" "Tommy Traddles" 1
+"517" "Jane Murdstone" "Tungay" 1
+"518" "Janet" "Julia Mills" 1
+"519" "Janet" "Lavinia Spenlow" 1
+"520" "Janet" "Miss Betsey Trotwood" 12
+"521" "Janet" "Mr Creakle" 1
+"522" "Janet" "Mr Dick" 9
+"523" "Janet" "Mr Jorkins" 2
+"524" "Janet" "Mr Micawber" 1
+"525" "Janet" "Mr Murdstone" 2
+"526" "Janet" "Mr Spenlow" 1
+"527" "Janet" "Mr Wickfield" 1
+"528" "Janet" "Mrs Crupp" 1
+"529" "Janet" "Sophy Crewler" 1
+"530" "Janet" "Tommy Traddles" 1
+"531" "Julia Mills" "Lavinia Spenlow" 4
+"532" "Julia Mills" "Miss Betsey Trotwood" 9
+"533" "Julia Mills" "Miss Kitt" 1
+"534" "Julia Mills" "Mr Dick" 3
+"535" "Julia Mills" "Mr Jorkins" 2
+"536" "Julia Mills" "Mr Micawber" 1
+"537" "Julia Mills" "Mr Mills" 4
+"538" "Julia Mills" "Mr Spenlow" 8
+"539" "Julia Mills" "Mr Tiffey" 3
+"540" "Julia Mills" "Mrs Crupp" 2
+"541" "Julia Mills" "Mrs Markleham" 1
+"542" "Julia Mills" "Rosa Dartle" 1
+"543" "Julia Mills" "Sophy Crewler" 1
+"544" "Julia Mills" "Tommy Traddles" 3
+"545" "Lady Mithers" "Miss Mowcher" 1
+"546" "Lady Mithers" "Mithers" 1
+"547" "Lavinia Spenlow" "Miss Betsey Trotwood" 8
+"548" "Lavinia Spenlow" "Mr Dick" 2
+"549" "Lavinia Spenlow" "Mr Jorkins" 1
+"550" "Lavinia Spenlow" "Mr Mills" 1
+"551" "Lavinia Spenlow" "Mr Spenlow" 5
+"552" "Lavinia Spenlow" "Mr Tiffey" 1
+"553" "Lavinia Spenlow" "Mr Wickfield" 1
+"554" "Lavinia Spenlow" "Mrs Crewler" 1
+"555" "Lavinia Spenlow" "Mrs Heep" 1
+"556" "Lavinia Spenlow" "Reverend Crewler" 1
+"557" "Lavinia Spenlow" "Sarah Crewler" 1
+"558" "Lavinia Spenlow" "Sophy Crewler" 5
+"559" "Lavinia Spenlow" "Tommy Traddles" 8
+"560" "Lavinia Spenlow" "Uriah" 2
+"561" "Littimer" "Little Emily" 2
+"562" "Littimer" "Martha Endell" 1
+"563" "Littimer" "Minnie Joram" 1
+"564" "Littimer" "Miss Betsey Trotwood" 1
+"565" "Littimer" "Miss Mowcher" 3
+"566" "Littimer" "Mr Creakle" 1
+"567" "Littimer" "Mr Joram" 3
+"568" "Littimer" "Mr Jorkins" 1
+"569" "Littimer" "Mr Micawber" 2
+"570" "Littimer" "Mr Omer" 1
+"571" "Littimer" "Mr Spenlow" 1
+"572" "Littimer" "Mrs Crupp" 2
+"573" "Littimer" "Mrs Gummidge" 1
+"574" "Littimer" "Mrs Micawber" 2
+"575" "Littimer" "Mrs Steerforth" 6
+"576" "Littimer" "Rosa Dartle" 8
+"577" "Littimer" "Tommy Traddles" 2
+"578" "Littimer" "Uriah" 1
+"579" "Little Emily" "Martha Endell" 12
+"580" "Little Emily" "Minnie Joram" 7
+"581" "Little Emily" "Miss Betsey Trotwood" 13
+"582" "Little Emily" "Miss Creakle" 1
+"583" "Little Emily" "Miss Mowcher" 3
+"584" "Little Emily" "Mr Chillip" 2
+"585" "Little Emily" "Mr Creakle" 2
+"586" "Little Emily" "Mr Dick" 2
+"587" "Little Emily" "Mr Gummidge" 5
+"588" "Little Emily" "Mr Joram" 7
+"589" "Little Emily" "Mr Mell" 3
+"590" "Little Emily" "Mr Micawber" 5
+"591" "Little Emily" "Mr Murdstone" 5
+"592" "Little Emily" "Mr Omer" 9
+"593" "Little Emily" "Mr Sharp" 1
+"594" "Little Emily" "Mr Wickfield" 1
+"595" "Little Emily" "Mrs Crupp" 2
+"596" "Little Emily" "Mrs Gummidge" 23
+"597" "Little Emily" "Mrs Micawber" 1
+"598" "Little Emily" "Mrs Steerforth" 1
+"599" "Little Emily" "Rosa Dartle" 5
+"600" "Little Emily" "Tommy Traddles" 6
+"601" "Little Emily" "Topsawyer" 1
+"602" "Little Emily" "Tungay" 1
+"603" "Little Emily" "Uriah" 1
+"604" "Louisa Crewler" "Mr Micawber" 1
+"605" "Louisa Crewler" "Mrs Crewler" 1
+"606" "Louisa Crewler" "Reverend Crewler" 1
+"607" "Louisa Crewler" "Sarah Crewler" 1
+"608" "Louisa Crewler" "Sophy Crewler" 1
+"609" "Louisa Crewler" "Tommy Traddles" 1
+"610" "Markham" "Miss Betsey Trotwood" 1
+"611" "Markham" "Mr Waterbrook" 1
+"612" "Markham" "Mrs Crupp" 1
+"613" "Martha Endell" "Minnie Joram" 2
+"614" "Martha Endell" "Miss Betsey Trotwood" 4
+"615" "Martha Endell" "Mr Chillip" 1
+"616" "Martha Endell" "Mr Dick" 1
+"617" "Martha Endell" "Mr Joram" 3
+"618" "Martha Endell" "Mr Micawber" 3
+"619" "Martha Endell" "Mr Omer" 3
+"620" "Martha Endell" "Mrs Gummidge" 2
+"621" "Martha Endell" "Mrs Micawber" 1
+"622" "Martha Endell" "Rosa Dartle" 3
+"623" "Martha Endell" "Tommy Traddles" 1
+"624" "Mary Anne Paragon" "Miss Betsey Trotwood" 2
+"625" "Mary Anne Paragon" "Mrs Crupp" 1
+"626" "Mealy Potatoes" "Mick Walker" 4
+"627" "Mealy Potatoes" "Miss Betsey Trotwood" 1
+"628" "Mealy Potatoes" "Miss Micawber" 1
+"629" "Mealy Potatoes" "Mr Micawber" 2
+"630" "Mealy Potatoes" "Mr Murdstone" 1
+"631" "Mealy Potatoes" "Mr Quinion" 4
+"632" "Mealy Potatoes" "Mr Wickfield" 1
+"633" "Mealy Potatoes" "Mrs Micawber" 2
+"634" "Mealy Potatoes" "Tipp" 2
+"635" "Mealy Potatoes" "Tommy Traddles" 1
+"636" "Mealy Potatoes" "Uriah" 1
+"637" "Mick Walker" "Miss Betsey Trotwood" 1
+"638" "Mick Walker" "Mr Micawber" 1
+"639" "Mick Walker" "Mr Quinion" 3
+"640" "Mick Walker" "Mr Wickfield" 1
+"641" "Mick Walker" "Mrs Micawber" 1
+"642" "Mick Walker" "Tipp" 2
+"643" "Mick Walker" "Tommy Traddles" 1
+"644" "Mick Walker" "Uriah" 1
+"645" "Minnie Joram" "Miss Mowcher" 1
+"646" "Minnie Joram" "Mr Chillip" 2
+"647" "Minnie Joram" "Mr Grayper" 1
+"648" "Minnie Joram" "Mr Joram" 7
+"649" "Minnie Joram" "Mr Murdstone" 2
+"650" "Minnie Joram" "Mr Omer" 11
+"651" "Minnie Joram" "Mrs Gummidge" 2
+"652" "Minnie Joram" "Mrs Steerforth" 1
+"653" "Minnie Joram" "Rosa Dartle" 1
+"654" "Minnie Joram" "Tommy Traddles" 1
+"655" "Miss Betsey Trotwood" "Miss Larkins" 3
+"656" "Miss Betsey Trotwood" "Miss Micawber" 2
+"657" "Miss Betsey Trotwood" "Miss Shepherd" 2
+"658" "Miss Betsey Trotwood" "Misses Nettingall" 1
+"659" "Miss Betsey Trotwood" "Mr Chestle" 1
+"660" "Miss Betsey Trotwood" "Mr Chillip" 4
+"661" "Miss Betsey Trotwood" "Mr Creakle" 3
+"662" "Miss Betsey Trotwood" "Mr Dick" 51
+"663" "Miss Betsey Trotwood" "Mr Dolloby" 1
+"664" "Miss Betsey Trotwood" "Mr Grayper" 1
+"665" "Miss Betsey Trotwood" "Mr Joram" 2
+"666" "Miss Betsey Trotwood" "Mr Jorkins" 9
+"667" "Miss Betsey Trotwood" "Mr Larkins" 1
+"668" "Miss Betsey Trotwood" "Mr Mell" 1
+"669" "Miss Betsey Trotwood" "Mr Micawber" 29
+"670" "Miss Betsey Trotwood" "Mr Mills" 3
+"671" "Miss Betsey Trotwood" "Mr Murdstone" 9
+"672" "Miss Betsey Trotwood" "Mr Omer" 3
+"673" "Miss Betsey Trotwood" "Mr Quinion" 1
+"674" "Miss Betsey Trotwood" "Mr Spenlow" 12
+"675" "Miss Betsey Trotwood" "Mr Tiffey" 5
+"676" "Miss Betsey Trotwood" "Mr Wickfield" 27
+"677" "Miss Betsey Trotwood" "Mrs Chillip" 1
+"678" "Miss Betsey Trotwood" "Mrs Crewler" 1
+"679" "Miss Betsey Trotwood" "Mrs Crupp" 8
+"680" "Miss Betsey Trotwood" "Mrs Grayper" 1
+"681" "Miss Betsey Trotwood" "Mrs Gummidge" 4
+"682" "Miss Betsey Trotwood" "Mrs Heep" 3
+"683" "Miss Betsey Trotwood" "Mrs Markleham" 8
+"684" "Miss Betsey Trotwood" "Mrs Micawber" 16
+"685" "Miss Betsey Trotwood" "Mrs Steerforth" 1
+"686" "Miss Betsey Trotwood" "Rosa Dartle" 2
+"687" "Miss Betsey Trotwood" "Sophy Crewler" 7
+"688" "Miss Betsey Trotwood" "Tipp" 1
+"689" "Miss Betsey Trotwood" "Tommy Traddles" 33
+"690" "Miss Betsey Trotwood" "Uriah" 27
+"691" "Miss Creakle" "Mr Creakle" 5
+"692" "Miss Creakle" "Mr Mell" 5
+"693" "Miss Creakle" "Mr Sharp" 3
+"694" "Miss Creakle" "Mrs Creakle" 4
+"695" "Miss Creakle" "Mrs Mell" 1
+"696" "Miss Creakle" "Tommy Traddles" 4
+"697" "Miss Creakle" "Tungay" 2
+"698" "Miss Kitt" "Mr Spenlow" 1
+"699" "Miss Larkins" "Miss Shepherd" 1
+"700" "Miss Larkins" "Mr Chestle" 1
+"701" "Miss Larkins" "Mr Dick" 2
+"702" "Miss Larkins" "Mr Larkins" 2
+"703" "Miss Larkins" "Mr Wickfield" 3
+"704" "Miss Larkins" "Uriah" 2
+"705" "Miss Micawber" "Mr Dick" 1
+"706" "Miss Micawber" "Mr Micawber" 6
+"707" "Miss Micawber" "Mr Murdstone" 2
+"708" "Miss Micawber" "Mr Quinion" 2
+"709" "Miss Micawber" "Mrs Micawber" 6
+"710" "Miss Micawber" "Tipp" 1
+"711" "Miss Micawber" "Tommy Traddles" 4
+"712" "Miss Micawber" "Uriah" 1
+"713" "Miss Mowcher" "Mithers" 1
+"714" "Miss Mowcher" "Mr Creakle" 1
+"715" "Miss Mowcher" "Mr Joram" 2
+"716" "Miss Mowcher" "Mrs Gummidge" 1
+"717" "Miss Mowcher" "Mrs Steerforth" 1
+"718" "Miss Mowcher" "Rosa Dartle" 1
+"719" "Miss Mowcher" "Tommy Traddles" 1
+"720" "Miss Shepherd" "Misses Nettingall" 1
+"721" "Miss Shepherd" "Mr Dick" 1
+"722" "Miss Shepherd" "Mr Wickfield" 1
+"723" "Misses Nettingall" "Mr Dick" 1
+"724" "Mr Chestle" "Mr Dick" 1
+"725" "Mr Chestle" "Mr Larkins" 1
+"726" "Mr Chillip" "Mr Dick" 1
+"727" "Mr Chillip" "Mr Grayper" 2
+"728" "Mr Chillip" "Mr Joram" 1
+"729" "Mr Chillip" "Mr Murdstone" 4
+"730" "Mr Chillip" "Mr Omer" 3
+"731" "Mr Chillip" "Mrs Chillip" 1
+"732" "Mr Chillip" "Mrs Grayper" 1
+"733" "Mr Chillip" "Mrs Gummidge" 1
+"734" "Mr Chillip" "Tommy Traddles" 1
+"735" "Mr Creakle" "Mr Dick" 1
+"736" "Mr Creakle" "Mr Dolloby" 1
+"737" "Mr Creakle" "Mr Mell" 10
+"738" "Mr Creakle" "Mr Murdstone" 3
+"739" "Mr Creakle" "Mr Sharp" 5
+"740" "Mr Creakle" "Mrs Creakle" 5
+"741" "Mr Creakle" "Mrs Gummidge" 1
+"742" "Mr Creakle" "Mrs Mell" 1
+"743" "Mr Creakle" "Mrs Steerforth" 1
+"744" "Mr Creakle" "Rosa Dartle" 1
+"745" "Mr Creakle" "Sophy Crewler" 1
+"746" "Mr Creakle" "Tommy Traddles" 14
+"747" "Mr Creakle" "Tungay" 6
+"748" "Mr Creakle" "Uriah" 3
+"749" "Mr Dick" "Mr Jorkins" 1
+"750" "Mr Dick" "Mr Larkins" 1
+"751" "Mr Dick" "Mr Micawber" 9
+"752" "Mr Dick" "Mr Mills" 2
+"753" "Mr Dick" "Mr Murdstone" 6
+"754" "Mr Dick" "Mr Spenlow" 2
+"755" "Mr Dick" "Mr Wickfield" 8
+"756" "Mr Dick" "Mrs Chillip" 1
+"757" "Mr Dick" "Mrs Crupp" 3
+"758" "Mr Dick" "Mrs Gummidge" 1
+"759" "Mr Dick" "Mrs Heep" 1
+"760" "Mr Dick" "Mrs Markleham" 5
+"761" "Mr Dick" "Mrs Micawber" 3
+"762" "Mr Dick" "Sophy Crewler" 4
+"763" "Mr Dick" "Tommy Traddles" 14
+"764" "Mr Dick" "Uriah" 10
+"765" "Mr Dolloby" "Mr Micawber" 1
+"766" "Mr Dolloby" "Mrs Micawber" 1
+"767" "Mr Dolloby" "Tommy Traddles" 1
+"768" "Mr Grayper" "Mr Murdstone" 1
+"769" "Mr Grayper" "Mr Omer" 1
+"770" "Mr Grayper" "Mrs Grayper" 1
+"771" "Mr Gulpidge" "Mr Henry Spiker" 2
+"772" "Mr Gulpidge" "Mr Waterbrook" 2
+"773" "Mr Gulpidge" "Mrs Gulpidge" 1
+"774" "Mr Gulpidge" "Mrs Henry Spiker" 2
+"775" "Mr Gulpidge" "Mrs Waterbrook" 1
+"776" "Mr Gulpidge" "Tommy Traddles" 2
+"777" "Mr Gulpidge" "Uriah" 2
+"778" "Mr Gummidge" "Mr Murdstone" 1
+"779" "Mr Gummidge" "Mrs Gummidge" 5
+"780" "Mr Gummidge" "Rosa Dartle" 1
+"781" "Mr Henry Spiker" "Mr Waterbrook" 3
+"782" "Mr Henry Spiker" "Mrs Gulpidge" 1
+"783" "Mr Henry Spiker" "Mrs Henry Spiker" 3
+"784" "Mr Henry Spiker" "Mrs Waterbrook" 2
+"785" "Mr Henry Spiker" "Tommy Traddles" 2
+"786" "Mr Henry Spiker" "Uriah" 3
+"787" "Mr Joram" "Mr Murdstone" 1
+"788" "Mr Joram" "Mr Omer" 8
+"789" "Mr Joram" "Mrs Gummidge" 2
+"790" "Mr Joram" "Mrs Steerforth" 2
+"791" "Mr Joram" "Rosa Dartle" 2
+"792" "Mr Jorkins" "Mr Murdstone" 1
+"793" "Mr Jorkins" "Mr Spenlow" 8
+"794" "Mr Jorkins" "Mr Tiffey" 2
+"795" "Mr Jorkins" "Mr Wickfield" 1
+"796" "Mr Jorkins" "Mrs Crupp" 2
+"797" "Mr Jorkins" "Mrs Steerforth" 1
+"798" "Mr Jorkins" "Rosa Dartle" 1
+"799" "Mr Jorkins" "Uriah" 1
+"800" "Mr Larkins" "Mr Wickfield" 1
+"801" "Mr Mell" "Mr Micawber" 1
+"802" "Mr Mell" "Mr Murdstone" 1
+"803" "Mr Mell" "Mr Sharp" 4
+"804" "Mr Mell" "Mrs Creakle" 4
+"805" "Mr Mell" "Mrs Fibbitson" 1
+"806" "Mr Mell" "Mrs Gummidge" 1
+"807" "Mr Mell" "Mrs Mell" 1
+"808" "Mr Mell" "Tommy Traddles" 8
+"809" "Mr Mell" "Tungay" 5
+"810" "Mr Micawber" "Mr Murdstone" 3
+"811" "Mr Micawber" "Mr Quinion" 3
+"812" "Mr Micawber" "Mr Spenlow" 1
+"813" "Mr Micawber" "Mr Tiffey" 1
+"814" "Mr Micawber" "Mr Wickfield" 11
+"815" "Mr Micawber" "Mrs Crewler" 1
+"816" "Mr Micawber" "Mrs Crupp" 3
+"817" "Mr Micawber" "Mrs Gummidge" 2
+"818" "Mr Micawber" "Mrs Heep" 6
+"819" "Mr Micawber" "Mrs Markleham" 1
+"820" "Mr Micawber" "Mrs Micawber" 45
+"821" "Mr Micawber" "Reverend Crewler" 1
+"822" "Mr Micawber" "Rosa Dartle" 2
+"823" "Mr Micawber" "Sarah Crewler" 2
+"824" "Mr Micawber" "Sophy Crewler" 2
+"825" "Mr Micawber" "Tipp" 2
+"826" "Mr Micawber" "Tommy Traddles" 37
+"827" "Mr Micawber" "Uriah" 19
+"828" "Mr Mills" "Mr Spenlow" 2
+"829" "Mr Mills" "Mr Tiffey" 1
+"830" "Mr Mills" "Mrs Crupp" 1
+"831" "Mr Mills" "Sophy Crewler" 1
+"832" "Mr Mills" "Tommy Traddles" 1
+"833" "Mr Murdstone" "Mr Omer" 2
+"834" "Mr Murdstone" "Mr Passnidge" 1
+"835" "Mr Murdstone" "Mr Quinion" 5
+"836" "Mr Murdstone" "Mr Spenlow" 2
+"837" "Mr Murdstone" "Mr Tiffey" 2
+"838" "Mr Murdstone" "Mrs Chillip" 1
+"839" "Mr Murdstone" "Mrs Fibbitson" 1
+"840" "Mr Murdstone" "Mrs Grayper" 1
+"841" "Mr Murdstone" "Mrs Gummidge" 5
+"842" "Mr Murdstone" "Mrs Micawber" 3
+"843" "Mr Murdstone" "Tipp" 1
+"844" "Mr Murdstone" "Tom Jones" 2
+"845" "Mr Omer" "Mrs Gummidge" 3
+"846" "Mr Omer" "Mrs Steerforth" 1
+"847" "Mr Omer" "Rosa Dartle" 1
+"848" "Mr Omer" "Tommy Traddles" 1
+"849" "Mr Passnidge" "Mr Quinion" 1
+"850" "Mr Quinion" "Mrs Gummidge" 1
+"851" "Mr Quinion" "Mrs Micawber" 3
+"852" "Mr Quinion" "Tipp" 3
+"853" "Mr Quinion" "Tommy Traddles" 1
+"854" "Mr Sharp" "Mrs Creakle" 3
+"855" "Mr Sharp" "Mrs Mell" 1
+"856" "Mr Sharp" "Tommy Traddles" 4
+"857" "Mr Sharp" "Tungay" 2
+"858" "Mr Spenlow" "Mr Tiffey" 6
+"859" "Mr Spenlow" "Mrs Crewler" 1
+"860" "Mr Spenlow" "Mrs Crupp" 3
+"861" "Mr Spenlow" "Mrs Micawber" 1
+"862" "Mr Spenlow" "Mrs Steerforth" 1
+"863" "Mr Spenlow" "Reverend Crewler" 1
+"864" "Mr Spenlow" "Rosa Dartle" 1
+"865" "Mr Spenlow" "Sarah Crewler" 1
+"866" "Mr Spenlow" "Sophy Crewler" 2
+"867" "Mr Spenlow" "Tommy Traddles" 6
+"868" "Mr Spenlow" "Uriah" 2
+"869" "Mr Tiffey" "Uriah" 1
+"870" "Mr Waterbrook" "Mrs Gulpidge" 1
+"871" "Mr Waterbrook" "Mrs Henry Spiker" 3
+"872" "Mr Waterbrook" "Mrs Waterbrook" 2
+"873" "Mr Waterbrook" "Tommy Traddles" 3
+"874" "Mr Waterbrook" "Uriah" 3
+"875" "Mr Waterbrook" "Yawler" 1
+"876" "Mr Wickfield" "Mrs Crupp" 4
+"877" "Mr Wickfield" "Mrs Heep" 6
+"878" "Mr Wickfield" "Mrs Markleham" 8
+"879" "Mr Wickfield" "Mrs Micawber" 4
+"880" "Mr Wickfield" "Tommy Traddles" 9
+"881" "Mr Wickfield" "Uriah" 29
+"882" "Mrs Creakle" "Mrs Mell" 1
+"883" "Mrs Creakle" "Tommy Traddles" 3
+"884" "Mrs Creakle" "Tungay" 2
+"885" "Mrs Crewler" "Reverend Crewler" 3
+"886" "Mrs Crewler" "Sarah Crewler" 2
+"887" "Mrs Crewler" "Sophy Crewler" 4
+"888" "Mrs Crewler" "Tommy Traddles" 4
+"889" "Mrs Crupp" "Mrs Heep" 1
+"890" "Mrs Crupp" "Mrs Micawber" 3
+"891" "Mrs Crupp" "Mrs Steerforth" 2
+"892" "Mrs Crupp" "Rosa Dartle" 2
+"893" "Mrs Crupp" "Sophy Crewler" 1
+"894" "Mrs Crupp" "Tommy Traddles" 5
+"895" "Mrs Crupp" "Uriah" 5
+"896" "Mrs Gulpidge" "Mrs Henry Spiker" 1
+"897" "Mrs Gulpidge" "Mrs Waterbrook" 1
+"898" "Mrs Gulpidge" "Tommy Traddles" 1
+"899" "Mrs Gulpidge" "Uriah" 1
+"900" "Mrs Gummidge" "Mrs Micawber" 1
+"901" "Mrs Gummidge" "Rosa Dartle" 1
+"902" "Mrs Gummidge" "Tommy Traddles" 2
+"903" "Mrs Gummidge" "Tungay" 1
+"904" "Mrs Heep" "Mrs Micawber" 3
+"905" "Mrs Heep" "Tommy Traddles" 3
+"906" "Mrs Heep" "Uriah" 10
+"907" "Mrs Henry Spiker" "Mrs Waterbrook" 2
+"908" "Mrs Henry Spiker" "Tommy Traddles" 2
+"909" "Mrs Henry Spiker" "Uriah" 3
+"910" "Mrs Markleham" "Rosa Dartle" 1
+"911" "Mrs Markleham" "Tommy Traddles" 1
+"912" "Mrs Markleham" "Uriah" 3
+"913" "Mrs Mell" "Tommy Traddles" 1
+"914" "Mrs Mell" "Tungay" 1
+"915" "Mrs Micawber" "Sarah Crewler" 1
+"916" "Mrs Micawber" "Sophy Crewler" 1
+"917" "Mrs Micawber" "Tipp" 2
+"918" "Mrs Micawber" "Tommy Traddles" 25
+"919" "Mrs Micawber" "Uriah" 10
+"920" "Mrs Steerforth" "Rosa Dartle" 16
+"921" "Mrs Steerforth" "Tommy Traddles" 1
+"922" "Mrs Waterbrook" "Tommy Traddles" 1
+"923" "Mrs Waterbrook" "Uriah" 2
+"924" "Reverend Crewler" "Sarah Crewler" 2
+"925" "Reverend Crewler" "Sophy Crewler" 3
+"926" "Reverend Crewler" "Tommy Traddles" 3
+"927" "Rosa Dartle" "Tommy Traddles" 3
+"928" "Sarah Crewler" "Sophy Crewler" 3
+"929" "Sarah Crewler" "Tommy Traddles" 3
+"930" "Sophy Crewler" "Tommy Traddles" 15
+"931" "Tommy Traddles" "Tungay" 6
+"932" "Tommy Traddles" "Uriah" 16
+"933" "Tommy Traddles" "Yawler" 1
+"934" "Uriah" "William" 1

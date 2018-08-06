@@ -1,0 +1,96 @@
+"Character","Node"
+"Adams",4
+"Agnes Wickfield",87
+"Annie Strong",24
+"Barkis",33
+"Captain Bailey",1
+"Captain Hopkins",2
+"Caroline Crewler",3
+"Charley Pyegrave",2
+"Clara Copperfield",40
+"Clara Peggotty",103
+"Clarissa Spenlow",14
+"Clickett",1
+"Daniel Peggotty",68
+"David Copperfield",236
+"Doctor Strong",21
+"George Demple",3
+"Grainger",2
+"Gregory",1
+"Ham Peggotty",42
+"Jack Maldon",16
+"James Steerforth",73
+"Jane Murdstone",38
+"Janet",12
+"Julia Mills",18
+"Lady Mithers",1
+"Lavinia Spenlow",16
+"Littimer",15
+"Little Emily",63
+"Louisa Crewler",1
+"Markham",3
+"Martha Endell",16
+"Mary Anne Paragon",3
+"Mealy Potatoes",5
+"Mick Walker",4
+"Minnie Joram",12
+"Miss Betsey Trotwood",140
+"Miss Creakle",5
+"Miss Kitt",1
+"Miss Larkins",6
+"Miss Micawber",6
+"Miss Mowcher",8
+"Miss Shepherd",2
+"Misses Nettingall",1
+"Mithers",1
+"Mr Chestle",1
+"Mr Chillip",11
+"Mr Creakle",24
+"Mr Dick",52
+"Mr Dolloby",2
+"Mr Grayper",2
+"Mr Gulpidge",2
+"Mr Gummidge",5
+"Mr Henry Spiker",3
+"Mr Joram",12
+"Mr Jorkins",10
+"Mr Larkins",2
+"Mr Mell",12
+"Mr Micawber",64
+"Mr Mills",4
+"Mr Murdstone",39
+"Mr Omer",15
+"Mr Passnidge",1
+"Mr Quinion",8
+"Mr Sharp",5
+"Mr Spenlow",28
+"Mr Tiffey",7
+"Mr Waterbrook",5
+"Mr Wickfield",46
+"Mrs Chillip",1
+"Mrs Creakle",5
+"Mrs Crewler",4
+"Mrs Crupp",22
+"Mrs Fibbitson",2
+"Mrs Grayper",2
+"Mrs Gulpidge",1
+"Mrs Gummidge",31
+"Mrs Heep",10
+"Mrs Henry Spiker",3
+"Mrs Markleham",14
+"Mrs Mell",1
+"Mrs Micawber",46
+"Mrs Steerforth",16
+"Mrs Waterbrook",2
+"Reverend Crewler",3
+"Rosa Dartle",27
+"Sarah Crewler",3
+"Sophy Crewler",15
+"Tipp",3
+"Tom Jones",2
+"Tommy Traddles",83
+"Topsawyer",1
+"Tungay",6
+"Uriah",54
+"William",1
+"Yawler",1

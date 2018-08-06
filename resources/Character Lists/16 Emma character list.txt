@@ -1,0 +1,79 @@
+OldJohnAbdy: Old John Abdy, poor John
+JohnAbdyBates: Old John Abdy's son
+MissJaneFairfax: Miss Fairfax, Jane, Miss Bates's niece
+MissBickerton: Miss Bickerton
+MrsBird: Mrs. Bird
+MrBragge: Mr. Bragge
+MrsBragge: Mrs. Bragge
+MrsBrown: Mrs. Brown
+ColonelCampbell: Colonel Campbell, Colonel
+MrsCampbell: Mrs. Campbell
+OldMrChurchill: Old Mr. Churchill, his uncle, my uncle, your uncle, 
+MrsChurchill: Mrs. Churchill, my aunt, his aunt, my poor aunt, your aunt
+FrankChurchill: Frank, Mr. Churchill, nephew, the young man
+MrCole: Mr. Cole, Cole, 
+MrsCole: Mrs. Cole
+MrsJamesCooper: Mrs. James Cooper
+MrCoxe: Mr. Cox
+AnneCox: Anne. Cox
+Miss Cox: Miss Coxe  
+WilliamCox: Mr. William Cox, Mr. William Coxe, young Cox,
+MrDixon: Mr. Dixon 
+MrsDixon: Miss Campbell 
+MrPhillipElton: Mr. Elton, Phillip, the clergyman
+MrsElton: Mrs. Elton, Hawkins, Augusta 
+LiutenantFairfax: Lieut. Fairfax
+MrsBates: grandmother, Mrs. Bates, grandmama, grand-mama
+MissBates: the happily deceived aunt, Miss Bates, the talking aunt, her good aunt
+MrsFordEM: Mrs. Ford
+MissGilbert: Miss Gilbert
+MrsGilbert: Mrs. Gilbert
+MrsGoddard: Mrs. Goddard
+MrGraham: Mr. Graham
+Hannah: Hannah
+Harry: Harry
+MrsHodges: Mrs. Hodges
+DrHughes: Dr. Hughes
+MrsHughes: Mrs. Hughes
+MrRichard: Mr. Richard
+James: James 
+MrGeorgeKnightley: Uncle Knightley, Mr. Knightley, George
+JohnKnightley: John Knightley, Mr. John Knightley
+MrsIsabellaKnightley: Mrs John Knightley, Isabella, 
+HenryKnightley: poor little boy, nephew Henry, little Henry
+LittleJohnKnightley: little John
+LitteIsabellaKnightley: Bella
+LittleGeorgeKnightley: little George
+LittleEmmaKnightley: Little Emma
+Harriet Smith: Harriet, Mrs. Robert Martin, Miss Smith
+MrsMartin: Mrs. Martin
+ElizabethMartin: Elizabeth Martin
+Miss Martin: Miss Martin
+RobertMartin: young Martin, Robert Martin, Mr. Martin
+FarmerMitchell: Farmer Mitchell
+MissNash: Miss Nash
+MrOtway: Mr. Otway
+MrsOtway: Mrs. Otway
+MissOtway: Miss Otway
+MissCaroline Otway: Miss Caroline
+MrGeorgeOtway: Mr. George
+MrArthurOtway: Mr. Arthur 
+MissPartridge: Clara Partridge, Mrs. Jefferys
+MrsPartridge: Mrs. Partridge
+Patty: Patty
+MrPerry: Mr. Perry, Perry, 
+MrsPerry: Mrs. Perry
+MissPrince: Miss Prince
+MissRichardson: Miss Richardson
+MrSuckling: Mr. Suckling
+MrsSuckling: Mrs. Suckling
+JohnSaunders: John Saunders
+Serle: Serle
+MrsSmallridge: Mrs. Smallridge
+MrsStokes: Mrs. Stokes
+MrWeston: Mr. Weston
+MrsWeston: Miss Taylor, Mrs. Weston
+EmmaWoodhouse: Emma, Miss Woodhouse, lovely daughter, fair mistress 
+MrWoodhouse: grandpapa, papa
+WilliamLarkins: William Larkins
+Mr. Wingfield: Mr. Wingfield

@@ -1,0 +1,987 @@
+"id1" "id2" "label"
+"1" "Ada Clare" "Alfred Pardiggle" 2
+"2" "Ada Clare" "Allan Woodcourt" 23
+"3" "Ada Clare" "Arethusa Skimpole" 4
+"4" "Ada Clare" "Captain Hawden" 1
+"5" "Ada Clare" "Captain Swosser" 4
+"6" "Ada Clare" "Caroline Caddy" 26
+"7" "Ada Clare" "Charley" 27
+"8" "Ada Clare" "Coavinses" 6
+"9" "Ada Clare" "Conversation Kenge" 13
+"10" "Ada Clare" "Egbert Pardiggle" 3
+"11" "Ada Clare" "Emma Neckett" 4
+"12" "Ada Clare" "Esther Summerson" 56
+"13" "Ada Clare" "Francis Pardiggle" 2
+"14" "Ada Clare" "Inspector Bucket" 1
+"15" "Ada Clare" "Jenny" 3
+"16" "Ada Clare" "Jo" 2
+"17" "Ada Clare" "John Jarndyce" 75
+"18" "Ada Clare" "Kitty Skimpole" 4
+"19" "Ada Clare" "Krook" 6
+"20" "Ada Clare" "Lady Dedlock" 11
+"21" "Ada Clare" "Laura Skimpole" 4
+"22" "Ada Clare" "Lawrence Boythorn" 18
+"23" "Ada Clare" "Mademoiselle Hortense" 2
+"24" "Ada Clare" "Miss Flite" 11
+"25" "Ada Clare" "Mr Badger" 9
+"26" "Ada Clare" "Mr Gridley" 3
+"27" "Ada Clare" "Mr Grubble" 1
+"28" "Ada Clare" "Mr Gusher" 2
+"29" "Ada Clare" "Mr Jellyby" 12
+"30" "Ada Clare" "Mr Pardiggle" 2
+"31" "Ada Clare" "Mr Quale" 5
+"32" "Ada Clare" "Mr Rouncewell" 1
+"33" "Ada Clare" "Mr Skimpole" 29
+"34" "Ada Clare" "Mr Snagsby" 1
+"35" "Ada Clare" "Mr Tulkinghorn" 1
+"36" "Ada Clare" "Mr Turveydrop" 10
+"37" "Ada Clare" "Mrs Badger" 4
+"38" "Ada Clare" "Mrs Blinder" 2
+"39" "Ada Clare" "Mrs Chadband" 1
+"40" "Ada Clare" "Mrs Jellyby" 21
+"41" "Ada Clare" "Mrs Pardiggle" 6
+"42" "Ada Clare" "Mrs Skimpole" 4
+"43" "Ada Clare" "Mrs Woodcourt" 8
+"44" "Ada Clare" "Oswald Pardiggle" 3
+"45" "Ada Clare" "Peepy Jellby" 17
+"46" "Ada Clare" "Prince Turvey" 9
+"47" "Ada Clare" "Priscilla" 2
+"48" "Ada Clare" "Professor Dingo" 4
+"49" "Ada Clare" "Richard Carstone" 81
+"50" "Ada Clare" "Sir Dedlock" 8
+"51" "Ada Clare" "Tom Neckett" 3
+"52" "Ada Clare" "Vholes" 19
+"53" "Ada Clare" "William Guppy" 5
+"54" "Alfred Pardiggle" "Egbert Pardiggle" 2
+"55" "Alfred Pardiggle" "Esther Summerson" 1
+"56" "Alfred Pardiggle" "Francis Pardiggle" 1
+"57" "Alfred Pardiggle" "John Jarndyce" 2
+"58" "Alfred Pardiggle" "Mr Gusher" 1
+"59" "Alfred Pardiggle" "Mr Jellyby" 1
+"60" "Alfred Pardiggle" "Mr Pardiggle" 1
+"61" "Alfred Pardiggle" "Mrs Jellyby" 2
+"62" "Alfred Pardiggle" "Mrs Pardiggle" 2
+"63" "Alfred Pardiggle" "Oswald Pardiggle" 2
+"64" "Alfred Pardiggle" "Richard Carstone" 1
+"65" "Allan Woodcourt" "Captain Swosser" 1
+"66" "Allan Woodcourt" "Caroline Caddy" 9
+"67" "Allan Woodcourt" "Charley" 3
+"68" "Allan Woodcourt" "Coavinses" 1
+"69" "Allan Woodcourt" "Conversation Kenge" 4
+"70" "Allan Woodcourt" "Esther Summerson" 18
+"71" "Allan Woodcourt" "George Rouncewell" 5
+"72" "Allan Woodcourt" "Guster" 2
+"73" "Allan Woodcourt" "Inspector Bucket" 5
+"74" "Allan Woodcourt" "Jo" 10
+"75" "Allan Woodcourt" "John Jarndyce" 13
+"76" "Allan Woodcourt" "Judy Smallweed" 1
+"77" "Allan Woodcourt" "Krook" 2
+"78" "Allan Woodcourt" "Lawrence Boythorn" 1
+"79" "Allan Woodcourt" "Liz" 1
+"80" "Allan Woodcourt" "Matthew Bagnet" 1
+"81" "Allan Woodcourt" "Miss Flite" 12
+"82" "Allan Woodcourt" "Mr Badger" 3
+"83" "Allan Woodcourt" "Mr Gridley" 4
+"84" "Allan Woodcourt" "Mr Jellyby" 1
+"85" "Allan Woodcourt" "Mr Skimpole" 1
+"86" "Allan Woodcourt" "Mr Snagsby" 6
+"87" "Allan Woodcourt" "Mr Tulkinghorn" 3
+"88" "Allan Woodcourt" "Mr Turveydrop" 3
+"89" "Allan Woodcourt" "Mrs Badger" 2
+"90" "Allan Woodcourt" "Mrs Bagnet" 1
+"91" "Allan Woodcourt" "Mrs Blinder" 1
+"92" "Allan Woodcourt" "Mrs Jellyby" 2
+"93" "Allan Woodcourt" "Mrs Pardiggle" 1
+"94" "Allan Woodcourt" "Mrs Snagsby" 5
+"95" "Allan Woodcourt" "Mrs Woodcourt" 7
+"96" "Allan Woodcourt" "Peepy Jellby" 3
+"97" "Allan Woodcourt" "Phil Squod" 5
+"98" "Allan Woodcourt" "Prince Turvey" 4
+"99" "Allan Woodcourt" "Professor Dingo" 1
+"100" "Allan Woodcourt" "Richard Carstone" 23
+"101" "Allan Woodcourt" "Sir Dedlock" 1
+"102" "Allan Woodcourt" "Vholes" 8
+"103" "Allan Woodcourt" "William Guppy" 1
+"104" "Arethusa Skimpole" "Charley" 1
+"105" "Arethusa Skimpole" "John Jarndyce" 3
+"106" "Arethusa Skimpole" "Kitty Skimpole" 4
+"107" "Arethusa Skimpole" "Laura Skimpole" 4
+"108" "Arethusa Skimpole" "Mr Skimpole" 4
+"109" "Arethusa Skimpole" "Mrs Skimpole" 2
+"110" "Arethusa Skimpole" "Richard Carstone" 2
+"111" "Arethusa Skimpole" "Vholes" 1
+"112" "Bartholomew Smallweed" "Charley" 2
+"113" "Bartholomew Smallweed" "George Rouncewell" 1
+"114" "Bartholomew Smallweed" "Grandfather Smallweed" 9
+"115" "Bartholomew Smallweed" "Jobling" 6
+"116" "Bartholomew Smallweed" "Judy Smallweed" 7
+"117" "Bartholomew Smallweed" "Krook" 3
+"118" "Bartholomew Smallweed" "Little Swills" 1
+"119" "Bartholomew Smallweed" "Mr Tulkinghorn" 2
+"120" "Bartholomew Smallweed" "Mrs Perkins" 1
+"121" "Bartholomew Smallweed" "Mrs Piper" 1
+"122" "Bartholomew Smallweed" "Mrs Smallweed" 6
+"123" "Bartholomew Smallweed" "Polly" 1
+"124" "Bartholomew Smallweed" "Richard Carstone" 1
+"125" "Bartholomew Smallweed" "William Guppy" 7
+"126" "Bob Stables" "Lady Dedlock" 5
+"127" "Bob Stables" "Lord Boodle" 1
+"128" "Bob Stables" "Mercury" 1
+"129" "Bob Stables" "Mr Rouncewell" 1
+"130" "Bob Stables" "Mr Tulkinghorn" 2
+"131" "Bob Stables" "Mrs Rouncewell" 2
+"132" "Bob Stables" "Rosa" 1
+"133" "Bob Stables" "Sir Dedlock" 5
+"134" "Bob Stables" "Sladdery" 1
+"135" "Bob Stables" "Thomas" 1
+"136" "Bob Stables" "Volumnia Dedlock" 3
+"137" "Bob Stables" "William Buffy" 2
+"138" "Captain Hawden" "Coavinses" 1
+"139" "Captain Hawden" "Esther Summerson" 1
+"140" "Captain Hawden" "George Rouncewell" 4
+"141" "Captain Hawden" "Grandfather Smallweed" 5
+"142" "Captain Hawden" "Guster" 1
+"143" "Captain Hawden" "Inspector Bucket" 1
+"144" "Captain Hawden" "Jo" 1
+"145" "Captain Hawden" "John Jarndyce" 1
+"146" "Captain Hawden" "Judy Smallweed" 4
+"147" "Captain Hawden" "Krook" 3
+"148" "Captain Hawden" "Lady Dedlock" 3
+"149" "Captain Hawden" "Mercury" 1
+"150" "Captain Hawden" "Miss Barbary" 2
+"151" "Captain Hawden" "Miss Flite" 1
+"152" "Captain Hawden" "Mr Snagsby" 3
+"153" "Captain Hawden" "Mr Tulkinghorn" 6
+"154" "Captain Hawden" "Mrs Chadband" 1
+"155" "Captain Hawden" "Mrs Smallweed" 1
+"156" "Captain Hawden" "Mrs Snagsby" 3
+"157" "Captain Hawden" "Phil Squod" 1
+"158" "Captain Hawden" "Reverend Chadband" 1
+"159" "Captain Hawden" "Richard Carstone" 1
+"160" "Captain Hawden" "Sir Dedlock" 3
+"161" "Captain Hawden" "William Guppy" 2
+"162" "Captain Swosser" "Conversation Kenge" 1
+"163" "Captain Swosser" "Esther Summerson" 3
+"164" "Captain Swosser" "John Jarndyce" 3
+"165" "Captain Swosser" "Mr Badger" 4
+"166" "Captain Swosser" "Mrs Badger" 4
+"167" "Captain Swosser" "Professor Dingo" 4
+"168" "Captain Swosser" "Richard Carstone" 4
+"169" "Captain Swosser" "William Guppy" 1
+"170" "Caroline Caddy" "Charley" 7
+"171" "Caroline Caddy" "Conversation Kenge" 4
+"172" "Caroline Caddy" "Emma Neckett" 2
+"173" "Caroline Caddy" "Esther Summerson" 15
+"174" "Caroline Caddy" "Jenny" 1
+"175" "Caroline Caddy" "John Jarndyce" 13
+"176" "Caroline Caddy" "Krook" 3
+"177" "Caroline Caddy" "Lady Dedlock" 1
+"178" "Caroline Caddy" "Lawrence Boythorn" 1
+"179" "Caroline Caddy" "Miss Flite" 8
+"180" "Caroline Caddy" "Miss Wisk" 2
+"181" "Caroline Caddy" "Mr Badger" 4
+"182" "Caroline Caddy" "Mr Grubble" 1
+"183" "Caroline Caddy" "Mr Jellyby" 13
+"184" "Caroline Caddy" "Mr Quale" 3
+"185" "Caroline Caddy" "Mr Skimpole" 1
+"186" "Caroline Caddy" "Mr Turveydrop" 17
+"187" "Caroline Caddy" "Mrs Guppy" 1
+"188" "Caroline Caddy" "Mrs Jellyby" 13
+"189" "Caroline Caddy" "Mrs Pardiggle" 2
+"190" "Caroline Caddy" "Mrs Woodcourt" 2
+"191" "Caroline Caddy" "Peepy Jellby" 15
+"192" "Caroline Caddy" "Prince Turvey" 16
+"193" "Caroline Caddy" "Richard Carstone" 15
+"194" "Caroline Caddy" "Tom Neckett" 1
+"195" "Caroline Caddy" "Vholes" 3
+"196" "Caroline Caddy" "William Guppy" 3
+"197" "Charley" "Coavinses" 3
+"198" "Charley" "Conversation Kenge" 1
+"199" "Charley" "Emma Neckett" 6
+"200" "Charley" "Esther Summerson" 14
+"201" "Charley" "George Rouncewell" 2
+"202" "Charley" "Grandfather Smallweed" 3
+"203" "Charley" "Inspector Bucket" 2
+"204" "Charley" "Jenny" 5
+"205" "Charley" "Jo" 4
+"206" "Charley" "John Jarndyce" 13
+"207" "Charley" "Judy Smallweed" 2
+"208" "Charley" "Kitty Skimpole" 1
+"209" "Charley" "Lady Dedlock" 4
+"210" "Charley" "Laura Skimpole" 1
+"211" "Charley" "Lawrence Boythorn" 7
+"212" "Charley" "Liz" 2
+"213" "Charley" "Miss Flite" 2
+"214" "Charley" "Mr Gridley" 3
+"215" "Charley" "Mr Grubble" 1
+"216" "Charley" "Mr Jellyby" 4
+"217" "Charley" "Mr Skimpole" 8
+"218" "Charley" "Mr Tulkinghorn" 1
+"219" "Charley" "Mr Turveydrop" 3
+"220" "Charley" "Mrs Blinder" 6
+"221" "Charley" "Mrs Chadband" 1
+"222" "Charley" "Mrs Jellyby" 4
+"223" "Charley" "Mrs Smallweed" 2
+"224" "Charley" "Mrs Snagsby" 1
+"225" "Charley" "Mrs Woodcourt" 3
+"226" "Charley" "Peepy Jellby" 3
+"227" "Charley" "Prince Turvey" 1
+"228" "Charley" "Richard Carstone" 11
+"229" "Charley" "Sir Dedlock" 1
+"230" "Charley" "Tom Neckett" 7
+"231" "Charley" "Vholes" 5
+"232" "Charley" "William Guppy" 2
+"233" "Coavinses" "Conversation Kenge" 1
+"234" "Coavinses" "Emma Neckett" 1
+"235" "Coavinses" "Esther Summerson" 3
+"236" "Coavinses" "Guster" 2
+"237" "Coavinses" "John Jarndyce" 6
+"238" "Coavinses" "Lady Dedlock" 1
+"239" "Coavinses" "Lawrence Boythorn" 1
+"240" "Coavinses" "Mr Gridley" 2
+"241" "Coavinses" "Mr Skimpole" 8
+"242" "Coavinses" "Mr Snagsby" 2
+"243" "Coavinses" "Mr Tulkinghorn" 3
+"244" "Coavinses" "Mrs Blinder" 2
+"245" "Coavinses" "Mrs Jellyby" 1
+"246" "Coavinses" "Mrs Skimpole" 1
+"247" "Coavinses" "Mrs Snagsby" 2
+"248" "Coavinses" "Mrs Woodcourt" 1
+"249" "Coavinses" "Richard Carstone" 5
+"250" "Coavinses" "Sir Dedlock" 1
+"251" "Coavinses" "Tom Neckett" 1
+"252" "Conversation Kenge" "Esther Summerson" 8
+"253" "Conversation Kenge" "George Rouncewell" 2
+"254" "Conversation Kenge" "Grandfather Smallweed" 1
+"255" "Conversation Kenge" "Inspector Bucket" 1
+"256" "Conversation Kenge" "Jenny" 1
+"257" "Conversation Kenge" "John Jarndyce" 16
+"258" "Conversation Kenge" "Krook" 1
+"259" "Conversation Kenge" "Lady Dedlock" 1
+"260" "Conversation Kenge" "Lawrence Boythorn" 4
+"261" "Conversation Kenge" "Miss Barbary" 1
+"262" "Conversation Kenge" "Miss Donny" 1
+"263" "Conversation Kenge" "Miss Flite" 4
+"264" "Conversation Kenge" "Mr Badger" 2
+"265" "Conversation Kenge" "Mr Gridley" 2
+"266" "Conversation Kenge" "Mr Jellyby" 1
+"267" "Conversation Kenge" "Mr Skimpole" 2
+"268" "Conversation Kenge" "Mr Turveydrop" 1
+"269" "Conversation Kenge" "Mrs Badger" 1
+"270" "Conversation Kenge" "Mrs Chadband" 3
+"271" "Conversation Kenge" "Mrs Guppy" 1
+"272" "Conversation Kenge" "Mrs Jellyby" 1
+"273" "Conversation Kenge" "Peepy Jellby" 1
+"274" "Conversation Kenge" "Prince Turvey" 1
+"275" "Conversation Kenge" "Professor Dingo" 1
+"276" "Conversation Kenge" "Richard Carstone" 16
+"277" "Conversation Kenge" "Vholes" 5
+"278" "Conversation Kenge" "William Guppy" 8
+"279" "Darby" "Inspector Bucket" 2
+"280" "Darby" "Jenny" 2
+"281" "Darby" "Jo" 2
+"282" "Darby" "Liz" 1
+"283" "Darby" "Mr Gridley" 1
+"284" "Darby" "Mr Snagsby" 2
+"285" "Egbert Pardiggle" "Esther Summerson" 1
+"286" "Egbert Pardiggle" "Francis Pardiggle" 2
+"287" "Egbert Pardiggle" "John Jarndyce" 2
+"288" "Egbert Pardiggle" "Mr Gusher" 1
+"289" "Egbert Pardiggle" "Mr Jellyby" 1
+"290" "Egbert Pardiggle" "Mr Pardiggle" 2
+"291" "Egbert Pardiggle" "Mrs Jellyby" 2
+"292" "Egbert Pardiggle" "Mrs Pardiggle" 3
+"293" "Egbert Pardiggle" "Oswald Pardiggle" 3
+"294" "Egbert Pardiggle" "Richard Carstone" 1
+"295" "Emma Neckett" "Esther Summerson" 1
+"296" "Emma Neckett" "Jenny" 2
+"297" "Emma Neckett" "Jo" 1
+"298" "Emma Neckett" "John Jarndyce" 4
+"299" "Emma Neckett" "Lawrence Boythorn" 1
+"300" "Emma Neckett" "Liz" 1
+"301" "Emma Neckett" "Mr Gridley" 2
+"302" "Emma Neckett" "Mr Jellyby" 1
+"303" "Emma Neckett" "Mr Skimpole" 5
+"304" "Emma Neckett" "Mr Turveydrop" 1
+"305" "Emma Neckett" "Mrs Blinder" 4
+"306" "Emma Neckett" "Mrs Jellyby" 1
+"307" "Emma Neckett" "Peepy Jellby" 1
+"308" "Emma Neckett" "Richard Carstone" 3
+"309" "Emma Neckett" "Tom Neckett" 5
+"310" "Emma Neckett" "Vholes" 2
+"311" "Esther Summerson" "Francis Pardiggle" 1
+"312" "Esther Summerson" "George Rouncewell" 1
+"313" "Esther Summerson" "Inspector Bucket" 6
+"314" "Esther Summerson" "Jenny" 1
+"315" "Esther Summerson" "Jo" 2
+"316" "Esther Summerson" "John Jarndyce" 41
+"317" "Esther Summerson" "Krook" 1
+"318" "Esther Summerson" "Lady Dedlock" 11
+"319" "Esther Summerson" "Lawrence Boythorn" 7
+"320" "Esther Summerson" "Mademoiselle Hortense" 1
+"321" "Esther Summerson" "Mercury" 1
+"322" "Esther Summerson" "Miss Barbary" 2
+"323" "Esther Summerson" "Miss Donny" 1
+"324" "Esther Summerson" "Miss Flite" 8
+"325" "Esther Summerson" "Miss Wisk" 1
+"326" "Esther Summerson" "Mr Badger" 5
+"327" "Esther Summerson" "Mr Gridley" 2
+"328" "Esther Summerson" "Mr Jellyby" 8
+"329" "Esther Summerson" "Mr Quale" 2
+"330" "Esther Summerson" "Mr Skimpole" 10
+"331" "Esther Summerson" "Mr Tulkinghorn" 2
+"332" "Esther Summerson" "Mr Turveydrop" 8
+"333" "Esther Summerson" "Mrs Badger" 4
+"334" "Esther Summerson" "Mrs Chadband" 6
+"335" "Esther Summerson" "Mrs Jellyby" 11
+"336" "Esther Summerson" "Mrs Pardiggle" 3
+"337" "Esther Summerson" "Mrs Rouncewell" 2
+"338" "Esther Summerson" "Mrs Skimpole" 2
+"339" "Esther Summerson" "Mrs Snagsby" 1
+"340" "Esther Summerson" "Mrs Woodcourt" 8
+"341" "Esther Summerson" "Oswald Pardiggle" 1
+"342" "Esther Summerson" "Peepy Jellby" 7
+"343" "Esther Summerson" "Phil Squod" 1
+"344" "Esther Summerson" "Prince Turvey" 10
+"345" "Esther Summerson" "Professor Dingo" 3
+"346" "Esther Summerson" "Reverend Chadband" 1
+"347" "Esther Summerson" "Richard Carstone" 50
+"348" "Esther Summerson" "Sir Dedlock" 10
+"349" "Esther Summerson" "Tom Neckett" 1
+"350" "Esther Summerson" "Vholes" 10
+"351" "Esther Summerson" "William Guppy" 5
+"352" "Francis Pardiggle" "John Jarndyce" 1
+"353" "Francis Pardiggle" "Mr Pardiggle" 1
+"354" "Francis Pardiggle" "Mrs Jellyby" 1
+"355" "Francis Pardiggle" "Mrs Pardiggle" 2
+"356" "Francis Pardiggle" "Oswald Pardiggle" 2
+"357" "Francis Pardiggle" "Richard Carstone" 1
+"358" "George Rouncewell" "Grandfather Smallweed" 14
+"359" "George Rouncewell" "Inspector Bucket" 7
+"360" "George Rouncewell" "Jo" 3
+"361" "George Rouncewell" "John Jarndyce" 5
+"362" "George Rouncewell" "Judy Smallweed" 12
+"363" "George Rouncewell" "Malta Bagnet" 8
+"364" "George Rouncewell" "Matthew Bagnet" 16
+"365" "George Rouncewell" "Miss Flite" 6
+"366" "George Rouncewell" "Mr Gridley" 9
+"367" "George Rouncewell" "Mr Rouncewell" 1
+"368" "George Rouncewell" "Mr Snagsby" 1
+"369" "George Rouncewell" "Mr Tulkinghorn" 10
+"370" "George Rouncewell" "Mrs Bagnet" 13
+"371" "George Rouncewell" "Mrs Bucket" 2
+"372" "George Rouncewell" "Mrs Chadband" 1
+"373" "George Rouncewell" "Mrs Jellyby" 1
+"374" "George Rouncewell" "Mrs Pardiggle" 1
+"375" "George Rouncewell" "Mrs Rouncewell" 3
+"376" "George Rouncewell" "Mrs Smallweed" 4
+"377" "George Rouncewell" "Phil Squod" 13
+"378" "George Rouncewell" "Quebec Bagnet" 8
+"379" "George Rouncewell" "Richard Carstone" 5
+"380" "George Rouncewell" "Rosa" 1
+"381" "George Rouncewell" "Sir Dedlock" 7
+"382" "George Rouncewell" "Volumnia Dedlock" 3
+"383" "George Rouncewell" "Watt Rouncewell" 1
+"384" "George Rouncewell" "William Guppy" 1
+"385" "George Rouncewell" "Woolwich Bagnet" 6
+"386" "Grandfather Smallweed" "Inspector Bucket" 5
+"387" "Grandfather Smallweed" "James George Bogsby" 1
+"388" "Grandfather Smallweed" "Jo" 1
+"389" "Grandfather Smallweed" "Jobling" 9
+"390" "Grandfather Smallweed" "John Jarndyce" 2
+"391" "Grandfather Smallweed" "Judy Smallweed" 18
+"392" "Grandfather Smallweed" "Krook" 8
+"393" "Grandfather Smallweed" "Lady Dedlock" 3
+"394" "Grandfather Smallweed" "Little Swills" 2
+"395" "Grandfather Smallweed" "Malta Bagnet" 1
+"396" "Grandfather Smallweed" "Matthew Bagnet" 4
+"397" "Grandfather Smallweed" "Mercury" 1
+"398" "Grandfather Smallweed" "Miss Flite" 2
+"399" "Grandfather Smallweed" "Mr Snagsby" 2
+"400" "Grandfather Smallweed" "Mr Tulkinghorn" 12
+"401" "Grandfather Smallweed" "Mrs Bagnet" 2
+"402" "Grandfather Smallweed" "Mrs Chadband" 3
+"403" "Grandfather Smallweed" "Mrs Perkins" 2
+"404" "Grandfather Smallweed" "Mrs Piper" 2
+"405" "Grandfather Smallweed" "Mrs Rouncewell" 1
+"406" "Grandfather Smallweed" "Mrs Smallweed" 9
+"407" "Grandfather Smallweed" "Mrs Snagsby" 4
+"408" "Grandfather Smallweed" "Phil Squod" 4
+"409" "Grandfather Smallweed" "Polly" 1
+"410" "Grandfather Smallweed" "Quebec Bagnet" 1
+"411" "Grandfather Smallweed" "Reverend Chadband" 3
+"412" "Grandfather Smallweed" "Richard Carstone" 1
+"413" "Grandfather Smallweed" "Sir Dedlock" 5
+"414" "Grandfather Smallweed" "Vholes" 1
+"415" "Grandfather Smallweed" "William Guppy" 12
+"416" "Guster" "Inspector Bucket" 5
+"417" "Guster" "Jo" 7
+"418" "Guster" "Krook" 1
+"419" "Guster" "Mademoiselle Hortense" 1
+"420" "Guster" "Mr Snagsby" 16
+"421" "Guster" "Mr Tulkinghorn" 5
+"422" "Guster" "Mrs Chadband" 4
+"423" "Guster" "Mrs Snagsby" 15
+"424" "Guster" "Peffer" 1
+"425" "Guster" "Reverend Chadband" 6
+"426" "Guster" "William Guppy" 2
+"427" "Inspector Bucket" "Jenny" 5
+"428" "Inspector Bucket" "Jo" 8
+"429" "Inspector Bucket" "Jobling" 1
+"430" "Inspector Bucket" "John Jarndyce" 7
+"431" "Inspector Bucket" "Krook" 3
+"432" "Inspector Bucket" "Lady Dedlock" 11
+"433" "Inspector Bucket" "Lawrence Boythorn" 1
+"434" "Inspector Bucket" "Liz" 2
+"435" "Inspector Bucket" "Mademoiselle Hortense" 6
+"436" "Inspector Bucket" "Malta Bagnet" 2
+"437" "Inspector Bucket" "Matthew Bagnet" 4
+"438" "Inspector Bucket" "Mercury" 6
+"439" "Inspector Bucket" "Miss Flite" 2
+"440" "Inspector Bucket" "Mr Gridley" 6
+"441" "Inspector Bucket" "Mr Skimpole" 2
+"442" "Inspector Bucket" "Mr Snagsby" 13
+"443" "Inspector Bucket" "Mr Tulkinghorn" 16
+"444" "Inspector Bucket" "Mrs Bagnet" 4
+"445" "Inspector Bucket" "Mrs Bucket" 5
+"446" "Inspector Bucket" "Mrs Chadband" 3
+"447" "Inspector Bucket" "Mrs Rouncewell" 3
+"448" "Inspector Bucket" "Mrs Smallweed" 1
+"449" "Inspector Bucket" "Mrs Snagsby" 8
+"450" "Inspector Bucket" "Mrs Woodcourt" 1
+"451" "Inspector Bucket" "Phil Squod" 3
+"452" "Inspector Bucket" "Quebec Bagnet" 2
+"453" "Inspector Bucket" "Reverend Chadband" 4
+"454" "Inspector Bucket" "Richard Carstone" 3
+"455" "Inspector Bucket" "Sir Dedlock" 23
+"456" "Inspector Bucket" "Vholes" 1
+"457" "Inspector Bucket" "Volumnia Dedlock" 4
+"458" "Inspector Bucket" "William Buffy" 1
+"459" "Inspector Bucket" "William Guppy" 2
+"460" "Inspector Bucket" "Woolwich Bagnet" 3
+"461" "James George Bogsby" "Jobling" 1
+"462" "James George Bogsby" "Krook" 2
+"463" "James George Bogsby" "Lady Dedlock" 1
+"464" "James George Bogsby" "Little Swills" 2
+"465" "James George Bogsby" "Miss Flite" 2
+"466" "James George Bogsby" "Mr Tulkinghorn" 1
+"467" "James George Bogsby" "Mrs Perkins" 2
+"468" "James George Bogsby" "Mrs Piper" 2
+"469" "James George Bogsby" "William Guppy" 2
+"470" "Jenny" "Jo" 5
+"471" "Jenny" "John Jarndyce" 1
+"472" "Jenny" "Lawrence Boythorn" 1
+"473" "Jenny" "Liz" 4
+"474" "Jenny" "Miss Flite" 2
+"475" "Jenny" "Mr Gridley" 1
+"476" "Jenny" "Mr Skimpole" 2
+"477" "Jenny" "Mr Snagsby" 2
+"478" "Jenny" "Mrs Blinder" 1
+"479" "Jenny" "Mrs Pardiggle" 1
+"480" "Jenny" "Mrs Snagsby" 1
+"481" "Jenny" "Richard Carstone" 1
+"482" "Jenny" "Sir Dedlock" 1
+"483" "Jenny" "Tom Neckett" 2
+"484" "Jo" "Jobling" 1
+"485" "Jo" "John Jarndyce" 4
+"486" "Jo" "Judy Smallweed" 1
+"487" "Jo" "Krook" 3
+"488" "Jo" "Lady Dedlock" 4
+"489" "Jo" "Lawrence Boythorn" 1
+"490" "Jo" "Little Swills" 1
+"491" "Jo" "Liz" 4
+"492" "Jo" "Mademoiselle Hortense" 1
+"493" "Jo" "Mercury" 3
+"494" "Jo" "Miss Barbary" 1
+"495" "Jo" "Miss Flite" 3
+"496" "Jo" "Mr Gridley" 3
+"497" "Jo" "Mr Skimpole" 4
+"498" "Jo" "Mr Snagsby" 16
+"499" "Jo" "Mr Tulkinghorn" 10
+"500" "Jo" "Mrs Blinder" 2
+"501" "Jo" "Mrs Chadband" 4
+"502" "Jo" "Mrs Jellyby" 1
+"503" "Jo" "Mrs Pardiggle" 1
+"504" "Jo" "Mrs Rouncewell" 1
+"505" "Jo" "Mrs Snagsby" 12
+"506" "Jo" "Mrs Woodcourt" 1
+"507" "Jo" "Phil Squod" 5
+"508" "Jo" "Reverend Chadband" 6
+"509" "Jo" "Richard Carstone" 2
+"510" "Jo" "Rosa" 1
+"511" "Jo" "Sir Dedlock" 4
+"512" "Jo" "Tom Neckett" 1
+"513" "Jo" "William Guppy" 5
+"514" "Jobling" "John Jarndyce" 1
+"515" "Jobling" "Judy Smallweed" 4
+"516" "Jobling" "Krook" 12
+"517" "Jobling" "Lady Dedlock" 4
+"518" "Jobling" "Little Swills" 3
+"519" "Jobling" "Mercury" 1
+"520" "Jobling" "Miss Barbary" 1
+"521" "Jobling" "Miss Flite" 3
+"522" "Jobling" "Mr Snagsby" 6
+"523" "Jobling" "Mr Tulkinghorn" 4
+"524" "Jobling" "Mrs Chadband" 1
+"525" "Jobling" "Mrs Guppy" 2
+"526" "Jobling" "Mrs Perkins" 4
+"527" "Jobling" "Mrs Piper" 4
+"528" "Jobling" "Mrs Smallweed" 3
+"529" "Jobling" "Mrs Snagsby" 4
+"530" "Jobling" "Polly" 2
+"531" "Jobling" "Reverend Chadband" 1
+"532" "Jobling" "Richard Carstone" 2
+"533" "Jobling" "Sir Dedlock" 2
+"534" "Jobling" "Vholes" 1
+"535" "Jobling" "William Guppy" 23
+"536" "John Jarndyce" "Kitty Skimpole" 3
+"537" "John Jarndyce" "Krook" 6
+"538" "John Jarndyce" "Lady Dedlock" 11
+"539" "John Jarndyce" "Laura Skimpole" 3
+"540" "John Jarndyce" "Lawrence Boythorn" 11
+"541" "John Jarndyce" "Mademoiselle Hortense" 1
+"542" "John Jarndyce" "Miss Barbary" 2
+"543" "John Jarndyce" "Miss Donny" 1
+"544" "John Jarndyce" "Miss Flite" 7
+"545" "John Jarndyce" "Miss Wisk" 1
+"546" "John Jarndyce" "Mr Badger" 5
+"547" "John Jarndyce" "Mr Gridley" 8
+"548" "John Jarndyce" "Mr Gusher" 2
+"549" "John Jarndyce" "Mr Jellyby" 8
+"550" "John Jarndyce" "Mr Pardiggle" 1
+"551" "John Jarndyce" "Mr Quale" 5
+"552" "John Jarndyce" "Mr Skimpole" 24
+"553" "John Jarndyce" "Mr Snagsby" 2
+"554" "John Jarndyce" "Mr Tulkinghorn" 3
+"555" "John Jarndyce" "Mr Turveydrop" 4
+"556" "John Jarndyce" "Mrs Badger" 3
+"557" "John Jarndyce" "Mrs Bagnet" 1
+"558" "John Jarndyce" "Mrs Blinder" 4
+"559" "John Jarndyce" "Mrs Chadband" 2
+"560" "John Jarndyce" "Mrs Guppy" 1
+"561" "John Jarndyce" "Mrs Jellyby" 18
+"562" "John Jarndyce" "Mrs Pardiggle" 6
+"563" "John Jarndyce" "Mrs Rouncewell" 1
+"564" "John Jarndyce" "Mrs Skimpole" 4
+"565" "John Jarndyce" "Mrs Snagsby" 1
+"566" "John Jarndyce" "Mrs Woodcourt" 2
+"567" "John Jarndyce" "Oswald Pardiggle" 2
+"568" "John Jarndyce" "Peepy Jellby" 10
+"569" "John Jarndyce" "Phil Squod" 5
+"570" "John Jarndyce" "Prince Turvey" 3
+"571" "John Jarndyce" "Professor Dingo" 3
+"572" "John Jarndyce" "Richard Carstone" 62
+"573" "John Jarndyce" "Sir Dedlock" 10
+"574" "John Jarndyce" "Tom Neckett" 4
+"575" "John Jarndyce" "Vholes" 14
+"576" "John Jarndyce" "William Guppy" 9
+"577" "Judy Smallweed" "Krook" 3
+"578" "Judy Smallweed" "Little Swills" 1
+"579" "Judy Smallweed" "Matthew Bagnet" 3
+"580" "Judy Smallweed" "Miss Flite" 1
+"581" "Judy Smallweed" "Mr Gridley" 1
+"582" "Judy Smallweed" "Mr Tulkinghorn" 6
+"583" "Judy Smallweed" "Mrs Bagnet" 1
+"584" "Judy Smallweed" "Mrs Blinder" 1
+"585" "Judy Smallweed" "Mrs Perkins" 1
+"586" "Judy Smallweed" "Mrs Piper" 1
+"587" "Judy Smallweed" "Mrs Rouncewell" 1
+"588" "Judy Smallweed" "Mrs Smallweed" 8
+"589" "Judy Smallweed" "Phil Squod" 4
+"590" "Judy Smallweed" "Sir Dedlock" 1
+"591" "Judy Smallweed" "William Guppy" 5
+"592" "Kitty Skimpole" "Laura Skimpole" 4
+"593" "Kitty Skimpole" "Mr Skimpole" 4
+"594" "Kitty Skimpole" "Mrs Skimpole" 2
+"595" "Kitty Skimpole" "Richard Carstone" 2
+"596" "Kitty Skimpole" "Vholes" 1
+"597" "Krook" "Lady Dedlock" 4
+"598" "Krook" "Little Swills" 6
+"599" "Krook" "Mercury" 1
+"600" "Krook" "Miss Barbary" 1
+"601" "Krook" "Miss Flite" 8
+"602" "Krook" "Mooney" 1
+"603" "Krook" "Mr Badger" 1
+"604" "Krook" "Mr Snagsby" 9
+"605" "Krook" "Mr Tulkinghorn" 11
+"606" "Krook" "Mr Turveydrop" 1
+"607" "Krook" "Mrs Chadband" 2
+"608" "Krook" "Mrs Jellyby" 1
+"609" "Krook" "Mrs Perkins" 7
+"610" "Krook" "Mrs Piper" 7
+"611" "Krook" "Mrs Smallweed" 3
+"612" "Krook" "Mrs Snagsby" 6
+"613" "Krook" "Peepy Jellby" 3
+"614" "Krook" "Polly" 1
+"615" "Krook" "Prince Turvey" 1
+"616" "Krook" "Reverend Chadband" 2
+"617" "Krook" "Richard Carstone" 3
+"618" "Krook" "Sir Dedlock" 3
+"619" "Krook" "William Guppy" 14
+"620" "Lady Dedlock" "Lawrence Boythorn" 13
+"621" "Lady Dedlock" "Little Swills" 1
+"622" "Lady Dedlock" "Lord Boodle" 3
+"623" "Lady Dedlock" "Mademoiselle Hortense" 5
+"624" "Lady Dedlock" "Malta Bagnet" 1
+"625" "Lady Dedlock" "Matthew Bagnet" 1
+"626" "Lady Dedlock" "Mercury" 17
+"627" "Lady Dedlock" "Miss Barbary" 3
+"628" "Lady Dedlock" "Miss Flite" 1
+"629" "Lady Dedlock" "Mr Badger" 1
+"630" "Lady Dedlock" "Mr Gridley" 1
+"631" "Lady Dedlock" "Mr Grubble" 1
+"632" "Lady Dedlock" "Mr Rouncewell" 10
+"633" "Lady Dedlock" "Mr Skimpole" 7
+"634" "Lady Dedlock" "Mr Snagsby" 3
+"635" "Lady Dedlock" "Mr Tulkinghorn" 30
+"636" "Lady Dedlock" "Mrs Bagnet" 2
+"637" "Lady Dedlock" "Mrs Chadband" 2
+"638" "Lady Dedlock" "Mrs Perkins" 1
+"639" "Lady Dedlock" "Mrs Piper" 1
+"640" "Lady Dedlock" "Mrs Rouncewell" 18
+"641" "Lady Dedlock" "Mrs Skimpole" 1
+"642" "Lady Dedlock" "Mrs Smallweed" 1
+"643" "Lady Dedlock" "Mrs Snagsby" 2
+"644" "Lady Dedlock" "Phil Squod" 2
+"645" "Lady Dedlock" "Quebec Bagnet" 1
+"646" "Lady Dedlock" "Reverend Chadband" 2
+"647" "Lady Dedlock" "Richard Carstone" 4
+"648" "Lady Dedlock" "Rosa" 13
+"649" "Lady Dedlock" "Sir Dedlock" 58
+"650" "Lady Dedlock" "Sladdery" 2
+"651" "Lady Dedlock" "Thomas" 1
+"652" "Lady Dedlock" "Volumnia Dedlock" 15
+"653" "Lady Dedlock" "Watt Rouncewell" 5
+"654" "Lady Dedlock" "William Buffy" 5
+"655" "Lady Dedlock" "William Guppy" 14
+"656" "Laura Skimpole" "Mr Skimpole" 4
+"657" "Laura Skimpole" "Mrs Skimpole" 2
+"658" "Laura Skimpole" "Richard Carstone" 2
+"659" "Laura Skimpole" "Vholes" 1
+"660" "Lawrence Boythorn" "Lord Boodle" 1
+"661" "Lawrence Boythorn" "Mademoiselle Hortense" 2
+"662" "Lawrence Boythorn" "Mercury" 1
+"663" "Lawrence Boythorn" "Miss Flite" 1
+"664" "Lawrence Boythorn" "Mr Badger" 1
+"665" "Lawrence Boythorn" "Mr Grubble" 1
+"666" "Lawrence Boythorn" "Mr Rouncewell" 1
+"667" "Lawrence Boythorn" "Mr Skimpole" 7
+"668" "Lawrence Boythorn" "Mr Tulkinghorn" 1
+"669" "Lawrence Boythorn" "Phil Squod" 1
+"670" "Lawrence Boythorn" "Richard Carstone" 10
+"671" "Lawrence Boythorn" "Sir Dedlock" 10
+"672" "Lawrence Boythorn" "Vholes" 1
+"673" "Lawrence Boythorn" "Volumnia Dedlock" 1
+"674" "Lawrence Boythorn" "William Buffy" 1
+"675" "Lawrence Boythorn" "William Guppy" 2
+"676" "Little Swills" "Miss Flite" 2
+"677" "Little Swills" "Mooney" 1
+"678" "Little Swills" "Mr Snagsby" 3
+"679" "Little Swills" "Mr Tulkinghorn" 3
+"680" "Little Swills" "Mrs Perkins" 5
+"681" "Little Swills" "Mrs Piper" 5
+"682" "Little Swills" "Mrs Smallweed" 1
+"683" "Little Swills" "William Guppy" 3
+"684" "Liz" "Mr Skimpole" 1
+"685" "Liz" "Mr Snagsby" 1
+"686" "Liz" "Mrs Snagsby" 1
+"687" "Liz" "Tom Neckett" 1
+"688" "Lord Boodle" "Mr Tulkinghorn" 1
+"689" "Lord Boodle" "Phil Squod" 1
+"690" "Lord Boodle" "Sir Dedlock" 4
+"691" "Lord Boodle" "Volumnia Dedlock" 3
+"692" "Lord Boodle" "William Buffy" 4
+"693" "Mademoiselle Hortense" "Mercury" 1
+"694" "Mademoiselle Hortense" "Mr Snagsby" 4
+"695" "Mademoiselle Hortense" "Mr Tulkinghorn" 7
+"696" "Mademoiselle Hortense" "Mrs Bucket" 2
+"697" "Mademoiselle Hortense" "Rosa" 1
+"698" "Mademoiselle Hortense" "Sir Dedlock" 7
+"699" "Mademoiselle Hortense" "Watt Rouncewell" 1
+"700" "Malta Bagnet" "Matthew Bagnet" 10
+"701" "Malta Bagnet" "Mr Gridley" 2
+"702" "Malta Bagnet" "Mr Tulkinghorn" 4
+"703" "Malta Bagnet" "Mrs Bagnet" 10
+"704" "Malta Bagnet" "Mrs Bucket" 1
+"705" "Malta Bagnet" "Mrs Rouncewell" 1
+"706" "Malta Bagnet" "Phil Squod" 1
+"707" "Malta Bagnet" "Quebec Bagnet" 10
+"708" "Malta Bagnet" "Woolwich Bagnet" 7
+"709" "Matthew Bagnet" "Mr Gridley" 2
+"710" "Matthew Bagnet" "Mr Tulkinghorn" 7
+"711" "Matthew Bagnet" "Mrs Bagnet" 17
+"712" "Matthew Bagnet" "Mrs Bucket" 2
+"713" "Matthew Bagnet" "Mrs Rouncewell" 3
+"714" "Matthew Bagnet" "Mrs Smallweed" 1
+"715" "Matthew Bagnet" "Phil Squod" 3
+"716" "Matthew Bagnet" "Quebec Bagnet" 10
+"717" "Matthew Bagnet" "Sir Dedlock" 1
+"718" "Matthew Bagnet" "Woolwich Bagnet" 9
+"719" "Mercury" "Miss Barbary" 2
+"720" "Mercury" "Mr Rouncewell" 3
+"721" "Mercury" "Mr Tulkinghorn" 11
+"722" "Mercury" "Mrs Chadband" 1
+"723" "Mercury" "Mrs Rouncewell" 1
+"724" "Mercury" "Mrs Smallweed" 1
+"725" "Mercury" "Mrs Snagsby" 1
+"726" "Mercury" "Reverend Chadband" 1
+"727" "Mercury" "Rosa" 4
+"728" "Mercury" "Sir Dedlock" 17
+"729" "Mercury" "Sladdery" 1
+"730" "Mercury" "Volumnia Dedlock" 3
+"731" "Mercury" "William Guppy" 5
+"732" "Miss Barbary" "Mrs Chadband" 1
+"733" "Miss Barbary" "Sir Dedlock" 2
+"734" "Miss Barbary" "William Guppy" 3
+"735" "Miss Flite" "Mr Badger" 1
+"736" "Miss Flite" "Mr Gridley" 8
+"737" "Miss Flite" "Mr Snagsby" 1
+"738" "Miss Flite" "Mr Tulkinghorn" 5
+"739" "Miss Flite" "Mr Turveydrop" 3
+"740" "Miss Flite" "Mrs Badger" 1
+"741" "Miss Flite" "Mrs Blinder" 1
+"742" "Miss Flite" "Mrs Chadband" 1
+"743" "Miss Flite" "Mrs Jellyby" 1
+"744" "Miss Flite" "Mrs Pardiggle" 1
+"745" "Miss Flite" "Mrs Perkins" 3
+"746" "Miss Flite" "Mrs Piper" 3
+"747" "Miss Flite" "Mrs Snagsby" 1
+"748" "Miss Flite" "Mrs Woodcourt" 2
+"749" "Miss Flite" "Peepy Jellby" 3
+"750" "Miss Flite" "Phil Squod" 3
+"751" "Miss Flite" "Prince Turvey" 5
+"752" "Miss Flite" "Richard Carstone" 12
+"753" "Miss Flite" "Vholes" 1
+"754" "Miss Flite" "William Guppy" 6
+"755" "Miss Wisk" "Mr Jellyby" 2
+"756" "Miss Wisk" "Mr Quale" 2
+"757" "Miss Wisk" "Mr Turveydrop" 2
+"758" "Miss Wisk" "Mrs Jellyby" 2
+"759" "Miss Wisk" "Mrs Pardiggle" 2
+"760" "Miss Wisk" "Peepy Jellby" 2
+"761" "Miss Wisk" "Prince Turvey" 2
+"762" "Miss Wisk" "Richard Carstone" 1
+"763" "Mooney" "Mr Tulkinghorn" 1
+"764" "Mooney" "Mrs Perkins" 1
+"765" "Mooney" "Mrs Piper" 1
+"766" "Mr Badger" "Mr Jellyby" 1
+"767" "Mr Badger" "Mr Skimpole" 1
+"768" "Mr Badger" "Mr Turveydrop" 1
+"769" "Mr Badger" "Mrs Badger" 4
+"770" "Mr Badger" "Peepy Jellby" 2
+"771" "Mr Badger" "Prince Turvey" 1
+"772" "Mr Badger" "Professor Dingo" 4
+"773" "Mr Badger" "Richard Carstone" 7
+"774" "Mr Badger" "William Guppy" 1
+"775" "Mr Gridley" "Mr Skimpole" 3
+"776" "Mr Gridley" "Mr Snagsby" 1
+"777" "Mr Gridley" "Mr Tangle" 1
+"778" "Mr Gridley" "Mr Tulkinghorn" 4
+"779" "Mr Gridley" "Mrs Bagnet" 2
+"780" "Mr Gridley" "Mrs Blinder" 4
+"781" "Mr Gridley" "Mrs Chadband" 1
+"782" "Mr Gridley" "Phil Squod" 3
+"783" "Mr Gridley" "Quebec Bagnet" 2
+"784" "Mr Gridley" "Richard Carstone" 7
+"785" "Mr Gridley" "Sir Dedlock" 2
+"786" "Mr Gridley" "Tom Neckett" 3
+"787" "Mr Gridley" "Vholes" 1
+"788" "Mr Gridley" "William Guppy" 1
+"789" "Mr Gridley" "Woolwich Bagnet" 1
+"790" "Mr Grubble" "Richard Carstone" 1
+"791" "Mr Gusher" "Mr Jellyby" 1
+"792" "Mr Gusher" "Mr Pardiggle" 1
+"793" "Mr Gusher" "Mr Quale" 1
+"794" "Mr Gusher" "Mr Skimpole" 1
+"795" "Mr Gusher" "Mrs Jellyby" 2
+"796" "Mr Gusher" "Mrs Pardiggle" 2
+"797" "Mr Gusher" "Oswald Pardiggle" 1
+"798" "Mr Jellyby" "Mr Pardiggle" 1
+"799" "Mr Jellyby" "Mr Quale" 5
+"800" "Mr Jellyby" "Mr Turveydrop" 11
+"801" "Mr Jellyby" "Mrs Jellyby" 15
+"802" "Mr Jellyby" "Mrs Pardiggle" 3
+"803" "Mr Jellyby" "Oswald Pardiggle" 1
+"804" "Mr Jellyby" "Peepy Jellby" 11
+"805" "Mr Jellyby" "Prince Turvey" 7
+"806" "Mr Jellyby" "Richard Carstone" 6
+"807" "Mr Jellyby" "Tom Neckett" 1
+"808" "Mr Jellyby" "William Guppy" 1
+"809" "Mr Pardiggle" "Mrs Jellyby" 1
+"810" "Mr Pardiggle" "Mrs Pardiggle" 2
+"811" "Mr Pardiggle" "Oswald Pardiggle" 2
+"812" "Mr Quale" "Mr Skimpole" 1
+"813" "Mr Quale" "Mr Turveydrop" 3
+"814" "Mr Quale" "Mrs Jellyby" 6
+"815" "Mr Quale" "Mrs Pardiggle" 3
+"816" "Mr Quale" "Peepy Jellby" 5
+"817" "Mr Quale" "Prince Turvey" 2
+"818" "Mr Quale" "Priscilla" 1
+"819" "Mr Quale" "Richard Carstone" 3
+"820" "Mr Rouncewell" "Mr Tulkinghorn" 7
+"821" "Mr Rouncewell" "Mrs Rouncewell" 4
+"822" "Mr Rouncewell" "Rosa" 6
+"823" "Mr Rouncewell" "Sir Dedlock" 11
+"824" "Mr Rouncewell" "Volumnia Dedlock" 3
+"825" "Mr Skimpole" "Mr Tulkinghorn" 3
+"826" "Mr Skimpole" "Mrs Blinder" 3
+"827" "Mr Skimpole" "Mrs Jellyby" 5
+"828" "Mr Skimpole" "Mrs Pardiggle" 1
+"829" "Mr Skimpole" "Mrs Skimpole" 3
+"830" "Mr Skimpole" "Mrs Woodcourt" 2
+"831" "Mr Skimpole" "Richard Carstone" 19
+"832" "Mr Skimpole" "Sir Dedlock" 6
+"833" "Mr Skimpole" "Tom Neckett" 3
+"834" "Mr Skimpole" "Vholes" 5
+"835" "Mr Skimpole" "William Guppy" 1
+"836" "Mr Snagsby" "Mr Tulkinghorn" 17
+"837" "Mr Snagsby" "Mrs Chadband" 6
+"838" "Mr Snagsby" "Mrs Perkins" 2
+"839" "Mr Snagsby" "Mrs Piper" 2
+"840" "Mr Snagsby" "Mrs Snagsby" 23
+"841" "Mr Snagsby" "Peffer" 1
+"842" "Mr Snagsby" "Phil Squod" 2
+"843" "Mr Snagsby" "Polly" 1
+"844" "Mr Snagsby" "Reverend Chadband" 8
+"845" "Mr Snagsby" "Richard Carstone" 2
+"846" "Mr Snagsby" "Sir Dedlock" 2
+"847" "Mr Snagsby" "William Guppy" 7
+"848" "Mr Tulkinghorn" "Mrs Bagnet" 6
+"849" "Mr Tulkinghorn" "Mrs Bucket" 4
+"850" "Mr Tulkinghorn" "Mrs Chadband" 3
+"851" "Mr Tulkinghorn" "Mrs Jellyby" 1
+"852" "Mr Tulkinghorn" "Mrs Pardiggle" 1
+"853" "Mr Tulkinghorn" "Mrs Perkins" 3
+"854" "Mr Tulkinghorn" "Mrs Piper" 3
+"855" "Mr Tulkinghorn" "Mrs Rouncewell" 7
+"856" "Mr Tulkinghorn" "Mrs Smallweed" 2
+"857" "Mr Tulkinghorn" "Mrs Snagsby" 10
+"858" "Mr Tulkinghorn" "Phil Squod" 3
+"859" "Mr Tulkinghorn" "Quebec Bagnet" 4
+"860" "Mr Tulkinghorn" "Reverend Chadband" 4
+"861" "Mr Tulkinghorn" "Richard Carstone" 1
+"862" "Mr Tulkinghorn" "Rosa" 6
+"863" "Mr Tulkinghorn" "Sir Dedlock" 31
+"864" "Mr Tulkinghorn" "Sladdery" 1
+"865" "Mr Tulkinghorn" "Tom Neckett" 1
+"866" "Mr Tulkinghorn" "Volumnia Dedlock" 5
+"867" "Mr Tulkinghorn" "Watt Rouncewell" 1
+"868" "Mr Tulkinghorn" "William Buffy" 2
+"869" "Mr Tulkinghorn" "William Guppy" 11
+"870" "Mr Tulkinghorn" "Woolwich Bagnet" 2
+"871" "Mr Turveydrop" "Mrs Jellyby" 9
+"872" "Mr Turveydrop" "Mrs Pardiggle" 2
+"873" "Mr Turveydrop" "Peepy Jellby" 9
+"874" "Mr Turveydrop" "Prince Turvey" 13
+"875" "Mr Turveydrop" "Richard Carstone" 3
+"876" "Mr Turveydrop" "Tom Neckett" 1
+"877" "Mr Turveydrop" "William Guppy" 1
+"878" "Mrs Badger" "Mrs Woodcourt" 1
+"879" "Mrs Badger" "Professor Dingo" 4
+"880" "Mrs Badger" "Richard Carstone" 5
+"881" "Mrs Badger" "William Guppy" 1
+"882" "Mrs Bagnet" "Mrs Bucket" 2
+"883" "Mrs Bagnet" "Mrs Rouncewell" 4
+"884" "Mrs Bagnet" "Phil Squod" 3
+"885" "Mrs Bagnet" "Quebec Bagnet" 10
+"886" "Mrs Bagnet" "Sir Dedlock" 2
+"887" "Mrs Bagnet" "Woolwich Bagnet" 9
+"888" "Mrs Blinder" "Tom Neckett" 4
+"889" "Mrs Bucket" "Quebec Bagnet" 1
+"890" "Mrs Bucket" "Sir Dedlock" 3
+"891" "Mrs Bucket" "William Buffy" 1
+"892" "Mrs Bucket" "Woolwich Bagnet" 1
+"893" "Mrs Chadband" "Mrs Smallweed" 1
+"894" "Mrs Chadband" "Mrs Snagsby" 8
+"895" "Mrs Chadband" "Reverend Chadband" 7
+"896" "Mrs Chadband" "Richard Carstone" 1
+"897" "Mrs Chadband" "Sir Dedlock" 3
+"898" "Mrs Chadband" "William Guppy" 4
+"899" "Mrs Guppy" "William Guppy" 4
+"900" "Mrs Jellyby" "Mrs Pardiggle" 6
+"901" "Mrs Jellyby" "Mrs Skimpole" 1
+"902" "Mrs Jellyby" "Oswald Pardiggle" 2
+"903" "Mrs Jellyby" "Peepy Jellby" 11
+"904" "Mrs Jellyby" "Phil Squod" 1
+"905" "Mrs Jellyby" "Prince Turvey" 6
+"906" "Mrs Jellyby" "Richard Carstone" 15
+"907" "Mrs Jellyby" "Tom Neckett" 1
+"908" "Mrs Jellyby" "William Guppy" 1
+"909" "Mrs Pardiggle" "Oswald Pardiggle" 3
+"910" "Mrs Pardiggle" "Peepy Jellby" 2
+"911" "Mrs Pardiggle" "Phil Squod" 1
+"912" "Mrs Pardiggle" "Prince Turvey" 2
+"913" "Mrs Pardiggle" "Richard Carstone" 3
+"914" "Mrs Perkins" "Mrs Piper" 7
+"915" "Mrs Perkins" "Mrs Smallweed" 1
+"916" "Mrs Perkins" "William Guppy" 4
+"917" "Mrs Piper" "Mrs Smallweed" 1
+"918" "Mrs Piper" "William Guppy" 4
+"919" "Mrs Rouncewell" "Quebec Bagnet" 1
+"920" "Mrs Rouncewell" "Rosa" 7
+"921" "Mrs Rouncewell" "Sir Dedlock" 19
+"922" "Mrs Rouncewell" "Thomas" 1
+"923" "Mrs Rouncewell" "Volumnia Dedlock" 9
+"924" "Mrs Rouncewell" "Watt Rouncewell" 4
+"925" "Mrs Rouncewell" "William Buffy" 1
+"926" "Mrs Rouncewell" "William Guppy" 2
+"927" "Mrs Rouncewell" "Woolwich Bagnet" 1
+"928" "Mrs Skimpole" "Richard Carstone" 2
+"929" "Mrs Skimpole" "Sir Dedlock" 1
+"930" "Mrs Smallweed" "Mrs Snagsby" 1
+"931" "Mrs Smallweed" "Phil Squod" 1
+"932" "Mrs Smallweed" "Reverend Chadband" 1
+"933" "Mrs Smallweed" "Sir Dedlock" 1
+"934" "Mrs Smallweed" "William Guppy" 4
+"935" "Mrs Snagsby" "Peffer" 1
+"936" "Mrs Snagsby" "Phil Squod" 1
+"937" "Mrs Snagsby" "Polly" 1
+"938" "Mrs Snagsby" "Reverend Chadband" 10
+"939" "Mrs Snagsby" "Richard Carstone" 1
+"940" "Mrs Snagsby" "Sir Dedlock" 3
+"941" "Mrs Snagsby" "William Guppy" 7
+"942" "Mrs Woodcourt" "Prince Turvey" 1
+"943" "Mrs Woodcourt" "Richard Carstone" 7
+"944" "Mrs Woodcourt" "Vholes" 1
+"945" "Oswald Pardiggle" "Richard Carstone" 1
+"946" "Peepy Jellby" "Prince Turvey" 7
+"947" "Peepy Jellby" "Priscilla" 2
+"948" "Peepy Jellby" "Richard Carstone" 9
+"949" "Peepy Jellby" "Tom Neckett" 1
+"950" "Peepy Jellby" "William Guppy" 1
+"951" "Phil Squod" "Quebec Bagnet" 1
+"952" "Phil Squod" "Richard Carstone" 1
+"953" "Phil Squod" "Sir Dedlock" 2
+"954" "Phil Squod" "Volumnia Dedlock" 1
+"955" "Phil Squod" "William Buffy" 1
+"956" "Phil Squod" "Woolwich Bagnet" 1
+"957" "Polly" "William Guppy" 2
+"958" "Prince Turvey" "Richard Carstone" 3
+"959" "Prince Turvey" "William Guppy" 1
+"960" "Priscilla" "Richard Carstone" 1
+"961" "Professor Dingo" "Richard Carstone" 4
+"962" "Professor Dingo" "William Guppy" 1
+"963" "Quebec Bagnet" "Woolwich Bagnet" 7
+"964" "Reverend Chadband" "Sir Dedlock" 3
+"965" "Reverend Chadband" "William Guppy" 2
+"966" "Richard Carstone" "Sir Dedlock" 3
+"967" "Richard Carstone" "Tom Neckett" 1
+"968" "Richard Carstone" "Vholes" 21
+"969" "Richard Carstone" "William Guppy" 7
+"970" "Rosa" "Sir Dedlock" 12
+"971" "Rosa" "Volumnia Dedlock" 2
+"972" "Rosa" "Watt Rouncewell" 5
+"973" "Rosa" "William Buffy" 1
+"974" "Rosa" "William Guppy" 3
+"975" "Sir Dedlock" "Sladdery" 2
+"976" "Sir Dedlock" "Thomas" 1
+"977" "Sir Dedlock" "Volumnia Dedlock" 20
+"978" "Sir Dedlock" "Watt Rouncewell" 3
+"979" "Sir Dedlock" "William Buffy" 7
+"980" "Sir Dedlock" "William Guppy" 7
+"981" "Sir Dedlock" "Woolwich Bagnet" 1
+"982" "Sladdery" "William Buffy" 1
+"983" "Thomas" "Volumnia Dedlock" 1
+"984" "Vholes" "William Guppy" 2
+"985" "Volumnia Dedlock" "William Buffy" 4
+"986" "Watt Rouncewell" "William Guppy" 2

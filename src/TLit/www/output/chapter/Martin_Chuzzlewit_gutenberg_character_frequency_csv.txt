@@ -1,0 +1,464 @@
+"","Character","Node","Appearances"
+"1","Anonymous Woman",55,3
+"2","Anonymous Woman",16,3
+"3","Anonymous Woman",34,3
+"4","Anthony Chuzzlewit",28,14
+"5","Anthony Chuzzlewit",33,14
+"6","Anthony Chuzzlewit",12,14
+"7","Anthony Chuzzlewit",52,14
+"8","Anthony Chuzzlewit",31,14
+"9","Anthony Chuzzlewit",9,14
+"10","Anthony Chuzzlewit",20,14
+"11","Anthony Chuzzlewit",25,14
+"12","Anthony Chuzzlewit",47,14
+"13","Anthony Chuzzlewit",19,14
+"14","Anthony Chuzzlewit",21,14
+"15","Anthony Chuzzlewit",5,14
+"16","Anthony Chuzzlewit",26,14
+"17","Anthony Chuzzlewit",49,14
+"18","Augustus Moddle",55,8
+"19","Augustus Moddle",11,8
+"20","Augustus Moddle",12,8
+"21","Augustus Moddle",33,8
+"22","Augustus Moddle",10,8
+"23","Augustus Moddle",34,8
+"24","Augustus Moddle",47,8
+"25","Augustus Moddle",38,8
+"26","Bullamy",52,2
+"27","Bullamy",28,2
+"28","Captain Kedgick",35,2
+"29","Captain Kedgick",23,2
+"30","Charity Pecksniff",3,16
+"31","Charity Pecksniff",9,16
+"32","Charity Pecksniff",10,16
+"33","Charity Pecksniff",25,16
+"34","Charity Pecksniff",47,16
+"35","Charity Pecksniff",6,16
+"36","Charity Pecksniff",21,16
+"37","Charity Pecksniff",5,16
+"38","Charity Pecksniff",32,16
+"39","Charity Pecksniff",7,16
+"40","Charity Pecksniff",33,16
+"41","Charity Pecksniff",11,16
+"42","Charity Pecksniff",55,16
+"43","Charity Pecksniff",12,16
+"44","Charity Pecksniff",38,16
+"45","Charity Pecksniff",31,16
+"46","Chevy Slyme",8,4
+"47","Chevy Slyme",52,4
+"48","Chevy Slyme",14,4
+"49","Chevy Slyme",5,4
+"50","Chiggle",35,1
+"51","Chuffey",49,11
+"52","Chuffey",47,11
+"53","Chuffey",52,11
+"54","Chuffey",55,11
+"55","Chuffey",20,11
+"56","Chuffey",26,11
+"57","Chuffey",50,11
+"58","Chuffey",53,11
+"59","Chuffey",27,11
+"60","Chuffey",19,11
+"61","Chuffey",12,11
+"62","Cicero",18,1
+"63","Colonel Diver",22,2
+"64","Colonel Diver",17,2
+"65","Colonel Groper",35,1
+"66","David Crimple",50,5
+"67","David Crimple",52,5
+"68","David Crimple",29,5
+"69","David Crimple",28,5
+"70","David Crimple",30,5
+"71","Doctor Dunkle",35,1
+"72","Doctor Jobling",42,7
+"73","Doctor Jobling",29,7
+"74","Doctor Jobling",28,7
+"75","Doctor Jobling",39,7
+"76","Doctor Jobling",26,7
+"77","Doctor Jobling",43,7
+"78","Doctor Jobling",20,7
+"79","General Choke",22,2
+"80","General Choke",34,2
+"81","General Fladdock",18,2
+"82","General Fladdock",35,2
+"83","George Chuzzlewit",5,2
+"84","George Chuzzlewit",55,2
+"85","Jack Coach",37,1
+"86","Jane",32,1
+"87","Jeff Brick",22,3
+"88","Jeff Brick",18,3
+"89","Jeff Brick",17,3
+"90","Jodd",35,1
+"91","John Westlock",3,19
+"92","John Westlock",14,19
+"93","John Westlock",30,19
+"94","John Westlock",50,19
+"95","John Westlock",40,19
+"96","John Westlock",52,19
+"97","John Westlock",54,19
+"98","John Westlock",53,19
+"99","John Westlock",37,19
+"100","John Westlock",13,19
+"101","John Westlock",7,19
+"102","John Westlock",41,19
+"103","John Westlock",49,19
+"104","John Westlock",46,19
+"105","John Westlock",32,19
+"106","John Westlock",28,19
+"107","John Westlock",26,19
+"108","John Westlock",51,19
+"109","John Westlock",38,19
+"110","Jonas Chuzzlewit",48,25
+"111","Jonas Chuzzlewit",5,25
+"112","Jonas Chuzzlewit",42,25
+"113","Jonas Chuzzlewit",39,25
+"114","Jonas Chuzzlewit",31,25
+"115","Jonas Chuzzlewit",53,25
+"116","Jonas Chuzzlewit",47,25
+"117","Jonas Chuzzlewit",52,25
+"118","Jonas Chuzzlewit",28,25
+"119","Jonas Chuzzlewit",21,25
+"120","Jonas Chuzzlewit",25,25
+"121","Jonas Chuzzlewit",43,25
+"122","Jonas Chuzzlewit",9,25
+"123","Jonas Chuzzlewit",20,25
+"124","Jonas Chuzzlewit",12,25
+"125","Jonas Chuzzlewit",33,25
+"126","Jonas Chuzzlewit",45,25
+"127","Jonas Chuzzlewit",49,25
+"128","Jonas Chuzzlewit",29,25
+"129","Jonas Chuzzlewit",19,25
+"130","Jonas Chuzzlewit",41,25
+"131","Jonas Chuzzlewit",55,25
+"132","Jonas Chuzzlewit",50,25
+"133","Jonas Chuzzlewit",27,25
+"134","Jonas Chuzzlewit",44,25
+"135","Julius Bib",35,1
+"136","La Fayette Kettle",22,1
+"137","Lewsome",51,5
+"138","Lewsome",26,5
+"139","Lewsome",52,5
+"140","Lewsome",30,5
+"141","Lewsome",49,5
+"142","Major Chollop",35,2
+"143","Major Chollop",34,2
+"144","Major Pawkins",22,2
+"145","Major Pawkins",17,2
+"146","Mark Tapley",22,22
+"147","Mark Tapley",54,22
+"148","Mark Tapley",44,22
+"149","Mark Tapley",32,22
+"150","Mark Tapley",53,22
+"151","Mark Tapley",24,22
+"152","Mark Tapley",14,22
+"153","Mark Tapley",49,22
+"154","Mark Tapley",18,22
+"155","Mark Tapley",55,22
+"156","Mark Tapley",15,22
+"157","Mark Tapley",35,22
+"158","Mark Tapley",36,22
+"159","Mark Tapley",23,22
+"160","Mark Tapley",13,22
+"161","Mark Tapley",52,22
+"162","Mark Tapley",40,22
+"163","Mark Tapley",17,22
+"164","Mark Tapley",8,22
+"165","Mark Tapley",34,22
+"166","Mark Tapley",6,22
+"167","Mark Tapley",16,22
+"168","Martin Jr",44,30
+"169","Martin Jr",31,30
+"170","Martin Jr",6,30
+"171","Martin Jr",19,30
+"172","Martin Jr",40,30
+"173","Martin Jr",14,30
+"174","Martin Jr",51,30
+"175","Martin Jr",32,30
+"176","Martin Jr",8,30
+"177","Martin Jr",16,30
+"178","Martin Jr",21,30
+"179","Martin Jr",45,30
+"180","Martin Jr",15,30
+"181","Martin Jr",49,30
+"182","Martin Jr",50,30
+"183","Martin Jr",18,30
+"184","Martin Jr",17,30
+"185","Martin Jr",22,30
+"186","Martin Jr",54,30
+"187","Martin Jr",4,30
+"188","Martin Jr",36,30
+"189","Martin Jr",25,30
+"190","Martin Jr",34,30
+"191","Martin Jr",23,30
+"192","Martin Jr",52,30
+"193","Martin Jr",35,30
+"194","Martin Jr",53,30
+"195","Martin Jr",24,30
+"196","Martin Jr",7,30
+"197","Martin Jr",13,30
+"198","Martin Sr",14,29
+"199","Martin Sr",11,29
+"200","Martin Sr",44,29
+"201","Martin Sr",5,29
+"202","Martin Sr",15,29
+"203","Martin Sr",46,29
+"204","Martin Sr",9,29
+"205","Martin Sr",31,29
+"206","Martin Sr",34,29
+"207","Martin Sr",32,29
+"208","Martin Sr",19,29
+"209","Martin Sr",55,29
+"210","Martin Sr",6,29
+"211","Martin Sr",52,29
+"212","Martin Sr",38,29
+"213","Martin Sr",45,29
+"214","Martin Sr",20,29
+"215","Martin Sr",4,29
+"216","Martin Sr",54,29
+"217","Martin Sr",25,29
+"218","Martin Sr",12,29
+"219","Martin Sr",35,29
+"220","Martin Sr",30,29
+"221","Martin Sr",13,29
+"222","Martin Sr",10,29
+"223","Martin Sr",26,29
+"224","Martin Sr",29,29
+"225","Martin Sr",47,29
+"226","Martin Sr",53,29
+"227","Mary",31,4
+"228","Mary",53,4
+"229","Mary",38,4
+"230","Mary",32,4
+"231","Mercy Pecksniff",11,20
+"232","Mercy Pecksniff",41,20
+"233","Mercy Pecksniff",38,20
+"234","Mercy Pecksniff",46,20
+"235","Mercy Pecksniff",32,20
+"236","Mercy Pecksniff",47,20
+"237","Mercy Pecksniff",31,20
+"238","Mercy Pecksniff",27,20
+"239","Mercy Pecksniff",3,20
+"240","Mercy Pecksniff",9,20
+"241","Mercy Pecksniff",21,20
+"242","Mercy Pecksniff",12,20
+"243","Mercy Pecksniff",25,20
+"244","Mercy Pecksniff",6,20
+"245","Mercy Pecksniff",55,20
+"246","Mercy Pecksniff",29,20
+"247","Mercy Pecksniff",5,20
+"248","Mercy Pecksniff",10,20
+"249","Mercy Pecksniff",33,20
+"250","Mercy Pecksniff",7,20
+"251","Miss Codger",35,1
+"252","Miss Toppit",35,1
+"253","Misses Mould",26,1
+"254","Mr Bevan",44,6
+"255","Mr Bevan",34,6
+"256","Mr Bevan",22,6
+"257","Mr Bevan",18,6
+"258","Mr Bevan",35,6
+"259","Mr Bevan",24,6
+"260","Mr Fips",40,5
+"261","Mr Fips",49,5
+"262","Mr Fips",54,5
+"263","Mr Fips",51,5
+"264","Mr Fips",41,5
+"265","Mr Gander",10,1
+"266","Mr Izzard",35,1
+"267","Mr Jinkins",55,6
+"268","Mr Jinkins",10,6
+"269","Mr Jinkins",33,6
+"270","Mr Jinkins",11,6
+"271","Mr Jinkins",12,6
+"272","Mr Jinkins",9,6
+"273","Mr Mould",52,4
+"274","Mr Mould",26,4
+"275","Mr Mould",20,4
+"276","Mr Mould",39,4
+"277","Mr Norris",34,2
+"278","Mr Norris",18,2
+"279","Mr Pip",29,1
+"280","Mr/Mrs Spottletoe",55,2
+"281","Mr/Mrs Spottletoe",5,2
+"282","Mrs Gamp",25,15
+"283","Mrs Gamp",50,15
+"284","Mrs Gamp",26,15
+"285","Mrs Gamp",52,15
+"286","Mrs Gamp",49,15
+"287","Mrs Gamp",23,15
+"288","Mrs Gamp",30,15
+"289","Mrs Gamp",20,15
+"290","Mrs Gamp",28,15
+"291","Mrs Gamp",53,15
+"292","Mrs Gamp",39,15
+"293","Mrs Gamp",46,15
+"294","Mrs Gamp",27,15
+"295","Mrs Gamp",47,15
+"296","Mrs Gamp",41,15
+"297","Mrs Gill",30,1
+"298","Mrs Hominy",35,3
+"299","Mrs Hominy",24,3
+"300","Mrs Hominy",23,3
+"301","Mrs Lupin",49,16
+"302","Mrs Lupin",6,16
+"303","Mrs Lupin",44,16
+"304","Mrs Lupin",32,16
+"305","Mrs Lupin",45,16
+"306","Mrs Lupin",15,16
+"307","Mrs Lupin",8,16
+"308","Mrs Lupin",4,16
+"309","Mrs Lupin",37,16
+"310","Mrs Lupin",38,16
+"311","Mrs Lupin",5,16
+"312","Mrs Lupin",54,16
+"313","Mrs Lupin",31,16
+"314","Mrs Lupin",34,16
+"315","Mrs Lupin",36,16
+"316","Mrs Lupin",53,16
+"317","Mrs Mould",26,2
+"318","Mrs Mould",30,2
+"319","Mrs Ned Chuzzlewit",1,4
+"320","Mrs Ned Chuzzlewit",5,4
+"321","Mrs Ned Chuzzlewit",55,4
+"322","Mrs Ned Chuzzlewit",44,4
+"323","Mrs Norris",18,1
+"324","Mrs Pawkins",17,2
+"325","Mrs Pawkins",18,2
+"326","Mrs Prig",30,5
+"327","Mrs Prig",47,5
+"328","Mrs Prig",26,5
+"329","Mrs Prig",50,5
+"330","Mrs Prig",52,5
+"331","Mrs Todgers",12,13
+"332","Mrs Todgers",52,13
+"333","Mrs Todgers",25,13
+"334","Mrs Todgers",55,13
+"335","Mrs Todgers",10,13
+"336","Mrs Todgers",47,13
+"337","Mrs Todgers",38,13
+"338","Mrs Todgers",31,13
+"339","Mrs Todgers",11,13
+"340","Mrs Todgers",37,13
+"341","Mrs Todgers",9,13
+"342","Mrs Todgers",33,13
+"343","Mrs Todgers",19,13
+"344","Nadgett",48,13
+"345","Nadgett",47,13
+"346","Nadgett",51,13
+"347","Nadgett",30,13
+"348","Nadgett",43,13
+"349","Nadgett",53,13
+"350","Nadgett",49,13
+"351","Nadgett",28,13
+"352","Nadgett",29,13
+"353","Nadgett",39,13
+"354","Nadgett",41,13
+"355","Nadgett",52,13
+"356","Nadgett",42,13
+"357","Oscar Buffum",35,1
+"358","Pogram",35,1
+"359","Professor Mullit",17,1
+"360","Professor Piper",35,1
+"361","Ruth Pinch",40,6
+"362","Ruth Pinch",46,6
+"363","Ruth Pinch",37,6
+"364","Ruth Pinch",47,6
+"365","Ruth Pinch",10,6
+"366","Ruth Pinch",49,6
+"367","Seth Pecksniff",25,37
+"368","Seth Pecksniff",20,37
+"369","Seth Pecksniff",13,37
+"370","Seth Pecksniff",22,37
+"371","Seth Pecksniff",34,37
+"372","Seth Pecksniff",52,37
+"373","Seth Pecksniff",10,37
+"374","Seth Pecksniff",9,37
+"375","Seth Pecksniff",12,37
+"376","Seth Pecksniff",6,37
+"377","Seth Pecksniff",33,37
+"378","Seth Pecksniff",37,37
+"379","Seth Pecksniff",55,37
+"380","Seth Pecksniff",39,37
+"381","Seth Pecksniff",48,37
+"382","Seth Pecksniff",7,37
+"383","Seth Pecksniff",4,37
+"384","Seth Pecksniff",36,37
+"385","Seth Pecksniff",53,37
+"386","Seth Pecksniff",45,37
+"387","Seth Pecksniff",32,37
+"388","Seth Pecksniff",11,37
+"389","Seth Pecksniff",8,37
+"390","Seth Pecksniff",26,37
+"391","Seth Pecksniff",19,37
+"392","Seth Pecksniff",43,37
+"393","Seth Pecksniff",3,37
+"394","Seth Pecksniff",31,37
+"395","Seth Pecksniff",14,37
+"396","Seth Pecksniff",5,37
+"397","Seth Pecksniff",15,37
+"398","Seth Pecksniff",21,37
+"399","Seth Pecksniff",41,37
+"400","Seth Pecksniff",40,37
+"401","Seth Pecksniff",49,37
+"402","Seth Pecksniff",44,37
+"403","Seth Pecksniff",51,37
+"404","Sophia",7,1
+"405","Tacker",39,3
+"406","Tacker",20,3
+"407","Tacker",26,3
+"408","Tigg Montague",5,15
+"409","Tigg Montague",8,15
+"410","Tigg Montague",41,15
+"411","Tigg Montague",48,15
+"412","Tigg Montague",43,15
+"413","Tigg Montague",50,15
+"414","Tigg Montague",52,15
+"415","Tigg Montague",42,15
+"416","Tigg Montague",39,15
+"417","Tigg Montague",53,15
+"418","Tigg Montague",13,15
+"419","Tigg Montague",29,15
+"420","Tigg Montague",14,15
+"421","Tigg Montague",28,15
+"422","Tigg Montague",45,15
+"423","Tom Pinch",38,21
+"424","Tom Pinch",21,21
+"425","Tom Pinch",37,21
+"426","Tom Pinch",41,21
+"427","Tom Pinch",32,21
+"428","Tom Pinch",22,21
+"429","Tom Pinch",47,21
+"430","Tom Pinch",3,21
+"431","Tom Pinch",34,21
+"432","Tom Pinch",6,21
+"433","Tom Pinch",8,21
+"434","Tom Pinch",44,21
+"435","Tom Pinch",7,21
+"436","Tom Pinch",13,21
+"437","Tom Pinch",49,21
+"438","Tom Pinch",36,21
+"439","Tom Pinch",14,21
+"440","Tom Pinch",10,21
+"441","Tom Pinch",25,21
+"442","Tom Pinch",40,21
+"443","Tom Pinch",31,21
+"444","William Simmons",14,1
+"445","Young Bailey",53,14
+"446","Young Bailey",39,14
+"447","Young Bailey",29,14
+"448","Young Bailey",27,14
+"449","Young Bailey",50,14
+"450","Young Bailey",33,14
+"451","Young Bailey",9,14
+"452","Young Bailey",28,14
+"453","Young Bailey",42,14
+"454","Young Bailey",55,14
+"455","Young Bailey",12,14
+"456","Young Bailey",10,14
+"457","Young Bailey",30,14
+"458","Young Bailey",43,14
+"459","Zephaniah Scadder",22,5
+"460","Zephaniah Scadder",34,5
+"461","Zephaniah Scadder",24,5
+"462","Zephaniah Scadder",23,5
+"463","Zephaniah Scadder",35,5

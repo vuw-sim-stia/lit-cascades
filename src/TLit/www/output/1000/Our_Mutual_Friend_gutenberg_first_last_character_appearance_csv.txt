@@ -1,0 +1,123 @@
+"","Character","Node","Type","Appearances"
+"1","Abbey Potterson",26,"First Appearance",16
+"2","Abbey Potterson",350,"Last Appearance",16
+"3","Alfred Lammle",49,"First Appearance",44
+"4","Alfred Lammle",357,"Last Appearance",44
+"5","Analytical Chemist",5,"First Appearance",12
+"6","Analytical Chemist",273,"Last Appearance",12
+"7","Bella Wilfer",15,"First Appearance",99
+"8","Bella Wilfer",357,"Last Appearance",99
+"9","Betty Higden",84,"First Appearance",22
+"10","Betty Higden",357,"Last Appearance",22
+"11","Blight",37,"First Appearance",6
+"12","Blight",350,"Last Appearance",6
+"13","Bob Glamour",27,"First Appearance",3
+"14","Bob Glamour",192,"Last Appearance",3
+"15","Bob Gliddery",28,"First Appearance",5
+"16","Bob Gliddery",192,"Last Appearance",5
+"17","Boots Brewer",356,"Last Appearance",16
+"18","Boots Brewer",4,"First Appearance",16
+"19","Bradley Headstone",14,"First Appearance",52
+"20","Bradley Headstone",357,"Last Appearance",52
+"21","Captain Joey",156,"First Appearance",3
+"22","Captain Joey",209,"Last Appearance",3
+"23","Charley Hexam",11,"First Appearance",22
+"24","Charley Hexam",309,"Last Appearance",22
+"25","Eugene Wrayburn",355,"Last Appearance",83
+"26","Eugene Wrayburn",5,"First Appearance",83
+"27","Fledgeby",111,"First Appearance",37
+"28","Fledgeby",350,"Last Appearance",37
+"29","Gaffer Hexam",2,"First Appearance",20
+"30","Gaffer Hexam",238,"Last Appearance",20
+"31","George Jones",27,"First Appearance",9
+"32","George Jones",338,"Last Appearance",9
+"33","George Sampson",16,"First Appearance",18
+"34","George Sampson",351,"Last Appearance",18
+"35","Georgiana Podsnap",56,"First Appearance",22
+"36","Georgiana Podsnap",282,"Last Appearance",22
+"37","Gruff and Glum",288,"First Appearance",2
+"38","Gruff and Glum",289,"Last Appearance",2
+"39","Jack Mullins",28,"First Appearance",1
+"40","Jack Mullins",28,"Last Appearance",1
+"41","Jacob Kibble",13,"First Appearance",4
+"42","Jacob Kibble",333,"Last Appearance",4
+"43","Jenny Wren",353,"Last Appearance",46
+"44","Jenny Wren",96,"First Appearance",46
+"45","Job Potterson",333,"Last Appearance",3
+"46","Job Potterson",13,"First Appearance",3
+"47","John Harmon",11,"First Appearance",112
+"48","John Harmon",357,"Last Appearance",112
+"49","Johnny",85,"First Appearance",14
+"50","Johnny",352,"Last Appearance",14
+"51","Lady Tippins",357,"Last Appearance",25
+"52","Lady Tippins",4,"First Appearance",25
+"53","Lavinia Wilfer",351,"Last Appearance",28
+"54","Lavinia Wilfer",15,"First Appearance",28
+"55","Lizzie Hexam",1,"First Appearance",71
+"56","Lizzie Hexam",354,"Last Appearance",71
+"57","Lord Snigsworth",3,"First Appearance",11
+"58","Lord Snigsworth",350,"Last Appearance",11
+"59","Mary Anne",94,"First Appearance",5
+"60","Mary Anne",309,"Last Appearance",5
+"61","Melvin Twemlow",357,"Last Appearance",32
+"62","Melvin Twemlow",3,"First Appearance",32
+"63","Miss Peecher",94,"First Appearance",10
+"64","Miss Peecher",346,"Last Appearance",10
+"65","Mortimer Lightwood",5,"First Appearance",68
+"66","Mortimer Lightwood",357,"Last Appearance",68
+"67","Mr Boffin",20,"First Appearance",112
+"68","Mr Boffin",357,"Last Appearance",112
+"69","Mr Dolls",318,"Last Appearance",10
+"70","Mr Dolls",103,"First Appearance",10
+"71","Mr Grompus",59,"Last Appearance",1
+"72","Mr Grompus",59,"First Appearance",1
+"73","Mr Inspector",10,"First Appearance",16
+"74","Mr Inspector",350,"Last Appearance",16
+"75","Mr Podsnap",7,"First Appearance",18
+"76","Mr Podsnap",272,"Last Appearance",18
+"77","Mr Riah",350,"Last Appearance",32
+"78","Mr Riah",118,"First Appearance",32
+"79","Mr Veneering",357,"Last Appearance",35
+"80","Mr Veneering",3,"First Appearance",35
+"81","Mr Wilfer",14,"First Appearance",45
+"82","Mr Wilfer",350,"Last Appearance",45
+"83","Mrs  Veneering",3,"First Appearance",27
+"84","Mrs  Veneering",357,"Last Appearance",27
+"85","Mrs Boffin",22,"First Appearance",84
+"86","Mrs Boffin",357,"Last Appearance",84
+"87","Mrs Goody",45,"First Appearance",1
+"88","Mrs Goody",45,"Last Appearance",1
+"89","Mrs Milvey",44,"First Appearance",11
+"90","Mrs Milvey",328,"Last Appearance",11
+"91","Mrs Podsnap",4,"First Appearance",14
+"92","Mrs Podsnap",356,"Last Appearance",14
+"93","Mrs Sprodgkin",325,"First Appearance",2
+"94","Mrs Sprodgkin",326,"Last Appearance",2
+"95","Mrs Swoshle",90,"First Appearance",1
+"96","Mrs Swoshle",90,"Last Appearance",1
+"97","Mrs Wilfer",351,"Last Appearance",29
+"98","Mrs Wilfer",14,"First Appearance",29
+"99","MrVenus",33,"First Appearance",34
+"100","MrVenus",344,"Last Appearance",34
+"101","Pleasant Riderhood",151,"First Appearance",12
+"102","Pleasant Riderhood",341,"Last Appearance",12
+"103","Poddles",85,"First Appearance",3
+"104","Poddles",87,"Last Appearance",3
+"105","Reverend  FrankMilvey",345,"Last Appearance",12
+"106","Reverend  FrankMilvey",44,"First Appearance",12
+"107","Rogue Riderhood",26,"First Appearance",47
+"108","Rogue Riderhood",357,"Last Appearance",47
+"109","Silas Wegg",19,"First Appearance",46
+"110","Silas Wegg",344,"Last Appearance",46
+"111","Sloppy",85,"First Appearance",21
+"112","Sloppy",353,"Last Appearance",21
+"113","Sophronia Akershem",49,"First Appearance",40
+"114","Sophronia Akershem",357,"Last Appearance",40
+"115","The Tapkins",90,"First Appearance",1
+"116","The Tapkins",90,"Last Appearance",1
+"117","Toddles",85,"First Appearance",3
+"118","Toddles",87,"Last Appearance",3
+"119","Tom Tootle",28,"First Appearance",4
+"120","Tom Tootle",192,"Last Appearance",4
+"121","William Williams",191,"First Appearance",2
+"122","William Williams",192,"Last Appearance",2
