@@ -78,17 +78,18 @@ tic_generate <- function(inputsequence) {
     nodes <- rbind(nodes, c(inputsequence[which(inputsequence[,1]== pp),1],
                             as.character(inputsequence[which(inputsequence[,1] == pp),2]),
                             inputsequence[which(inputsequence[,1] == pp),1]))
-    
-    for(jj in 1:length(tags)){
-      cur_tag <- tags[jj]
-      if(!is.null(unlist(last_node[cur_tag]))){ 
-        source_node <- last_node[cur_tag]
-        target_node <- pp
-        links <- rbind(links, c(source_node, target_node, cur_tag))
-      } else {
-        roots <- rbind(roots, c(pp, cur_tag))
+    if(length(tags)>0){
+      for(jj in 1:length(tags)){
+        cur_tag <- tags[jj]
+        if(!is.null(unlist(last_node[cur_tag]))){ 
+          source_node <- last_node[cur_tag]
+          target_node <- pp
+          links <- rbind(links, c(source_node, target_node, cur_tag))
+        } else {
+          roots <- rbind(roots, c(pp, cur_tag))
+        }
+        last_node[cur_tag] <- pp
       }
-      last_node[cur_tag] <- pp
     }
     
   }
