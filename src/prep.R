@@ -211,9 +211,9 @@ for(sliceSize in slice_sizes){
             if(length(nextMatchStr) == 0) {nextMatchStr <- c(chars[which(chars[,2]==nextMatch[j]),1])}
             else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
           }
-          charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+          charDS <- rbind(charDS,data.frame(nodeid=i,identifiers=paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
         } else{
-          charDS <- rbind(charDS,data.frame(i,""),stringsAsFactors=F)
+          charDS <- rbind(charDS,data.frame(nodeid=i,identifiers=""),stringsAsFactors=F)
         }
       }
     } else if(method == "nouns"){
@@ -1028,9 +1028,9 @@ for(sliceSize in slice_sizes){
             if(length(nextMatchStr) == 0) {nextMatchStr <- c(chars[which(chars[,2]==nextMatch[j]),1])}
             else {nextMatchStr <- c(nextMatchStr,chars[which(chars[,2]==nextMatch[j]),1])}
           }
-          charDS <- rbind(charDS,data.frame(i,paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
-        }  else{
-          charDS <- rbind(charDS,data.frame(i,""),stringsAsFactors=F)
+          charDS <- rbind(charDS,data.frame(nodeid=i,identifiers=paste(sort(unique(nextMatchStr)),collapse=', ')),stringsAsFactors=F)
+        } else{
+          charDS <- rbind(charDS,data.frame(nodeid=i,identifiers=""),stringsAsFactors=F)
         }
       }
     } else if(method == "nouns"){
