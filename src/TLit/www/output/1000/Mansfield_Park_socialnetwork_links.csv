@@ -1,563 +1,563 @@
 "id1" "id2" "label"
-"1" "Admiral Crawford" "Dr Grant" 5
-"2" "Admiral Crawford" "Edmund Bertram" 9
-"3" "Admiral Crawford" "Fanny Price" 13
-"4" "Admiral Crawford" "Henry Crawford" 13
-"5" "Admiral Crawford" "Julia Bertram" 1
-"6" "Admiral Crawford" "Lady Flora Stornaway" 2
-"7" "Admiral Crawford" "Lord Stornaway" 1
-"8" "Admiral Crawford" "Margaret Fraser" 1
-"9" "Admiral Crawford" "Maria Bertram" 3
-"10" "Admiral Crawford" "Mary Crawford" 13
-"11" "Admiral Crawford" "Mr Fraser" 1
-"12" "Admiral Crawford" "Mr Price" 1
-"13" "Admiral Crawford" "Mr Rushworth" 3
-"14" "Admiral Crawford" "Mrs Crawford" 3
-"15" "Admiral Crawford" "Mrs Janet Fraser" 2
-"16" "Admiral Crawford" "Mrs Norris" 1
-"17" "Admiral Crawford" "Sir Charles" 1
-"18" "Admiral Crawford" "Sir Thomas Bertram" 6
-"19" "Admiral Crawford" "Tom Bertram" 1
-"20" "Admiral Crawford" "William Price" 5
-"21" "Baddeley" "Edmund Bertram" 2
-"22" "Baddeley" "Fanny Price" 3
-"23" "Baddeley" "Henry Crawford" 3
-"24" "Baddeley" "Maria Bertram" 1
-"25" "Baddeley" "Mary Crawford" 1
-"26" "Baddeley" "Sir Thomas Bertram" 2
-"27" "Baddeley" "Tom Bertram" 1
-"28" "Betsey Price" "Captain Walsh" 1
-"29" "Betsey Price" "Charlie Price" 3
-"30" "Betsey Price" "Edmund Bertram" 5
-"31" "Betsey Price" "Fanny Price" 10
-"32" "Betsey Price" "Henry Crawford" 3
-"33" "Betsey Price" "Johnny Price" 1
-"34" "Betsey Price" "Julia Bertram" 1
-"35" "Betsey Price" "Lady Bertram" 3
-"36" "Betsey Price" "Maria Bertram" 1
-"37" "Betsey Price" "Mary Crawford" 2
-"38" "Betsey Price" "Mary Price" 1
-"39" "Betsey Price" "Mr Campbell" 2
-"40" "Betsey Price" "Mr Price" 5
-"41" "Betsey Price" "Mrs Norris" 2
-"42" "Betsey Price" "Mrs. Admiral Maxwell" 1
-"43" "Betsey Price" "Mrs. Frances Price" 6
-"44" "Betsey Price" "Old Scholey" 1
-"45" "Betsey Price" "Rebecca" 5
-"46" "Betsey Price" "Richard Price" 1
-"47" "Betsey Price" "Sam Price" 4
-"48" "Betsey Price" "Sir Thomas Bertram" 4
-"49" "Betsey Price" "Susan PriceMP" 9
-"50" "Betsey Price" "Tom Bertram" 2
-"51" "Betsey Price" "Turner" 1
-"52" "Betsey Price" "William Price" 6
-"53" "Captain Walsh" "Fanny Price" 1
-"54" "Captain Walsh" "Lady Bertram" 1
-"55" "Captain Walsh" "Mr Price" 1
-"56" "Captain Walsh" "Mrs. Frances Price" 1
-"57" "Captain Walsh" "Old Scholey" 1
-"58" "Captain Walsh" "Rebecca" 1
-"59" "Captain Walsh" "Sam Price" 1
-"60" "Captain Walsh" "Susan PriceMP" 1
-"61" "Captain Walsh" "Turner" 1
-"62" "Captain Walsh" "William Price" 1
-"63" "Charles" "Charles Anderson" 1
-"64" "Charles" "Edmund Bertram" 2
-"65" "Charles" "Fanny Price" 2
-"66" "Charles" "Maria Bertram" 1
-"67" "Charles" "Mary Crawford" 1
-"68" "Charles" "Miss Anderson" 1
-"69" "Charles" "Miss Augusta Sneyd" 1
-"70" "Charles" "Mr Rushworth" 1
-"71" "Charles" "Mrs Holford" 1
-"72" "Charles" "Mrs Sneyd" 1
-"73" "Charles" "Sir Thomas Bertram" 1
-"74" "Charles" "Sneyd" 1
-"75" "Charles" "Tom Bertram" 1
-"76" "Charles Anderson" "Edmund Bertram" 1
-"77" "Charles Anderson" "Fanny Price" 1
-"78" "Charles Anderson" "Mary Crawford" 1
-"79" "Charles Anderson" "Miss Anderson" 1
-"80" "Charles Anderson" "Miss Augusta Sneyd" 1
-"81" "Charles Anderson" "Mrs Holford" 1
-"82" "Charles Anderson" "Mrs Sneyd" 1
-"83" "Charles Anderson" "Sneyd" 1
-"84" "Charles Anderson" "Tom Bertram" 1
-"85" "Charles Maddox" "Edmund Bertram" 3
-"86" "Charles Maddox" "Fanny Price" 3
-"87" "Charles Maddox" "Henry Crawford" 2
-"88" "Charles Maddox" "Julia Bertram" 2
-"89" "Charles Maddox" "Maria Bertram" 2
-"90" "Charles Maddox" "Mary Crawford" 3
-"91" "Charles Maddox" "Mr Rushworth" 2
-"92" "Charles Maddox" "Sir Thomas Bertram" 1
-"93" "Charles Maddox" "Tom Bertram" 3
-"94" "Charles Maddox" "Tom Oliver" 1
-"95" "Charlie Price" "Edmund Bertram" 1
-"96" "Charlie Price" "Fanny Price" 3
-"97" "Charlie Price" "Henry Crawford" 1
-"98" "Charlie Price" "Johnny Price" 1
-"99" "Charlie Price" "Mr Price" 1
-"100" "Charlie Price" "Mrs Norris" 1
-"101" "Charlie Price" "Mrs. Frances Price" 2
-"102" "Charlie Price" "Rebecca" 1
-"103" "Charlie Price" "Richard Price" 1
-"104" "Charlie Price" "Sam Price" 2
-"105" "Charlie Price" "Sir Thomas Bertram" 1
-"106" "Charlie Price" "Susan PriceMP" 2
-"107" "Charlie Price" "Tom Bertram" 1
-"108" "Charlie Price" "William Price" 2
-"109" "Colonel Harrison" "Edmund Bertram" 1
-"110" "Colonel Harrison" "Fanny Price" 1
-"111" "Colonel Harrison" "Henry Crawford" 1
-"112" "Colonel Harrison" "Julia Bertram" 1
-"113" "Colonel Harrison" "Lady Prescott" 1
-"114" "Colonel Harrison" "Maria Bertram" 1
-"115" "Colonel Harrison" "Mary Crawford" 1
-"116" "Colonel Harrison" "Mrs Norris" 1
-"117" "Colonel Harrison" "Sir Thomas Bertram" 1
-"118" "Colonel Harrison" "William Price" 1
-"119" "Dr Grant" "Edmund Bertram" 25
-"120" "Dr Grant" "Fanny Price" 26
-"121" "Dr Grant" "Henry Crawford" 22
-"122" "Dr Grant" "Julia Bertram" 11
-"123" "Dr Grant" "Lady Flora Stornaway" 1
-"124" "Dr Grant" "Margaret Fraser" 1
-"125" "Dr Grant" "Maria Bertram" 15
-"126" "Dr Grant" "Mary Crawford" 22
-"127" "Dr Grant" "Miss Anderson" 1
-"128" "Dr Grant" "Miss Lee" 1
-"129" "Dr Grant" "Mr Fraser" 1
-"130" "Dr Grant" "Mr Rushworth" 11
-"131" "Dr Grant" "Mrs Crawford" 1
-"132" "Dr Grant" "Mrs Janet Fraser" 2
-"133" "Dr Grant" "Mrs Norris" 4
-"134" "Dr Grant" "Robert" 1
-"135" "Dr Grant" "Sir Thomas Bertram" 15
-"136" "Dr Grant" "Smith" 1
-"137" "Dr Grant" "Susan PriceMP" 1
-"138" "Dr Grant" "Tom Bertram" 10
-"139" "Dr Grant" "William Price" 8
-"140" "Edmund Bertram" "Fanny Price" 123
-"141" "Edmund Bertram" "Henry Crawford" 90
-"142" "Edmund Bertram" "John Groom" 1
-"143" "Edmund Bertram" "Julia Bertram" 53
-"144" "Edmund Bertram" "Lady Bertram" 1
-"145" "Edmund Bertram" "Lady Flora Stornaway" 4
-"146" "Edmund Bertram" "Lady Prescott" 1
-"147" "Edmund Bertram" "Lady Ravenshaw" 2
-"148" "Edmund Bertram" "Lord Ravenshaw" 2
-"149" "Edmund Bertram" "Maddison" 1
-"150" "Edmund Bertram" "Margaret Fraser" 3
-"151" "Edmund Bertram" "Maria Bertram" 65
-"152" "Edmund Bertram" "Mary Crawford" 91
-"153" "Edmund Bertram" "Miss Anderson" 2
-"154" "Edmund Bertram" "Miss Augusta Sneyd" 1
-"155" "Edmund Bertram" "Miss Lee" 3
-"156" "Edmund Bertram" "Mr Campbell" 1
-"157" "Edmund Bertram" "Mr Fraser" 3
-"158" "Edmund Bertram" "Mr Green" 1
-"159" "Edmund Bertram" "Mr Harding" 1
-"160" "Edmund Bertram" "Mr Price" 5
-"161" "Edmund Bertram" "Mr Rushworth" 50
-"162" "Edmund Bertram" "Mrs Brown" 1
-"163" "Edmund Bertram" "Mrs Chapman" 1
-"164" "Edmund Bertram" "Mrs Crawford" 3
-"165" "Edmund Bertram" "Mrs Holford" 1
-"166" "Edmund Bertram" "Mrs Janet Fraser" 6
-"167" "Edmund Bertram" "Mrs Jefferies" 1
-"168" "Edmund Bertram" "Mrs Norris" 12
-"169" "Edmund Bertram" "Mrs Rushworth" 1
-"170" "Edmund Bertram" "Mrs Sneyd" 1
-"171" "Edmund Bertram" "Mrs. Frances Price" 7
-"172" "Edmund Bertram" "Nanny" 1
-"173" "Edmund Bertram" "Rebecca" 6
-"174" "Edmund Bertram" "Robert" 1
-"175" "Edmund Bertram" "Sir Thomas Bertram" 69
-"176" "Edmund Bertram" "Smith" 2
-"177" "Edmund Bertram" "Sneyd" 1
-"178" "Edmund Bertram" "Susan PriceMP" 12
-"179" "Edmund Bertram" "The Aylmers" 1
-"180" "Edmund Bertram" "Tom Bertram" 41
-"181" "Edmund Bertram" "Tom Oliver" 1
-"182" "Edmund Bertram" "William Price" 31
-"183" "Ellis" "Julia Bertram" 1
-"184" "Ellis" "Miss Lee" 1
-"185" "Ellis" "Mrs Norris" 1
-"186" "Ellis" "Nanny" 1
-"187" "Ellis" "Sir Thomas Bertram" 1
-"188" "Fanny Price" "Henry Crawford" 112
-"189" "Fanny Price" "John Groom" 1
-"190" "Fanny Price" "Johnny Price" 1
-"191" "Fanny Price" "Julia Bertram" 58
-"192" "Fanny Price" "Lady Bertram" 6
-"193" "Fanny Price" "Lady Flora Stornaway" 5
-"194" "Fanny Price" "Lady Prescott" 1
-"195" "Fanny Price" "Lady Ravenshaw" 1
-"196" "Fanny Price" "Lord Ravenshaw" 1
-"197" "Fanny Price" "Lord Stornaway" 1
-"198" "Fanny Price" "Maddison" 1
-"199" "Fanny Price" "Margaret Fraser" 4
-"200" "Fanny Price" "Maria Bertram" 72
-"201" "Fanny Price" "Mary Crawford" 103
-"202" "Fanny Price" "Mary Price" 1
-"203" "Fanny Price" "Miss Anderson" 2
-"204" "Fanny Price" "Miss Augusta Sneyd" 1
-"205" "Fanny Price" "Miss Lee" 5
-"206" "Fanny Price" "Mr Campbell" 2
-"207" "Fanny Price" "Mr Fraser" 4
-"208" "Fanny Price" "Mr Green" 1
-"209" "Fanny Price" "Mr Harding" 1
-"210" "Fanny Price" "Mr Price" 10
-"211" "Fanny Price" "Mr Rushworth" 55
-"212" "Fanny Price" "Mrs Brown" 1
-"213" "Fanny Price" "Mrs Chapman" 1
-"214" "Fanny Price" "Mrs Crawford" 3
-"215" "Fanny Price" "Mrs Holford" 1
-"216" "Fanny Price" "Mrs Janet Fraser" 7
-"217" "Fanny Price" "Mrs Jefferies" 1
-"218" "Fanny Price" "Mrs Norris" 19
-"219" "Fanny Price" "Mrs Rushworth" 1
-"220" "Fanny Price" "Mrs Sneyd" 1
-"221" "Fanny Price" "Mrs. Admiral Maxwell" 1
-"222" "Fanny Price" "Mrs. Frances Price" 13
-"223" "Fanny Price" "Nanny" 1
-"224" "Fanny Price" "Old Scholey" 1
-"225" "Fanny Price" "Rebecca" 11
-"226" "Fanny Price" "Richard Price" 1
-"227" "Fanny Price" "Robert" 1
-"228" "Fanny Price" "Sam Price" 4
-"229" "Fanny Price" "Sir Charles" 1
-"230" "Fanny Price" "Sir Thomas Bertram" 93
-"231" "Fanny Price" "Smith" 1
-"232" "Fanny Price" "Sneyd" 1
-"233" "Fanny Price" "Susan PriceMP" 21
-"234" "Fanny Price" "The Aylmers" 1
-"235" "Fanny Price" "Tom Bertram" 41
-"236" "Fanny Price" "Tom Oliver" 1
-"237" "Fanny Price" "Turner" 1
-"238" "Fanny Price" "William Price" 47
-"239" "Henry Crawford" "Johnny Price" 1
-"240" "Henry Crawford" "Julia Bertram" 52
-"241" "Henry Crawford" "Lady Flora Stornaway" 5
-"242" "Henry Crawford" "Lady Prescott" 1
-"243" "Henry Crawford" "Lady Ravenshaw" 1
-"244" "Henry Crawford" "Lord Ravenshaw" 2
-"245" "Henry Crawford" "Lord Stornaway" 1
-"246" "Henry Crawford" "Maddison" 1
-"247" "Henry Crawford" "Margaret Fraser" 4
-"248" "Henry Crawford" "Maria Bertram" 61
-"249" "Henry Crawford" "Mary Crawford" 89
-"250" "Henry Crawford" "Miss Anderson" 1
-"251" "Henry Crawford" "Mr Campbell" 1
-"252" "Henry Crawford" "Mr Fraser" 4
-"253" "Henry Crawford" "Mr Harding" 1
-"254" "Henry Crawford" "Mr Price" 6
-"255" "Henry Crawford" "Mr Rushworth" 50
-"256" "Henry Crawford" "Mrs Brown" 1
-"257" "Henry Crawford" "Mrs Chapman" 1
-"258" "Henry Crawford" "Mrs Crawford" 2
-"259" "Henry Crawford" "Mrs Janet Fraser" 7
-"260" "Henry Crawford" "Mrs Norris" 14
-"261" "Henry Crawford" "Mrs Rushworth" 1
-"262" "Henry Crawford" "Mrs. Frances Price" 4
-"263" "Henry Crawford" "Nanny" 1
-"264" "Henry Crawford" "Rebecca" 6
-"265" "Henry Crawford" "Richard Price" 1
-"266" "Henry Crawford" "Sam Price" 1
-"267" "Henry Crawford" "Sir Charles" 1
-"268" "Henry Crawford" "Sir Thomas Bertram" 73
-"269" "Henry Crawford" "Smith" 2
-"270" "Henry Crawford" "Susan PriceMP" 9
-"271" "Henry Crawford" "The Aylmers" 1
-"272" "Henry Crawford" "Tom Bertram" 28
-"273" "Henry Crawford" "Tom Oliver" 1
-"274" "Henry Crawford" "William Price" 33
-"275" "John Groom" "Julia Bertram" 1
-"276" "John Groom" "Mr Green" 1
-"277" "John Groom" "Mrs Jefferies" 1
-"278" "Johnny Price" "Mrs. Frances Price" 1
-"279" "Johnny Price" "Richard Price" 1
-"280" "Johnny Price" "Sam Price" 1
-"281" "Johnny Price" "Sir Thomas Bertram" 1
-"282" "Johnny Price" "William Price" 1
-"283" "Julia Bertram" "Lady Bertram" 2
-"284" "Julia Bertram" "Lady Prescott" 1
-"285" "Julia Bertram" "Lady Ravenshaw" 1
-"286" "Julia Bertram" "Lord Ravenshaw" 2
-"287" "Julia Bertram" "Maria Bertram" 60
-"288" "Julia Bertram" "Mary Crawford" 44
-"289" "Julia Bertram" "Miss Anderson" 1
-"290" "Julia Bertram" "Miss Lee" 4
-"291" "Julia Bertram" "Mr Campbell" 1
-"292" "Julia Bertram" "Mr Green" 1
-"293" "Julia Bertram" "Mr Harding" 1
-"294" "Julia Bertram" "Mr Price" 2
-"295" "Julia Bertram" "Mr Rushworth" 39
-"296" "Julia Bertram" "Mrs Janet Fraser" 2
-"297" "Julia Bertram" "Mrs Jefferies" 1
-"298" "Julia Bertram" "Mrs Norris" 8
-"299" "Julia Bertram" "Mrs Rushworth" 1
-"300" "Julia Bertram" "Mrs. Frances Price" 3
-"301" "Julia Bertram" "Nanny" 1
-"302" "Julia Bertram" "Rebecca" 4
-"303" "Julia Bertram" "Sam Price" 1
-"304" "Julia Bertram" "Sir Thomas Bertram" 39
-"305" "Julia Bertram" "Smith" 1
-"306" "Julia Bertram" "Susan PriceMP" 4
-"307" "Julia Bertram" "The Aylmers" 1
-"308" "Julia Bertram" "Tom Bertram" 26
-"309" "Julia Bertram" "Tom Oliver" 1
-"310" "Julia Bertram" "William Price" 9
-"311" "Lady Bertram" "Maria Bertram" 3
-"312" "Lady Bertram" "Mary Price" 1
-"313" "Lady Bertram" "Mr Campbell" 1
-"314" "Lady Bertram" "Mr Price" 3
-"315" "Lady Bertram" "Mrs Norris" 2
-"316" "Lady Bertram" "Mrs. Admiral Maxwell" 1
-"317" "Lady Bertram" "Mrs. Frances Price" 5
-"318" "Lady Bertram" "Old Scholey" 1
-"319" "Lady Bertram" "Rebecca" 3
-"320" "Lady Bertram" "Sam Price" 2
-"321" "Lady Bertram" "Sir Thomas Bertram" 3
-"322" "Lady Bertram" "Susan PriceMP" 4
-"323" "Lady Bertram" "Tom Bertram" 2
-"324" "Lady Bertram" "Turner" 1
-"325" "Lady Bertram" "William Price" 3
-"326" "Lady Flora Stornaway" "Lord Stornaway" 1
-"327" "Lady Flora Stornaway" "Margaret Fraser" 3
-"328" "Lady Flora Stornaway" "Maria Bertram" 1
-"329" "Lady Flora Stornaway" "Mary Crawford" 5
-"330" "Lady Flora Stornaway" "Mr Fraser" 3
-"331" "Lady Flora Stornaway" "Mr Price" 1
-"332" "Lady Flora Stornaway" "Mr Rushworth" 2
-"333" "Lady Flora Stornaway" "Mrs Janet Fraser" 4
-"334" "Lady Flora Stornaway" "Sir Thomas Bertram" 2
-"335" "Lady Flora Stornaway" "Tom Bertram" 1
-"336" "Lady Prescott" "Maria Bertram" 1
-"337" "Lady Prescott" "Mary Crawford" 1
-"338" "Lady Prescott" "Mrs Norris" 1
-"339" "Lady Prescott" "Sir Thomas Bertram" 1
-"340" "Lady Prescott" "William Price" 1
-"341" "Lady Ravenshaw" "Lord Ravenshaw" 1
-"342" "Lady Ravenshaw" "Maria Bertram" 2
-"343" "Lady Ravenshaw" "Mary Crawford" 1
-"344" "Lady Ravenshaw" "Mr Rushworth" 1
-"345" "Lady Ravenshaw" "Sir Thomas Bertram" 1
-"346" "Lady Ravenshaw" "Tom Bertram" 2
-"347" "Lord Ravenshaw" "Maria Bertram" 2
-"348" "Lord Ravenshaw" "Mary Crawford" 1
-"349" "Lord Ravenshaw" "Sir Thomas Bertram" 1
-"350" "Lord Ravenshaw" "Tom Bertram" 2
-"351" "Lord Stornaway" "Margaret Fraser" 1
-"352" "Lord Stornaway" "Mary Crawford" 1
-"353" "Lord Stornaway" "Mr Fraser" 1
-"354" "Lord Stornaway" "Mr Rushworth" 1
-"355" "Lord Stornaway" "Mrs Janet Fraser" 1
-"356" "Lord Stornaway" "Sir Thomas Bertram" 1
-"357" "Maddison" "Mary Crawford" 1
-"358" "Maddison" "Rebecca" 1
-"359" "Maddison" "Sir Thomas Bertram" 1
-"360" "Maddison" "Susan PriceMP" 1
-"361" "Margaret Fraser" "Mary Crawford" 4
-"362" "Margaret Fraser" "Mr Fraser" 4
-"363" "Margaret Fraser" "Mr Price" 1
-"364" "Margaret Fraser" "Mr Rushworth" 1
-"365" "Margaret Fraser" "Mrs Janet Fraser" 4
-"366" "Margaret Fraser" "Mrs. Frances Price" 1
-"367" "Margaret Fraser" "Rebecca" 1
-"368" "Margaret Fraser" "Sir Thomas Bertram" 2
-"369" "Margaret Fraser" "Susan PriceMP" 1
-"370" "Margaret Fraser" "Tom Bertram" 1
-"371" "Margaret Fraser" "William Price" 1
-"372" "Maria Bertram" "Mary Crawford" 53
-"373" "Maria Bertram" "Miss Anderson" 1
-"374" "Maria Bertram" "Miss Lee" 3
-"375" "Maria Bertram" "Mr Campbell" 1
-"376" "Maria Bertram" "Mr Harding" 1
-"377" "Maria Bertram" "Mr Price" 3
-"378" "Maria Bertram" "Mr Rushworth" 52
-"379" "Maria Bertram" "Mrs Crawford" 1
-"380" "Maria Bertram" "Mrs Janet Fraser" 2
-"381" "Maria Bertram" "Mrs Norris" 9
-"382" "Maria Bertram" "Mrs Rushworth" 1
-"383" "Maria Bertram" "Mrs. Frances Price" 4
-"384" "Maria Bertram" "Rebecca" 3
-"385" "Maria Bertram" "Robert" 1
-"386" "Maria Bertram" "Sam Price" 1
-"387" "Maria Bertram" "Sir Thomas Bertram" 47
-"388" "Maria Bertram" "Smith" 2
-"389" "Maria Bertram" "Susan PriceMP" 5
-"390" "Maria Bertram" "Tom Bertram" 32
-"391" "Maria Bertram" "Tom Oliver" 1
-"392" "Maria Bertram" "William Price" 11
-"393" "Mary Crawford" "Miss Anderson" 2
-"394" "Mary Crawford" "Miss Augusta Sneyd" 1
-"395" "Mary Crawford" "Miss Lee" 1
-"396" "Mary Crawford" "Mr Campbell" 1
-"397" "Mary Crawford" "Mr Fraser" 4
-"398" "Mary Crawford" "Mr Price" 4
-"399" "Mary Crawford" "Mr Rushworth" 47
-"400" "Mary Crawford" "Mrs Chapman" 1
-"401" "Mary Crawford" "Mrs Crawford" 3
-"402" "Mary Crawford" "Mrs Holford" 1
-"403" "Mary Crawford" "Mrs Janet Fraser" 7
-"404" "Mary Crawford" "Mrs Norris" 9
-"405" "Mary Crawford" "Mrs Rushworth" 1
-"406" "Mary Crawford" "Mrs Sneyd" 1
-"407" "Mary Crawford" "Mrs. Frances Price" 3
-"408" "Mary Crawford" "Rebecca" 4
-"409" "Mary Crawford" "Robert" 1
-"410" "Mary Crawford" "Sir Charles" 1
-"411" "Mary Crawford" "Sir Thomas Bertram" 55
-"412" "Mary Crawford" "Smith" 2
-"413" "Mary Crawford" "Sneyd" 1
-"414" "Mary Crawford" "Susan PriceMP" 6
-"415" "Mary Crawford" "The Aylmers" 1
-"416" "Mary Crawford" "Tom Bertram" 30
-"417" "Mary Crawford" "Tom Oliver" 1
-"418" "Mary Crawford" "William Price" 27
-"419" "Mary Price" "Mrs Norris" 1
-"420" "Mary Price" "Mrs. Admiral Maxwell" 1
-"421" "Mary Price" "Mrs. Frances Price" 1
-"422" "Mary Price" "Rebecca" 1
-"423" "Mary Price" "Susan PriceMP" 1
-"424" "Miss Anderson" "Miss Augusta Sneyd" 1
-"425" "Miss Anderson" "Mrs Holford" 1
-"426" "Miss Anderson" "Mrs Sneyd" 1
-"427" "Miss Anderson" "Sir Thomas Bertram" 1
-"428" "Miss Anderson" "Sneyd" 1
-"429" "Miss Anderson" "Tom Bertram" 2
-"430" "Miss Augusta Sneyd" "Mrs Holford" 1
-"431" "Miss Augusta Sneyd" "Mrs Sneyd" 1
-"432" "Miss Augusta Sneyd" "Sneyd" 1
-"433" "Miss Augusta Sneyd" "Tom Bertram" 1
-"434" "Miss Lee" "Mrs Norris" 1
-"435" "Miss Lee" "Mrs. Frances Price" 1
-"436" "Miss Lee" "Nanny" 1
-"437" "Miss Lee" "Sir Thomas Bertram" 5
-"438" "Miss Lee" "Tom Bertram" 2
-"439" "Miss Lee" "William Price" 3
-"440" "Mr Campbell" "Mr Price" 2
-"441" "Mr Campbell" "Mrs. Frances Price" 1
-"442" "Mr Campbell" "Rebecca" 1
-"443" "Mr Campbell" "Sam Price" 1
-"444" "Mr Campbell" "Sir Thomas Bertram" 2
-"445" "Mr Campbell" "Susan PriceMP" 2
-"446" "Mr Campbell" "Tom Bertram" 1
-"447" "Mr Campbell" "William Price" 2
-"448" "Mr Fraser" "Mr Price" 1
-"449" "Mr Fraser" "Mr Rushworth" 1
-"450" "Mr Fraser" "Mrs Janet Fraser" 4
-"451" "Mr Fraser" "Mrs. Frances Price" 1
-"452" "Mr Fraser" "Rebecca" 1
-"453" "Mr Fraser" "Sir Thomas Bertram" 2
-"454" "Mr Fraser" "Susan PriceMP" 1
-"455" "Mr Fraser" "Tom Bertram" 1
-"456" "Mr Fraser" "William Price" 1
-"457" "Mr Green" "Mrs Jefferies" 1
-"458" "Mr Harding" "Mr Rushworth" 1
-"459" "Mr Harding" "Mrs Norris" 1
-"460" "Mr Harding" "Sir Thomas Bertram" 1
-"461" "Mr Harding" "Susan PriceMP" 1
-"462" "Mr Harding" "Tom Bertram" 1
-"463" "Mr Price" "Mr Rushworth" 1
-"464" "Mr Price" "Mrs Janet Fraser" 2
-"465" "Mr Price" "Mrs Norris" 1
-"466" "Mr Price" "Mrs. Frances Price" 6
-"467" "Mr Price" "Old Scholey" 1
-"468" "Mr Price" "Rebecca" 6
-"469" "Mr Price" "Sam Price" 3
-"470" "Mr Price" "Sir Thomas Bertram" 4
-"471" "Mr Price" "Susan PriceMP" 7
-"472" "Mr Price" "Tom Bertram" 3
-"473" "Mr Price" "Turner" 1
-"474" "Mr Price" "William Price" 5
-"475" "Mr Rushworth" "Mrs Crawford" 1
-"476" "Mr Rushworth" "Mrs Janet Fraser" 3
-"477" "Mr Rushworth" "Mrs Norris" 5
-"478" "Mr Rushworth" "Mrs Rushworth" 1
-"479" "Mr Rushworth" "Mrs. Frances Price" 1
-"480" "Mr Rushworth" "Rebecca" 2
-"481" "Mr Rushworth" "Robert" 1
-"482" "Mr Rushworth" "Sir Thomas Bertram" 38
-"483" "Mr Rushworth" "Smith" 2
-"484" "Mr Rushworth" "Susan PriceMP" 3
-"485" "Mr Rushworth" "Tom Bertram" 22
-"486" "Mr Rushworth" "William Price" 4
-"487" "Mrs Brown" "Mrs Norris" 1
-"488" "Mrs Brown" "Sir Thomas Bertram" 1
-"489" "Mrs Brown" "William Price" 1
-"490" "Mrs Chapman" "William Price" 1
-"491" "Mrs Crawford" "Sir Thomas Bertram" 1
-"492" "Mrs Crawford" "Tom Bertram" 1
-"493" "Mrs Crawford" "William Price" 1
-"494" "Mrs Holford" "Mrs Sneyd" 1
-"495" "Mrs Holford" "Sneyd" 1
-"496" "Mrs Holford" "Tom Bertram" 1
-"497" "Mrs Janet Fraser" "Mrs. Frances Price" 1
-"498" "Mrs Janet Fraser" "Rebecca" 1
-"499" "Mrs Janet Fraser" "Sir Thomas Bertram" 4
-"500" "Mrs Janet Fraser" "Susan PriceMP" 1
-"501" "Mrs Janet Fraser" "Tom Bertram" 2
-"502" "Mrs Janet Fraser" "William Price" 1
-"503" "Mrs Norris" "Mrs. Admiral Maxwell" 1
-"504" "Mrs Norris" "Mrs. Frances Price" 2
-"505" "Mrs Norris" "Nanny" 2
-"506" "Mrs Norris" "Rebecca" 1
-"507" "Mrs Norris" "Sir Thomas Bertram" 14
-"508" "Mrs Norris" "Susan PriceMP" 3
-"509" "Mrs Norris" "Tom Bertram" 4
-"510" "Mrs Norris" "William Price" 6
-"511" "Mrs Rushworth" "Sir Thomas Bertram" 1
-"512" "Mrs Rushworth" "Tom Bertram" 1
-"513" "Mrs Sneyd" "Sneyd" 1
-"514" "Mrs Sneyd" "Tom Bertram" 1
-"515" "Mrs. Admiral Maxwell" "Mrs. Frances Price" 1
-"516" "Mrs. Admiral Maxwell" "Rebecca" 1
-"517" "Mrs. Admiral Maxwell" "Susan PriceMP" 1
-"518" "Mrs. Frances Price" "Nanny" 1
-"519" "Mrs. Frances Price" "Old Scholey" 1
-"520" "Mrs. Frances Price" "Rebecca" 8
-"521" "Mrs. Frances Price" "Richard Price" 1
-"522" "Mrs. Frances Price" "Sam Price" 4
-"523" "Mrs. Frances Price" "Sir Thomas Bertram" 9
-"524" "Mrs. Frances Price" "Susan PriceMP" 8
-"525" "Mrs. Frances Price" "Tom Bertram" 4
-"526" "Mrs. Frances Price" "Turner" 1
-"527" "Mrs. Frances Price" "William Price" 8
-"528" "Nanny" "Sir Thomas Bertram" 3
-"529" "Nanny" "Tom Bertram" 1
-"530" "Old Scholey" "Rebecca" 1
-"531" "Old Scholey" "Sam Price" 1
-"532" "Old Scholey" "Susan PriceMP" 1
-"533" "Old Scholey" "Turner" 1
-"534" "Old Scholey" "William Price" 1
-"535" "Rebecca" "Sam Price" 3
-"536" "Rebecca" "Sir Thomas Bertram" 6
-"537" "Rebecca" "Susan PriceMP" 8
-"538" "Rebecca" "Tom Bertram" 3
-"539" "Rebecca" "Turner" 1
-"540" "Rebecca" "William Price" 4
-"541" "Richard Price" "Sam Price" 1
-"542" "Richard Price" "Sir Thomas Bertram" 1
-"543" "Richard Price" "William Price" 1
-"544" "Sam Price" "Sir Thomas Bertram" 2
-"545" "Sam Price" "Susan PriceMP" 3
-"546" "Sam Price" "Tom Bertram" 2
-"547" "Sam Price" "Turner" 1
-"548" "Sam Price" "William Price" 4
-"549" "Sir Charles" "Sir Thomas Bertram" 1
-"550" "Sir Charles" "William Price" 1
-"551" "Sir Thomas Bertram" "Smith" 1
-"552" "Sir Thomas Bertram" "Susan PriceMP" 7
-"553" "Sir Thomas Bertram" "Tom Bertram" 30
-"554" "Sir Thomas Bertram" "William Price" 32
-"555" "Smith" "Tom Bertram" 1
-"556" "Sneyd" "Tom Bertram" 1
-"557" "Susan PriceMP" "Tom Bertram" 4
-"558" "Susan PriceMP" "Turner" 1
-"559" "Susan PriceMP" "William Price" 8
-"560" "Tom Bertram" "Tom Oliver" 1
-"561" "Tom Bertram" "William Price" 4
-"562" "Turner" "William Price" 1
+"Admiral Crawford" "Dr Grant" 5
+"Admiral Crawford" "Edmund Bertram" 9
+"Admiral Crawford" "Fanny Price" 13
+"Admiral Crawford" "Henry Crawford" 13
+"Admiral Crawford" "Julia Bertram" 1
+"Admiral Crawford" "Lady Flora Stornaway" 2
+"Admiral Crawford" "Lord Stornaway" 1
+"Admiral Crawford" "Margaret Fraser" 1
+"Admiral Crawford" "Maria Bertram" 3
+"Admiral Crawford" "Mary Crawford" 13
+"Admiral Crawford" "Mr Fraser" 1
+"Admiral Crawford" "Mr Price" 1
+"Admiral Crawford" "Mr Rushworth" 3
+"Admiral Crawford" "Mrs Crawford" 3
+"Admiral Crawford" "Mrs Janet Fraser" 2
+"Admiral Crawford" "Mrs Norris" 1
+"Admiral Crawford" "Sir Charles" 1
+"Admiral Crawford" "Sir Thomas Bertram" 6
+"Admiral Crawford" "Tom Bertram" 1
+"Admiral Crawford" "William Price" 5
+"Baddeley" "Edmund Bertram" 2
+"Baddeley" "Fanny Price" 3
+"Baddeley" "Henry Crawford" 3
+"Baddeley" "Maria Bertram" 1
+"Baddeley" "Mary Crawford" 1
+"Baddeley" "Sir Thomas Bertram" 2
+"Baddeley" "Tom Bertram" 1
+"Betsey Price" "Captain Walsh" 1
+"Betsey Price" "Charlie Price" 3
+"Betsey Price" "Edmund Bertram" 5
+"Betsey Price" "Fanny Price" 10
+"Betsey Price" "Henry Crawford" 3
+"Betsey Price" "Johnny Price" 1
+"Betsey Price" "Julia Bertram" 1
+"Betsey Price" "Lady Bertram" 3
+"Betsey Price" "Maria Bertram" 1
+"Betsey Price" "Mary Crawford" 2
+"Betsey Price" "Mary Price" 1
+"Betsey Price" "Mr Campbell" 2
+"Betsey Price" "Mr Price" 5
+"Betsey Price" "Mrs Norris" 2
+"Betsey Price" "Mrs. Admiral Maxwell" 1
+"Betsey Price" "Mrs. Frances Price" 6
+"Betsey Price" "Old Scholey" 1
+"Betsey Price" "Rebecca" 5
+"Betsey Price" "Richard Price" 1
+"Betsey Price" "Sam Price" 4
+"Betsey Price" "Sir Thomas Bertram" 4
+"Betsey Price" "Susan PriceMP" 9
+"Betsey Price" "Tom Bertram" 2
+"Betsey Price" "Turner" 1
+"Betsey Price" "William Price" 6
+"Captain Walsh" "Fanny Price" 1
+"Captain Walsh" "Lady Bertram" 1
+"Captain Walsh" "Mr Price" 1
+"Captain Walsh" "Mrs. Frances Price" 1
+"Captain Walsh" "Old Scholey" 1
+"Captain Walsh" "Rebecca" 1
+"Captain Walsh" "Sam Price" 1
+"Captain Walsh" "Susan PriceMP" 1
+"Captain Walsh" "Turner" 1
+"Captain Walsh" "William Price" 1
+"Charles" "Charles Anderson" 1
+"Charles" "Edmund Bertram" 2
+"Charles" "Fanny Price" 2
+"Charles" "Maria Bertram" 1
+"Charles" "Mary Crawford" 1
+"Charles" "Miss Anderson" 1
+"Charles" "Miss Augusta Sneyd" 1
+"Charles" "Mr Rushworth" 1
+"Charles" "Mrs Holford" 1
+"Charles" "Mrs Sneyd" 1
+"Charles" "Sir Thomas Bertram" 1
+"Charles" "Sneyd" 1
+"Charles" "Tom Bertram" 1
+"Charles Anderson" "Edmund Bertram" 1
+"Charles Anderson" "Fanny Price" 1
+"Charles Anderson" "Mary Crawford" 1
+"Charles Anderson" "Miss Anderson" 1
+"Charles Anderson" "Miss Augusta Sneyd" 1
+"Charles Anderson" "Mrs Holford" 1
+"Charles Anderson" "Mrs Sneyd" 1
+"Charles Anderson" "Sneyd" 1
+"Charles Anderson" "Tom Bertram" 1
+"Charles Maddox" "Edmund Bertram" 3
+"Charles Maddox" "Fanny Price" 3
+"Charles Maddox" "Henry Crawford" 2
+"Charles Maddox" "Julia Bertram" 2
+"Charles Maddox" "Maria Bertram" 2
+"Charles Maddox" "Mary Crawford" 3
+"Charles Maddox" "Mr Rushworth" 2
+"Charles Maddox" "Sir Thomas Bertram" 1
+"Charles Maddox" "Tom Bertram" 3
+"Charles Maddox" "Tom Oliver" 1
+"Charlie Price" "Edmund Bertram" 1
+"Charlie Price" "Fanny Price" 3
+"Charlie Price" "Henry Crawford" 1
+"Charlie Price" "Johnny Price" 1
+"Charlie Price" "Mr Price" 1
+"Charlie Price" "Mrs Norris" 1
+"Charlie Price" "Mrs. Frances Price" 2
+"Charlie Price" "Rebecca" 1
+"Charlie Price" "Richard Price" 1
+"Charlie Price" "Sam Price" 2
+"Charlie Price" "Sir Thomas Bertram" 1
+"Charlie Price" "Susan PriceMP" 2
+"Charlie Price" "Tom Bertram" 1
+"Charlie Price" "William Price" 2
+"Colonel Harrison" "Edmund Bertram" 1
+"Colonel Harrison" "Fanny Price" 1
+"Colonel Harrison" "Henry Crawford" 1
+"Colonel Harrison" "Julia Bertram" 1
+"Colonel Harrison" "Lady Prescott" 1
+"Colonel Harrison" "Maria Bertram" 1
+"Colonel Harrison" "Mary Crawford" 1
+"Colonel Harrison" "Mrs Norris" 1
+"Colonel Harrison" "Sir Thomas Bertram" 1
+"Colonel Harrison" "William Price" 1
+"Dr Grant" "Edmund Bertram" 25
+"Dr Grant" "Fanny Price" 26
+"Dr Grant" "Henry Crawford" 22
+"Dr Grant" "Julia Bertram" 11
+"Dr Grant" "Lady Flora Stornaway" 1
+"Dr Grant" "Margaret Fraser" 1
+"Dr Grant" "Maria Bertram" 15
+"Dr Grant" "Mary Crawford" 22
+"Dr Grant" "Miss Anderson" 1
+"Dr Grant" "Miss Lee" 1
+"Dr Grant" "Mr Fraser" 1
+"Dr Grant" "Mr Rushworth" 11
+"Dr Grant" "Mrs Crawford" 1
+"Dr Grant" "Mrs Janet Fraser" 2
+"Dr Grant" "Mrs Norris" 4
+"Dr Grant" "Robert" 1
+"Dr Grant" "Sir Thomas Bertram" 15
+"Dr Grant" "Smith" 1
+"Dr Grant" "Susan PriceMP" 1
+"Dr Grant" "Tom Bertram" 10
+"Dr Grant" "William Price" 8
+"Edmund Bertram" "Fanny Price" 123
+"Edmund Bertram" "Henry Crawford" 90
+"Edmund Bertram" "John Groom" 1
+"Edmund Bertram" "Julia Bertram" 53
+"Edmund Bertram" "Lady Bertram" 1
+"Edmund Bertram" "Lady Flora Stornaway" 4
+"Edmund Bertram" "Lady Prescott" 1
+"Edmund Bertram" "Lady Ravenshaw" 2
+"Edmund Bertram" "Lord Ravenshaw" 2
+"Edmund Bertram" "Maddison" 1
+"Edmund Bertram" "Margaret Fraser" 3
+"Edmund Bertram" "Maria Bertram" 65
+"Edmund Bertram" "Mary Crawford" 91
+"Edmund Bertram" "Miss Anderson" 2
+"Edmund Bertram" "Miss Augusta Sneyd" 1
+"Edmund Bertram" "Miss Lee" 3
+"Edmund Bertram" "Mr Campbell" 1
+"Edmund Bertram" "Mr Fraser" 3
+"Edmund Bertram" "Mr Green" 1
+"Edmund Bertram" "Mr Harding" 1
+"Edmund Bertram" "Mr Price" 5
+"Edmund Bertram" "Mr Rushworth" 50
+"Edmund Bertram" "Mrs Brown" 1
+"Edmund Bertram" "Mrs Chapman" 1
+"Edmund Bertram" "Mrs Crawford" 3
+"Edmund Bertram" "Mrs Holford" 1
+"Edmund Bertram" "Mrs Janet Fraser" 6
+"Edmund Bertram" "Mrs Jefferies" 1
+"Edmund Bertram" "Mrs Norris" 12
+"Edmund Bertram" "Mrs Rushworth" 1
+"Edmund Bertram" "Mrs Sneyd" 1
+"Edmund Bertram" "Mrs. Frances Price" 7
+"Edmund Bertram" "Nanny" 1
+"Edmund Bertram" "Rebecca" 6
+"Edmund Bertram" "Robert" 1
+"Edmund Bertram" "Sir Thomas Bertram" 69
+"Edmund Bertram" "Smith" 2
+"Edmund Bertram" "Sneyd" 1
+"Edmund Bertram" "Susan PriceMP" 12
+"Edmund Bertram" "The Aylmers" 1
+"Edmund Bertram" "Tom Bertram" 41
+"Edmund Bertram" "Tom Oliver" 1
+"Edmund Bertram" "William Price" 31
+"Ellis" "Julia Bertram" 1
+"Ellis" "Miss Lee" 1
+"Ellis" "Mrs Norris" 1
+"Ellis" "Nanny" 1
+"Ellis" "Sir Thomas Bertram" 1
+"Fanny Price" "Henry Crawford" 112
+"Fanny Price" "John Groom" 1
+"Fanny Price" "Johnny Price" 1
+"Fanny Price" "Julia Bertram" 58
+"Fanny Price" "Lady Bertram" 6
+"Fanny Price" "Lady Flora Stornaway" 5
+"Fanny Price" "Lady Prescott" 1
+"Fanny Price" "Lady Ravenshaw" 1
+"Fanny Price" "Lord Ravenshaw" 1
+"Fanny Price" "Lord Stornaway" 1
+"Fanny Price" "Maddison" 1
+"Fanny Price" "Margaret Fraser" 4
+"Fanny Price" "Maria Bertram" 72
+"Fanny Price" "Mary Crawford" 103
+"Fanny Price" "Mary Price" 1
+"Fanny Price" "Miss Anderson" 2
+"Fanny Price" "Miss Augusta Sneyd" 1
+"Fanny Price" "Miss Lee" 5
+"Fanny Price" "Mr Campbell" 2
+"Fanny Price" "Mr Fraser" 4
+"Fanny Price" "Mr Green" 1
+"Fanny Price" "Mr Harding" 1
+"Fanny Price" "Mr Price" 10
+"Fanny Price" "Mr Rushworth" 55
+"Fanny Price" "Mrs Brown" 1
+"Fanny Price" "Mrs Chapman" 1
+"Fanny Price" "Mrs Crawford" 3
+"Fanny Price" "Mrs Holford" 1
+"Fanny Price" "Mrs Janet Fraser" 7
+"Fanny Price" "Mrs Jefferies" 1
+"Fanny Price" "Mrs Norris" 19
+"Fanny Price" "Mrs Rushworth" 1
+"Fanny Price" "Mrs Sneyd" 1
+"Fanny Price" "Mrs. Admiral Maxwell" 1
+"Fanny Price" "Mrs. Frances Price" 13
+"Fanny Price" "Nanny" 1
+"Fanny Price" "Old Scholey" 1
+"Fanny Price" "Rebecca" 11
+"Fanny Price" "Richard Price" 1
+"Fanny Price" "Robert" 1
+"Fanny Price" "Sam Price" 4
+"Fanny Price" "Sir Charles" 1
+"Fanny Price" "Sir Thomas Bertram" 93
+"Fanny Price" "Smith" 1
+"Fanny Price" "Sneyd" 1
+"Fanny Price" "Susan PriceMP" 21
+"Fanny Price" "The Aylmers" 1
+"Fanny Price" "Tom Bertram" 41
+"Fanny Price" "Tom Oliver" 1
+"Fanny Price" "Turner" 1
+"Fanny Price" "William Price" 47
+"Henry Crawford" "Johnny Price" 1
+"Henry Crawford" "Julia Bertram" 52
+"Henry Crawford" "Lady Flora Stornaway" 5
+"Henry Crawford" "Lady Prescott" 1
+"Henry Crawford" "Lady Ravenshaw" 1
+"Henry Crawford" "Lord Ravenshaw" 2
+"Henry Crawford" "Lord Stornaway" 1
+"Henry Crawford" "Maddison" 1
+"Henry Crawford" "Margaret Fraser" 4
+"Henry Crawford" "Maria Bertram" 61
+"Henry Crawford" "Mary Crawford" 89
+"Henry Crawford" "Miss Anderson" 1
+"Henry Crawford" "Mr Campbell" 1
+"Henry Crawford" "Mr Fraser" 4
+"Henry Crawford" "Mr Harding" 1
+"Henry Crawford" "Mr Price" 6
+"Henry Crawford" "Mr Rushworth" 50
+"Henry Crawford" "Mrs Brown" 1
+"Henry Crawford" "Mrs Chapman" 1
+"Henry Crawford" "Mrs Crawford" 2
+"Henry Crawford" "Mrs Janet Fraser" 7
+"Henry Crawford" "Mrs Norris" 14
+"Henry Crawford" "Mrs Rushworth" 1
+"Henry Crawford" "Mrs. Frances Price" 4
+"Henry Crawford" "Nanny" 1
+"Henry Crawford" "Rebecca" 6
+"Henry Crawford" "Richard Price" 1
+"Henry Crawford" "Sam Price" 1
+"Henry Crawford" "Sir Charles" 1
+"Henry Crawford" "Sir Thomas Bertram" 73
+"Henry Crawford" "Smith" 2
+"Henry Crawford" "Susan PriceMP" 9
+"Henry Crawford" "The Aylmers" 1
+"Henry Crawford" "Tom Bertram" 28
+"Henry Crawford" "Tom Oliver" 1
+"Henry Crawford" "William Price" 33
+"John Groom" "Julia Bertram" 1
+"John Groom" "Mr Green" 1
+"John Groom" "Mrs Jefferies" 1
+"Johnny Price" "Mrs. Frances Price" 1
+"Johnny Price" "Richard Price" 1
+"Johnny Price" "Sam Price" 1
+"Johnny Price" "Sir Thomas Bertram" 1
+"Johnny Price" "William Price" 1
+"Julia Bertram" "Lady Bertram" 2
+"Julia Bertram" "Lady Prescott" 1
+"Julia Bertram" "Lady Ravenshaw" 1
+"Julia Bertram" "Lord Ravenshaw" 2
+"Julia Bertram" "Maria Bertram" 60
+"Julia Bertram" "Mary Crawford" 44
+"Julia Bertram" "Miss Anderson" 1
+"Julia Bertram" "Miss Lee" 4
+"Julia Bertram" "Mr Campbell" 1
+"Julia Bertram" "Mr Green" 1
+"Julia Bertram" "Mr Harding" 1
+"Julia Bertram" "Mr Price" 2
+"Julia Bertram" "Mr Rushworth" 39
+"Julia Bertram" "Mrs Janet Fraser" 2
+"Julia Bertram" "Mrs Jefferies" 1
+"Julia Bertram" "Mrs Norris" 8
+"Julia Bertram" "Mrs Rushworth" 1
+"Julia Bertram" "Mrs. Frances Price" 3
+"Julia Bertram" "Nanny" 1
+"Julia Bertram" "Rebecca" 4
+"Julia Bertram" "Sam Price" 1
+"Julia Bertram" "Sir Thomas Bertram" 39
+"Julia Bertram" "Smith" 1
+"Julia Bertram" "Susan PriceMP" 4
+"Julia Bertram" "The Aylmers" 1
+"Julia Bertram" "Tom Bertram" 26
+"Julia Bertram" "Tom Oliver" 1
+"Julia Bertram" "William Price" 9
+"Lady Bertram" "Maria Bertram" 3
+"Lady Bertram" "Mary Price" 1
+"Lady Bertram" "Mr Campbell" 1
+"Lady Bertram" "Mr Price" 3
+"Lady Bertram" "Mrs Norris" 2
+"Lady Bertram" "Mrs. Admiral Maxwell" 1
+"Lady Bertram" "Mrs. Frances Price" 5
+"Lady Bertram" "Old Scholey" 1
+"Lady Bertram" "Rebecca" 3
+"Lady Bertram" "Sam Price" 2
+"Lady Bertram" "Sir Thomas Bertram" 3
+"Lady Bertram" "Susan PriceMP" 4
+"Lady Bertram" "Tom Bertram" 2
+"Lady Bertram" "Turner" 1
+"Lady Bertram" "William Price" 3
+"Lady Flora Stornaway" "Lord Stornaway" 1
+"Lady Flora Stornaway" "Margaret Fraser" 3
+"Lady Flora Stornaway" "Maria Bertram" 1
+"Lady Flora Stornaway" "Mary Crawford" 5
+"Lady Flora Stornaway" "Mr Fraser" 3
+"Lady Flora Stornaway" "Mr Price" 1
+"Lady Flora Stornaway" "Mr Rushworth" 2
+"Lady Flora Stornaway" "Mrs Janet Fraser" 4
+"Lady Flora Stornaway" "Sir Thomas Bertram" 2
+"Lady Flora Stornaway" "Tom Bertram" 1
+"Lady Prescott" "Maria Bertram" 1
+"Lady Prescott" "Mary Crawford" 1
+"Lady Prescott" "Mrs Norris" 1
+"Lady Prescott" "Sir Thomas Bertram" 1
+"Lady Prescott" "William Price" 1
+"Lady Ravenshaw" "Lord Ravenshaw" 1
+"Lady Ravenshaw" "Maria Bertram" 2
+"Lady Ravenshaw" "Mary Crawford" 1
+"Lady Ravenshaw" "Mr Rushworth" 1
+"Lady Ravenshaw" "Sir Thomas Bertram" 1
+"Lady Ravenshaw" "Tom Bertram" 2
+"Lord Ravenshaw" "Maria Bertram" 2
+"Lord Ravenshaw" "Mary Crawford" 1
+"Lord Ravenshaw" "Sir Thomas Bertram" 1
+"Lord Ravenshaw" "Tom Bertram" 2
+"Lord Stornaway" "Margaret Fraser" 1
+"Lord Stornaway" "Mary Crawford" 1
+"Lord Stornaway" "Mr Fraser" 1
+"Lord Stornaway" "Mr Rushworth" 1
+"Lord Stornaway" "Mrs Janet Fraser" 1
+"Lord Stornaway" "Sir Thomas Bertram" 1
+"Maddison" "Mary Crawford" 1
+"Maddison" "Rebecca" 1
+"Maddison" "Sir Thomas Bertram" 1
+"Maddison" "Susan PriceMP" 1
+"Margaret Fraser" "Mary Crawford" 4
+"Margaret Fraser" "Mr Fraser" 4
+"Margaret Fraser" "Mr Price" 1
+"Margaret Fraser" "Mr Rushworth" 1
+"Margaret Fraser" "Mrs Janet Fraser" 4
+"Margaret Fraser" "Mrs. Frances Price" 1
+"Margaret Fraser" "Rebecca" 1
+"Margaret Fraser" "Sir Thomas Bertram" 2
+"Margaret Fraser" "Susan PriceMP" 1
+"Margaret Fraser" "Tom Bertram" 1
+"Margaret Fraser" "William Price" 1
+"Maria Bertram" "Mary Crawford" 53
+"Maria Bertram" "Miss Anderson" 1
+"Maria Bertram" "Miss Lee" 3
+"Maria Bertram" "Mr Campbell" 1
+"Maria Bertram" "Mr Harding" 1
+"Maria Bertram" "Mr Price" 3
+"Maria Bertram" "Mr Rushworth" 52
+"Maria Bertram" "Mrs Crawford" 1
+"Maria Bertram" "Mrs Janet Fraser" 2
+"Maria Bertram" "Mrs Norris" 9
+"Maria Bertram" "Mrs Rushworth" 1
+"Maria Bertram" "Mrs. Frances Price" 4
+"Maria Bertram" "Rebecca" 3
+"Maria Bertram" "Robert" 1
+"Maria Bertram" "Sam Price" 1
+"Maria Bertram" "Sir Thomas Bertram" 47
+"Maria Bertram" "Smith" 2
+"Maria Bertram" "Susan PriceMP" 5
+"Maria Bertram" "Tom Bertram" 32
+"Maria Bertram" "Tom Oliver" 1
+"Maria Bertram" "William Price" 11
+"Mary Crawford" "Miss Anderson" 2
+"Mary Crawford" "Miss Augusta Sneyd" 1
+"Mary Crawford" "Miss Lee" 1
+"Mary Crawford" "Mr Campbell" 1
+"Mary Crawford" "Mr Fraser" 4
+"Mary Crawford" "Mr Price" 4
+"Mary Crawford" "Mr Rushworth" 47
+"Mary Crawford" "Mrs Chapman" 1
+"Mary Crawford" "Mrs Crawford" 3
+"Mary Crawford" "Mrs Holford" 1
+"Mary Crawford" "Mrs Janet Fraser" 7
+"Mary Crawford" "Mrs Norris" 9
+"Mary Crawford" "Mrs Rushworth" 1
+"Mary Crawford" "Mrs Sneyd" 1
+"Mary Crawford" "Mrs. Frances Price" 3
+"Mary Crawford" "Rebecca" 4
+"Mary Crawford" "Robert" 1
+"Mary Crawford" "Sir Charles" 1
+"Mary Crawford" "Sir Thomas Bertram" 55
+"Mary Crawford" "Smith" 2
+"Mary Crawford" "Sneyd" 1
+"Mary Crawford" "Susan PriceMP" 6
+"Mary Crawford" "The Aylmers" 1
+"Mary Crawford" "Tom Bertram" 30
+"Mary Crawford" "Tom Oliver" 1
+"Mary Crawford" "William Price" 27
+"Mary Price" "Mrs Norris" 1
+"Mary Price" "Mrs. Admiral Maxwell" 1
+"Mary Price" "Mrs. Frances Price" 1
+"Mary Price" "Rebecca" 1
+"Mary Price" "Susan PriceMP" 1
+"Miss Anderson" "Miss Augusta Sneyd" 1
+"Miss Anderson" "Mrs Holford" 1
+"Miss Anderson" "Mrs Sneyd" 1
+"Miss Anderson" "Sir Thomas Bertram" 1
+"Miss Anderson" "Sneyd" 1
+"Miss Anderson" "Tom Bertram" 2
+"Miss Augusta Sneyd" "Mrs Holford" 1
+"Miss Augusta Sneyd" "Mrs Sneyd" 1
+"Miss Augusta Sneyd" "Sneyd" 1
+"Miss Augusta Sneyd" "Tom Bertram" 1
+"Miss Lee" "Mrs Norris" 1
+"Miss Lee" "Mrs. Frances Price" 1
+"Miss Lee" "Nanny" 1
+"Miss Lee" "Sir Thomas Bertram" 5
+"Miss Lee" "Tom Bertram" 2
+"Miss Lee" "William Price" 3
+"Mr Campbell" "Mr Price" 2
+"Mr Campbell" "Mrs. Frances Price" 1
+"Mr Campbell" "Rebecca" 1
+"Mr Campbell" "Sam Price" 1
+"Mr Campbell" "Sir Thomas Bertram" 2
+"Mr Campbell" "Susan PriceMP" 2
+"Mr Campbell" "Tom Bertram" 1
+"Mr Campbell" "William Price" 2
+"Mr Fraser" "Mr Price" 1
+"Mr Fraser" "Mr Rushworth" 1
+"Mr Fraser" "Mrs Janet Fraser" 4
+"Mr Fraser" "Mrs. Frances Price" 1
+"Mr Fraser" "Rebecca" 1
+"Mr Fraser" "Sir Thomas Bertram" 2
+"Mr Fraser" "Susan PriceMP" 1
+"Mr Fraser" "Tom Bertram" 1
+"Mr Fraser" "William Price" 1
+"Mr Green" "Mrs Jefferies" 1
+"Mr Harding" "Mr Rushworth" 1
+"Mr Harding" "Mrs Norris" 1
+"Mr Harding" "Sir Thomas Bertram" 1
+"Mr Harding" "Susan PriceMP" 1
+"Mr Harding" "Tom Bertram" 1
+"Mr Price" "Mr Rushworth" 1
+"Mr Price" "Mrs Janet Fraser" 2
+"Mr Price" "Mrs Norris" 1
+"Mr Price" "Mrs. Frances Price" 6
+"Mr Price" "Old Scholey" 1
+"Mr Price" "Rebecca" 6
+"Mr Price" "Sam Price" 3
+"Mr Price" "Sir Thomas Bertram" 4
+"Mr Price" "Susan PriceMP" 7
+"Mr Price" "Tom Bertram" 3
+"Mr Price" "Turner" 1
+"Mr Price" "William Price" 5
+"Mr Rushworth" "Mrs Crawford" 1
+"Mr Rushworth" "Mrs Janet Fraser" 3
+"Mr Rushworth" "Mrs Norris" 5
+"Mr Rushworth" "Mrs Rushworth" 1
+"Mr Rushworth" "Mrs. Frances Price" 1
+"Mr Rushworth" "Rebecca" 2
+"Mr Rushworth" "Robert" 1
+"Mr Rushworth" "Sir Thomas Bertram" 38
+"Mr Rushworth" "Smith" 2
+"Mr Rushworth" "Susan PriceMP" 3
+"Mr Rushworth" "Tom Bertram" 22
+"Mr Rushworth" "William Price" 4
+"Mrs Brown" "Mrs Norris" 1
+"Mrs Brown" "Sir Thomas Bertram" 1
+"Mrs Brown" "William Price" 1
+"Mrs Chapman" "William Price" 1
+"Mrs Crawford" "Sir Thomas Bertram" 1
+"Mrs Crawford" "Tom Bertram" 1
+"Mrs Crawford" "William Price" 1
+"Mrs Holford" "Mrs Sneyd" 1
+"Mrs Holford" "Sneyd" 1
+"Mrs Holford" "Tom Bertram" 1
+"Mrs Janet Fraser" "Mrs. Frances Price" 1
+"Mrs Janet Fraser" "Rebecca" 1
+"Mrs Janet Fraser" "Sir Thomas Bertram" 4
+"Mrs Janet Fraser" "Susan PriceMP" 1
+"Mrs Janet Fraser" "Tom Bertram" 2
+"Mrs Janet Fraser" "William Price" 1
+"Mrs Norris" "Mrs. Admiral Maxwell" 1
+"Mrs Norris" "Mrs. Frances Price" 2
+"Mrs Norris" "Nanny" 2
+"Mrs Norris" "Rebecca" 1
+"Mrs Norris" "Sir Thomas Bertram" 14
+"Mrs Norris" "Susan PriceMP" 3
+"Mrs Norris" "Tom Bertram" 4
+"Mrs Norris" "William Price" 6
+"Mrs Rushworth" "Sir Thomas Bertram" 1
+"Mrs Rushworth" "Tom Bertram" 1
+"Mrs Sneyd" "Sneyd" 1
+"Mrs Sneyd" "Tom Bertram" 1
+"Mrs. Admiral Maxwell" "Mrs. Frances Price" 1
+"Mrs. Admiral Maxwell" "Rebecca" 1
+"Mrs. Admiral Maxwell" "Susan PriceMP" 1
+"Mrs. Frances Price" "Nanny" 1
+"Mrs. Frances Price" "Old Scholey" 1
+"Mrs. Frances Price" "Rebecca" 8
+"Mrs. Frances Price" "Richard Price" 1
+"Mrs. Frances Price" "Sam Price" 4
+"Mrs. Frances Price" "Sir Thomas Bertram" 9
+"Mrs. Frances Price" "Susan PriceMP" 8
+"Mrs. Frances Price" "Tom Bertram" 4
+"Mrs. Frances Price" "Turner" 1
+"Mrs. Frances Price" "William Price" 8
+"Nanny" "Sir Thomas Bertram" 3
+"Nanny" "Tom Bertram" 1
+"Old Scholey" "Rebecca" 1
+"Old Scholey" "Sam Price" 1
+"Old Scholey" "Susan PriceMP" 1
+"Old Scholey" "Turner" 1
+"Old Scholey" "William Price" 1
+"Rebecca" "Sam Price" 3
+"Rebecca" "Sir Thomas Bertram" 6
+"Rebecca" "Susan PriceMP" 8
+"Rebecca" "Tom Bertram" 3
+"Rebecca" "Turner" 1
+"Rebecca" "William Price" 4
+"Richard Price" "Sam Price" 1
+"Richard Price" "Sir Thomas Bertram" 1
+"Richard Price" "William Price" 1
+"Sam Price" "Sir Thomas Bertram" 2
+"Sam Price" "Susan PriceMP" 3
+"Sam Price" "Tom Bertram" 2
+"Sam Price" "Turner" 1
+"Sam Price" "William Price" 4
+"Sir Charles" "Sir Thomas Bertram" 1
+"Sir Charles" "William Price" 1
+"Sir Thomas Bertram" "Smith" 1
+"Sir Thomas Bertram" "Susan PriceMP" 7
+"Sir Thomas Bertram" "Tom Bertram" 30
+"Sir Thomas Bertram" "William Price" 32
+"Smith" "Tom Bertram" 1
+"Sneyd" "Tom Bertram" 1
+"Susan PriceMP" "Tom Bertram" 4
+"Susan PriceMP" "Turner" 1
+"Susan PriceMP" "William Price" 8
+"Tom Bertram" "Tom Oliver" 1
+"Tom Bertram" "William Price" 4
+"Turner" "William Price" 1

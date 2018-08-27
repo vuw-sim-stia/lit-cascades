@@ -114,6 +114,8 @@ allOutput <- c()
 
 method <- "chars" # one of "chars" "ngram" "nouns"
 
+render_dynamic_net <- FALSE
+
 for(sliceSize in slice_sizes){
   dir.create(file.path("TLit/www/output/", sliceSize), showWarnings = FALSE)
   
@@ -267,9 +269,9 @@ for(sliceSize in slice_sizes){
     roots <- data.frame(root_node_id = unlist(tic[[3]][,1]),
                         tag = unlist(tic[[3]][,2]), stringsAsFactors = F)
     
-    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
-    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
-    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"))
+    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"),row.names = F)
+    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"),row.names = F)
+    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"),row.names = F)
     
     linksDelta <- as.integer(links$target)-as.integer(links$source)
     jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta.jpg"))
@@ -372,17 +374,19 @@ for(sliceSize in slice_sizes){
       }
     }
     
-    compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
-    
-    #interactive
-    render.d3movie(nd, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
-                   displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
-                   vertex.col="orange",edge.col="darkgray",
-                   vertex.cex = .5, vertex.border="black",
-                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched information:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
-                   edge.lwd = .3,
-                   object.scale = 0.1,
-                   edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+    if(render_dynamic_net){
+      compute.animation(nd, animation.mode = "kamadakawai", chain.direction=c('forward'),default.dist=10)
+      
+      #interactive
+      render.d3movie(nd, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_dynamic-network.html",sep=''),launchBrowser=F, 
+                     displaylabels = T, label=nd %v% "vertex.names", label.cex=.5,
+                     vertex.col="orange",edge.col="darkgray",
+                     vertex.cex = .5, vertex.border="black",
+                     vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (nd %v% "step") , "<br />","<b>Matched information:</b>", (nd %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(nd %v% "step"),sep=''),"' target='blank'>Go to content</a><br />"),
+                     edge.lwd = .3,
+                     object.scale = 0.1,
+                     edge.tooltip = paste("<b>Link:</b>", (nd %e% "set"),"</span>" ))
+    }
     
     detach("package:ndtv", unload=TRUE)
     detach("package:tsna", unload=TRUE)
@@ -435,7 +439,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(g)
     wtc <- cluster_walktrap(g)
     gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
-    write.table(c(theSource,gstat),paste0("TLit/www/output/",sliceSize,"/",theSource,"_netstat_combined.csv"),append = T,col.names = F,row.names = F)
+    write.table(data.frame(text=theSource,dia=diameter(g),mindeg=min(degd),maxdeg=max(degd),avgdeg=mean(degd),dens=edge_density(g),modul=modularity(wtc)),paste0("TLit/www/output/",sliceSize,"/netstat_combined.csv"),append = T,row.names = F,col.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
     
     nodes <- as.data.frame(nodes,stringsAsFactors=F)
@@ -477,15 +481,16 @@ for(sliceSize in slice_sizes){
     library(tsna)
     
     hnetwork <- asNetwork(g)
-    
-    render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
-                   displaylabels = T, label=hnetwork %v% "vertex.names",
-                   vertex.col="orange",edge.col="darkgray",label.cex=0.5,
-                   vertex.cex = .5, vertex.border="black",
-                   vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched information:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
-                   edge.lwd = .3,
-                   object.scale = 0.1,
-                   edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
+    if(render_dynamic_net){
+      render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_static-network.html",sep=''),launchBrowser=F, 
+                     displaylabels = T, label=hnetwork %v% "vertex.names",
+                     vertex.col="orange",edge.col="darkgray",label.cex=0.5,
+                     vertex.cex = .5, vertex.border="black",
+                     vertex.tooltip = paste("<span style='font-size: 10px;'><b>Slice:</b>", (hnetwork %v% "vertex.names") , "<br />","<b>Matched information:</b>", (hnetwork %v% "content"), "<br /><a href='",paste("",theSource,"_textchunks.html#slice-",(hnetwork %v% "vertex.names"),sep=''),"' target='blank'>Go to content</a><br />"),
+                     edge.lwd = .3,
+                     object.scale = 0.1,
+                     edge.tooltip = paste("<b>Link:</b>", (hnetwork %e% "label"),"</span>" ))
+    }
     
     #### create the character network from the cascade
     socN1 <- c()
@@ -516,6 +521,7 @@ for(sliceSize in slice_sizes){
         pdf(paste0("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_dh_socnet_",lin,".pdf"))
         plot(h, layout=co, vertex.size=2,vertex.label.cex=0.2,edge.label.cex=0.2, edge.arrow.size=0.1, rescale=TRUE,vertex.label.dist=0)
         dev.off()
+        write.csv(unique(socEdges),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnet_edgelist_",lin,".csv"), sep = ';',row.names = F)
       }
     }
     socEdges<-c()
@@ -526,7 +532,7 @@ for(sliceSize in slice_sizes){
     
     h <- graph.data.frame(unique(socEdges),directed=FALSE)
     
-    write.csv(unique(socEdges),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnet_edgelist.csv"), sep = ';')
+    write.csv(unique(socEdges),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnet_edgelist.csv"), sep = ';',row.names = F)
     
     V(h)$frame.color <- "white"
     V(h)$color <- "orange"
@@ -609,7 +615,7 @@ for(sliceSize in slice_sizes){
     plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
     dev.off()
     
-    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"))
+    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"),row.names = F)
     
     hnetwork <- asNetwork(h)
     
@@ -639,7 +645,7 @@ for(sliceSize in slice_sizes){
     linkedChar2 <- as.data.frame(linkedChar2)
     colnames(linkedChar2) <- c("char","links")
     
-    write.csv(linkedChar2$char,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_allcharacters.csv",sep=''))
+    write.csv(linkedChar2$char,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_allcharacters.csv",sep=''),row.names = F)
     
     render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
                    displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
@@ -657,7 +663,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(h)
     wtc <- cluster_walktrap(h)
     gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
-    write.table(c(theSource,gstat),paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnetstat_combined.csv"),append = T,col.names = F,row.names = F)
+    write.table(data.frame(text=theSource,dia=diameter(h),mindeg=min(degd),maxdeg=max(degd),avgdeg=mean(degd),dens=edge_density(h),modul=modularity(wtc)),paste0("TLit/www/output/",sliceSize,"/socnetstat_combined.csv"),append = T,col.names = F,row.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
     
     ####
@@ -669,12 +675,12 @@ for(sliceSize in slice_sizes){
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_links_targets.jpg",sep=''))
     plot(count(unlist(links[,2]))$freq,type='l')
     dev.off()
-    write.csv(cbind(unlist(links[,2]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,'_gutenberg_targets.txt',sep=''))
+    write.csv(cbind(unlist(links[,2]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,'_gutenberg_targets.txt',sep=''),row.names = F)
     
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_links_sources.jpg",sep=''))
     plot(count(unlist(links[,1]))$freq,type='l')
     dev.off()
-    write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_sources.txt",sep=''))
+    write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_sources.txt",sep=''),row.names = F)
     
     agg <- as.numeric(links[,2]) - as.numeric(links[,1])
     plot(c(1:length(agg)),agg,pch='.')
@@ -786,10 +792,10 @@ for(sliceSize in slice_sizes){
                             "_temporal_statistics.csv"), row.names = F, col.names = F, sep = ";")
     
     write.table(ent, file = paste0("TLit/www/output/", sliceSize, "/",
-                                   theSource, "_gutenberg_entropy.txt"), sep = ";")
+                                   theSource, "_gutenberg_entropy.txt"), sep = ";",row.names = F)
     
     write.table(wien, file = paste0("TLit/www/output/", sliceSize, "/",
-                                    theSource, "_gutenberg_diversity.txt"), sep = ";")
+                                    theSource, "_gutenberg_diversity.txt"), sep = ";",row.names = F)
     ent_plot <- as.data.frame(ent) %>%
       mutate(rownumber = seq.int(nrow(.)))
     
@@ -852,7 +858,7 @@ for(sliceSize in slice_sizes){
       geom_point(size=1, shape = 23) + 
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency.pdf",sep=''),scale = 1:2)
-    write.csv(newDat,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''))
+    write.csv(newDat,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''),row.names = F)
     
     # scatterplot for first and last character appearance
     firstNode <- aggregate(Node ~ Character,newDat,min)
@@ -866,7 +872,7 @@ for(sliceSize in slice_sizes){
       geom_point(size=1.5, shape = 23) +
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance.pdf",sep=''),scale = 1:2)
-    write.csv(combined,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''))
+    write.csv(combined,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''),row.names = F)
     
     # .txt list of character appearance
     charfreqcsv <- ddply(newDat, .(Character), summarize, Node = toString(Node))
@@ -885,9 +891,9 @@ for(sliceSize in slice_sizes){
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50)) +
       scale_y_continuous (limits = c(0,5)) 
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
-    write.csv(entgraph,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
+    write.csv(entgraph,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_csv.txt", sep = ''),row.names = F)
   }  
-  write.csv2(allOutput,paste0('TLit/www/output/',sliceSize,'/allTexts.csv'))
+  write.csv2(allOutput,paste0('TLit/www/output/',sliceSize,'/allTexts.csv'),row.names = F)
 }
 
 
@@ -1084,9 +1090,9 @@ for(sliceSize in slice_sizes){
     roots <- data.frame(root_node_id = unlist(tic[[3]][,1]),
                         tag = unlist(tic[[3]][,2]), stringsAsFactors = F)
     
-    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"))
-    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"))
-    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"))
+    write.table(nodes,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_nodes.csv"),row.names = F)
+    write.table(links,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_links.csv"),row.names = F)
+    write.table(roots,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_roots.csv"),row.names = F)
     
     linksDelta <- as.integer(links$target)-as.integer(links$source)
     jpeg(paste0("TLit/www/output/",sliceSize,"/",theSource,"_links_delta.jpg"))
@@ -1252,6 +1258,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(g)
     wtc <- cluster_walktrap(g)
     gstat <- c(diameter(g),min(degd),max(degd),mean(degd),edge_density(g),modularity(wtc))
+    write.table(data.frame(text=theSource,dia=diameter(g),mindeg=min(degd),maxdeg=max(degd),avgdeg=mean(degd),dens=edge_density(g),modul=modularity(wtc)),paste0("TLit/www/output/",sliceSize,"/netstat_combined.csv"),append = T,row.names = F,col.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_netstat.csv",sep=''),col.names = F,row.names = F)
     
     nodes <- as.data.frame(nodes,stringsAsFactors=F)
@@ -1342,7 +1349,7 @@ for(sliceSize in slice_sizes){
     
     h <- graph.data.frame(unique(socEdges),directed=FALSE)
     
-    write.csv(unique(socEdges),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnet_edgelist.csv"), sep = ';')
+    write.csv(unique(socEdges),file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socnet_edgelist.csv"), sep = ';',row.names = F)
     
     V(h)$frame.color <- "white"
     V(h)$color <- "orange"
@@ -1436,7 +1443,7 @@ for(sliceSize in slice_sizes){
     plot( x=0:max(deg), y=1-deg.dist, pch=19, cex=1.2, col="orange", xlab="Degree", ylab="Cumulative Frequency")
     dev.off()
     
-    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"))
+    write.table(socEdges,file=paste0("TLit/www/output/",sliceSize,"/",theSource,"_socialnetwork_links.csv"),row.names = F)
     
     hnetwork <- asNetwork(h)
     
@@ -1466,7 +1473,7 @@ for(sliceSize in slice_sizes){
     linkedChar2 <- as.data.frame(linkedChar2)
     colnames(linkedChar2) <- c("char","links")
     
-    write.csv(linkedChar2$char,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_allcharacters.csv",sep=''))
+    write.csv(linkedChar2$char,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_allcharacters.csv",sep=''),row.names = F)
     
     render.d3movie(hnetwork, filename=paste("TLit/www/output/",sliceSize,"/",theSource,"_social-network.html",sep=''),launchBrowser=F, 
                    displaylabels = T, label=hnetwork %v% "vertex.names",label.cex=.5,
@@ -1484,6 +1491,7 @@ for(sliceSize in slice_sizes){
     degd <- degree.distribution(h)
     wtc <- cluster_walktrap(h)
     gstat <- c(diameter(h),min(degd),max(degd),mean(degd),edge_density(h),modularity(wtc))
+    write.table(data.frame(text=theSource,dia=diameter(h),mindeg=min(degd),maxdeg=max(degd),avgdeg=mean(degd),dens=edge_density(h),modul=modularity(wtc)),paste0("TLit/www/output/",sliceSize,"/socnetstat_combined.csv"),append = T,col.names = F,row.names = F)
     write.csv2(gstat,paste("TLit/www/output/",sliceSize,"/",theSource,"_socnetstat.csv",sep=''),col.names = F,row.names = F)
     
     ####
@@ -1495,12 +1503,12 @@ for(sliceSize in slice_sizes){
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_links_targets.jpg",sep=''))
     plot(count(unlist(links[,2]))$freq,type='l')
     dev.off()
-    write.csv(cbind(unlist(links[,2]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,'_gutenberg_targets.txt',sep=''))
+    write.csv(cbind(unlist(links[,2]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,'_gutenberg_targets.txt',sep=''),row.names = F)
     
     jpeg(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_links_sources.jpg",sep=''))
     plot(count(unlist(links[,1]))$freq,type='l')
     dev.off()
-    write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_sources.txt",sep=''))
+    write.csv(cbind(unlist(links[,1]),links[,3]),file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_sources.txt",sep=''),row.names = F)
     
     agg <- as.numeric(links[,2]) - as.numeric(links[,1])
     plot(c(1:length(agg)),agg,pch='.')
@@ -1612,10 +1620,10 @@ for(sliceSize in slice_sizes){
                             "_temporal_statistics.csv"), row.names = F, col.names = F, sep = ";")
     
     write.table(ent, file = paste0("TLit/www/output/", sliceSize, "/",
-                                   theSource, "_gutenberg_entropy.txt"), sep = ";")
+                                   theSource, "_gutenberg_entropy.txt"), sep = ";",row.names = F)
     
     write.table(wien, file = paste0("TLit/www/output/", sliceSize, "/",
-                                    theSource, "_gutenberg_diversity.txt"), sep = ";")
+                                    theSource, "_gutenberg_diversity.txt"), sep = ";",row.names = F)
     ent_plot <- as.data.frame(ent) %>%
       mutate(rownumber = seq.int(nrow(.)))
     
@@ -1678,7 +1686,7 @@ for(sliceSize in slice_sizes){
       geom_point(size=1, shape = 23) + 
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency.pdf",sep=''),scale = 1:2)
-    write.csv(newDat,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''))
+    write.csv(newDat,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_character_frequency_csv.txt", sep = ''),row.names = F)
     
     # scatterplot for first and last character appearance
     firstNode <- aggregate(Node ~ Character,newDat,min)
@@ -1692,7 +1700,7 @@ for(sliceSize in slice_sizes){
       geom_point(size=1.5, shape = 23) +
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50))
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance.pdf",sep=''),scale = 1:2)
-    write.csv(combined,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''))
+    write.csv(combined,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_first_last_character_appearance_csv.txt", sep = ''),row.names = F)
     
     # .txt list of character appearance
     charfreqcsv <- ddply(newDat, .(Character), summarize, Node = toString(Node))
@@ -1711,7 +1719,7 @@ for(sliceSize in slice_sizes){
       scale_x_continuous (limits = c(0,400), minor_breaks = seq(0 , 400, 5), breaks = seq(0, 400, 50)) +
       scale_y_continuous (limits = c(0,5)) 
     ggsave(paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_new.pdf",sep=''))
-    write.csv(entgraph,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_csv.txt", sep = ''))
+    write.csv(entgraph,file=paste("TLit/www/output/",sliceSize,"/",theSource,"_gutenberg_entropy_csv.txt", sep = ''),row.names = F)
   }  
-  write.csv2(allOutput,paste0('TLit/www/output/',sliceSize,'/allTexts.csv'))
+  write.csv2(allOutput,paste0('TLit/www/output/',sliceSize,'/allTexts.csv'),row.names = F)
 }

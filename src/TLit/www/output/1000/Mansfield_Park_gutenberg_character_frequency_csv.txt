@@ -1,1149 +1,1149 @@
-"","Character","Node","Appearances"
-"1","Admiral Crawford",88,14
-"2","Admiral Crawford",138,14
-"3","Admiral Crawford",112,14
-"4","Admiral Crawford",21,14
-"5","Admiral Crawford",113,14
-"6","Admiral Crawford",25,14
-"7","Admiral Crawford",15,14
-"8","Admiral Crawford",103,14
-"9","Admiral Crawford",115,14
-"10","Admiral Crawford",160,14
-"11","Admiral Crawford",89,14
-"12","Admiral Crawford",102,14
-"13","Admiral Crawford",16,14
-"14","Admiral Crawford",24,14
-"15","Baddeley",131,3
-"16","Baddeley",69,3
-"17","Baddeley",124,3
-"18","Betsey Price",144,10
-"19","Betsey Price",152,10
-"20","Betsey Price",150,10
-"21","Betsey Price",149,10
-"22","Betsey Price",142,10
-"23","Betsey Price",156,10
-"24","Betsey Price",145,10
-"25","Betsey Price",147,10
-"26","Betsey Price",146,10
-"27","Betsey Price",148,10
-"28","Captain Walsh",145,1
-"29","Charles",72,2
-"30","Charles",19,2
-"31","Charles Anderson",19,1
-"32","Charles Maddox",61,3
-"33","Charles Maddox",59,3
-"34","Charles Maddox",57,3
-"35","Charlie Price",150,3
-"36","Charlie Price",149,3
-"37","Charlie Price",146,3
-"38","Colonel Harrison",109,1
-"39","Dr Grant",45,30
-"40","Dr Grant",182,30
-"41","Dr Grant",20,30
-"42","Dr Grant",181,30
-"43","Dr Grant",77,30
-"44","Dr Grant",165,30
-"45","Dr Grant",80,30
-"46","Dr Grant",137,30
-"47","Dr Grant",85,30
-"48","Dr Grant",30,30
-"49","Dr Grant",81,30
-"50","Dr Grant",18,30
-"51","Dr Grant",16,30
-"52","Dr Grant",24,30
-"53","Dr Grant",21,30
-"54","Dr Grant",94,30
-"55","Dr Grant",73,30
-"56","Dr Grant",42,30
-"57","Dr Grant",86,30
-"58","Dr Grant",22,30
-"59","Dr Grant",103,30
-"60","Dr Grant",25,30
-"61","Dr Grant",13,30
-"62","Dr Grant",78,30
-"63","Dr Grant",183,30
-"64","Dr Grant",95,30
-"65","Dr Grant",9,30
-"66","Dr Grant",134,30
-"67","Dr Grant",65,30
-"68","Dr Grant",46,30
-"69","Edmund Bertram",7,129
-"70","Edmund Bertram",83,129
-"71","Edmund Bertram",171,129
-"72","Edmund Bertram",130,129
-"73","Edmund Bertram",69,129
-"74","Edmund Bertram",33,129
-"75","Edmund Bertram",151,129
-"76","Edmund Bertram",175,129
-"77","Edmund Bertram",45,129
-"78","Edmund Bertram",15,129
-"79","Edmund Bertram",60,129
-"80","Edmund Bertram",84,129
-"81","Edmund Bertram",48,129
-"82","Edmund Bertram",179,129
-"83","Edmund Bertram",157,129
-"84","Edmund Bertram",67,129
-"85","Edmund Bertram",76,129
-"86","Edmund Bertram",128,129
-"87","Edmund Bertram",114,129
-"88","Edmund Bertram",27,129
-"89","Edmund Bertram",59,129
-"90","Edmund Bertram",54,129
-"91","Edmund Bertram",32,129
-"92","Edmund Bertram",30,129
-"93","Edmund Bertram",34,129
-"94","Edmund Bertram",20,129
-"95","Edmund Bertram",131,129
-"96","Edmund Bertram",35,129
-"97","Edmund Bertram",14,129
-"98","Edmund Bertram",165,129
-"99","Edmund Bertram",13,129
-"100","Edmund Bertram",173,129
-"101","Edmund Bertram",168,129
-"102","Edmund Bertram",134,129
-"103","Edmund Bertram",135,129
-"104","Edmund Bertram",177,129
-"105","Edmund Bertram",174,129
-"106","Edmund Bertram",6,129
-"107","Edmund Bertram",29,129
-"108","Edmund Bertram",18,129
-"109","Edmund Bertram",86,129
-"110","Edmund Bertram",19,129
-"111","Edmund Bertram",85,129
-"112","Edmund Bertram",25,129
-"113","Edmund Bertram",137,129
-"114","Edmund Bertram",113,129
-"115","Edmund Bertram",94,129
-"116","Edmund Bertram",39,129
-"117","Edmund Bertram",158,129
-"118","Edmund Bertram",63,129
-"119","Edmund Bertram",26,129
-"120","Edmund Bertram",51,129
-"121","Edmund Bertram",24,129
-"122","Edmund Bertram",66,129
-"123","Edmund Bertram",144,129
-"124","Edmund Bertram",95,129
-"125","Edmund Bertram",132,129
-"126","Edmund Bertram",21,129
-"127","Edmund Bertram",182,129
-"128","Edmund Bertram",154,129
-"129","Edmund Bertram",96,129
-"130","Edmund Bertram",80,129
-"131","Edmund Bertram",58,129
-"132","Edmund Bertram",172,129
-"133","Edmund Bertram",78,129
-"134","Edmund Bertram",152,129
-"135","Edmund Bertram",150,129
-"136","Edmund Bertram",90,129
-"137","Edmund Bertram",42,129
-"138","Edmund Bertram",81,129
-"139","Edmund Bertram",36,129
-"140","Edmund Bertram",23,129
-"141","Edmund Bertram",74,129
-"142","Edmund Bertram",98,129
-"143","Edmund Bertram",37,129
-"144","Edmund Bertram",89,129
-"145","Edmund Bertram",156,129
-"146","Edmund Bertram",136,129
-"147","Edmund Bertram",97,129
-"148","Edmund Bertram",143,129
-"149","Edmund Bertram",22,129
-"150","Edmund Bertram",55,129
-"151","Edmund Bertram",57,129
-"152","Edmund Bertram",107,129
-"153","Edmund Bertram",38,129
-"154","Edmund Bertram",164,129
-"155","Edmund Bertram",121,129
-"156","Edmund Bertram",70,129
-"157","Edmund Bertram",181,129
-"158","Edmund Bertram",8,129
-"159","Edmund Bertram",133,129
-"160","Edmund Bertram",169,129
-"161","Edmund Bertram",28,129
-"162","Edmund Bertram",167,129
-"163","Edmund Bertram",12,129
-"164","Edmund Bertram",176,129
-"165","Edmund Bertram",72,129
-"166","Edmund Bertram",159,129
-"167","Edmund Bertram",153,129
-"168","Edmund Bertram",41,129
-"169","Edmund Bertram",160,129
-"170","Edmund Bertram",2,129
-"171","Edmund Bertram",104,129
-"172","Edmund Bertram",106,129
-"173","Edmund Bertram",64,129
-"174","Edmund Bertram",163,129
-"175","Edmund Bertram",56,129
-"176","Edmund Bertram",140,129
-"177","Edmund Bertram",105,129
-"178","Edmund Bertram",93,129
-"179","Edmund Bertram",49,129
-"180","Edmund Bertram",31,129
-"181","Edmund Bertram",102,129
-"182","Edmund Bertram",129,129
-"183","Edmund Bertram",44,129
-"184","Edmund Bertram",65,129
-"185","Edmund Bertram",142,129
-"186","Edmund Bertram",141,129
-"187","Edmund Bertram",53,129
-"188","Edmund Bertram",62,129
-"189","Edmund Bertram",47,129
-"190","Edmund Bertram",11,129
-"191","Edmund Bertram",9,129
-"192","Edmund Bertram",110,129
-"193","Edmund Bertram",109,129
-"194","Edmund Bertram",75,129
-"195","Edmund Bertram",101,129
-"196","Edmund Bertram",61,129
-"197","Edmund Bertram",103,129
-"198","Ellis",3,1
-"199","Fanny Price",1,164
-"200","Fanny Price",122,164
-"201","Fanny Price",143,164
-"202","Fanny Price",78,164
-"203","Fanny Price",176,164
-"204","Fanny Price",123,164
-"205","Fanny Price",40,164
-"206","Fanny Price",59,164
-"207","Fanny Price",65,164
-"208","Fanny Price",21,164
-"209","Fanny Price",160,164
-"210","Fanny Price",124,164
-"211","Fanny Price",177,164
-"212","Fanny Price",60,164
-"213","Fanny Price",125,164
-"214","Fanny Price",178,164
-"215","Fanny Price",22,164
-"216","Fanny Price",105,164
-"217","Fanny Price",61,164
-"218","Fanny Price",5,164
-"219","Fanny Price",81,164
-"220","Fanny Price",23,164
-"221","Fanny Price",162,164
-"222","Fanny Price",127,164
-"223","Fanny Price",98,164
-"224","Fanny Price",6,164
-"225","Fanny Price",62,164
-"226","Fanny Price",180,164
-"227","Fanny Price",169,164
-"228","Fanny Price",128,164
-"229","Fanny Price",19,164
-"230","Fanny Price",7,164
-"231","Fanny Price",69,164
-"232","Fanny Price",31,164
-"233","Fanny Price",85,164
-"234","Fanny Price",63,164
-"235","Fanny Price",181,164
-"236","Fanny Price",147,164
-"237","Fanny Price",8,164
-"238","Fanny Price",108,164
-"239","Fanny Price",130,164
-"240","Fanny Price",64,164
-"241","Fanny Price",110,164
-"242","Fanny Price",86,164
-"243","Fanny Price",131,164
-"244","Fanny Price",9,164
-"245","Fanny Price",33,164
-"246","Fanny Price",132,164
-"247","Fanny Price",72,164
-"248","Fanny Price",10,164
-"249","Fanny Price",148,164
-"250","Fanny Price",96,164
-"251","Fanny Price",133,164
-"252","Fanny Price",11,164
-"253","Fanny Price",28,164
-"254","Fanny Price",141,164
-"255","Fanny Price",12,164
-"256","Fanny Price",29,164
-"257","Fanny Price",67,164
-"258","Fanny Price",168,164
-"259","Fanny Price",134,164
-"260","Fanny Price",155,164
-"261","Fanny Price",111,164
-"262","Fanny Price",13,164
-"263","Fanny Price",83,164
-"264","Fanny Price",68,164
-"265","Fanny Price",30,164
-"266","Fanny Price",112,164
-"267","Fanny Price",171,164
-"268","Fanny Price",136,164
-"269","Fanny Price",24,164
-"270","Fanny Price",14,164
-"271","Fanny Price",57,164
-"272","Fanny Price",101,164
-"273","Fanny Price",170,164
-"274","Fanny Price",137,164
-"275","Fanny Price",175,164
-"276","Fanny Price",94,164
-"277","Fanny Price",15,164
-"278","Fanny Price",70,164
-"279","Fanny Price",32,164
-"280","Fanny Price",80,164
-"281","Fanny Price",139,164
-"282","Fanny Price",53,164
-"283","Fanny Price",152,164
-"284","Fanny Price",138,164
-"285","Fanny Price",144,164
-"286","Fanny Price",153,164
-"287","Fanny Price",79,164
-"288","Fanny Price",27,164
-"289","Fanny Price",154,164
-"290","Fanny Price",54,164
-"291","Fanny Price",116,164
-"292","Fanny Price",34,164
-"293","Fanny Price",75,164
-"294","Fanny Price",146,164
-"295","Fanny Price",97,164
-"296","Fanny Price",55,164
-"297","Fanny Price",76,164
-"298","Fanny Price",18,164
-"299","Fanny Price",74,164
-"300","Fanny Price",126,164
-"301","Fanny Price",140,164
-"302","Fanny Price",36,164
-"303","Fanny Price",121,164
-"304","Fanny Price",174,164
-"305","Fanny Price",37,164
-"306","Fanny Price",58,164
-"307","Fanny Price",39,164
-"308","Fanny Price",156,164
-"309","Fanny Price",51,164
-"310","Fanny Price",161,164
-"311","Fanny Price",150,164
-"312","Fanny Price",109,164
-"313","Fanny Price",38,164
-"314","Fanny Price",142,164
-"315","Fanny Price",164,164
-"316","Fanny Price",41,164
-"317","Fanny Price",102,164
-"318","Fanny Price",158,164
-"319","Fanny Price",44,164
-"320","Fanny Price",89,164
-"321","Fanny Price",48,164
-"322","Fanny Price",145,164
-"323","Fanny Price",167,164
-"324","Fanny Price",46,164
-"325","Fanny Price",42,164
-"326","Fanny Price",115,164
-"327","Fanny Price",95,164
-"328","Fanny Price",179,164
-"329","Fanny Price",118,164
-"330","Fanny Price",182,164
-"331","Fanny Price",104,164
-"332","Fanny Price",114,164
-"333","Fanny Price",84,164
-"334","Fanny Price",92,164
-"335","Fanny Price",163,164
-"336","Fanny Price",119,164
-"337","Fanny Price",117,164
-"338","Fanny Price",151,164
-"339","Fanny Price",90,164
-"340","Fanny Price",149,164
-"341","Fanny Price",107,164
-"342","Fanny Price",129,164
-"343","Fanny Price",25,164
-"344","Fanny Price",43,164
-"345","Fanny Price",106,164
-"346","Fanny Price",35,164
-"347","Fanny Price",26,164
-"348","Fanny Price",183,164
-"349","Fanny Price",113,164
-"350","Fanny Price",103,164
-"351","Fanny Price",173,164
-"352","Fanny Price",88,164
-"353","Fanny Price",45,164
-"354","Fanny Price",166,164
-"355","Fanny Price",120,164
-"356","Fanny Price",172,164
-"357","Fanny Price",99,164
-"358","Fanny Price",56,164
-"359","Fanny Price",157,164
-"360","Fanny Price",49,164
-"361","Fanny Price",165,164
-"362","Fanny Price",135,164
-"363","Henry Crawford",118,122
-"364","Henry Crawford",32,122
-"365","Henry Crawford",124,122
-"366","Henry Crawford",95,122
-"367","Henry Crawford",134,122
-"368","Henry Crawford",34,122
-"369","Henry Crawford",73,122
-"370","Henry Crawford",23,122
-"371","Henry Crawford",98,122
-"372","Henry Crawford",126,122
-"373","Henry Crawford",57,122
-"374","Henry Crawford",94,122
-"375","Henry Crawford",144,122
-"376","Henry Crawford",114,122
-"377","Henry Crawford",93,122
-"378","Henry Crawford",52,122
-"379","Henry Crawford",16,122
-"380","Henry Crawford",51,122
-"381","Henry Crawford",104,122
-"382","Henry Crawford",25,122
-"383","Henry Crawford",159,122
-"384","Henry Crawford",111,122
-"385","Henry Crawford",113,122
-"386","Henry Crawford",62,122
-"387","Henry Crawford",160,122
-"388","Henry Crawford",158,122
-"389","Henry Crawford",55,122
-"390","Henry Crawford",161,122
-"391","Henry Crawford",33,122
-"392","Henry Crawford",61,122
-"393","Henry Crawford",65,122
-"394","Henry Crawford",91,122
-"395","Henry Crawford",96,122
-"396","Henry Crawford",162,122
-"397","Henry Crawford",116,122
-"398","Henry Crawford",180,122
-"399","Henry Crawford",141,122
-"400","Henry Crawford",69,122
-"401","Henry Crawford",120,122
-"402","Henry Crawford",163,122
-"403","Henry Crawford",122,122
-"404","Henry Crawford",67,122
-"405","Henry Crawford",157,122
-"406","Henry Crawford",49,122
-"407","Henry Crawford",140,122
-"408","Henry Crawford",155,122
-"409","Henry Crawford",15,122
-"410","Henry Crawford",45,122
-"411","Henry Crawford",156,122
-"412","Henry Crawford",92,122
-"413","Henry Crawford",128,122
-"414","Henry Crawford",136,122
-"415","Henry Crawford",86,122
-"416","Henry Crawford",22,122
-"417","Henry Crawford",29,122
-"418","Henry Crawford",103,122
-"419","Henry Crawford",109,122
-"420","Henry Crawford",131,122
-"421","Henry Crawford",70,122
-"422","Henry Crawford",137,122
-"423","Henry Crawford",154,122
-"424","Henry Crawford",181,122
-"425","Henry Crawford",20,122
-"426","Henry Crawford",112,122
-"427","Henry Crawford",78,122
-"428","Henry Crawford",117,122
-"429","Henry Crawford",26,122
-"430","Henry Crawford",130,122
-"431","Henry Crawford",42,122
-"432","Henry Crawford",149,122
-"433","Henry Crawford",74,122
-"434","Henry Crawford",182,122
-"435","Henry Crawford",132,122
-"436","Henry Crawford",121,122
-"437","Henry Crawford",41,122
-"438","Henry Crawford",17,122
-"439","Henry Crawford",169,122
-"440","Henry Crawford",64,122
-"441","Henry Crawford",39,122
-"442","Henry Crawford",133,122
-"443","Henry Crawford",110,122
-"444","Henry Crawford",123,122
-"445","Henry Crawford",47,122
-"446","Henry Crawford",31,122
-"447","Henry Crawford",179,122
-"448","Henry Crawford",18,122
-"449","Henry Crawford",85,122
-"450","Henry Crawford",77,122
-"451","Henry Crawford",129,122
-"452","Henry Crawford",37,122
-"453","Henry Crawford",119,122
-"454","Henry Crawford",48,122
-"455","Henry Crawford",108,122
-"456","Henry Crawford",174,122
-"457","Henry Crawford",125,122
-"458","Henry Crawford",90,122
-"459","Henry Crawford",115,122
-"460","Henry Crawford",168,122
-"461","Henry Crawford",38,122
-"462","Henry Crawford",88,122
-"463","Henry Crawford",21,122
-"464","Henry Crawford",63,122
-"465","Henry Crawford",102,122
-"466","Henry Crawford",106,122
-"467","Henry Crawford",44,122
-"468","Henry Crawford",89,122
-"469","Henry Crawford",170,122
-"470","Henry Crawford",139,122
-"471","Henry Crawford",138,122
-"472","Henry Crawford",105,122
-"473","Henry Crawford",164,122
-"474","Henry Crawford",175,122
-"475","Henry Crawford",99,122
-"476","Henry Crawford",151,122
-"477","Henry Crawford",135,122
-"478","Henry Crawford",176,122
-"479","Henry Crawford",107,122
-"480","Henry Crawford",171,122
-"481","Henry Crawford",53,122
-"482","Henry Crawford",127,122
-"483","Henry Crawford",177,122
-"484","Henry Crawford",30,122
-"485","John Groom",27,1
-"486","Johnny Price",149,1
-"487","Julia Bertram",77,66
-"488","Julia Bertram",147,66
-"489","Julia Bertram",180,66
-"490","Julia Bertram",45,66
-"491","Julia Bertram",29,66
-"492","Julia Bertram",6,66
-"493","Julia Bertram",41,66
-"494","Julia Bertram",169,66
-"495","Julia Bertram",65,66
-"496","Julia Bertram",51,66
-"497","Julia Bertram",49,66
-"498","Julia Bertram",5,66
-"499","Julia Bertram",18,66
-"500","Julia Bertram",61,66
-"501","Julia Bertram",62,66
-"502","Julia Bertram",58,66
-"503","Julia Bertram",23,66
-"504","Julia Bertram",13,66
-"505","Julia Bertram",139,66
-"506","Julia Bertram",3,66
-"507","Julia Bertram",53,66
-"508","Julia Bertram",106,66
-"509","Julia Bertram",121,66
-"510","Julia Bertram",73,66
-"511","Julia Bertram",12,66
-"512","Julia Bertram",168,66
-"513","Julia Bertram",31,66
-"514","Julia Bertram",74,66
-"515","Julia Bertram",179,66
-"516","Julia Bertram",114,66
-"517","Julia Bertram",52,66
-"518","Julia Bertram",175,66
-"519","Julia Bertram",181,66
-"520","Julia Bertram",127,66
-"521","Julia Bertram",26,66
-"522","Julia Bertram",171,66
-"523","Julia Bertram",174,66
-"524","Julia Bertram",48,66
-"525","Julia Bertram",55,66
-"526","Julia Bertram",42,66
-"527","Julia Bertram",67,66
-"528","Julia Bertram",16,66
-"529","Julia Bertram",79,66
-"530","Julia Bertram",17,66
-"531","Julia Bertram",27,66
-"532","Julia Bertram",164,66
-"533","Julia Bertram",172,66
-"534","Julia Bertram",39,66
-"535","Julia Bertram",66,66
-"536","Julia Bertram",38,66
-"537","Julia Bertram",44,66
-"538","Julia Bertram",97,66
-"539","Julia Bertram",110,66
-"540","Julia Bertram",7,66
-"541","Julia Bertram",170,66
-"542","Julia Bertram",109,66
-"543","Julia Bertram",151,66
-"544","Julia Bertram",30,66
-"545","Julia Bertram",37,66
-"546","Julia Bertram",85,66
-"547","Julia Bertram",84,66
-"548","Julia Bertram",133,66
-"549","Julia Bertram",33,66
-"550","Julia Bertram",34,66
-"551","Julia Bertram",47,66
-"552","Julia Bertram",57,66
-"553","Lady Bertram",148,6
-"554","Lady Bertram",7,6
-"555","Lady Bertram",166,6
-"556","Lady Bertram",1,6
-"557","Lady Bertram",145,6
-"558","Lady Bertram",147,6
-"559","Lady Flora Stornaway",137,5
-"560","Lady Flora Stornaway",160,5
-"561","Lady Flora Stornaway",163,5
-"562","Lady Flora Stornaway",176,5
-"563","Lady Flora Stornaway",138,5
-"564","Lady Prescott",109,1
-"565","Lady Ravenshaw",47,2
-"566","Lady Ravenshaw",54,2
-"567","Lord Ravenshaw",51,2
-"568","Lord Ravenshaw",47,2
-"569","Lord Stornaway",138,1
-"570","Maddison",158,1
-"571","Margaret Fraser",163,4
-"572","Margaret Fraser",138,4
-"573","Margaret Fraser",154,4
-"574","Margaret Fraser",137,4
-"575","Maria Bertram",171,79
-"576","Maria Bertram",32,79
-"577","Maria Bertram",105,79
-"578","Maria Bertram",62,79
-"579","Maria Bertram",48,79
-"580","Maria Bertram",14,79
-"581","Maria Bertram",41,79
-"582","Maria Bertram",181,79
-"583","Maria Bertram",106,79
-"584","Maria Bertram",97,79
-"585","Maria Bertram",39,79
-"586","Maria Bertram",6,79
-"587","Maria Bertram",23,79
-"588","Maria Bertram",26,79
-"589","Maria Bertram",12,79
-"590","Maria Bertram",65,79
-"591","Maria Bertram",21,79
-"592","Maria Bertram",49,79
-"593","Maria Bertram",1,79
-"594","Maria Bertram",180,79
-"595","Maria Bertram",58,79
-"596","Maria Bertram",133,79
-"597","Maria Bertram",34,79
-"598","Maria Bertram",76,79
-"599","Maria Bertram",72,79
-"600","Maria Bertram",40,79
-"601","Maria Bertram",179,79
-"602","Maria Bertram",74,79
-"603","Maria Bertram",168,79
-"604","Maria Bertram",109,79
-"605","Maria Bertram",20,79
-"606","Maria Bertram",45,79
-"607","Maria Bertram",114,79
-"608","Maria Bertram",172,79
-"609","Maria Bertram",174,79
-"610","Maria Bertram",30,79
-"611","Maria Bertram",125,79
-"612","Maria Bertram",176,79
-"613","Maria Bertram",67,79
-"614","Maria Bertram",31,79
-"615","Maria Bertram",51,79
-"616","Maria Bertram",63,79
-"617","Maria Bertram",18,79
-"618","Maria Bertram",94,79
-"619","Maria Bertram",15,79
-"620","Maria Bertram",80,79
-"621","Maria Bertram",37,79
-"622","Maria Bertram",121,79
-"623","Maria Bertram",127,79
-"624","Maria Bertram",5,79
-"625","Maria Bertram",110,79
-"626","Maria Bertram",38,79
-"627","Maria Bertram",53,79
-"628","Maria Bertram",17,79
-"629","Maria Bertram",61,79
-"630","Maria Bertram",54,79
-"631","Maria Bertram",16,79
-"632","Maria Bertram",13,79
-"633","Maria Bertram",147,79
-"634","Maria Bertram",73,79
-"635","Maria Bertram",44,79
-"636","Maria Bertram",69,79
-"637","Maria Bertram",57,79
-"638","Maria Bertram",33,79
-"639","Maria Bertram",79,79
-"640","Maria Bertram",47,79
-"641","Maria Bertram",77,79
-"642","Maria Bertram",129,79
-"643","Maria Bertram",84,79
-"644","Maria Bertram",175,79
-"645","Maria Bertram",161,79
-"646","Maria Bertram",29,79
-"647","Maria Bertram",7,79
-"648","Maria Bertram",42,79
-"649","Maria Bertram",164,79
-"650","Maria Bertram",85,79
-"651","Maria Bertram",52,79
-"652","Maria Bertram",151,79
-"653","Maria Bertram",55,79
-"654","Mary Crawford",118,110
-"655","Mary Crawford",128,110
-"656","Mary Crawford",169,110
-"657","Mary Crawford",132,110
-"658","Mary Crawford",62,110
-"659","Mary Crawford",16,110
-"660","Mary Crawford",98,110
-"661","Mary Crawford",100,110
-"662","Mary Crawford",49,110
-"663","Mary Crawford",76,110
-"664","Mary Crawford",106,110
-"665","Mary Crawford",163,110
-"666","Mary Crawford",19,110
-"667","Mary Crawford",41,110
-"668","Mary Crawford",144,110
-"669","Mary Crawford",53,110
-"670","Mary Crawford",140,110
-"671","Mary Crawford",93,110
-"672","Mary Crawford",111,110
-"673","Mary Crawford",154,110
-"674","Mary Crawford",15,110
-"675","Mary Crawford",59,110
-"676","Mary Crawford",136,110
-"677","Mary Crawford",26,110
-"678","Mary Crawford",32,110
-"679","Mary Crawford",139,110
-"680","Mary Crawford",117,110
-"681","Mary Crawford",110,110
-"682","Mary Crawford",81,110
-"683","Mary Crawford",67,110
-"684","Mary Crawford",134,110
-"685","Mary Crawford",88,110
-"686","Mary Crawford",109,110
-"687","Mary Crawford",104,110
-"688","Mary Crawford",24,110
-"689","Mary Crawford",141,110
-"690","Mary Crawford",80,110
-"691","Mary Crawford",99,110
-"692","Mary Crawford",84,110
-"693","Mary Crawford",30,110
-"694","Mary Crawford",171,110
-"695","Mary Crawford",115,110
-"696","Mary Crawford",69,110
-"697","Mary Crawford",57,110
-"698","Mary Crawford",36,110
-"699","Mary Crawford",61,110
-"700","Mary Crawford",137,110
-"701","Mary Crawford",151,110
-"702","Mary Crawford",112,110
-"703","Mary Crawford",37,110
-"704","Mary Crawford",114,110
-"705","Mary Crawford",58,110
-"706","Mary Crawford",39,110
-"707","Mary Crawford",178,110
-"708","Mary Crawford",64,110
-"709","Mary Crawford",103,110
-"710","Mary Crawford",159,110
-"711","Mary Crawford",29,110
-"712","Mary Crawford",70,110
-"713","Mary Crawford",33,110
-"714","Mary Crawford",79,110
-"715","Mary Crawford",94,110
-"716","Mary Crawford",20,110
-"717","Mary Crawford",28,110
-"718","Mary Crawford",60,110
-"719","Mary Crawford",34,110
-"720","Mary Crawford",133,110
-"721","Mary Crawford",138,110
-"722","Mary Crawford",161,110
-"723","Mary Crawford",35,110
-"724","Mary Crawford",170,110
-"725","Mary Crawford",177,110
-"726","Mary Crawford",168,110
-"727","Mary Crawford",179,110
-"728","Mary Crawford",54,110
-"729","Mary Crawford",17,110
-"730","Mary Crawford",119,110
-"731","Mary Crawford",44,110
-"732","Mary Crawford",181,110
-"733","Mary Crawford",105,110
-"734","Mary Crawford",42,110
-"735","Mary Crawford",86,110
-"736","Mary Crawford",101,110
-"737","Mary Crawford",85,110
-"738","Mary Crawford",102,110
-"739","Mary Crawford",31,110
-"740","Mary Crawford",38,110
-"741","Mary Crawford",167,110
-"742","Mary Crawford",165,110
-"743","Mary Crawford",175,110
-"744","Mary Crawford",158,110
-"745","Mary Crawford",78,110
-"746","Mary Crawford",182,110
-"747","Mary Crawford",55,110
-"748","Mary Crawford",113,110
-"749","Mary Crawford",176,110
-"750","Mary Crawford",22,110
-"751","Mary Crawford",21,110
-"752","Mary Crawford",160,110
-"753","Mary Crawford",65,110
-"754","Mary Crawford",18,110
-"755","Mary Crawford",107,110
-"756","Mary Crawford",142,110
-"757","Mary Crawford",51,110
-"758","Mary Crawford",135,110
-"759","Mary Crawford",56,110
-"760","Mary Crawford",25,110
-"761","Mary Crawford",92,110
-"762","Mary Crawford",52,110
-"763","Mary Crawford",164,110
-"764","Mary Price",148,1
-"765","Miss Anderson",19,2
-"766","Miss Anderson",18,2
-"767","Miss Augusta Sneyd",19,1
-"768","Miss Lee",13,6
-"769","Miss Lee",5,6
-"770","Miss Lee",3,6
-"771","Miss Lee",58,6
-"772","Miss Lee",8,6
-"773","Miss Lee",10,6
-"774","Mr Campbell",147,2
-"775","Mr Campbell",144,2
-"776","Mr Fraser",138,4
-"777","Mr Fraser",154,4
-"778","Mr Fraser",163,4
-"779","Mr Fraser",137,4
-"780","Mr Green",27,1
-"781","Mr Harding",174,1
-"782","Mr Price",147,10
-"783","Mr Price",154,10
-"784","Mr Price",171,10
-"785","Mr Price",156,10
-"786","Mr Price",146,10
-"787","Mr Price",160,10
-"788","Mr Price",145,10
-"789","Mr Price",1,10
-"790","Mr Price",144,10
-"791","Mr Price",155,10
-"792","Mr Rushworth",77,61
-"793","Mr Rushworth",21,61
-"794","Mr Rushworth",121,61
-"795","Mr Rushworth",52,61
-"796","Mr Rushworth",59,61
-"797","Mr Rushworth",114,61
-"798","Mr Rushworth",32,61
-"799","Mr Rushworth",180,61
-"800","Mr Rushworth",39,61
-"801","Mr Rushworth",55,61
-"802","Mr Rushworth",29,61
-"803","Mr Rushworth",168,61
-"804","Mr Rushworth",138,61
-"805","Mr Rushworth",151,61
-"806","Mr Rushworth",126,61
-"807","Mr Rushworth",45,61
-"808","Mr Rushworth",85,61
-"809","Mr Rushworth",61,61
-"810","Mr Rushworth",30,61
-"811","Mr Rushworth",181,61
-"812","Mr Rushworth",20,61
-"813","Mr Rushworth",97,61
-"814","Mr Rushworth",64,61
-"815","Mr Rushworth",76,61
-"816","Mr Rushworth",161,61
-"817","Mr Rushworth",67,61
-"818","Mr Rushworth",94,61
-"819","Mr Rushworth",170,61
-"820","Mr Rushworth",176,61
-"821","Mr Rushworth",38,61
-"822","Mr Rushworth",62,61
-"823","Mr Rushworth",106,61
-"824","Mr Rushworth",164,61
-"825","Mr Rushworth",34,61
-"826","Mr Rushworth",80,61
-"827","Mr Rushworth",171,61
-"828","Mr Rushworth",26,61
-"829","Mr Rushworth",14,61
-"830","Mr Rushworth",23,61
-"831","Mr Rushworth",33,61
-"832","Mr Rushworth",72,61
-"833","Mr Rushworth",31,61
-"834","Mr Rushworth",71,61
-"835","Mr Rushworth",174,61
-"836","Mr Rushworth",44,61
-"837","Mr Rushworth",41,61
-"838","Mr Rushworth",68,61
-"839","Mr Rushworth",15,61
-"840","Mr Rushworth",133,61
-"841","Mr Rushworth",105,61
-"842","Mr Rushworth",37,61
-"843","Mr Rushworth",175,61
-"844","Mr Rushworth",63,61
-"845","Mr Rushworth",70,61
-"846","Mr Rushworth",54,61
-"847","Mr Rushworth",179,61
-"848","Mr Rushworth",84,61
-"849","Mr Rushworth",56,61
-"850","Mr Rushworth",73,61
-"851","Mr Rushworth",65,61
-"852","Mr Rushworth",17,61
-"853","Mrs Brown",90,1
-"854","Mrs Chapman",104,1
-"855","Mrs Crawford",15,3
-"856","Mrs Crawford",24,3
-"857","Mrs Crawford",113,3
-"858","Mrs Holford",19,1
-"859","Mrs Janet Fraser",160,7
-"860","Mrs Janet Fraser",163,7
-"861","Mrs Janet Fraser",181,7
-"862","Mrs Janet Fraser",164,7
-"863","Mrs Janet Fraser",154,7
-"864","Mrs Janet Fraser",137,7
-"865","Mrs Janet Fraser",138,7
-"866","Mrs Jefferies",27,1
-"867","Mrs Norris",1,20
-"868","Mrs Norris",150,20
-"869","Mrs Norris",9,20
-"870","Mrs Norris",3,20
-"871","Mrs Norris",78,20
-"872","Mrs Norris",109,20
-"873","Mrs Norris",49,20
-"874","Mrs Norris",44,20
-"875","Mrs Norris",174,20
-"876","Mrs Norris",117,20
-"877","Mrs Norris",119,20
-"878","Mrs Norris",105,20
-"879","Mrs Norris",122,20
-"880","Mrs Norris",6,20
-"881","Mrs Norris",103,20
-"882","Mrs Norris",180,20
-"883","Mrs Norris",123,20
-"884","Mrs Norris",90,20
-"885","Mrs Norris",85,20
-"886","Mrs Norris",148,20
-"887","Mrs Rushworth",175,1
-"888","Mrs Sneyd",19,1
-"889","Mrs. Admiral Maxwell",148,1
-"890","Mrs. Frances Price",1,15
-"891","Mrs. Frances Price",145,15
-"892","Mrs. Frances Price",2,15
-"893","Mrs. Frances Price",171,15
-"894","Mrs. Frances Price",172,15
-"895","Mrs. Frances Price",149,15
-"896","Mrs. Frances Price",8,15
-"897","Mrs. Frances Price",154,15
-"898","Mrs. Frances Price",146,15
-"899","Mrs. Frances Price",142,15
-"900","Mrs. Frances Price",4,15
-"901","Mrs. Frances Price",148,15
-"902","Mrs. Frances Price",147,15
-"903","Mrs. Frances Price",166,15
-"904","Mrs. Frances Price",157,15
-"905","Nanny",123,3
-"906","Nanny",2,3
-"907","Nanny",3,3
-"908","Old Scholey",145,1
-"909","Rebecca",146,11
-"910","Rebecca",157,11
-"911","Rebecca",154,11
-"912","Rebecca",172,11
-"913","Rebecca",147,11
-"914","Rebecca",171,11
-"915","Rebecca",145,11
-"916","Rebecca",156,11
-"917","Rebecca",148,11
-"918","Rebecca",170,11
-"919","Rebecca",158,11
-"920","Richard Price",149,1
-"921","Robert",80,1
-"922","Sam Price",146,4
-"923","Sam Price",147,4
-"924","Sam Price",145,4
-"925","Sam Price",149,4
-"926","Sir Charles",115,1
-"927","Sir Thomas Bertram",121,100
-"928","Sir Thomas Bertram",14,100
-"929","Sir Thomas Bertram",44,100
-"930","Sir Thomas Bertram",109,100
-"931","Sir Thomas Bertram",167,100
-"932","Sir Thomas Bertram",5,100
-"933","Sir Thomas Bertram",62,100
-"934","Sir Thomas Bertram",86,100
-"935","Sir Thomas Bertram",114,100
-"936","Sir Thomas Bertram",181,100
-"937","Sir Thomas Bertram",128,100
-"938","Sir Thomas Bertram",72,100
-"939","Sir Thomas Bertram",83,100
-"940","Sir Thomas Bertram",69,100
-"941","Sir Thomas Bertram",129,100
-"942","Sir Thomas Bertram",137,100
-"943","Sir Thomas Bertram",112,100
-"944","Sir Thomas Bertram",164,100
-"945","Sir Thomas Bertram",84,100
-"946","Sir Thomas Bertram",26,100
-"947","Sir Thomas Bertram",12,100
-"948","Sir Thomas Bertram",106,100
-"949","Sir Thomas Bertram",90,100
-"950","Sir Thomas Bertram",67,100
-"951","Sir Thomas Bertram",29,100
-"952","Sir Thomas Bertram",171,100
-"953","Sir Thomas Bertram",18,100
-"954","Sir Thomas Bertram",116,100
-"955","Sir Thomas Bertram",170,100
-"956","Sir Thomas Bertram",8,100
-"957","Sir Thomas Bertram",108,100
-"958","Sir Thomas Bertram",20,100
-"959","Sir Thomas Bertram",127,100
-"960","Sir Thomas Bertram",141,100
-"961","Sir Thomas Bertram",165,100
-"962","Sir Thomas Bertram",120,100
-"963","Sir Thomas Bertram",76,100
-"964","Sir Thomas Bertram",110,100
-"965","Sir Thomas Bertram",2,100
-"966","Sir Thomas Bertram",115,100
-"967","Sir Thomas Bertram",49,100
-"968","Sir Thomas Bertram",47,100
-"969","Sir Thomas Bertram",96,100
-"970","Sir Thomas Bertram",41,100
-"971","Sir Thomas Bertram",94,100
-"972","Sir Thomas Bertram",15,100
-"973","Sir Thomas Bertram",158,100
-"974","Sir Thomas Bertram",125,100
-"975","Sir Thomas Bertram",1,100
-"976","Sir Thomas Bertram",97,100
-"977","Sir Thomas Bertram",180,100
-"978","Sir Thomas Bertram",74,100
-"979","Sir Thomas Bertram",105,100
-"980","Sir Thomas Bertram",10,100
-"981","Sir Thomas Bertram",140,100
-"982","Sir Thomas Bertram",68,100
-"983","Sir Thomas Bertram",75,100
-"984","Sir Thomas Bertram",92,100
-"985","Sir Thomas Bertram",172,100
-"986","Sir Thomas Bertram",175,100
-"987","Sir Thomas Bertram",3,100
-"988","Sir Thomas Bertram",119,100
-"989","Sir Thomas Bertram",136,100
-"990","Sir Thomas Bertram",122,100
-"991","Sir Thomas Bertram",95,100
-"992","Sir Thomas Bertram",142,100
-"993","Sir Thomas Bertram",126,100
-"994","Sir Thomas Bertram",107,100
-"995","Sir Thomas Bertram",59,100
-"996","Sir Thomas Bertram",179,100
-"997","Sir Thomas Bertram",70,100
-"998","Sir Thomas Bertram",102,100
-"999","Sir Thomas Bertram",45,100
-"1000","Sir Thomas Bertram",138,100
-"1001","Sir Thomas Bertram",71,100
-"1002","Sir Thomas Bertram",64,100
-"1003","Sir Thomas Bertram",139,100
-"1004","Sir Thomas Bertram",117,100
-"1005","Sir Thomas Bertram",123,100
-"1006","Sir Thomas Bertram",144,100
-"1007","Sir Thomas Bertram",157,100
-"1008","Sir Thomas Bertram",7,100
-"1009","Sir Thomas Bertram",182,100
-"1010","Sir Thomas Bertram",124,100
-"1011","Sir Thomas Bertram",89,100
-"1012","Sir Thomas Bertram",177,100
-"1013","Sir Thomas Bertram",174,100
-"1014","Sir Thomas Bertram",73,100
-"1015","Sir Thomas Bertram",147,100
-"1016","Sir Thomas Bertram",132,100
-"1017","Sir Thomas Bertram",77,100
-"1018","Sir Thomas Bertram",11,100
-"1019","Sir Thomas Bertram",55,100
-"1020","Sir Thomas Bertram",168,100
-"1021","Sir Thomas Bertram",149,100
-"1022","Sir Thomas Bertram",9,100
-"1023","Sir Thomas Bertram",183,100
-"1024","Sir Thomas Bertram",111,100
-"1025","Sir Thomas Bertram",13,100
-"1026","Sir Thomas Bertram",118,100
-"1027","Smith",37,2
-"1028","Smith",20,2
-"1029","Sneyd",19,1
-"1030","Susan PriceMP",150,21
-"1031","Susan PriceMP",152,21
-"1032","Susan PriceMP",172,21
-"1033","Susan PriceMP",155,21
-"1034","Susan PriceMP",174,21
-"1035","Susan PriceMP",154,21
-"1036","Susan PriceMP",158,21
-"1037","Susan PriceMP",183,21
-"1038","Susan PriceMP",145,21
-"1039","Susan PriceMP",173,21
-"1040","Susan PriceMP",156,21
-"1041","Susan PriceMP",147,21
-"1042","Susan PriceMP",153,21
-"1043","Susan PriceMP",142,21
-"1044","Susan PriceMP",148,21
-"1045","Susan PriceMP",144,21
-"1046","Susan PriceMP",151,21
-"1047","Susan PriceMP",161,21
-"1048","Susan PriceMP",146,21
-"1049","Susan PriceMP",166,21
-"1050","Susan PriceMP",162,21
-"1051","The Aylmers",169,1
-"1052","Tom Bertram",51,46
-"1053","Tom Bertram",175,46
-"1054","Tom Bertram",52,46
-"1055","Tom Bertram",61,46
-"1056","Tom Bertram",137,46
-"1057","Tom Bertram",75,46
-"1058","Tom Bertram",53,46
-"1059","Tom Bertram",9,46
-"1060","Tom Bertram",19,46
-"1061","Tom Bertram",13,46
-"1062","Tom Bertram",173,46
-"1063","Tom Bertram",70,46
-"1064","Tom Bertram",49,46
-"1065","Tom Bertram",57,46
-"1066","Tom Bertram",48,46
-"1067","Tom Bertram",69,46
-"1068","Tom Bertram",178,46
-"1069","Tom Bertram",45,46
-"1070","Tom Bertram",55,46
-"1071","Tom Bertram",7,46
-"1072","Tom Bertram",174,46
-"1073","Tom Bertram",62,46
-"1074","Tom Bertram",63,46
-"1075","Tom Bertram",179,46
-"1076","Tom Bertram",74,46
-"1077","Tom Bertram",59,46
-"1078","Tom Bertram",2,46
-"1079","Tom Bertram",14,46
-"1080","Tom Bertram",165,46
-"1081","Tom Bertram",73,46
-"1082","Tom Bertram",56,46
-"1083","Tom Bertram",47,46
-"1084","Tom Bertram",171,46
-"1085","Tom Bertram",20,46
-"1086","Tom Bertram",147,46
-"1087","Tom Bertram",60,46
-"1088","Tom Bertram",146,46
-"1089","Tom Bertram",168,46
-"1090","Tom Bertram",54,46
-"1091","Tom Bertram",181,46
-"1092","Tom Bertram",167,46
-"1093","Tom Bertram",44,46
-"1094","Tom Bertram",15,46
-"1095","Tom Bertram",18,46
-"1096","Tom Bertram",58,46
-"1097","Tom Bertram",65,46
-"1098","Tom Oliver",57,1
-"1099","Turner",145,1
-"1100","William Price",141,49
-"1101","William Price",102,49
-"1102","William Price",97,49
-"1103","William Price",96,49
-"1104","William Price",92,49
-"1105","William Price",8,49
-"1106","William Price",134,49
-"1107","William Price",94,49
-"1108","William Price",125,49
-"1109","William Price",117,49
-"1110","William Price",90,49
-"1111","William Price",110,49
-"1112","William Price",107,49
-"1113","William Price",145,49
-"1114","William Price",24,49
-"1115","William Price",142,49
-"1116","William Price",68,49
-"1117","William Price",98,49
-"1118","William Price",109,49
-"1119","William Price",58,49
-"1120","William Price",183,49
-"1121","William Price",12,49
-"1122","William Price",120,49
-"1123","William Price",115,49
-"1124","William Price",144,49
-"1125","William Price",103,49
-"1126","William Price",146,49
-"1127","William Price",118,49
-"1128","William Price",6,49
-"1129","William Price",143,49
-"1130","William Price",108,49
-"1131","William Price",139,49
-"1132","William Price",89,49
-"1133","William Price",116,49
-"1134","William Price",105,49
-"1135","William Price",140,49
-"1136","William Price",128,49
-"1137","William Price",154,49
-"1138","William Price",99,49
-"1139","William Price",95,49
-"1140","William Price",149,49
-"1141","William Price",13,49
-"1142","William Price",104,49
-"1143","William Price",91,49
-"1144","William Price",22,49
-"1145","William Price",166,49
-"1146","William Price",147,49
-"1147","William Price",101,49
-"1148","William Price",93,49
+"Character","Node","Appearances"
+"Admiral Crawford",88,14
+"Admiral Crawford",138,14
+"Admiral Crawford",112,14
+"Admiral Crawford",21,14
+"Admiral Crawford",113,14
+"Admiral Crawford",25,14
+"Admiral Crawford",15,14
+"Admiral Crawford",103,14
+"Admiral Crawford",115,14
+"Admiral Crawford",160,14
+"Admiral Crawford",89,14
+"Admiral Crawford",102,14
+"Admiral Crawford",16,14
+"Admiral Crawford",24,14
+"Baddeley",131,3
+"Baddeley",69,3
+"Baddeley",124,3
+"Betsey Price",144,10
+"Betsey Price",152,10
+"Betsey Price",150,10
+"Betsey Price",149,10
+"Betsey Price",142,10
+"Betsey Price",156,10
+"Betsey Price",145,10
+"Betsey Price",147,10
+"Betsey Price",146,10
+"Betsey Price",148,10
+"Captain Walsh",145,1
+"Charles",72,2
+"Charles",19,2
+"Charles Anderson",19,1
+"Charles Maddox",61,3
+"Charles Maddox",59,3
+"Charles Maddox",57,3
+"Charlie Price",150,3
+"Charlie Price",149,3
+"Charlie Price",146,3
+"Colonel Harrison",109,1
+"Dr Grant",45,30
+"Dr Grant",182,30
+"Dr Grant",20,30
+"Dr Grant",181,30
+"Dr Grant",77,30
+"Dr Grant",165,30
+"Dr Grant",80,30
+"Dr Grant",137,30
+"Dr Grant",85,30
+"Dr Grant",30,30
+"Dr Grant",81,30
+"Dr Grant",18,30
+"Dr Grant",16,30
+"Dr Grant",24,30
+"Dr Grant",21,30
+"Dr Grant",94,30
+"Dr Grant",73,30
+"Dr Grant",42,30
+"Dr Grant",86,30
+"Dr Grant",22,30
+"Dr Grant",103,30
+"Dr Grant",25,30
+"Dr Grant",13,30
+"Dr Grant",78,30
+"Dr Grant",183,30
+"Dr Grant",95,30
+"Dr Grant",9,30
+"Dr Grant",134,30
+"Dr Grant",65,30
+"Dr Grant",46,30
+"Edmund Bertram",7,129
+"Edmund Bertram",83,129
+"Edmund Bertram",171,129
+"Edmund Bertram",130,129
+"Edmund Bertram",69,129
+"Edmund Bertram",33,129
+"Edmund Bertram",151,129
+"Edmund Bertram",175,129
+"Edmund Bertram",45,129
+"Edmund Bertram",15,129
+"Edmund Bertram",60,129
+"Edmund Bertram",84,129
+"Edmund Bertram",48,129
+"Edmund Bertram",179,129
+"Edmund Bertram",157,129
+"Edmund Bertram",67,129
+"Edmund Bertram",76,129
+"Edmund Bertram",128,129
+"Edmund Bertram",114,129
+"Edmund Bertram",27,129
+"Edmund Bertram",59,129
+"Edmund Bertram",54,129
+"Edmund Bertram",32,129
+"Edmund Bertram",30,129
+"Edmund Bertram",34,129
+"Edmund Bertram",20,129
+"Edmund Bertram",131,129
+"Edmund Bertram",35,129
+"Edmund Bertram",14,129
+"Edmund Bertram",165,129
+"Edmund Bertram",13,129
+"Edmund Bertram",173,129
+"Edmund Bertram",168,129
+"Edmund Bertram",134,129
+"Edmund Bertram",135,129
+"Edmund Bertram",177,129
+"Edmund Bertram",174,129
+"Edmund Bertram",6,129
+"Edmund Bertram",29,129
+"Edmund Bertram",18,129
+"Edmund Bertram",86,129
+"Edmund Bertram",19,129
+"Edmund Bertram",85,129
+"Edmund Bertram",25,129
+"Edmund Bertram",137,129
+"Edmund Bertram",113,129
+"Edmund Bertram",94,129
+"Edmund Bertram",39,129
+"Edmund Bertram",158,129
+"Edmund Bertram",63,129
+"Edmund Bertram",26,129
+"Edmund Bertram",51,129
+"Edmund Bertram",24,129
+"Edmund Bertram",66,129
+"Edmund Bertram",144,129
+"Edmund Bertram",95,129
+"Edmund Bertram",132,129
+"Edmund Bertram",21,129
+"Edmund Bertram",182,129
+"Edmund Bertram",154,129
+"Edmund Bertram",96,129
+"Edmund Bertram",80,129
+"Edmund Bertram",58,129
+"Edmund Bertram",172,129
+"Edmund Bertram",78,129
+"Edmund Bertram",152,129
+"Edmund Bertram",150,129
+"Edmund Bertram",90,129
+"Edmund Bertram",42,129
+"Edmund Bertram",81,129
+"Edmund Bertram",36,129
+"Edmund Bertram",23,129
+"Edmund Bertram",74,129
+"Edmund Bertram",98,129
+"Edmund Bertram",37,129
+"Edmund Bertram",89,129
+"Edmund Bertram",156,129
+"Edmund Bertram",136,129
+"Edmund Bertram",97,129
+"Edmund Bertram",143,129
+"Edmund Bertram",22,129
+"Edmund Bertram",55,129
+"Edmund Bertram",57,129
+"Edmund Bertram",107,129
+"Edmund Bertram",38,129
+"Edmund Bertram",164,129
+"Edmund Bertram",121,129
+"Edmund Bertram",70,129
+"Edmund Bertram",181,129
+"Edmund Bertram",8,129
+"Edmund Bertram",133,129
+"Edmund Bertram",169,129
+"Edmund Bertram",28,129
+"Edmund Bertram",167,129
+"Edmund Bertram",12,129
+"Edmund Bertram",176,129
+"Edmund Bertram",72,129
+"Edmund Bertram",159,129
+"Edmund Bertram",153,129
+"Edmund Bertram",41,129
+"Edmund Bertram",160,129
+"Edmund Bertram",2,129
+"Edmund Bertram",104,129
+"Edmund Bertram",106,129
+"Edmund Bertram",64,129
+"Edmund Bertram",163,129
+"Edmund Bertram",56,129
+"Edmund Bertram",140,129
+"Edmund Bertram",105,129
+"Edmund Bertram",93,129
+"Edmund Bertram",49,129
+"Edmund Bertram",31,129
+"Edmund Bertram",102,129
+"Edmund Bertram",129,129
+"Edmund Bertram",44,129
+"Edmund Bertram",65,129
+"Edmund Bertram",142,129
+"Edmund Bertram",141,129
+"Edmund Bertram",53,129
+"Edmund Bertram",62,129
+"Edmund Bertram",47,129
+"Edmund Bertram",11,129
+"Edmund Bertram",9,129
+"Edmund Bertram",110,129
+"Edmund Bertram",109,129
+"Edmund Bertram",75,129
+"Edmund Bertram",101,129
+"Edmund Bertram",61,129
+"Edmund Bertram",103,129
+"Ellis",3,1
+"Fanny Price",1,164
+"Fanny Price",122,164
+"Fanny Price",143,164
+"Fanny Price",78,164
+"Fanny Price",176,164
+"Fanny Price",123,164
+"Fanny Price",40,164
+"Fanny Price",59,164
+"Fanny Price",65,164
+"Fanny Price",21,164
+"Fanny Price",160,164
+"Fanny Price",124,164
+"Fanny Price",177,164
+"Fanny Price",60,164
+"Fanny Price",125,164
+"Fanny Price",178,164
+"Fanny Price",22,164
+"Fanny Price",105,164
+"Fanny Price",61,164
+"Fanny Price",5,164
+"Fanny Price",81,164
+"Fanny Price",23,164
+"Fanny Price",162,164
+"Fanny Price",127,164
+"Fanny Price",98,164
+"Fanny Price",6,164
+"Fanny Price",62,164
+"Fanny Price",180,164
+"Fanny Price",169,164
+"Fanny Price",128,164
+"Fanny Price",19,164
+"Fanny Price",7,164
+"Fanny Price",69,164
+"Fanny Price",31,164
+"Fanny Price",85,164
+"Fanny Price",63,164
+"Fanny Price",181,164
+"Fanny Price",147,164
+"Fanny Price",8,164
+"Fanny Price",108,164
+"Fanny Price",130,164
+"Fanny Price",64,164
+"Fanny Price",110,164
+"Fanny Price",86,164
+"Fanny Price",131,164
+"Fanny Price",9,164
+"Fanny Price",33,164
+"Fanny Price",132,164
+"Fanny Price",72,164
+"Fanny Price",10,164
+"Fanny Price",148,164
+"Fanny Price",96,164
+"Fanny Price",133,164
+"Fanny Price",11,164
+"Fanny Price",28,164
+"Fanny Price",141,164
+"Fanny Price",12,164
+"Fanny Price",29,164
+"Fanny Price",67,164
+"Fanny Price",168,164
+"Fanny Price",134,164
+"Fanny Price",155,164
+"Fanny Price",111,164
+"Fanny Price",13,164
+"Fanny Price",83,164
+"Fanny Price",68,164
+"Fanny Price",30,164
+"Fanny Price",112,164
+"Fanny Price",171,164
+"Fanny Price",136,164
+"Fanny Price",24,164
+"Fanny Price",14,164
+"Fanny Price",57,164
+"Fanny Price",101,164
+"Fanny Price",170,164
+"Fanny Price",137,164
+"Fanny Price",175,164
+"Fanny Price",94,164
+"Fanny Price",15,164
+"Fanny Price",70,164
+"Fanny Price",32,164
+"Fanny Price",80,164
+"Fanny Price",139,164
+"Fanny Price",53,164
+"Fanny Price",152,164
+"Fanny Price",138,164
+"Fanny Price",144,164
+"Fanny Price",153,164
+"Fanny Price",79,164
+"Fanny Price",27,164
+"Fanny Price",154,164
+"Fanny Price",54,164
+"Fanny Price",116,164
+"Fanny Price",34,164
+"Fanny Price",75,164
+"Fanny Price",146,164
+"Fanny Price",97,164
+"Fanny Price",55,164
+"Fanny Price",76,164
+"Fanny Price",18,164
+"Fanny Price",74,164
+"Fanny Price",126,164
+"Fanny Price",140,164
+"Fanny Price",36,164
+"Fanny Price",121,164
+"Fanny Price",174,164
+"Fanny Price",37,164
+"Fanny Price",58,164
+"Fanny Price",39,164
+"Fanny Price",156,164
+"Fanny Price",51,164
+"Fanny Price",161,164
+"Fanny Price",150,164
+"Fanny Price",109,164
+"Fanny Price",38,164
+"Fanny Price",142,164
+"Fanny Price",164,164
+"Fanny Price",41,164
+"Fanny Price",102,164
+"Fanny Price",158,164
+"Fanny Price",44,164
+"Fanny Price",89,164
+"Fanny Price",48,164
+"Fanny Price",145,164
+"Fanny Price",167,164
+"Fanny Price",46,164
+"Fanny Price",42,164
+"Fanny Price",115,164
+"Fanny Price",95,164
+"Fanny Price",179,164
+"Fanny Price",118,164
+"Fanny Price",182,164
+"Fanny Price",104,164
+"Fanny Price",114,164
+"Fanny Price",84,164
+"Fanny Price",92,164
+"Fanny Price",163,164
+"Fanny Price",119,164
+"Fanny Price",117,164
+"Fanny Price",151,164
+"Fanny Price",90,164
+"Fanny Price",149,164
+"Fanny Price",107,164
+"Fanny Price",129,164
+"Fanny Price",25,164
+"Fanny Price",43,164
+"Fanny Price",106,164
+"Fanny Price",35,164
+"Fanny Price",26,164
+"Fanny Price",183,164
+"Fanny Price",113,164
+"Fanny Price",103,164
+"Fanny Price",173,164
+"Fanny Price",88,164
+"Fanny Price",45,164
+"Fanny Price",166,164
+"Fanny Price",120,164
+"Fanny Price",172,164
+"Fanny Price",99,164
+"Fanny Price",56,164
+"Fanny Price",157,164
+"Fanny Price",49,164
+"Fanny Price",165,164
+"Fanny Price",135,164
+"Henry Crawford",118,122
+"Henry Crawford",32,122
+"Henry Crawford",124,122
+"Henry Crawford",95,122
+"Henry Crawford",134,122
+"Henry Crawford",34,122
+"Henry Crawford",73,122
+"Henry Crawford",23,122
+"Henry Crawford",98,122
+"Henry Crawford",126,122
+"Henry Crawford",57,122
+"Henry Crawford",94,122
+"Henry Crawford",144,122
+"Henry Crawford",114,122
+"Henry Crawford",93,122
+"Henry Crawford",52,122
+"Henry Crawford",16,122
+"Henry Crawford",51,122
+"Henry Crawford",104,122
+"Henry Crawford",25,122
+"Henry Crawford",159,122
+"Henry Crawford",111,122
+"Henry Crawford",113,122
+"Henry Crawford",62,122
+"Henry Crawford",160,122
+"Henry Crawford",158,122
+"Henry Crawford",55,122
+"Henry Crawford",161,122
+"Henry Crawford",33,122
+"Henry Crawford",61,122
+"Henry Crawford",65,122
+"Henry Crawford",91,122
+"Henry Crawford",96,122
+"Henry Crawford",162,122
+"Henry Crawford",116,122
+"Henry Crawford",180,122
+"Henry Crawford",141,122
+"Henry Crawford",69,122
+"Henry Crawford",120,122
+"Henry Crawford",163,122
+"Henry Crawford",122,122
+"Henry Crawford",67,122
+"Henry Crawford",157,122
+"Henry Crawford",49,122
+"Henry Crawford",140,122
+"Henry Crawford",155,122
+"Henry Crawford",15,122
+"Henry Crawford",45,122
+"Henry Crawford",156,122
+"Henry Crawford",92,122
+"Henry Crawford",128,122
+"Henry Crawford",136,122
+"Henry Crawford",86,122
+"Henry Crawford",22,122
+"Henry Crawford",29,122
+"Henry Crawford",103,122
+"Henry Crawford",109,122
+"Henry Crawford",131,122
+"Henry Crawford",70,122
+"Henry Crawford",137,122
+"Henry Crawford",154,122
+"Henry Crawford",181,122
+"Henry Crawford",20,122
+"Henry Crawford",112,122
+"Henry Crawford",78,122
+"Henry Crawford",117,122
+"Henry Crawford",26,122
+"Henry Crawford",130,122
+"Henry Crawford",42,122
+"Henry Crawford",149,122
+"Henry Crawford",74,122
+"Henry Crawford",182,122
+"Henry Crawford",132,122
+"Henry Crawford",121,122
+"Henry Crawford",41,122
+"Henry Crawford",17,122
+"Henry Crawford",169,122
+"Henry Crawford",64,122
+"Henry Crawford",39,122
+"Henry Crawford",133,122
+"Henry Crawford",110,122
+"Henry Crawford",123,122
+"Henry Crawford",47,122
+"Henry Crawford",31,122
+"Henry Crawford",179,122
+"Henry Crawford",18,122
+"Henry Crawford",85,122
+"Henry Crawford",77,122
+"Henry Crawford",129,122
+"Henry Crawford",37,122
+"Henry Crawford",119,122
+"Henry Crawford",48,122
+"Henry Crawford",108,122
+"Henry Crawford",174,122
+"Henry Crawford",125,122
+"Henry Crawford",90,122
+"Henry Crawford",115,122
+"Henry Crawford",168,122
+"Henry Crawford",38,122
+"Henry Crawford",88,122
+"Henry Crawford",21,122
+"Henry Crawford",63,122
+"Henry Crawford",102,122
+"Henry Crawford",106,122
+"Henry Crawford",44,122
+"Henry Crawford",89,122
+"Henry Crawford",170,122
+"Henry Crawford",139,122
+"Henry Crawford",138,122
+"Henry Crawford",105,122
+"Henry Crawford",164,122
+"Henry Crawford",175,122
+"Henry Crawford",99,122
+"Henry Crawford",151,122
+"Henry Crawford",135,122
+"Henry Crawford",176,122
+"Henry Crawford",107,122
+"Henry Crawford",171,122
+"Henry Crawford",53,122
+"Henry Crawford",127,122
+"Henry Crawford",177,122
+"Henry Crawford",30,122
+"John Groom",27,1
+"Johnny Price",149,1
+"Julia Bertram",77,66
+"Julia Bertram",147,66
+"Julia Bertram",180,66
+"Julia Bertram",45,66
+"Julia Bertram",29,66
+"Julia Bertram",6,66
+"Julia Bertram",41,66
+"Julia Bertram",169,66
+"Julia Bertram",65,66
+"Julia Bertram",51,66
+"Julia Bertram",49,66
+"Julia Bertram",5,66
+"Julia Bertram",18,66
+"Julia Bertram",61,66
+"Julia Bertram",62,66
+"Julia Bertram",58,66
+"Julia Bertram",23,66
+"Julia Bertram",13,66
+"Julia Bertram",139,66
+"Julia Bertram",3,66
+"Julia Bertram",53,66
+"Julia Bertram",106,66
+"Julia Bertram",121,66
+"Julia Bertram",73,66
+"Julia Bertram",12,66
+"Julia Bertram",168,66
+"Julia Bertram",31,66
+"Julia Bertram",74,66
+"Julia Bertram",179,66
+"Julia Bertram",114,66
+"Julia Bertram",52,66
+"Julia Bertram",175,66
+"Julia Bertram",181,66
+"Julia Bertram",127,66
+"Julia Bertram",26,66
+"Julia Bertram",171,66
+"Julia Bertram",174,66
+"Julia Bertram",48,66
+"Julia Bertram",55,66
+"Julia Bertram",42,66
+"Julia Bertram",67,66
+"Julia Bertram",16,66
+"Julia Bertram",79,66
+"Julia Bertram",17,66
+"Julia Bertram",27,66
+"Julia Bertram",164,66
+"Julia Bertram",172,66
+"Julia Bertram",39,66
+"Julia Bertram",66,66
+"Julia Bertram",38,66
+"Julia Bertram",44,66
+"Julia Bertram",97,66
+"Julia Bertram",110,66
+"Julia Bertram",7,66
+"Julia Bertram",170,66
+"Julia Bertram",109,66
+"Julia Bertram",151,66
+"Julia Bertram",30,66
+"Julia Bertram",37,66
+"Julia Bertram",85,66
+"Julia Bertram",84,66
+"Julia Bertram",133,66
+"Julia Bertram",33,66
+"Julia Bertram",34,66
+"Julia Bertram",47,66
+"Julia Bertram",57,66
+"Lady Bertram",148,6
+"Lady Bertram",7,6
+"Lady Bertram",166,6
+"Lady Bertram",1,6
+"Lady Bertram",145,6
+"Lady Bertram",147,6
+"Lady Flora Stornaway",137,5
+"Lady Flora Stornaway",160,5
+"Lady Flora Stornaway",163,5
+"Lady Flora Stornaway",176,5
+"Lady Flora Stornaway",138,5
+"Lady Prescott",109,1
+"Lady Ravenshaw",47,2
+"Lady Ravenshaw",54,2
+"Lord Ravenshaw",51,2
+"Lord Ravenshaw",47,2
+"Lord Stornaway",138,1
+"Maddison",158,1
+"Margaret Fraser",163,4
+"Margaret Fraser",138,4
+"Margaret Fraser",154,4
+"Margaret Fraser",137,4
+"Maria Bertram",171,79
+"Maria Bertram",32,79
+"Maria Bertram",105,79
+"Maria Bertram",62,79
+"Maria Bertram",48,79
+"Maria Bertram",14,79
+"Maria Bertram",41,79
+"Maria Bertram",181,79
+"Maria Bertram",106,79
+"Maria Bertram",97,79
+"Maria Bertram",39,79
+"Maria Bertram",6,79
+"Maria Bertram",23,79
+"Maria Bertram",26,79
+"Maria Bertram",12,79
+"Maria Bertram",65,79
+"Maria Bertram",21,79
+"Maria Bertram",49,79
+"Maria Bertram",1,79
+"Maria Bertram",180,79
+"Maria Bertram",58,79
+"Maria Bertram",133,79
+"Maria Bertram",34,79
+"Maria Bertram",76,79
+"Maria Bertram",72,79
+"Maria Bertram",40,79
+"Maria Bertram",179,79
+"Maria Bertram",74,79
+"Maria Bertram",168,79
+"Maria Bertram",109,79
+"Maria Bertram",20,79
+"Maria Bertram",45,79
+"Maria Bertram",114,79
+"Maria Bertram",172,79
+"Maria Bertram",174,79
+"Maria Bertram",30,79
+"Maria Bertram",125,79
+"Maria Bertram",176,79
+"Maria Bertram",67,79
+"Maria Bertram",31,79
+"Maria Bertram",51,79
+"Maria Bertram",63,79
+"Maria Bertram",18,79
+"Maria Bertram",94,79
+"Maria Bertram",15,79
+"Maria Bertram",80,79
+"Maria Bertram",37,79
+"Maria Bertram",121,79
+"Maria Bertram",127,79
+"Maria Bertram",5,79
+"Maria Bertram",110,79
+"Maria Bertram",38,79
+"Maria Bertram",53,79
+"Maria Bertram",17,79
+"Maria Bertram",61,79
+"Maria Bertram",54,79
+"Maria Bertram",16,79
+"Maria Bertram",13,79
+"Maria Bertram",147,79
+"Maria Bertram",73,79
+"Maria Bertram",44,79
+"Maria Bertram",69,79
+"Maria Bertram",57,79
+"Maria Bertram",33,79
+"Maria Bertram",79,79
+"Maria Bertram",47,79
+"Maria Bertram",77,79
+"Maria Bertram",129,79
+"Maria Bertram",84,79
+"Maria Bertram",175,79
+"Maria Bertram",161,79
+"Maria Bertram",29,79
+"Maria Bertram",7,79
+"Maria Bertram",42,79
+"Maria Bertram",164,79
+"Maria Bertram",85,79
+"Maria Bertram",52,79
+"Maria Bertram",151,79
+"Maria Bertram",55,79
+"Mary Crawford",118,110
+"Mary Crawford",128,110
+"Mary Crawford",169,110
+"Mary Crawford",132,110
+"Mary Crawford",62,110
+"Mary Crawford",16,110
+"Mary Crawford",98,110
+"Mary Crawford",100,110
+"Mary Crawford",49,110
+"Mary Crawford",76,110
+"Mary Crawford",106,110
+"Mary Crawford",163,110
+"Mary Crawford",19,110
+"Mary Crawford",41,110
+"Mary Crawford",144,110
+"Mary Crawford",53,110
+"Mary Crawford",140,110
+"Mary Crawford",93,110
+"Mary Crawford",111,110
+"Mary Crawford",154,110
+"Mary Crawford",15,110
+"Mary Crawford",59,110
+"Mary Crawford",136,110
+"Mary Crawford",26,110
+"Mary Crawford",32,110
+"Mary Crawford",139,110
+"Mary Crawford",117,110
+"Mary Crawford",110,110
+"Mary Crawford",81,110
+"Mary Crawford",67,110
+"Mary Crawford",134,110
+"Mary Crawford",88,110
+"Mary Crawford",109,110
+"Mary Crawford",104,110
+"Mary Crawford",24,110
+"Mary Crawford",141,110
+"Mary Crawford",80,110
+"Mary Crawford",99,110
+"Mary Crawford",84,110
+"Mary Crawford",30,110
+"Mary Crawford",171,110
+"Mary Crawford",115,110
+"Mary Crawford",69,110
+"Mary Crawford",57,110
+"Mary Crawford",36,110
+"Mary Crawford",61,110
+"Mary Crawford",137,110
+"Mary Crawford",151,110
+"Mary Crawford",112,110
+"Mary Crawford",37,110
+"Mary Crawford",114,110
+"Mary Crawford",58,110
+"Mary Crawford",39,110
+"Mary Crawford",178,110
+"Mary Crawford",64,110
+"Mary Crawford",103,110
+"Mary Crawford",159,110
+"Mary Crawford",29,110
+"Mary Crawford",70,110
+"Mary Crawford",33,110
+"Mary Crawford",79,110
+"Mary Crawford",94,110
+"Mary Crawford",20,110
+"Mary Crawford",28,110
+"Mary Crawford",60,110
+"Mary Crawford",34,110
+"Mary Crawford",133,110
+"Mary Crawford",138,110
+"Mary Crawford",161,110
+"Mary Crawford",35,110
+"Mary Crawford",170,110
+"Mary Crawford",177,110
+"Mary Crawford",168,110
+"Mary Crawford",179,110
+"Mary Crawford",54,110
+"Mary Crawford",17,110
+"Mary Crawford",119,110
+"Mary Crawford",44,110
+"Mary Crawford",181,110
+"Mary Crawford",105,110
+"Mary Crawford",42,110
+"Mary Crawford",86,110
+"Mary Crawford",101,110
+"Mary Crawford",85,110
+"Mary Crawford",102,110
+"Mary Crawford",31,110
+"Mary Crawford",38,110
+"Mary Crawford",167,110
+"Mary Crawford",165,110
+"Mary Crawford",175,110
+"Mary Crawford",158,110
+"Mary Crawford",78,110
+"Mary Crawford",182,110
+"Mary Crawford",55,110
+"Mary Crawford",113,110
+"Mary Crawford",176,110
+"Mary Crawford",22,110
+"Mary Crawford",21,110
+"Mary Crawford",160,110
+"Mary Crawford",65,110
+"Mary Crawford",18,110
+"Mary Crawford",107,110
+"Mary Crawford",142,110
+"Mary Crawford",51,110
+"Mary Crawford",135,110
+"Mary Crawford",56,110
+"Mary Crawford",25,110
+"Mary Crawford",92,110
+"Mary Crawford",52,110
+"Mary Crawford",164,110
+"Mary Price",148,1
+"Miss Anderson",19,2
+"Miss Anderson",18,2
+"Miss Augusta Sneyd",19,1
+"Miss Lee",13,6
+"Miss Lee",5,6
+"Miss Lee",3,6
+"Miss Lee",58,6
+"Miss Lee",8,6
+"Miss Lee",10,6
+"Mr Campbell",147,2
+"Mr Campbell",144,2
+"Mr Fraser",138,4
+"Mr Fraser",154,4
+"Mr Fraser",163,4
+"Mr Fraser",137,4
+"Mr Green",27,1
+"Mr Harding",174,1
+"Mr Price",147,10
+"Mr Price",154,10
+"Mr Price",171,10
+"Mr Price",156,10
+"Mr Price",146,10
+"Mr Price",160,10
+"Mr Price",145,10
+"Mr Price",1,10
+"Mr Price",144,10
+"Mr Price",155,10
+"Mr Rushworth",77,61
+"Mr Rushworth",21,61
+"Mr Rushworth",121,61
+"Mr Rushworth",52,61
+"Mr Rushworth",59,61
+"Mr Rushworth",114,61
+"Mr Rushworth",32,61
+"Mr Rushworth",180,61
+"Mr Rushworth",39,61
+"Mr Rushworth",55,61
+"Mr Rushworth",29,61
+"Mr Rushworth",168,61
+"Mr Rushworth",138,61
+"Mr Rushworth",151,61
+"Mr Rushworth",126,61
+"Mr Rushworth",45,61
+"Mr Rushworth",85,61
+"Mr Rushworth",61,61
+"Mr Rushworth",30,61
+"Mr Rushworth",181,61
+"Mr Rushworth",20,61
+"Mr Rushworth",97,61
+"Mr Rushworth",64,61
+"Mr Rushworth",76,61
+"Mr Rushworth",161,61
+"Mr Rushworth",67,61
+"Mr Rushworth",94,61
+"Mr Rushworth",170,61
+"Mr Rushworth",176,61
+"Mr Rushworth",38,61
+"Mr Rushworth",62,61
+"Mr Rushworth",106,61
+"Mr Rushworth",164,61
+"Mr Rushworth",34,61
+"Mr Rushworth",80,61
+"Mr Rushworth",171,61
+"Mr Rushworth",26,61
+"Mr Rushworth",14,61
+"Mr Rushworth",23,61
+"Mr Rushworth",33,61
+"Mr Rushworth",72,61
+"Mr Rushworth",31,61
+"Mr Rushworth",71,61
+"Mr Rushworth",174,61
+"Mr Rushworth",44,61
+"Mr Rushworth",41,61
+"Mr Rushworth",68,61
+"Mr Rushworth",15,61
+"Mr Rushworth",133,61
+"Mr Rushworth",105,61
+"Mr Rushworth",37,61
+"Mr Rushworth",175,61
+"Mr Rushworth",63,61
+"Mr Rushworth",70,61
+"Mr Rushworth",54,61
+"Mr Rushworth",179,61
+"Mr Rushworth",84,61
+"Mr Rushworth",56,61
+"Mr Rushworth",73,61
+"Mr Rushworth",65,61
+"Mr Rushworth",17,61
+"Mrs Brown",90,1
+"Mrs Chapman",104,1
+"Mrs Crawford",15,3
+"Mrs Crawford",24,3
+"Mrs Crawford",113,3
+"Mrs Holford",19,1
+"Mrs Janet Fraser",160,7
+"Mrs Janet Fraser",163,7
+"Mrs Janet Fraser",181,7
+"Mrs Janet Fraser",164,7
+"Mrs Janet Fraser",154,7
+"Mrs Janet Fraser",137,7
+"Mrs Janet Fraser",138,7
+"Mrs Jefferies",27,1
+"Mrs Norris",1,20
+"Mrs Norris",150,20
+"Mrs Norris",9,20
+"Mrs Norris",3,20
+"Mrs Norris",78,20
+"Mrs Norris",109,20
+"Mrs Norris",49,20
+"Mrs Norris",44,20
+"Mrs Norris",174,20
+"Mrs Norris",117,20
+"Mrs Norris",119,20
+"Mrs Norris",105,20
+"Mrs Norris",122,20
+"Mrs Norris",6,20
+"Mrs Norris",103,20
+"Mrs Norris",180,20
+"Mrs Norris",123,20
+"Mrs Norris",90,20
+"Mrs Norris",85,20
+"Mrs Norris",148,20
+"Mrs Rushworth",175,1
+"Mrs Sneyd",19,1
+"Mrs. Admiral Maxwell",148,1
+"Mrs. Frances Price",1,15
+"Mrs. Frances Price",145,15
+"Mrs. Frances Price",2,15
+"Mrs. Frances Price",171,15
+"Mrs. Frances Price",172,15
+"Mrs. Frances Price",149,15
+"Mrs. Frances Price",8,15
+"Mrs. Frances Price",154,15
+"Mrs. Frances Price",146,15
+"Mrs. Frances Price",142,15
+"Mrs. Frances Price",4,15
+"Mrs. Frances Price",148,15
+"Mrs. Frances Price",147,15
+"Mrs. Frances Price",166,15
+"Mrs. Frances Price",157,15
+"Nanny",123,3
+"Nanny",2,3
+"Nanny",3,3
+"Old Scholey",145,1
+"Rebecca",146,11
+"Rebecca",157,11
+"Rebecca",154,11
+"Rebecca",172,11
+"Rebecca",147,11
+"Rebecca",171,11
+"Rebecca",145,11
+"Rebecca",156,11
+"Rebecca",148,11
+"Rebecca",170,11
+"Rebecca",158,11
+"Richard Price",149,1
+"Robert",80,1
+"Sam Price",146,4
+"Sam Price",147,4
+"Sam Price",145,4
+"Sam Price",149,4
+"Sir Charles",115,1
+"Sir Thomas Bertram",121,100
+"Sir Thomas Bertram",14,100
+"Sir Thomas Bertram",44,100
+"Sir Thomas Bertram",109,100
+"Sir Thomas Bertram",167,100
+"Sir Thomas Bertram",5,100
+"Sir Thomas Bertram",62,100
+"Sir Thomas Bertram",86,100
+"Sir Thomas Bertram",114,100
+"Sir Thomas Bertram",181,100
+"Sir Thomas Bertram",128,100
+"Sir Thomas Bertram",72,100
+"Sir Thomas Bertram",83,100
+"Sir Thomas Bertram",69,100
+"Sir Thomas Bertram",129,100
+"Sir Thomas Bertram",137,100
+"Sir Thomas Bertram",112,100
+"Sir Thomas Bertram",164,100
+"Sir Thomas Bertram",84,100
+"Sir Thomas Bertram",26,100
+"Sir Thomas Bertram",12,100
+"Sir Thomas Bertram",106,100
+"Sir Thomas Bertram",90,100
+"Sir Thomas Bertram",67,100
+"Sir Thomas Bertram",29,100
+"Sir Thomas Bertram",171,100
+"Sir Thomas Bertram",18,100
+"Sir Thomas Bertram",116,100
+"Sir Thomas Bertram",170,100
+"Sir Thomas Bertram",8,100
+"Sir Thomas Bertram",108,100
+"Sir Thomas Bertram",20,100
+"Sir Thomas Bertram",127,100
+"Sir Thomas Bertram",141,100
+"Sir Thomas Bertram",165,100
+"Sir Thomas Bertram",120,100
+"Sir Thomas Bertram",76,100
+"Sir Thomas Bertram",110,100
+"Sir Thomas Bertram",2,100
+"Sir Thomas Bertram",115,100
+"Sir Thomas Bertram",49,100
+"Sir Thomas Bertram",47,100
+"Sir Thomas Bertram",96,100
+"Sir Thomas Bertram",41,100
+"Sir Thomas Bertram",94,100
+"Sir Thomas Bertram",15,100
+"Sir Thomas Bertram",158,100
+"Sir Thomas Bertram",125,100
+"Sir Thomas Bertram",1,100
+"Sir Thomas Bertram",97,100
+"Sir Thomas Bertram",180,100
+"Sir Thomas Bertram",74,100
+"Sir Thomas Bertram",105,100
+"Sir Thomas Bertram",10,100
+"Sir Thomas Bertram",140,100
+"Sir Thomas Bertram",68,100
+"Sir Thomas Bertram",75,100
+"Sir Thomas Bertram",92,100
+"Sir Thomas Bertram",172,100
+"Sir Thomas Bertram",175,100
+"Sir Thomas Bertram",3,100
+"Sir Thomas Bertram",119,100
+"Sir Thomas Bertram",136,100
+"Sir Thomas Bertram",122,100
+"Sir Thomas Bertram",95,100
+"Sir Thomas Bertram",142,100
+"Sir Thomas Bertram",126,100
+"Sir Thomas Bertram",107,100
+"Sir Thomas Bertram",59,100
+"Sir Thomas Bertram",179,100
+"Sir Thomas Bertram",70,100
+"Sir Thomas Bertram",102,100
+"Sir Thomas Bertram",45,100
+"Sir Thomas Bertram",138,100
+"Sir Thomas Bertram",71,100
+"Sir Thomas Bertram",64,100
+"Sir Thomas Bertram",139,100
+"Sir Thomas Bertram",117,100
+"Sir Thomas Bertram",123,100
+"Sir Thomas Bertram",144,100
+"Sir Thomas Bertram",157,100
+"Sir Thomas Bertram",7,100
+"Sir Thomas Bertram",182,100
+"Sir Thomas Bertram",124,100
+"Sir Thomas Bertram",89,100
+"Sir Thomas Bertram",177,100
+"Sir Thomas Bertram",174,100
+"Sir Thomas Bertram",73,100
+"Sir Thomas Bertram",147,100
+"Sir Thomas Bertram",132,100
+"Sir Thomas Bertram",77,100
+"Sir Thomas Bertram",11,100
+"Sir Thomas Bertram",55,100
+"Sir Thomas Bertram",168,100
+"Sir Thomas Bertram",149,100
+"Sir Thomas Bertram",9,100
+"Sir Thomas Bertram",183,100
+"Sir Thomas Bertram",111,100
+"Sir Thomas Bertram",13,100
+"Sir Thomas Bertram",118,100
+"Smith",37,2
+"Smith",20,2
+"Sneyd",19,1
+"Susan PriceMP",150,21
+"Susan PriceMP",152,21
+"Susan PriceMP",172,21
+"Susan PriceMP",155,21
+"Susan PriceMP",174,21
+"Susan PriceMP",154,21
+"Susan PriceMP",158,21
+"Susan PriceMP",183,21
+"Susan PriceMP",145,21
+"Susan PriceMP",173,21
+"Susan PriceMP",156,21
+"Susan PriceMP",147,21
+"Susan PriceMP",153,21
+"Susan PriceMP",142,21
+"Susan PriceMP",148,21
+"Susan PriceMP",144,21
+"Susan PriceMP",151,21
+"Susan PriceMP",161,21
+"Susan PriceMP",146,21
+"Susan PriceMP",166,21
+"Susan PriceMP",162,21
+"The Aylmers",169,1
+"Tom Bertram",51,46
+"Tom Bertram",175,46
+"Tom Bertram",52,46
+"Tom Bertram",61,46
+"Tom Bertram",137,46
+"Tom Bertram",75,46
+"Tom Bertram",53,46
+"Tom Bertram",9,46
+"Tom Bertram",19,46
+"Tom Bertram",13,46
+"Tom Bertram",173,46
+"Tom Bertram",70,46
+"Tom Bertram",49,46
+"Tom Bertram",57,46
+"Tom Bertram",48,46
+"Tom Bertram",69,46
+"Tom Bertram",178,46
+"Tom Bertram",45,46
+"Tom Bertram",55,46
+"Tom Bertram",7,46
+"Tom Bertram",174,46
+"Tom Bertram",62,46
+"Tom Bertram",63,46
+"Tom Bertram",179,46
+"Tom Bertram",74,46
+"Tom Bertram",59,46
+"Tom Bertram",2,46
+"Tom Bertram",14,46
+"Tom Bertram",165,46
+"Tom Bertram",73,46
+"Tom Bertram",56,46
+"Tom Bertram",47,46
+"Tom Bertram",171,46
+"Tom Bertram",20,46
+"Tom Bertram",147,46
+"Tom Bertram",60,46
+"Tom Bertram",146,46
+"Tom Bertram",168,46
+"Tom Bertram",54,46
+"Tom Bertram",181,46
+"Tom Bertram",167,46
+"Tom Bertram",44,46
+"Tom Bertram",15,46
+"Tom Bertram",18,46
+"Tom Bertram",58,46
+"Tom Bertram",65,46
+"Tom Oliver",57,1
+"Turner",145,1
+"William Price",141,49
+"William Price",102,49
+"William Price",97,49
+"William Price",96,49
+"William Price",92,49
+"William Price",8,49
+"William Price",134,49
+"William Price",94,49
+"William Price",125,49
+"William Price",117,49
+"William Price",90,49
+"William Price",110,49
+"William Price",107,49
+"William Price",145,49
+"William Price",24,49
+"William Price",142,49
+"William Price",68,49
+"William Price",98,49
+"William Price",109,49
+"William Price",58,49
+"William Price",183,49
+"William Price",12,49
+"William Price",120,49
+"William Price",115,49
+"William Price",144,49
+"William Price",103,49
+"William Price",146,49
+"William Price",118,49
+"William Price",6,49
+"William Price",143,49
+"William Price",108,49
+"William Price",139,49
+"William Price",89,49
+"William Price",116,49
+"William Price",105,49
+"William Price",140,49
+"William Price",128,49
+"William Price",154,49
+"William Price",99,49
+"William Price",95,49
+"William Price",149,49
+"William Price",13,49
+"William Price",104,49
+"William Price",91,49
+"William Price",22,49
+"William Price",166,49
+"William Price",147,49
+"William Price",101,49
+"William Price",93,49

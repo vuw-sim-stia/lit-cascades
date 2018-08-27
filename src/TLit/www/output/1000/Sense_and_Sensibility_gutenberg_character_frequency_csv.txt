@@ -1,769 +1,769 @@
-"","Character","Node","Appearances"
-"1","Annamaria Middleton",53,3
-"2","Annamaria Middleton",54,3
-"3","Annamaria Middleton",47,3
-"4","Anne Steele",93,25
-"5","Anne Steele",50,25
-"6","Anne Steele",55,25
-"7","Anne Steele",131,25
-"8","Anne Steele",48,25
-"9","Anne Steele",59,25
-"10","Anne Steele",104,25
-"11","Anne Steele",57,25
-"12","Anne Steele",87,25
-"13","Anne Steele",82,25
-"14","Anne Steele",56,25
-"15","Anne Steele",103,25
-"16","Anne Steele",46,25
-"17","Anne Steele",49,25
-"18","Anne Steele",51,25
-"19","Anne Steele",95,25
-"20","Anne Steele",88,25
-"21","Anne Steele",133,25
-"22","Anne Steele",52,25
-"23","Anne Steele",47,25
-"24","Anne Steele",107,25
-"25","Anne Steele",81,25
-"26","Anne Steele",94,25
-"27","Anne Steele",102,25
-"28","Anne Steele",53,25
-"29","Betty",108,4
-"30","Betty",104,4
-"31","Betty",98,4
-"32","Betty",58,4
-"33","Biddy Henshawe",72,1
-"34","Cartwright",61,1
-"35","ColonelBrandon",143,58
-"36","ColonelBrandon",41,58
-"37","ColonelBrandon",84,58
-"38","ColonelBrandon",89,58
-"39","ColonelBrandon",85,58
-"40","ColonelBrandon",25,58
-"41","ColonelBrandon",111,58
-"42","ColonelBrandon",138,58
-"43","ColonelBrandon",27,58
-"44","ColonelBrandon",29,58
-"45","ColonelBrandon",130,58
-"46","ColonelBrandon",80,58
-"47","ColonelBrandon",127,58
-"48","ColonelBrandon",112,58
-"49","ColonelBrandon",118,58
-"50","ColonelBrandon",126,58
-"51","ColonelBrandon",74,58
-"52","ColonelBrandon",135,58
-"53","ColonelBrandon",26,58
-"54","ColonelBrandon",79,58
-"55","ColonelBrandon",140,58
-"56","ColonelBrandon",45,58
-"57","ColonelBrandon",14,58
-"58","ColonelBrandon",77,58
-"59","ColonelBrandon",20,58
-"60","ColonelBrandon",115,58
-"61","ColonelBrandon",15,58
-"62","ColonelBrandon",73,58
-"63","ColonelBrandon",141,58
-"64","ColonelBrandon",129,58
-"65","ColonelBrandon",75,58
-"66","ColonelBrandon",132,58
-"67","ColonelBrandon",95,58
-"68","ColonelBrandon",139,58
-"69","ColonelBrandon",114,58
-"70","ColonelBrandon",109,58
-"71","ColonelBrandon",107,58
-"72","ColonelBrandon",144,58
-"73","ColonelBrandon",44,58
-"74","ColonelBrandon",110,58
-"75","ColonelBrandon",142,58
-"76","ColonelBrandon",117,58
-"77","ColonelBrandon",81,58
-"78","ColonelBrandon",22,58
-"79","ColonelBrandon",106,58
-"80","ColonelBrandon",63,58
-"81","ColonelBrandon",61,58
-"82","ColonelBrandon",65,58
-"83","ColonelBrandon",116,58
-"84","ColonelBrandon",18,58
-"85","ColonelBrandon",13,58
-"86","ColonelBrandon",133,58
-"87","ColonelBrandon",64,58
-"88","ColonelBrandon",88,58
-"89","ColonelBrandon",60,58
-"90","ColonelBrandon",108,58
-"91","ColonelBrandon",120,58
-"92","ColonelBrandon",87,58
-"93","Edward Ferrars",51,64
-"94","Edward Ferrars",19,64
-"95","Edward Ferrars",135,64
-"96","Edward Ferrars",98,64
-"97","Edward Ferrars",99,64
-"98","Edward Ferrars",109,64
-"99","Edward Ferrars",84,64
-"100","Edward Ferrars",103,64
-"101","Edward Ferrars",39,64
-"102","Edward Ferrars",35,64
-"103","Edward Ferrars",83,64
-"104","Edward Ferrars",94,64
-"105","Edward Ferrars",7,64
-"106","Edward Ferrars",110,64
-"107","Edward Ferrars",52,64
-"108","Edward Ferrars",104,64
-"109","Edward Ferrars",5,64
-"110","Edward Ferrars",41,64
-"111","Edward Ferrars",101,64
-"112","Edward Ferrars",71,64
-"113","Edward Ferrars",143,64
-"114","Edward Ferrars",136,64
-"115","Edward Ferrars",56,64
-"116","Edward Ferrars",137,64
-"117","Edward Ferrars",102,64
-"118","Edward Ferrars",100,64
-"119","Edward Ferrars",80,64
-"120","Edward Ferrars",50,64
-"121","Edward Ferrars",126,64
-"122","Edward Ferrars",90,64
-"123","Edward Ferrars",67,64
-"124","Edward Ferrars",97,64
-"125","Edward Ferrars",38,64
-"126","Edward Ferrars",95,64
-"127","Edward Ferrars",107,64
-"128","Edward Ferrars",9,64
-"129","Edward Ferrars",139,64
-"130","Edward Ferrars",112,64
-"131","Edward Ferrars",8,64
-"132","Edward Ferrars",20,64
-"133","Edward Ferrars",142,64
-"134","Edward Ferrars",48,64
-"135","Edward Ferrars",53,64
-"136","Edward Ferrars",16,64
-"137","Edward Ferrars",87,64
-"138","Edward Ferrars",40,64
-"139","Edward Ferrars",6,64
-"140","Edward Ferrars",92,64
-"141","Edward Ferrars",15,64
-"142","Edward Ferrars",141,64
-"143","Edward Ferrars",113,64
-"144","Edward Ferrars",70,64
-"145","Edward Ferrars",111,64
-"146","Edward Ferrars",138,64
-"147","Edward Ferrars",91,64
-"148","Edward Ferrars",133,64
-"149","Edward Ferrars",59,64
-"150","Edward Ferrars",36,64
-"151","Edward Ferrars",37,64
-"152","Edward Ferrars",49,64
-"153","Edward Ferrars",115,64
-"154","Edward Ferrars",140,64
-"155","Edward Ferrars",108,64
-"156","Edward Ferrars",55,64
-"157","Elinor Dashwood",77,32
-"158","Elinor Dashwood",39,32
-"159","Elinor Dashwood",58,32
-"160","Elinor Dashwood",108,32
-"161","Elinor Dashwood",102,32
-"162","Elinor Dashwood",103,32
-"163","Elinor Dashwood",49,32
-"164","Elinor Dashwood",47,32
-"165","Elinor Dashwood",50,32
-"166","Elinor Dashwood",64,32
-"167","Elinor Dashwood",9,32
-"168","Elinor Dashwood",27,32
-"169","Elinor Dashwood",65,32
-"170","Elinor Dashwood",43,32
-"171","Elinor Dashwood",24,32
-"172","Elinor Dashwood",82,32
-"173","Elinor Dashwood",55,32
-"174","Elinor Dashwood",29,32
-"175","Elinor Dashwood",88,32
-"176","Elinor Dashwood",5,32
-"177","Elinor Dashwood",106,32
-"178","Elinor Dashwood",48,32
-"179","Elinor Dashwood",104,32
-"180","Elinor Dashwood",36,32
-"181","Elinor Dashwood",23,32
-"182","Elinor Dashwood",2,32
-"183","Elinor Dashwood",18,32
-"184","Elinor Dashwood",54,32
-"185","Elinor Dashwood",20,32
-"186","Elinor Dashwood",81,32
-"187","Elinor Dashwood",19,32
-"188","Elinor Dashwood",89,32
-"189","ElizaBrandon",122,6
-"190","ElizaBrandon",133,6
-"191","ElizaBrandon",78,6
-"192","ElizaBrandon",129,6
-"193","ElizaBrandon",79,6
-"194","ElizaBrandon",132,6
-"195","ElizaWilliams",29,4
-"196","ElizaWilliams",80,4
-"197","ElizaWilliams",27,4
-"198","ElizaWilliams",77,4
-"199","Harry Dashwood",83,3
-"200","Harry Dashwood",3,3
-"201","Harry Dashwood",88,3
-"202","John Willoughby",126,61
-"203","John Willoughby",74,61
-"204","John Willoughby",77,61
-"205","John Willoughby",122,61
-"206","John Willoughby",131,61
-"207","John Willoughby",34,61
-"208","John Willoughby",98,61
-"209","John Willoughby",93,61
-"210","John Willoughby",31,61
-"211","John Willoughby",65,61
-"212","John Willoughby",127,61
-"213","John Willoughby",64,61
-"214","John Willoughby",66,61
-"215","John Willoughby",24,61
-"216","John Willoughby",18,61
-"217","John Willoughby",70,61
-"218","John Willoughby",129,61
-"219","John Willoughby",133,61
-"220","John Willoughby",25,61
-"221","John Willoughby",27,61
-"222","John Willoughby",35,61
-"223","John Willoughby",63,61
-"224","John Willoughby",45,61
-"225","John Willoughby",28,61
-"226","John Willoughby",68,61
-"227","John Willoughby",32,61
-"228","John Willoughby",121,61
-"229","John Willoughby",29,61
-"230","John Willoughby",80,61
-"231","John Willoughby",128,61
-"232","John Willoughby",44,61
-"233","John Willoughby",114,61
-"234","John Willoughby",22,61
-"235","John Willoughby",17,61
-"236","John Willoughby",73,61
-"237","John Willoughby",132,61
-"238","John Willoughby",61,61
-"239","John Willoughby",120,61
-"240","John Willoughby",130,61
-"241","John Willoughby",144,61
-"242","John Willoughby",125,61
-"243","John Willoughby",20,61
-"244","John Willoughby",33,61
-"245","John Willoughby",67,61
-"246","John Willoughby",76,61
-"247","John Willoughby",39,61
-"248","John Willoughby",30,61
-"249","John Willoughby",81,61
-"250","John Willoughby",62,61
-"251","John Willoughby",78,61
-"252","John Willoughby",124,61
-"253","John Willoughby",26,61
-"254","John Willoughby",19,61
-"255","John Willoughby",123,61
-"256","John Willoughby",69,61
-"257","John Willoughby",40,61
-"258","John Willoughby",71,61
-"259","John Willoughby",79,61
-"260","John Willoughby",60,61
-"261","John Willoughby",58,61
-"262","John Willoughby",119,61
-"263","Lady Mary Middleton",112,2
-"264","Lady Mary Middleton",63,2
-"265","Lord Morton",84,2
-"266","Lord Morton",89,2
-"267","LordCourtland",95,1
-"268","Lucy Steele",140,46
-"269","Lucy Steele",108,46
-"270","Lucy Steele",98,46
-"271","Lucy Steele",102,46
-"272","Lucy Steele",93,46
-"273","Lucy Steele",52,46
-"274","Lucy Steele",133,46
-"275","Lucy Steele",57,46
-"276","Lucy Steele",55,46
-"277","Lucy Steele",46,46
-"278","Lucy Steele",92,46
-"279","Lucy Steele",111,46
-"280","Lucy Steele",110,46
-"281","Lucy Steele",90,46
-"282","Lucy Steele",48,46
-"283","Lucy Steele",81,46
-"284","Lucy Steele",99,46
-"285","Lucy Steele",50,46
-"286","Lucy Steele",59,46
-"287","Lucy Steele",49,46
-"288","Lucy Steele",137,46
-"289","Lucy Steele",105,46
-"290","Lucy Steele",131,46
-"291","Lucy Steele",135,46
-"292","Lucy Steele",96,46
-"293","Lucy Steele",87,46
-"294","Lucy Steele",138,46
-"295","Lucy Steele",114,46
-"296","Lucy Steele",53,46
-"297","Lucy Steele",89,46
-"298","Lucy Steele",139,46
-"299","Lucy Steele",47,46
-"300","Lucy Steele",91,46
-"301","Lucy Steele",88,46
-"302","Lucy Steele",100,46
-"303","Lucy Steele",97,46
-"304","Lucy Steele",94,46
-"305","Lucy Steele",143,46
-"306","Lucy Steele",51,46
-"307","Lucy Steele",56,46
-"308","Lucy Steele",104,46
-"309","Lucy Steele",136,46
-"310","Lucy Steele",95,46
-"311","Lucy Steele",54,46
-"312","Lucy Steele",103,46
-"313","Lucy Steele",82,46
-"314","Marianne Dashwood",29,119
-"315","Marianne Dashwood",15,119
-"316","Marianne Dashwood",44,119
-"317","Marianne Dashwood",126,119
-"318","Marianne Dashwood",25,119
-"319","Marianne Dashwood",92,119
-"320","Marianne Dashwood",136,119
-"321","Marianne Dashwood",35,119
-"322","Marianne Dashwood",83,119
-"323","Marianne Dashwood",2,119
-"324","Marianne Dashwood",100,119
-"325","Marianne Dashwood",46,119
-"326","Marianne Dashwood",8,119
-"327","Marianne Dashwood",72,119
-"328","Marianne Dashwood",88,119
-"329","Marianne Dashwood",41,119
-"330","Marianne Dashwood",53,119
-"331","Marianne Dashwood",38,119
-"332","Marianne Dashwood",127,119
-"333","Marianne Dashwood",14,119
-"334","Marianne Dashwood",7,119
-"335","Marianne Dashwood",43,119
-"336","Marianne Dashwood",59,119
-"337","Marianne Dashwood",24,119
-"338","Marianne Dashwood",77,119
-"339","Marianne Dashwood",62,119
-"340","Marianne Dashwood",106,119
-"341","Marianne Dashwood",55,119
-"342","Marianne Dashwood",30,119
-"343","Marianne Dashwood",17,119
-"344","Marianne Dashwood",9,119
-"345","Marianne Dashwood",31,119
-"346","Marianne Dashwood",71,119
-"347","Marianne Dashwood",56,119
-"348","Marianne Dashwood",18,119
-"349","Marianne Dashwood",89,119
-"350","Marianne Dashwood",80,119
-"351","Marianne Dashwood",141,119
-"352","Marianne Dashwood",118,119
-"353","Marianne Dashwood",48,119
-"354","Marianne Dashwood",135,119
-"355","Marianne Dashwood",70,119
-"356","Marianne Dashwood",75,119
-"357","Marianne Dashwood",67,119
-"358","Marianne Dashwood",87,119
-"359","Marianne Dashwood",99,119
-"360","Marianne Dashwood",39,119
-"361","Marianne Dashwood",20,119
-"362","Marianne Dashwood",49,119
-"363","Marianne Dashwood",143,119
-"364","Marianne Dashwood",32,119
-"365","Marianne Dashwood",137,119
-"366","Marianne Dashwood",142,119
-"367","Marianne Dashwood",113,119
-"368","Marianne Dashwood",22,119
-"369","Marianne Dashwood",13,119
-"370","Marianne Dashwood",97,119
-"371","Marianne Dashwood",138,119
-"372","Marianne Dashwood",76,119
-"373","Marianne Dashwood",124,119
-"374","Marianne Dashwood",11,119
-"375","Marianne Dashwood",130,119
-"376","Marianne Dashwood",54,119
-"377","Marianne Dashwood",36,119
-"378","Marianne Dashwood",42,119
-"379","Marianne Dashwood",34,119
-"380","Marianne Dashwood",125,119
-"381","Marianne Dashwood",37,119
-"382","Marianne Dashwood",140,119
-"383","Marianne Dashwood",60,119
-"384","Marianne Dashwood",116,119
-"385","Marianne Dashwood",104,119
-"386","Marianne Dashwood",79,119
-"387","Marianne Dashwood",109,119
-"388","Marianne Dashwood",3,119
-"389","Marianne Dashwood",6,119
-"390","Marianne Dashwood",61,119
-"391","Marianne Dashwood",117,119
-"392","Marianne Dashwood",64,119
-"393","Marianne Dashwood",66,119
-"394","Marianne Dashwood",122,119
-"395","Marianne Dashwood",58,119
-"396","Marianne Dashwood",119,119
-"397","Marianne Dashwood",108,119
-"398","Marianne Dashwood",101,119
-"399","Marianne Dashwood",73,119
-"400","Marianne Dashwood",114,119
-"401","Marianne Dashwood",65,119
-"402","Marianne Dashwood",120,119
-"403","Marianne Dashwood",85,119
-"404","Marianne Dashwood",47,119
-"405","Marianne Dashwood",121,119
-"406","Marianne Dashwood",115,119
-"407","Marianne Dashwood",52,119
-"408","Marianne Dashwood",82,119
-"409","Marianne Dashwood",123,119
-"410","Marianne Dashwood",27,119
-"411","Marianne Dashwood",133,119
-"412","Marianne Dashwood",93,119
-"413","Marianne Dashwood",111,119
-"414","Marianne Dashwood",95,119
-"415","Marianne Dashwood",23,119
-"416","Marianne Dashwood",68,119
-"417","Marianne Dashwood",26,119
-"418","Marianne Dashwood",69,119
-"419","Marianne Dashwood",33,119
-"420","Marianne Dashwood",102,119
-"421","Marianne Dashwood",131,119
-"422","Marianne Dashwood",98,119
-"423","Marianne Dashwood",94,119
-"424","Marianne Dashwood",19,119
-"425","Marianne Dashwood",134,119
-"426","Marianne Dashwood",129,119
-"427","Marianne Dashwood",63,119
-"428","Marianne Dashwood",91,119
-"429","Marianne Dashwood",81,119
-"430","Marianne Dashwood",132,119
-"431","Marianne Dashwood",74,119
-"432","Marianne Dashwood",144,119
-"433","Martha Sharpe",103,1
-"434","Miss Godby",102,1
-"435","Miss Morton",112,11
-"436","Miss Morton",87,11
-"437","Miss Morton",89,11
-"438","Miss Morton",142,11
-"439","Miss Morton",103,11
-"440","Miss Morton",88,11
-"441","Miss Morton",102,11
-"442","Miss Morton",139,11
-"443","Miss Morton",101,11
-"444","Miss Morton",100,11
-"445","Miss Morton",84,11
-"446","Miss Sophia Grey",74,5
-"447","Miss Sophia Grey",123,5
-"448","Miss Sophia Grey",72,5
-"449","Miss Sophia Grey",73,5
-"450","Miss Sophia Grey",81,5
-"451","Miss Sparks",102,1
-"452","Miss Walker",73,1
-"453","Mr Jennings",22,1
-"454","Mr John Dashwood",95,9
-"455","Mr John Dashwood",112,9
-"456","Mr John Dashwood",94,9
-"457","Mr John Dashwood",93,9
-"458","Mr John Dashwood",4,9
-"459","Mr John Dashwood",85,9
-"460","Mr John Dashwood",100,9
-"461","Mr John Dashwood",140,9
-"462","Mr John Dashwood",83,9
-"463","Mr Pratt",137,7
-"464","Mr Pratt",50,7
-"465","Mr Pratt",94,7
-"466","Mr Pratt",52,7
-"467","Mr Pratt",135,7
-"468","Mr Pratt",104,7
-"469","Mr Pratt",133,7
-"470","Mr Richardson",104,2
-"471","Mr Richardson",103,2
-"472","Mr Simpson",48,1
-"473","Mr Thomas Palmer",42,17
-"474","Mr Thomas Palmer",115,17
-"475","Mr Thomas Palmer",45,17
-"476","Mr Thomas Palmer",43,17
-"477","Mr Thomas Palmer",116,17
-"478","Mr Thomas Palmer",41,17
-"479","Mr Thomas Palmer",114,17
-"480","Mr Thomas Palmer",46,17
-"481","Mr Thomas Palmer",106,17
-"482","Mr Thomas Palmer",64,17
-"483","Mr Thomas Palmer",44,17
-"484","Mr Thomas Palmer",61,17
-"485","Mr Thomas Palmer",93,17
-"486","Mr Thomas Palmer",120,17
-"487","Mr Thomas Palmer",104,17
-"488","Mr Thomas Palmer",97,17
-"489","Mr Thomas Palmer",131,17
-"490","Mr. Rose",48,1
-"491","Mrs Charlotte Palmer",62,28
-"492","Mrs Charlotte Palmer",90,28
-"493","Mrs Charlotte Palmer",80,28
-"494","Mrs Charlotte Palmer",73,28
-"495","Mrs Charlotte Palmer",64,28
-"496","Mrs Charlotte Palmer",42,28
-"497","Mrs Charlotte Palmer",118,28
-"498","Mrs Charlotte Palmer",61,28
-"499","Mrs Charlotte Palmer",68,28
-"500","Mrs Charlotte Palmer",106,28
-"501","Mrs Charlotte Palmer",97,28
-"502","Mrs Charlotte Palmer",108,28
-"503","Mrs Charlotte Palmer",41,28
-"504","Mrs Charlotte Palmer",43,28
-"505","Mrs Charlotte Palmer",115,28
-"506","Mrs Charlotte Palmer",93,28
-"507","Mrs Charlotte Palmer",60,28
-"508","Mrs Charlotte Palmer",58,28
-"509","Mrs Charlotte Palmer",81,28
-"510","Mrs Charlotte Palmer",65,28
-"511","Mrs Charlotte Palmer",45,28
-"512","Mrs Charlotte Palmer",44,28
-"513","Mrs Charlotte Palmer",131,28
-"514","Mrs Charlotte Palmer",114,28
-"515","Mrs Charlotte Palmer",129,28
-"516","Mrs Charlotte Palmer",116,28
-"517","Mrs Charlotte Palmer",46,28
-"518","Mrs Charlotte Palmer",124,28
-"519","Mrs Dashwood",1,57
-"520","Mrs Dashwood",82,57
-"521","Mrs Dashwood",30,57
-"522","Mrs Dashwood",22,57
-"523","Mrs Dashwood",133,57
-"524","Mrs Dashwood",2,57
-"525","Mrs Dashwood",31,57
-"526","Mrs Dashwood",95,57
-"527","Mrs Dashwood",139,57
-"528","Mrs Dashwood",3,57
-"529","Mrs Dashwood",11,57
-"530","Mrs Dashwood",15,57
-"531","Mrs Dashwood",4,57
-"532","Mrs Dashwood",42,57
-"533","Mrs Dashwood",96,57
-"534","Mrs Dashwood",140,57
-"535","Mrs Dashwood",5,57
-"536","Mrs Dashwood",19,57
-"537","Mrs Dashwood",17,57
-"538","Mrs Dashwood",97,57
-"539","Mrs Dashwood",43,57
-"540","Mrs Dashwood",6,57
-"541","Mrs Dashwood",36,57
-"542","Mrs Dashwood",117,57
-"543","Mrs Dashwood",80,57
-"544","Mrs Dashwood",29,57
-"545","Mrs Dashwood",8,57
-"546","Mrs Dashwood",64,57
-"547","Mrs Dashwood",38,57
-"548","Mrs Dashwood",58,57
-"549","Mrs Dashwood",90,57
-"550","Mrs Dashwood",126,57
-"551","Mrs Dashwood",9,57
-"552","Mrs Dashwood",39,57
-"553","Mrs Dashwood",136,57
-"554","Mrs Dashwood",83,57
-"555","Mrs Dashwood",40,57
-"556","Mrs Dashwood",59,57
-"557","Mrs Dashwood",24,57
-"558","Mrs Dashwood",144,57
-"559","Mrs Dashwood",111,57
-"560","Mrs Dashwood",137,57
-"561","Mrs Dashwood",13,57
-"562","Mrs Dashwood",129,57
-"563","Mrs Dashwood",127,57
-"564","Mrs Dashwood",34,57
-"565","Mrs Dashwood",87,57
-"566","Mrs Dashwood",41,57
-"567","Mrs Dashwood",25,57
-"568","Mrs Dashwood",143,57
-"569","Mrs Dashwood",66,57
-"570","Mrs Dashwood",18,57
-"571","Mrs Dashwood",134,57
-"572","Mrs Dashwood",135,57
-"573","Mrs Dashwood",132,57
-"574","Mrs Dashwood",16,57
-"575","Mrs Dashwood",44,57
-"576","Mrs Dennison",95,1
-"577","Mrs Fanny Dashwood",50,17
-"578","Mrs Fanny Dashwood",95,17
-"579","Mrs Fanny Dashwood",2,17
-"580","Mrs Fanny Dashwood",3,17
-"581","Mrs Fanny Dashwood",83,17
-"582","Mrs Fanny Dashwood",1,17
-"583","Mrs Fanny Dashwood",142,17
-"584","Mrs Fanny Dashwood",12,17
-"585","Mrs Fanny Dashwood",5,17
-"586","Mrs Fanny Dashwood",143,17
-"587","Mrs Fanny Dashwood",9,17
-"588","Mrs Fanny Dashwood",4,17
-"589","Mrs Fanny Dashwood",87,17
-"590","Mrs Fanny Dashwood",111,17
-"591","Mrs Fanny Dashwood",56,17
-"592","Mrs Fanny Dashwood",113,17
-"593","Mrs Fanny Dashwood",93,17
-"594","Mrs Ferrars",50,28
-"595","Mrs Ferrars",101,28
-"596","Mrs Ferrars",135,28
-"597","Mrs Ferrars",111,28
-"598","Mrs Ferrars",86,28
-"599","Mrs Ferrars",140,28
-"600","Mrs Ferrars",88,28
-"601","Mrs Ferrars",55,28
-"602","Mrs Ferrars",40,28
-"603","Mrs Ferrars",90,28
-"604","Mrs Ferrars",84,28
-"605","Mrs Ferrars",36,28
-"606","Mrs Ferrars",83,28
-"607","Mrs Ferrars",97,28
-"608","Mrs Ferrars",87,28
-"609","Mrs Ferrars",8,28
-"610","Mrs Ferrars",98,28
-"611","Mrs Ferrars",134,28
-"612","Mrs Ferrars",49,28
-"613","Mrs Ferrars",142,28
-"614","Mrs Ferrars",81,28
-"615","Mrs Ferrars",139,28
-"616","Mrs Ferrars",107,28
-"617","Mrs Ferrars",112,28
-"618","Mrs Ferrars",89,28
-"619","Mrs Ferrars",100,28
-"620","Mrs Ferrars",85,28
-"621","Mrs Ferrars",143,28
-"622","Mrs Jennings",77,74
-"623","Mrs Jennings",42,74
-"624","Mrs Jennings",25,74
-"625","Mrs Jennings",20,74
-"626","Mrs Jennings",70,74
-"627","Mrs Jennings",65,74
-"628","Mrs Jennings",59,74
-"629","Mrs Jennings",81,74
-"630","Mrs Jennings",119,74
-"631","Mrs Jennings",15,74
-"632","Mrs Jennings",72,74
-"633","Mrs Jennings",69,74
-"634","Mrs Jennings",117,74
-"635","Mrs Jennings",34,74
-"636","Mrs Jennings",22,74
-"637","Mrs Jennings",111,74
-"638","Mrs Jennings",58,74
-"639","Mrs Jennings",116,74
-"640","Mrs Jennings",63,74
-"641","Mrs Jennings",104,74
-"642","Mrs Jennings",41,74
-"643","Mrs Jennings",114,74
-"644","Mrs Jennings",80,74
-"645","Mrs Jennings",85,74
-"646","Mrs Jennings",110,74
-"647","Mrs Jennings",62,74
-"648","Mrs Jennings",64,74
-"649","Mrs Jennings",102,74
-"650","Mrs Jennings",101,74
-"651","Mrs Jennings",13,74
-"652","Mrs Jennings",27,74
-"653","Mrs Jennings",60,74
-"654","Mrs Jennings",39,74
-"655","Mrs Jennings",105,74
-"656","Mrs Jennings",87,74
-"657","Mrs Jennings",124,74
-"658","Mrs Jennings",43,74
-"659","Mrs Jennings",97,74
-"660","Mrs Jennings",95,74
-"661","Mrs Jennings",46,74
-"662","Mrs Jennings",82,74
-"663","Mrs Jennings",55,74
-"664","Mrs Jennings",67,74
-"665","Mrs Jennings",90,74
-"666","Mrs Jennings",140,74
-"667","Mrs Jennings",76,74
-"668","Mrs Jennings",93,74
-"669","Mrs Jennings",107,74
-"670","Mrs Jennings",66,74
-"671","Mrs Jennings",74,74
-"672","Mrs Jennings",109,74
-"673","Mrs Jennings",61,74
-"674","Mrs Jennings",129,74
-"675","Mrs Jennings",48,74
-"676","Mrs Jennings",123,74
-"677","Mrs Jennings",98,74
-"678","Mrs Jennings",99,74
-"679","Mrs Jennings",83,74
-"680","Mrs Jennings",84,74
-"681","Mrs Jennings",68,74
-"682","Mrs Jennings",127,74
-"683","Mrs Jennings",106,74
-"684","Mrs Jennings",100,74
-"685","Mrs Jennings",115,74
-"686","Mrs Jennings",144,74
-"687","Mrs Jennings",71,74
-"688","Mrs Jennings",135,74
-"689","Mrs Jennings",142,74
-"690","Mrs Jennings",73,74
-"691","Mrs Jennings",118,74
-"692","Mrs Jennings",26,74
-"693","Mrs Jennings",131,74
-"694","Mrs Jennings",108,74
-"695","Mrs Jennings",29,74
-"696","Mrs Richardson",103,2
-"697","Mrs Richardson",104,2
-"698","Mrs Taylor",72,2
-"699","Mrs Taylor",73,2
-"700","MrsBurgess",140,1
-"701","MrsClarke",102,1
-"702","Robert Ferrars",5,2
-"703","Robert Ferrars",101,2
-"704","Sally",133,1
-"705","Sir John Middleton",58,54
-"706","Sir John Middleton",13,54
-"707","Sir John Middleton",11,54
-"708","Sir John Middleton",123,54
-"709","Sir John Middleton",17,54
-"710","Sir John Middleton",18,54
-"711","Sir John Middleton",25,54
-"712","Sir John Middleton",45,54
-"713","Sir John Middleton",76,54
-"714","Sir John Middleton",22,54
-"715","Sir John Middleton",65,54
-"716","Sir John Middleton",19,54
-"717","Sir John Middleton",48,54
-"718","Sir John Middleton",84,54
-"719","Sir John Middleton",85,54
-"720","Sir John Middleton",87,54
-"721","Sir John Middleton",96,54
-"722","Sir John Middleton",127,54
-"723","Sir John Middleton",35,54
-"724","Sir John Middleton",70,54
-"725","Sir John Middleton",34,54
-"726","Sir John Middleton",46,54
-"727","Sir John Middleton",44,54
-"728","Sir John Middleton",9,54
-"729","Sir John Middleton",51,54
-"730","Sir John Middleton",64,54
-"731","Sir John Middleton",14,54
-"732","Sir John Middleton",83,54
-"733","Sir John Middleton",15,54
-"734","Sir John Middleton",89,54
-"735","Sir John Middleton",29,54
-"736","Sir John Middleton",20,54
-"737","Sir John Middleton",131,54
-"738","Sir John Middleton",59,54
-"739","Sir John Middleton",144,54
-"740","Sir John Middleton",43,54
-"741","Sir John Middleton",53,54
-"742","Sir John Middleton",104,54
-"743","Sir John Middleton",93,54
-"744","Sir John Middleton",27,54
-"745","Sir John Middleton",26,54
-"746","Sir John Middleton",57,54
-"747","Sir John Middleton",12,54
-"748","Sir John Middleton",41,54
-"749","Sir John Middleton",124,54
-"750","Sir John Middleton",42,54
-"751","Sir John Middleton",80,54
-"752","Sir John Middleton",39,54
-"753","Sir John Middleton",73,54
-"754","Sir John Middleton",63,54
-"755","Sir John Middleton",47,54
-"756","Sir John Middleton",71,54
-"757","Sir John Middleton",8,54
-"758","Sir John Middleton",130,54
-"759","The Miss Careys",27,4
-"760","The Miss Careys",26,4
-"761","The Miss Careys",39,4
-"762","The Miss Careys",126,4
-"763","The Westons",44,1
-"764","The Whitakers",39,1
-"765","TheOldGentlemanDashwood",1,1
-"766","Thomas",133,3
-"767","Thomas",139,3
-"768","Thomas",134,3
+"Character","Node","Appearances"
+"Annamaria Middleton",53,3
+"Annamaria Middleton",54,3
+"Annamaria Middleton",47,3
+"Anne Steele",93,25
+"Anne Steele",50,25
+"Anne Steele",55,25
+"Anne Steele",131,25
+"Anne Steele",48,25
+"Anne Steele",59,25
+"Anne Steele",104,25
+"Anne Steele",57,25
+"Anne Steele",87,25
+"Anne Steele",82,25
+"Anne Steele",56,25
+"Anne Steele",103,25
+"Anne Steele",46,25
+"Anne Steele",49,25
+"Anne Steele",51,25
+"Anne Steele",95,25
+"Anne Steele",88,25
+"Anne Steele",133,25
+"Anne Steele",52,25
+"Anne Steele",47,25
+"Anne Steele",107,25
+"Anne Steele",81,25
+"Anne Steele",94,25
+"Anne Steele",102,25
+"Anne Steele",53,25
+"Betty",108,4
+"Betty",104,4
+"Betty",98,4
+"Betty",58,4
+"Biddy Henshawe",72,1
+"Cartwright",61,1
+"ColonelBrandon",143,58
+"ColonelBrandon",41,58
+"ColonelBrandon",84,58
+"ColonelBrandon",89,58
+"ColonelBrandon",85,58
+"ColonelBrandon",25,58
+"ColonelBrandon",111,58
+"ColonelBrandon",138,58
+"ColonelBrandon",27,58
+"ColonelBrandon",29,58
+"ColonelBrandon",130,58
+"ColonelBrandon",80,58
+"ColonelBrandon",127,58
+"ColonelBrandon",112,58
+"ColonelBrandon",118,58
+"ColonelBrandon",126,58
+"ColonelBrandon",74,58
+"ColonelBrandon",135,58
+"ColonelBrandon",26,58
+"ColonelBrandon",79,58
+"ColonelBrandon",140,58
+"ColonelBrandon",45,58
+"ColonelBrandon",14,58
+"ColonelBrandon",77,58
+"ColonelBrandon",20,58
+"ColonelBrandon",115,58
+"ColonelBrandon",15,58
+"ColonelBrandon",73,58
+"ColonelBrandon",141,58
+"ColonelBrandon",129,58
+"ColonelBrandon",75,58
+"ColonelBrandon",132,58
+"ColonelBrandon",95,58
+"ColonelBrandon",139,58
+"ColonelBrandon",114,58
+"ColonelBrandon",109,58
+"ColonelBrandon",107,58
+"ColonelBrandon",144,58
+"ColonelBrandon",44,58
+"ColonelBrandon",110,58
+"ColonelBrandon",142,58
+"ColonelBrandon",117,58
+"ColonelBrandon",81,58
+"ColonelBrandon",22,58
+"ColonelBrandon",106,58
+"ColonelBrandon",63,58
+"ColonelBrandon",61,58
+"ColonelBrandon",65,58
+"ColonelBrandon",116,58
+"ColonelBrandon",18,58
+"ColonelBrandon",13,58
+"ColonelBrandon",133,58
+"ColonelBrandon",64,58
+"ColonelBrandon",88,58
+"ColonelBrandon",60,58
+"ColonelBrandon",108,58
+"ColonelBrandon",120,58
+"ColonelBrandon",87,58
+"Edward Ferrars",51,64
+"Edward Ferrars",19,64
+"Edward Ferrars",135,64
+"Edward Ferrars",98,64
+"Edward Ferrars",99,64
+"Edward Ferrars",109,64
+"Edward Ferrars",84,64
+"Edward Ferrars",103,64
+"Edward Ferrars",39,64
+"Edward Ferrars",35,64
+"Edward Ferrars",83,64
+"Edward Ferrars",94,64
+"Edward Ferrars",7,64
+"Edward Ferrars",110,64
+"Edward Ferrars",52,64
+"Edward Ferrars",104,64
+"Edward Ferrars",5,64
+"Edward Ferrars",41,64
+"Edward Ferrars",101,64
+"Edward Ferrars",71,64
+"Edward Ferrars",143,64
+"Edward Ferrars",136,64
+"Edward Ferrars",56,64
+"Edward Ferrars",137,64
+"Edward Ferrars",102,64
+"Edward Ferrars",100,64
+"Edward Ferrars",80,64
+"Edward Ferrars",50,64
+"Edward Ferrars",126,64
+"Edward Ferrars",90,64
+"Edward Ferrars",67,64
+"Edward Ferrars",97,64
+"Edward Ferrars",38,64
+"Edward Ferrars",95,64
+"Edward Ferrars",107,64
+"Edward Ferrars",9,64
+"Edward Ferrars",139,64
+"Edward Ferrars",112,64
+"Edward Ferrars",8,64
+"Edward Ferrars",20,64
+"Edward Ferrars",142,64
+"Edward Ferrars",48,64
+"Edward Ferrars",53,64
+"Edward Ferrars",16,64
+"Edward Ferrars",87,64
+"Edward Ferrars",40,64
+"Edward Ferrars",6,64
+"Edward Ferrars",92,64
+"Edward Ferrars",15,64
+"Edward Ferrars",141,64
+"Edward Ferrars",113,64
+"Edward Ferrars",70,64
+"Edward Ferrars",111,64
+"Edward Ferrars",138,64
+"Edward Ferrars",91,64
+"Edward Ferrars",133,64
+"Edward Ferrars",59,64
+"Edward Ferrars",36,64
+"Edward Ferrars",37,64
+"Edward Ferrars",49,64
+"Edward Ferrars",115,64
+"Edward Ferrars",140,64
+"Edward Ferrars",108,64
+"Edward Ferrars",55,64
+"Elinor Dashwood",77,32
+"Elinor Dashwood",39,32
+"Elinor Dashwood",58,32
+"Elinor Dashwood",108,32
+"Elinor Dashwood",102,32
+"Elinor Dashwood",103,32
+"Elinor Dashwood",49,32
+"Elinor Dashwood",47,32
+"Elinor Dashwood",50,32
+"Elinor Dashwood",64,32
+"Elinor Dashwood",9,32
+"Elinor Dashwood",27,32
+"Elinor Dashwood",65,32
+"Elinor Dashwood",43,32
+"Elinor Dashwood",24,32
+"Elinor Dashwood",82,32
+"Elinor Dashwood",55,32
+"Elinor Dashwood",29,32
+"Elinor Dashwood",88,32
+"Elinor Dashwood",5,32
+"Elinor Dashwood",106,32
+"Elinor Dashwood",48,32
+"Elinor Dashwood",104,32
+"Elinor Dashwood",36,32
+"Elinor Dashwood",23,32
+"Elinor Dashwood",2,32
+"Elinor Dashwood",18,32
+"Elinor Dashwood",54,32
+"Elinor Dashwood",20,32
+"Elinor Dashwood",81,32
+"Elinor Dashwood",19,32
+"Elinor Dashwood",89,32
+"ElizaBrandon",122,6
+"ElizaBrandon",133,6
+"ElizaBrandon",78,6
+"ElizaBrandon",129,6
+"ElizaBrandon",79,6
+"ElizaBrandon",132,6
+"ElizaWilliams",29,4
+"ElizaWilliams",80,4
+"ElizaWilliams",27,4
+"ElizaWilliams",77,4
+"Harry Dashwood",83,3
+"Harry Dashwood",3,3
+"Harry Dashwood",88,3
+"John Willoughby",126,61
+"John Willoughby",74,61
+"John Willoughby",77,61
+"John Willoughby",122,61
+"John Willoughby",131,61
+"John Willoughby",34,61
+"John Willoughby",98,61
+"John Willoughby",93,61
+"John Willoughby",31,61
+"John Willoughby",65,61
+"John Willoughby",127,61
+"John Willoughby",64,61
+"John Willoughby",66,61
+"John Willoughby",24,61
+"John Willoughby",18,61
+"John Willoughby",70,61
+"John Willoughby",129,61
+"John Willoughby",133,61
+"John Willoughby",25,61
+"John Willoughby",27,61
+"John Willoughby",35,61
+"John Willoughby",63,61
+"John Willoughby",45,61
+"John Willoughby",28,61
+"John Willoughby",68,61
+"John Willoughby",32,61
+"John Willoughby",121,61
+"John Willoughby",29,61
+"John Willoughby",80,61
+"John Willoughby",128,61
+"John Willoughby",44,61
+"John Willoughby",114,61
+"John Willoughby",22,61
+"John Willoughby",17,61
+"John Willoughby",73,61
+"John Willoughby",132,61
+"John Willoughby",61,61
+"John Willoughby",120,61
+"John Willoughby",130,61
+"John Willoughby",144,61
+"John Willoughby",125,61
+"John Willoughby",20,61
+"John Willoughby",33,61
+"John Willoughby",67,61
+"John Willoughby",76,61
+"John Willoughby",39,61
+"John Willoughby",30,61
+"John Willoughby",81,61
+"John Willoughby",62,61
+"John Willoughby",78,61
+"John Willoughby",124,61
+"John Willoughby",26,61
+"John Willoughby",19,61
+"John Willoughby",123,61
+"John Willoughby",69,61
+"John Willoughby",40,61
+"John Willoughby",71,61
+"John Willoughby",79,61
+"John Willoughby",60,61
+"John Willoughby",58,61
+"John Willoughby",119,61
+"Lady Mary Middleton",112,2
+"Lady Mary Middleton",63,2
+"Lord Morton",84,2
+"Lord Morton",89,2
+"LordCourtland",95,1
+"Lucy Steele",140,46
+"Lucy Steele",108,46
+"Lucy Steele",98,46
+"Lucy Steele",102,46
+"Lucy Steele",93,46
+"Lucy Steele",52,46
+"Lucy Steele",133,46
+"Lucy Steele",57,46
+"Lucy Steele",55,46
+"Lucy Steele",46,46
+"Lucy Steele",92,46
+"Lucy Steele",111,46
+"Lucy Steele",110,46
+"Lucy Steele",90,46
+"Lucy Steele",48,46
+"Lucy Steele",81,46
+"Lucy Steele",99,46
+"Lucy Steele",50,46
+"Lucy Steele",59,46
+"Lucy Steele",49,46
+"Lucy Steele",137,46
+"Lucy Steele",105,46
+"Lucy Steele",131,46
+"Lucy Steele",135,46
+"Lucy Steele",96,46
+"Lucy Steele",87,46
+"Lucy Steele",138,46
+"Lucy Steele",114,46
+"Lucy Steele",53,46
+"Lucy Steele",89,46
+"Lucy Steele",139,46
+"Lucy Steele",47,46
+"Lucy Steele",91,46
+"Lucy Steele",88,46
+"Lucy Steele",100,46
+"Lucy Steele",97,46
+"Lucy Steele",94,46
+"Lucy Steele",143,46
+"Lucy Steele",51,46
+"Lucy Steele",56,46
+"Lucy Steele",104,46
+"Lucy Steele",136,46
+"Lucy Steele",95,46
+"Lucy Steele",54,46
+"Lucy Steele",103,46
+"Lucy Steele",82,46
+"Marianne Dashwood",29,119
+"Marianne Dashwood",15,119
+"Marianne Dashwood",44,119
+"Marianne Dashwood",126,119
+"Marianne Dashwood",25,119
+"Marianne Dashwood",92,119
+"Marianne Dashwood",136,119
+"Marianne Dashwood",35,119
+"Marianne Dashwood",83,119
+"Marianne Dashwood",2,119
+"Marianne Dashwood",100,119
+"Marianne Dashwood",46,119
+"Marianne Dashwood",8,119
+"Marianne Dashwood",72,119
+"Marianne Dashwood",88,119
+"Marianne Dashwood",41,119
+"Marianne Dashwood",53,119
+"Marianne Dashwood",38,119
+"Marianne Dashwood",127,119
+"Marianne Dashwood",14,119
+"Marianne Dashwood",7,119
+"Marianne Dashwood",43,119
+"Marianne Dashwood",59,119
+"Marianne Dashwood",24,119
+"Marianne Dashwood",77,119
+"Marianne Dashwood",62,119
+"Marianne Dashwood",106,119
+"Marianne Dashwood",55,119
+"Marianne Dashwood",30,119
+"Marianne Dashwood",17,119
+"Marianne Dashwood",9,119
+"Marianne Dashwood",31,119
+"Marianne Dashwood",71,119
+"Marianne Dashwood",56,119
+"Marianne Dashwood",18,119
+"Marianne Dashwood",89,119
+"Marianne Dashwood",80,119
+"Marianne Dashwood",141,119
+"Marianne Dashwood",118,119
+"Marianne Dashwood",48,119
+"Marianne Dashwood",135,119
+"Marianne Dashwood",70,119
+"Marianne Dashwood",75,119
+"Marianne Dashwood",67,119
+"Marianne Dashwood",87,119
+"Marianne Dashwood",99,119
+"Marianne Dashwood",39,119
+"Marianne Dashwood",20,119
+"Marianne Dashwood",49,119
+"Marianne Dashwood",143,119
+"Marianne Dashwood",32,119
+"Marianne Dashwood",137,119
+"Marianne Dashwood",142,119
+"Marianne Dashwood",113,119
+"Marianne Dashwood",22,119
+"Marianne Dashwood",13,119
+"Marianne Dashwood",97,119
+"Marianne Dashwood",138,119
+"Marianne Dashwood",76,119
+"Marianne Dashwood",124,119
+"Marianne Dashwood",11,119
+"Marianne Dashwood",130,119
+"Marianne Dashwood",54,119
+"Marianne Dashwood",36,119
+"Marianne Dashwood",42,119
+"Marianne Dashwood",34,119
+"Marianne Dashwood",125,119
+"Marianne Dashwood",37,119
+"Marianne Dashwood",140,119
+"Marianne Dashwood",60,119
+"Marianne Dashwood",116,119
+"Marianne Dashwood",104,119
+"Marianne Dashwood",79,119
+"Marianne Dashwood",109,119
+"Marianne Dashwood",3,119
+"Marianne Dashwood",6,119
+"Marianne Dashwood",61,119
+"Marianne Dashwood",117,119
+"Marianne Dashwood",64,119
+"Marianne Dashwood",66,119
+"Marianne Dashwood",122,119
+"Marianne Dashwood",58,119
+"Marianne Dashwood",119,119
+"Marianne Dashwood",108,119
+"Marianne Dashwood",101,119
+"Marianne Dashwood",73,119
+"Marianne Dashwood",114,119
+"Marianne Dashwood",65,119
+"Marianne Dashwood",120,119
+"Marianne Dashwood",85,119
+"Marianne Dashwood",47,119
+"Marianne Dashwood",121,119
+"Marianne Dashwood",115,119
+"Marianne Dashwood",52,119
+"Marianne Dashwood",82,119
+"Marianne Dashwood",123,119
+"Marianne Dashwood",27,119
+"Marianne Dashwood",133,119
+"Marianne Dashwood",93,119
+"Marianne Dashwood",111,119
+"Marianne Dashwood",95,119
+"Marianne Dashwood",23,119
+"Marianne Dashwood",68,119
+"Marianne Dashwood",26,119
+"Marianne Dashwood",69,119
+"Marianne Dashwood",33,119
+"Marianne Dashwood",102,119
+"Marianne Dashwood",131,119
+"Marianne Dashwood",98,119
+"Marianne Dashwood",94,119
+"Marianne Dashwood",19,119
+"Marianne Dashwood",134,119
+"Marianne Dashwood",129,119
+"Marianne Dashwood",63,119
+"Marianne Dashwood",91,119
+"Marianne Dashwood",81,119
+"Marianne Dashwood",132,119
+"Marianne Dashwood",74,119
+"Marianne Dashwood",144,119
+"Martha Sharpe",103,1
+"Miss Godby",102,1
+"Miss Morton",112,11
+"Miss Morton",87,11
+"Miss Morton",89,11
+"Miss Morton",142,11
+"Miss Morton",103,11
+"Miss Morton",88,11
+"Miss Morton",102,11
+"Miss Morton",139,11
+"Miss Morton",101,11
+"Miss Morton",100,11
+"Miss Morton",84,11
+"Miss Sophia Grey",74,5
+"Miss Sophia Grey",123,5
+"Miss Sophia Grey",72,5
+"Miss Sophia Grey",73,5
+"Miss Sophia Grey",81,5
+"Miss Sparks",102,1
+"Miss Walker",73,1
+"Mr Jennings",22,1
+"Mr John Dashwood",95,9
+"Mr John Dashwood",112,9
+"Mr John Dashwood",94,9
+"Mr John Dashwood",93,9
+"Mr John Dashwood",4,9
+"Mr John Dashwood",85,9
+"Mr John Dashwood",100,9
+"Mr John Dashwood",140,9
+"Mr John Dashwood",83,9
+"Mr Pratt",137,7
+"Mr Pratt",50,7
+"Mr Pratt",94,7
+"Mr Pratt",52,7
+"Mr Pratt",135,7
+"Mr Pratt",104,7
+"Mr Pratt",133,7
+"Mr Richardson",104,2
+"Mr Richardson",103,2
+"Mr Simpson",48,1
+"Mr Thomas Palmer",42,17
+"Mr Thomas Palmer",115,17
+"Mr Thomas Palmer",45,17
+"Mr Thomas Palmer",43,17
+"Mr Thomas Palmer",116,17
+"Mr Thomas Palmer",41,17
+"Mr Thomas Palmer",114,17
+"Mr Thomas Palmer",46,17
+"Mr Thomas Palmer",106,17
+"Mr Thomas Palmer",64,17
+"Mr Thomas Palmer",44,17
+"Mr Thomas Palmer",61,17
+"Mr Thomas Palmer",93,17
+"Mr Thomas Palmer",120,17
+"Mr Thomas Palmer",104,17
+"Mr Thomas Palmer",97,17
+"Mr Thomas Palmer",131,17
+"Mr. Rose",48,1
+"Mrs Charlotte Palmer",62,28
+"Mrs Charlotte Palmer",90,28
+"Mrs Charlotte Palmer",80,28
+"Mrs Charlotte Palmer",73,28
+"Mrs Charlotte Palmer",64,28
+"Mrs Charlotte Palmer",42,28
+"Mrs Charlotte Palmer",118,28
+"Mrs Charlotte Palmer",61,28
+"Mrs Charlotte Palmer",68,28
+"Mrs Charlotte Palmer",106,28
+"Mrs Charlotte Palmer",97,28
+"Mrs Charlotte Palmer",108,28
+"Mrs Charlotte Palmer",41,28
+"Mrs Charlotte Palmer",43,28
+"Mrs Charlotte Palmer",115,28
+"Mrs Charlotte Palmer",93,28
+"Mrs Charlotte Palmer",60,28
+"Mrs Charlotte Palmer",58,28
+"Mrs Charlotte Palmer",81,28
+"Mrs Charlotte Palmer",65,28
+"Mrs Charlotte Palmer",45,28
+"Mrs Charlotte Palmer",44,28
+"Mrs Charlotte Palmer",131,28
+"Mrs Charlotte Palmer",114,28
+"Mrs Charlotte Palmer",129,28
+"Mrs Charlotte Palmer",116,28
+"Mrs Charlotte Palmer",46,28
+"Mrs Charlotte Palmer",124,28
+"Mrs Dashwood",1,57
+"Mrs Dashwood",82,57
+"Mrs Dashwood",30,57
+"Mrs Dashwood",22,57
+"Mrs Dashwood",133,57
+"Mrs Dashwood",2,57
+"Mrs Dashwood",31,57
+"Mrs Dashwood",95,57
+"Mrs Dashwood",139,57
+"Mrs Dashwood",3,57
+"Mrs Dashwood",11,57
+"Mrs Dashwood",15,57
+"Mrs Dashwood",4,57
+"Mrs Dashwood",42,57
+"Mrs Dashwood",96,57
+"Mrs Dashwood",140,57
+"Mrs Dashwood",5,57
+"Mrs Dashwood",19,57
+"Mrs Dashwood",17,57
+"Mrs Dashwood",97,57
+"Mrs Dashwood",43,57
+"Mrs Dashwood",6,57
+"Mrs Dashwood",36,57
+"Mrs Dashwood",117,57
+"Mrs Dashwood",80,57
+"Mrs Dashwood",29,57
+"Mrs Dashwood",8,57
+"Mrs Dashwood",64,57
+"Mrs Dashwood",38,57
+"Mrs Dashwood",58,57
+"Mrs Dashwood",90,57
+"Mrs Dashwood",126,57
+"Mrs Dashwood",9,57
+"Mrs Dashwood",39,57
+"Mrs Dashwood",136,57
+"Mrs Dashwood",83,57
+"Mrs Dashwood",40,57
+"Mrs Dashwood",59,57
+"Mrs Dashwood",24,57
+"Mrs Dashwood",144,57
+"Mrs Dashwood",111,57
+"Mrs Dashwood",137,57
+"Mrs Dashwood",13,57
+"Mrs Dashwood",129,57
+"Mrs Dashwood",127,57
+"Mrs Dashwood",34,57
+"Mrs Dashwood",87,57
+"Mrs Dashwood",41,57
+"Mrs Dashwood",25,57
+"Mrs Dashwood",143,57
+"Mrs Dashwood",66,57
+"Mrs Dashwood",18,57
+"Mrs Dashwood",134,57
+"Mrs Dashwood",135,57
+"Mrs Dashwood",132,57
+"Mrs Dashwood",16,57
+"Mrs Dashwood",44,57
+"Mrs Dennison",95,1
+"Mrs Fanny Dashwood",50,17
+"Mrs Fanny Dashwood",95,17
+"Mrs Fanny Dashwood",2,17
+"Mrs Fanny Dashwood",3,17
+"Mrs Fanny Dashwood",83,17
+"Mrs Fanny Dashwood",1,17
+"Mrs Fanny Dashwood",142,17
+"Mrs Fanny Dashwood",12,17
+"Mrs Fanny Dashwood",5,17
+"Mrs Fanny Dashwood",143,17
+"Mrs Fanny Dashwood",9,17
+"Mrs Fanny Dashwood",4,17
+"Mrs Fanny Dashwood",87,17
+"Mrs Fanny Dashwood",111,17
+"Mrs Fanny Dashwood",56,17
+"Mrs Fanny Dashwood",113,17
+"Mrs Fanny Dashwood",93,17
+"Mrs Ferrars",50,28
+"Mrs Ferrars",101,28
+"Mrs Ferrars",135,28
+"Mrs Ferrars",111,28
+"Mrs Ferrars",86,28
+"Mrs Ferrars",140,28
+"Mrs Ferrars",88,28
+"Mrs Ferrars",55,28
+"Mrs Ferrars",40,28
+"Mrs Ferrars",90,28
+"Mrs Ferrars",84,28
+"Mrs Ferrars",36,28
+"Mrs Ferrars",83,28
+"Mrs Ferrars",97,28
+"Mrs Ferrars",87,28
+"Mrs Ferrars",8,28
+"Mrs Ferrars",98,28
+"Mrs Ferrars",134,28
+"Mrs Ferrars",49,28
+"Mrs Ferrars",142,28
+"Mrs Ferrars",81,28
+"Mrs Ferrars",139,28
+"Mrs Ferrars",107,28
+"Mrs Ferrars",112,28
+"Mrs Ferrars",89,28
+"Mrs Ferrars",100,28
+"Mrs Ferrars",85,28
+"Mrs Ferrars",143,28
+"Mrs Jennings",77,74
+"Mrs Jennings",42,74
+"Mrs Jennings",25,74
+"Mrs Jennings",20,74
+"Mrs Jennings",70,74
+"Mrs Jennings",65,74
+"Mrs Jennings",59,74
+"Mrs Jennings",81,74
+"Mrs Jennings",119,74
+"Mrs Jennings",15,74
+"Mrs Jennings",72,74
+"Mrs Jennings",69,74
+"Mrs Jennings",117,74
+"Mrs Jennings",34,74
+"Mrs Jennings",22,74
+"Mrs Jennings",111,74
+"Mrs Jennings",58,74
+"Mrs Jennings",116,74
+"Mrs Jennings",63,74
+"Mrs Jennings",104,74
+"Mrs Jennings",41,74
+"Mrs Jennings",114,74
+"Mrs Jennings",80,74
+"Mrs Jennings",85,74
+"Mrs Jennings",110,74
+"Mrs Jennings",62,74
+"Mrs Jennings",64,74
+"Mrs Jennings",102,74
+"Mrs Jennings",101,74
+"Mrs Jennings",13,74
+"Mrs Jennings",27,74
+"Mrs Jennings",60,74
+"Mrs Jennings",39,74
+"Mrs Jennings",105,74
+"Mrs Jennings",87,74
+"Mrs Jennings",124,74
+"Mrs Jennings",43,74
+"Mrs Jennings",97,74
+"Mrs Jennings",95,74
+"Mrs Jennings",46,74
+"Mrs Jennings",82,74
+"Mrs Jennings",55,74
+"Mrs Jennings",67,74
+"Mrs Jennings",90,74
+"Mrs Jennings",140,74
+"Mrs Jennings",76,74
+"Mrs Jennings",93,74
+"Mrs Jennings",107,74
+"Mrs Jennings",66,74
+"Mrs Jennings",74,74
+"Mrs Jennings",109,74
+"Mrs Jennings",61,74
+"Mrs Jennings",129,74
+"Mrs Jennings",48,74
+"Mrs Jennings",123,74
+"Mrs Jennings",98,74
+"Mrs Jennings",99,74
+"Mrs Jennings",83,74
+"Mrs Jennings",84,74
+"Mrs Jennings",68,74
+"Mrs Jennings",127,74
+"Mrs Jennings",106,74
+"Mrs Jennings",100,74
+"Mrs Jennings",115,74
+"Mrs Jennings",144,74
+"Mrs Jennings",71,74
+"Mrs Jennings",135,74
+"Mrs Jennings",142,74
+"Mrs Jennings",73,74
+"Mrs Jennings",118,74
+"Mrs Jennings",26,74
+"Mrs Jennings",131,74
+"Mrs Jennings",108,74
+"Mrs Jennings",29,74
+"Mrs Richardson",103,2
+"Mrs Richardson",104,2
+"Mrs Taylor",72,2
+"Mrs Taylor",73,2
+"MrsBurgess",140,1
+"MrsClarke",102,1
+"Robert Ferrars",5,2
+"Robert Ferrars",101,2
+"Sally",133,1
+"Sir John Middleton",58,54
+"Sir John Middleton",13,54
+"Sir John Middleton",11,54
+"Sir John Middleton",123,54
+"Sir John Middleton",17,54
+"Sir John Middleton",18,54
+"Sir John Middleton",25,54
+"Sir John Middleton",45,54
+"Sir John Middleton",76,54
+"Sir John Middleton",22,54
+"Sir John Middleton",65,54
+"Sir John Middleton",19,54
+"Sir John Middleton",48,54
+"Sir John Middleton",84,54
+"Sir John Middleton",85,54
+"Sir John Middleton",87,54
+"Sir John Middleton",96,54
+"Sir John Middleton",127,54
+"Sir John Middleton",35,54
+"Sir John Middleton",70,54
+"Sir John Middleton",34,54
+"Sir John Middleton",46,54
+"Sir John Middleton",44,54
+"Sir John Middleton",9,54
+"Sir John Middleton",51,54
+"Sir John Middleton",64,54
+"Sir John Middleton",14,54
+"Sir John Middleton",83,54
+"Sir John Middleton",15,54
+"Sir John Middleton",89,54
+"Sir John Middleton",29,54
+"Sir John Middleton",20,54
+"Sir John Middleton",131,54
+"Sir John Middleton",59,54
+"Sir John Middleton",144,54
+"Sir John Middleton",43,54
+"Sir John Middleton",53,54
+"Sir John Middleton",104,54
+"Sir John Middleton",93,54
+"Sir John Middleton",27,54
+"Sir John Middleton",26,54
+"Sir John Middleton",57,54
+"Sir John Middleton",12,54
+"Sir John Middleton",41,54
+"Sir John Middleton",124,54
+"Sir John Middleton",42,54
+"Sir John Middleton",80,54
+"Sir John Middleton",39,54
+"Sir John Middleton",73,54
+"Sir John Middleton",63,54
+"Sir John Middleton",47,54
+"Sir John Middleton",71,54
+"Sir John Middleton",8,54
+"Sir John Middleton",130,54
+"The Miss Careys",27,4
+"The Miss Careys",26,4
+"The Miss Careys",39,4
+"The Miss Careys",126,4
+"The Westons",44,1
+"The Whitakers",39,1
+"TheOldGentlemanDashwood",1,1
+"Thomas",133,3
+"Thomas",139,3
+"Thomas",134,3

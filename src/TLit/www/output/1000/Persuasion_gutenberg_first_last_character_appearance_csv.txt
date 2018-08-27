@@ -1,111 +1,111 @@
-"","Character","Node","Type","Appearances"
-"1","Admiral Baldwin",7,"First Appearance",1
-"2","Admiral Baldwin",7,"Last Appearance",1
-"3","Admiral Brand",62,"First Appearance",1
-"4","Admiral Brand",62,"Last Appearance",1
-"5","Admiral Croft",7,"First Appearance",24
-"6","Admiral Croft",91,"Last Appearance",24
-"7","Anne Elliot",93,"Last Appearance",90
-"8","Anne Elliot",1,"First Appearance",90
-"9","Captain Benwick",92,"Last Appearance",23
-"10","Captain Benwick",35,"First Appearance",23
-"11","Captain Brigden",62,"First Appearance",1
-"12","Captain Brigden",62,"Last Appearance",1
-"13","Captain Frederick Wentworth",8,"First Appearance",56
-"14","Captain Frederick Wentworth",93,"Last Appearance",56
-"15","Captain Harville",91,"Last Appearance",25
-"16","Captain Harville",24,"First Appearance",25
-"17","Charles Hayter",92,"Last Appearance",14
-"18","Charles Hayter",27,"First Appearance",14
-"19","Charles Musgrove",1,"First Appearance",37
-"20","Charles Musgrove",91,"Last Appearance",37
-"21","Charles Smith",75,"First Appearance",2
-"22","Charles Smith",78,"Last Appearance",2
-"23","Colonel Wallis",77,"Last Appearance",9
-"24","Colonel Wallis",50,"First Appearance",9
-"25","Doctor Shirley",42,"Last Appearance",4
-"26","Doctor Shirley",28,"First Appearance",4
-"27","Edward Wentworth",8,"First Appearance",7
-"28","Edward Wentworth",90,"Last Appearance",7
-"29","Elder Mr Charles Musgrove",13,"First Appearance",28
-"30","Elder Mr Charles Musgrove",90,"Last Appearance",28
-"31","Elizabeth Elliot",1,"First Appearance",38
-"32","Elizabeth Elliot",93,"Last Appearance",38
-"33","Fanny Harville",68,"Last Appearance",3
-"34","Fanny Harville",35,"First Appearance",3
-"35","Governor Trent",8,"Last Appearance",1
-"36","Governor Trent",8,"First Appearance",1
-"37","Harry Musgrove",44,"First Appearance",1
-"38","Harry Musgrove",44,"Last Appearance",1
-"39","Henrietta Musgrove",13,"First Appearance",39
-"40","Henrietta Musgrove",91,"Last Appearance",39
-"41","Jemima",60,"Last Appearance",3
-"42","Jemima",16,"First Appearance",3
-"43","Lady Alicia",81,"Last Appearance",2
-"44","Lady Alicia",66,"First Appearance",2
-"45","Lady Elliot",1,"First Appearance",7
-"46","Lady Elliot",77,"Last Appearance",7
-"47","Lady Mary Grierson",24,"First Appearance",1
-"48","Lady Mary Grierson",24,"Last Appearance",1
-"49","Lady Russell",93,"Last Appearance",39
-"50","Lady Russell",1,"First Appearance",39
-"51","Little Charles Musgrove",13,"Last Appearance",1
-"52","Little Charles Musgrove",13,"First Appearance",1
-"53","Lord St Ives",7,"First Appearance",1
-"54","Lord St Ives",7,"Last Appearance",1
-"55","Louisa Musgrove",13,"First Appearance",46
-"56","Louisa Musgrove",91,"Last Appearance",46
-"57","Mackenzie",13,"First Appearance",1
-"58","Mackenzie",13,"Last Appearance",1
-"59","Mary",75,"Last Appearance",1
-"60","Mary",75,"First Appearance",1
-"61","Mary Elliot",92,"Last Appearance",45
-"62","Mary Elliot",1,"First Appearance",45
-"63","Miss Atkinson",66,"First Appearance",1
-"64","Miss Atkinson",66,"Last Appearance",1
-"65","Mr Hayter",27,"First Appearance",2
-"66","Mr Hayter",60,"Last Appearance",2
-"67","Mr John Shepherd",46,"Last Appearance",8
-"68","Mr John Shepherd",3,"First Appearance",8
-"69","Mr Robinson",20,"Last Appearance",2
-"70","Mr Robinson",19,"First Appearance",2
-"71","Mr William Elliot",1,"First Appearance",37
-"72","Mr William Elliot",93,"Last Appearance",37
-"73","Mrs Croft",8,"First Appearance",22
-"74","Mrs Croft",91,"Last Appearance",22
-"75","Mrs Frankland",66,"Last Appearance",1
-"76","Mrs Frankland",66,"First Appearance",1
-"77","Mrs Hayter",60,"Last Appearance",2
-"78","Mrs Hayter",27,"First Appearance",2
-"79","Mrs Penelope Clay",5,"First Appearance",27
-"80","Mrs Penelope Clay",92,"Last Appearance",27
-"81","Mrs Shirley",38,"First Appearance",1
-"82","Mrs Shirley",38,"Last Appearance",1
-"83","Mrs Smith",56,"First Appearance",14
-"84","Mrs Smith",93,"Last Appearance",14
-"85","Mrs Speed",73,"Last Appearance",1
-"86","Mrs Speed",73,"First Appearance",1
-"87","Mrs William Elliot",50,"Last Appearance",1
-"88","Mrs William Elliot",50,"First Appearance",1
-"89","Nurse Rooke",57,"First Appearance",3
-"90","Nurse Rooke",76,"Last Appearance",3
-"91","Sarah",44,"First Appearance",2
-"92","Sarah",88,"Last Appearance",2
-"93","Sir Archibald Drew",62,"Last Appearance",1
-"94","Sir Archibald Drew",62,"First Appearance",1
-"95","Sir Basil Morley",7,"Last Appearance",1
-"96","Sir Basil Morley",7,"First Appearance",1
-"97","Sir Henry Russell",58,"First Appearance",1
-"98","Sir Henry Russell",58,"Last Appearance",1
-"99","Sir Walter Elliot",1,"First Appearance",39
-"100","Sir Walter Elliot",93,"Last Appearance",39
-"101","The Dowager Countess Dalrymple",90,"Last Appearance",12
-"102","The Dowager Countess Dalrymple",54,"First Appearance",12
-"103","The Honourable Miss Carteret",83,"Last Appearance",7
-"104","The Honourable Miss Carteret",54,"First Appearance",7
-"105","The Late Viscount Dalrymple",54,"First Appearance",2
-"106","The Late Viscount Dalrymple",83,"Last Appearance",2
-"107","The Miss Hayters",26,"First Appearance",1
-"108","The Miss Hayters",26,"Last Appearance",1
-"109","Walter Musgrove",1,"First Appearance",4
-"110","Walter Musgrove",76,"Last Appearance",4
+"Character","Node","Type","Appearances"
+"Admiral Baldwin",7,"First Appearance",1
+"Admiral Baldwin",7,"Last Appearance",1
+"Admiral Brand",62,"First Appearance",1
+"Admiral Brand",62,"Last Appearance",1
+"Admiral Croft",7,"First Appearance",24
+"Admiral Croft",91,"Last Appearance",24
+"Anne Elliot",93,"Last Appearance",90
+"Anne Elliot",1,"First Appearance",90
+"Captain Benwick",92,"Last Appearance",23
+"Captain Benwick",35,"First Appearance",23
+"Captain Brigden",62,"First Appearance",1
+"Captain Brigden",62,"Last Appearance",1
+"Captain Frederick Wentworth",8,"First Appearance",56
+"Captain Frederick Wentworth",93,"Last Appearance",56
+"Captain Harville",91,"Last Appearance",25
+"Captain Harville",24,"First Appearance",25
+"Charles Hayter",92,"Last Appearance",14
+"Charles Hayter",27,"First Appearance",14
+"Charles Musgrove",1,"First Appearance",37
+"Charles Musgrove",91,"Last Appearance",37
+"Charles Smith",75,"First Appearance",2
+"Charles Smith",78,"Last Appearance",2
+"Colonel Wallis",77,"Last Appearance",9
+"Colonel Wallis",50,"First Appearance",9
+"Doctor Shirley",42,"Last Appearance",4
+"Doctor Shirley",28,"First Appearance",4
+"Edward Wentworth",8,"First Appearance",7
+"Edward Wentworth",90,"Last Appearance",7
+"Elder Mr Charles Musgrove",13,"First Appearance",28
+"Elder Mr Charles Musgrove",90,"Last Appearance",28
+"Elizabeth Elliot",1,"First Appearance",38
+"Elizabeth Elliot",93,"Last Appearance",38
+"Fanny Harville",68,"Last Appearance",3
+"Fanny Harville",35,"First Appearance",3
+"Governor Trent",8,"Last Appearance",1
+"Governor Trent",8,"First Appearance",1
+"Harry Musgrove",44,"First Appearance",1
+"Harry Musgrove",44,"Last Appearance",1
+"Henrietta Musgrove",13,"First Appearance",39
+"Henrietta Musgrove",91,"Last Appearance",39
+"Jemima",60,"Last Appearance",3
+"Jemima",16,"First Appearance",3
+"Lady Alicia",81,"Last Appearance",2
+"Lady Alicia",66,"First Appearance",2
+"Lady Elliot",1,"First Appearance",7
+"Lady Elliot",77,"Last Appearance",7
+"Lady Mary Grierson",24,"First Appearance",1
+"Lady Mary Grierson",24,"Last Appearance",1
+"Lady Russell",93,"Last Appearance",39
+"Lady Russell",1,"First Appearance",39
+"Little Charles Musgrove",13,"Last Appearance",1
+"Little Charles Musgrove",13,"First Appearance",1
+"Lord St Ives",7,"First Appearance",1
+"Lord St Ives",7,"Last Appearance",1
+"Louisa Musgrove",13,"First Appearance",46
+"Louisa Musgrove",91,"Last Appearance",46
+"Mackenzie",13,"First Appearance",1
+"Mackenzie",13,"Last Appearance",1
+"Mary",75,"Last Appearance",1
+"Mary",75,"First Appearance",1
+"Mary Elliot",92,"Last Appearance",45
+"Mary Elliot",1,"First Appearance",45
+"Miss Atkinson",66,"First Appearance",1
+"Miss Atkinson",66,"Last Appearance",1
+"Mr Hayter",27,"First Appearance",2
+"Mr Hayter",60,"Last Appearance",2
+"Mr John Shepherd",46,"Last Appearance",8
+"Mr John Shepherd",3,"First Appearance",8
+"Mr Robinson",20,"Last Appearance",2
+"Mr Robinson",19,"First Appearance",2
+"Mr William Elliot",1,"First Appearance",37
+"Mr William Elliot",93,"Last Appearance",37
+"Mrs Croft",8,"First Appearance",22
+"Mrs Croft",91,"Last Appearance",22
+"Mrs Frankland",66,"Last Appearance",1
+"Mrs Frankland",66,"First Appearance",1
+"Mrs Hayter",60,"Last Appearance",2
+"Mrs Hayter",27,"First Appearance",2
+"Mrs Penelope Clay",5,"First Appearance",27
+"Mrs Penelope Clay",92,"Last Appearance",27
+"Mrs Shirley",38,"First Appearance",1
+"Mrs Shirley",38,"Last Appearance",1
+"Mrs Smith",56,"First Appearance",14
+"Mrs Smith",93,"Last Appearance",14
+"Mrs Speed",73,"Last Appearance",1
+"Mrs Speed",73,"First Appearance",1
+"Mrs William Elliot",50,"Last Appearance",1
+"Mrs William Elliot",50,"First Appearance",1
+"Nurse Rooke",57,"First Appearance",3
+"Nurse Rooke",76,"Last Appearance",3
+"Sarah",44,"First Appearance",2
+"Sarah",88,"Last Appearance",2
+"Sir Archibald Drew",62,"Last Appearance",1
+"Sir Archibald Drew",62,"First Appearance",1
+"Sir Basil Morley",7,"Last Appearance",1
+"Sir Basil Morley",7,"First Appearance",1
+"Sir Henry Russell",58,"First Appearance",1
+"Sir Henry Russell",58,"Last Appearance",1
+"Sir Walter Elliot",1,"First Appearance",39
+"Sir Walter Elliot",93,"Last Appearance",39
+"The Dowager Countess Dalrymple",90,"Last Appearance",12
+"The Dowager Countess Dalrymple",54,"First Appearance",12
+"The Honourable Miss Carteret",83,"Last Appearance",7
+"The Honourable Miss Carteret",54,"First Appearance",7
+"The Late Viscount Dalrymple",54,"First Appearance",2
+"The Late Viscount Dalrymple",83,"Last Appearance",2
+"The Miss Hayters",26,"First Appearance",1
+"The Miss Hayters",26,"Last Appearance",1
+"Walter Musgrove",1,"First Appearance",4
+"Walter Musgrove",76,"Last Appearance",4
